@@ -45,6 +45,7 @@ jobs:
           git pull --rebase -X theirs origin main
           git push
 
+      - name: Send data to Make.com
         if: ${{ always() && steps.run.outputs.updated == 'true' }}
         env:
           MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
