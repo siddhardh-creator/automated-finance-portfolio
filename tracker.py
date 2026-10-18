@@ -383,6 +383,8 @@ def build_readme(cfg, snapshot):
         m = r["metrics"]
         L.append(f"---\n\n## {r['name']}\n")
         L.append(f"![{r['name']} chart](charts/{r['key']}.png)\n")
+        sym = r["ticker"].split(".")[0]
+        L.append(f"[View {r['name']} on Google Finance](https://www.google.com/finance/quote/{sym}:NSE)\n")
         L.append("| Close | Day change | Day range | Volume | 20d avg volume | 52w range |")
         L.append("|---:|---:|---:|---:|---:|---:|")
         L.append(
