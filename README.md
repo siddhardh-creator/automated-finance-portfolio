@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 18 Oct 2026, 12:50 PM IST  |  **Market data as of:** 2026-10-16  |  **Virtual capital:** ₹1,00,00,000
+**Last updated:** 18 Oct 2026, 01:31 PM IST  |  **Market data as of:** 2026-10-16  |  **Virtual capital:** ₹1,00,00,000
 
 ## Portfolio summary
 
@@ -32,6 +32,8 @@
 
 ![HDFC Bank chart](charts/hdfc.png)
 
+[View HDFC Bank on Google Finance](https://www.google.com/finance/quote/HDFCBANK:NSE)
+
 | Close | Day change | Day range | Volume | 20d avg volume | 52w range |
 |---:|---:|---:|---:|---:|---:|
 | ₹728.85 | +0.28% | ₹724.30 - ₹734.90 | 28,936,902 | 30,592,271 | ₹687.10 - ₹1,009.50 |
@@ -58,6 +60,8 @@ _Detailed analysis coming soon._
 
 ![Eternal (Zomato) chart](charts/zomato.png)
 
+[View Eternal (Zomato) on Google Finance](https://www.google.com/finance/quote/ETERNAL:NSE)
+
 | Close | Day change | Day range | Volume | 20d avg volume | 52w range |
 |---:|---:|---:|---:|---:|---:|
 | ₹325.30 | +0.71% | ₹321.35 - ₹327.45 | 16,825,927 | 21,888,102 | ₹215.68 - ₹347.85 |
@@ -83,6 +87,8 @@ _Detailed analysis coming soon._
 ## Maruti Suzuki
 
 ![Maruti Suzuki chart](charts/maruti.png)
+
+[View Maruti Suzuki on Google Finance](https://www.google.com/finance/quote/MARUTI:NSE)
 
 | Close | Day change | Day range | Volume | 20d avg volume | 52w range |
 |---:|---:|---:|---:|---:|---:|
