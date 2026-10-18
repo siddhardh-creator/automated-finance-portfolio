@@ -1,0 +1,56 @@
+name: Daily Portfolio Update
+
+on:
+  schedule:
+    # 11:30 UTC = 5:00 PM IST, Monday to Friday
+    - cron: "30 11 * * 1-5"
+  workflow_dispatch:   # lets you press "Run workflow" manually to test
+
+permissions:
+  contents: write      # needed so the bot can save updated files to your repo
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the repo files
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install libraries
+        run: pip install -r requirements.txt
+
+      - name: Run the tracker
+        id: run
+        env:
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+        run: python tracker.py
+
+      - name: Save results to the repo
+        if: steps.run.outputs.updated == 'true'
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Daily update $(date -u +%F)"
+          git push
+
+      - name: Send data to Make.com
+        if: steps.run.outputs.updated == 'true'
+        env:
+          MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+        run: |
+          if [ -n "$MAKE_WEBHOOK_URL" ]; then
+            curl -sS -X POST -H "Content-Type: application/json" --data @data/latest.json "$MAKE_WEBHOOK_URL"
+          else
+            echo "MAKE_WEBHOOK_URL secret not set - skipping Make.com step."
+          fi
