@@ -434,7 +434,7 @@ def build_readme(cfg, snapshot):
     L.append("- **News:** Google News RSS + publisher RSS feeds, filtered to a whitelist of trusted publishers, "
              "de-duplicated, last 72 hours only. Each item links to the original article.")
     L.append("- **Official filings:** BSE corporate announcements (best-effort, with link to the full list).")
-    L.append("- **Automation:** GitHub Actions refreshes this dashboard on weekdays at 9:30 AM, 11:30 AM, 1:30 PM and "
+    L.append("- **Automation:** GitHub Actions refreshes this dashboard on weekdays every 30 minutes from 9:30 AM to "
              "3:30 PM IST (live snapshots) and at 5:00 PM IST (end-of-day final snapshot + AI daily report); "
              "skips market holidays.")
     L.append("- **Method:** Shares = (capital x weight) / closing price on the start date. Volatility = 20-day std-dev of "
