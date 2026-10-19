@@ -104,6 +104,25 @@
         "verdict": "analysis/Manorama_Brutal_Verdict.pdf"
       },
       "sector": "Specialty Fats (FMCG inputs)"
+    },
+    {
+      "key": "fiem",
+      "name": "Fiem Industries",
+      "tickers": [
+        "FIEMIND.NS"
+      ],
+      "weight": 0,
+      "bse_code": "532768",
+      "keywords": [
+        "fiem industries",
+        "fiem"
+      ],
+      "news_query": "\"Fiem Industries\"",
+      "reports": {
+        "one_pager": "reports/FIEMIND/FIEMIND_OnePager_2026-10-20.pdf",
+        "detailed": "reports/FIEMIND/FIEMIND_Full_Report_2026-10-20.pdf"
+      },
+      "sector": "Auto Components"
     }
   ],
   "trusted_sources": [

@@ -237,6 +237,19 @@ _No fully closed positions yet._
 
 ---
 
+### Fiem Industries  _(Auto Components)_
+
+[Google Finance](https://www.google.com/finance/quote/FIEMIND:NSE) · [All BSE announcements](https://www.bseindia.com/corporates/ann.html?scrip=532768)
+
+**Research reports**
+
+- [One-page snapshot](reports/FIEMIND/FIEMIND_OnePager_2026-10-20.pdf)
+- [Full report](reports/FIEMIND/FIEMIND_Full_Report_2026-10-20.pdf)
+
+_Live price table and news will appear here after the next dashboard refresh._
+
+---
+
 ## How this works & data sources
 
 - **Prices / volume:** Yahoo Finance via the open-source `yfinance` library (unofficial; may differ slightly from NSE official data).
