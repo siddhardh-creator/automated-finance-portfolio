@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 19 Oct 2026, 11:17 AM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
+**Last updated:** 19 Oct 2026, 11:28 AM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -12,13 +12,13 @@
 
 | Metric | Value |
 |---|---|
-| Current value | **₹99,78,108** |
-| Total P&L | **-₹21,892 (-0.22%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹21,892 |
+| Current value | **₹99,76,290** |
+| Total P&L | **-₹23,710 (-0.24%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹23,710 |
 | &nbsp;&nbsp;Realised (shares already sold) | ₹0 |
-| Today's change | -₹21,892 (-0.22%) |
-| Nifty 50 since start (same money invested) | -0.32% |
-| Outperformance vs Nifty 50 | +0.10% |
+| Today's change | -₹23,710 (-0.24%) |
+| Nifty 50 since start (same money invested) | -0.37% |
+| Outperformance vs Nifty 50 | +0.13% |
 | Cash (uninvested) | ₹3,190 |
 | Virtual money put in | ₹1,00,00,000 |
 
@@ -30,11 +30,11 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹713.30 | -2.13% | ₹32,61,208 | 32.7% | -₹71,095 | -2.13% |
-| Eternal (Zomato) | 10,245 | ₹325.30 | ₹325.80 | +0.15% | ₹33,37,821 | 33.5% | ₹5,122 | +0.15% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,641.00 | +1.32% | ₹33,75,890 | 33.8% | ₹44,080 | +1.32% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹713.75 | -2.07% | ₹32,63,265 | 32.7% | -₹69,037 | -2.07% |
+| Eternal (Zomato) | 10,245 | ₹325.30 | ₹325.45 | +0.05% | ₹33,34,235 | 33.4% | ₹1,537 | +0.05% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,640.00 | +1.31% | ₹33,75,600 | 33.8% | ₹43,790 | +1.31% |
 
-**Best since buy:** Maruti Suzuki (+1.32%)  ·  **Worst since buy:** HDFC Bank (-2.13%)  ·  **Biggest mover today:** HDFC Bank (-2.13%)
+**Best since buy:** Maruti Suzuki (+1.31%)  ·  **Worst since buy:** HDFC Bank (-2.07%)  ·  **Biggest mover today:** HDFC Bank (-2.07%)
 
 ## Allocation
 
@@ -42,9 +42,9 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹33,75,890 | 33.8% |
-| Consumer Internet | ₹33,37,821 | 33.5% |
-| Financials | ₹32,61,208 | 32.7% |
+| Automobiles | ₹33,75,600 | 33.8% |
+| Consumer Internet | ₹33,34,235 | 33.4% |
+| Financials | ₹32,63,265 | 32.7% |
 | Cash | ₹3,190 | 0.0% |
 
 ## Performance
@@ -81,7 +81,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹713.30 | -2.13% | ₹711.70 - ₹733.40 | 13,852,808 | 30,961,951 | 0.45x | 23.52% | ₹687.10 - ₹1,009.50 |
+| ₹713.75 | -2.07% | ₹711.70 - ₹733.40 | 14,306,213 | 30,961,951 | 0.46x | 23.46% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -114,7 +114,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹325.80 | +0.15% | ₹323.35 - ₹327.10 | 7,534,881 | 21,352,242 | 0.35x | 27.23% | ₹215.68 - ₹342.65 |
+| ₹325.45 | +0.05% | ₹323.35 - ₹327.10 | 7,835,176 | 21,352,242 | 0.37x | 27.22% | ₹215.68 - ₹342.65 |
 
 **Research reports**
 
@@ -147,7 +147,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,641.00 | +1.32% | ₹11,450.00 - ₹11,702.00 | 185,750 | 459,379 | 0.4x | 25.74% | ₹11,178.00 - ₹17,292.00 |
+| ₹11,640.00 | +1.31% | ₹11,450.00 - ₹11,702.00 | 197,146 | 459,379 | 0.43x | 25.73% | ₹11,178.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -162,7 +162,7 @@ _No fully closed positions yet._
 
 <details><summary><b>Latest news (trusted publishers only)</b></summary>
 
-- [Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVlV4S0dPamlVM1JtOTJkM3RrcFhGOERHOW5EaFY5Qm9DVjZSa2ZJNERZMjBLclB0eGVPRGdqU2RCOVpJWFA0NE5UTExISnBHVTl3VEhXREphQnQ0OGdpMXVMaGNYQVBTbVBWTE5iM1F6Q2REVVQzVi1oOVV2YjZlX0duSWlvbGNBU1NmVWFuWVVlajBnY08xb3ZQSXIzM005QTFaclpSdUFhRUU4eTlicHZIb0FOeG5PZmlnTVI0MUxRb1BZVkh6QlI4U2I1N3pGR04xNGUxR2RLQzMzV1pHbldhNjViampUMUFYbkhwMNIB7wFBVV95cUxOVlV4S0dPamlVM1JtOTJkM3RrcFhGOERHOW5EaFY5Qm9DVjZSa2ZJNERZMjBLclB0eGVPRGdqU2RCOVpJWFA0NE5UTExISnBHVTl3VEhXREphQnQ0OGdpMXVMaGNYQVBTbVBWTE5iM1F6Q2REVVQzVi1oOVV2YjZlX0duSWlvbGNBU1NmVWFuWVVlajBnY08xb3ZQSXIzM005QTFaclpSdUFhRUU4eTlicHZIb0FOeG5PZmlnTVI0MUxRb1BZVkh6QlI4U2I1N3pGR04xNGUxR2RLQzMzV1pHbldhNjViampUMUFYbkhwMA?oc=5) - _Moneycontrol.com, 19 Oct 2026, 09:32 AM IST_
+- [Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY0drVmhyWkFNUFV2ZFc5TlRWa0pTRlUtaWlqeVo2MGxDRk5BR0h4NjJuUVdfSjRlRWVoQUgwLS1NeUd6Y1dCeWVRTXh0c2JiODBoVnFPNmthNHN2MFZSdnFzMnFyNjR5VzFqbEFnYlYweU1scjI5TXVDSVFPV1RkVEd4SEpZUVV4ekdiTkVkODloemJBcno4WS00NDBNc1pFdmsyOUNkU21Pcmc4aU1Ud2otMUV0OUwtODBLazB3T0l3M3RXQkd2bFNnV051ZWx4VXNwQmxqb2FYRUI3TTVwNnlTYVBxZTVKVmfSAe8BQVVfeXFMTlZVeEtHT2ppVTNSbTkyZDN0a3BYRjhERzluRGhWOUJvQ1Y2UmtmSTREWTIwS3JQdHhlT0RnalNkQjlaSVhQNDROVExMSEpwR1U5d1RIV0RKYUJ0NDhnaTF1TGhjWEFQU21QVkxOYjNRekNkRFVUM1YtaDlVdmI2ZV9Hbklpb2xjQVNTZlVhbllVZWowZ2NPMW92UElyMzNNOUExWnJaUnVBYUVFOHk5YnB2SG9BTnhuT2ZpZ01SNDFMUW9QWVZIekJSOFNiNTd6RkdOMTRlMUdkS0MzM1daR25XYTY1YmpqVDFBWG5IcDA?oc=5) - _Moneycontrol.com, 19 Oct 2026, 09:32 AM IST_
 - [New Renault Duster Hybrid Launched: How Does It Compare With Maruti Vitara? Check Price, Range And More](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5) - _NDTV Profit, 17 Oct 2026, 03:59 PM IST_
 - [Why the Toyota Glanza demands a premium over the Maruti Baleno](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkkzeWdSRjEzQ1RVWVJNS2hwSFk2X3RYX0dtVkJnWXFDejRMbW8tOXNtdGlTTDlqVUMxaU1JUHQzems1ZWItZV96SnAzck5PbjlINEFVNERGTnlqUUdVUS1BQjYxaVRDUXJPWWc2Rk9uZks5aVBxdmxkNzFoMno2T3R4VE9RbjhBc2pWQWloV2UxMHNwQWlYWENzY1RyeFpnUC1QLUxEd21EbnRjYWEwR3pOMDBpVTlVSWfSAcABQVVfeXFMTXdIM05hU3F2cXFUUlVXX2hqc2NMNHJCNVN6OFNPcXhrOUhnY2F5elpOVFRieUs2YVlXd0FiTDdEVzhjUEFQZ1hwYVhiand1Y0hORjVQQTQwOXB2cTJpbl9QV2ViUzhIQWFicGVFSkRLVmJueHlLR0tPb2Fyc1ZYUUJFd1gzZjlaQTRTSEhGbVlsOExwQjB5UUtvOS13UnBCNGQ5ZGE4RHhMRngzQVJNWFhHaTFkTUR2UG10dnNId3Vu?oc=5) - _The Financial Express, 17 Oct 2026, 06:02 AM IST_
 - [Maruti Suzuki reclaims 40% market share in H1 FY27; Tata overtakes Mahindra as Hyundai slips](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUGszWVZJbWhxWTdtS1ljckRuQ3E1OW5uMGw1bmh5UDZ0RTVEbWoxNTZ5VnFCWGpQU0ZUWWZNVjBibUE1eEZKeVBhLXJnX1RSaUdfQ19NYjhLWlc5VzlyN1ZCOUV0UC1lZ0JaV1ZHS3NtWXJuSVRhc0h1S1BsUm5CdThWbFVzTm1YaUhBS2dtOG15Y3YtQVVhdFFzNXRjYWRjeFBPazBwbGgwQTFPNFR4ckJneUdRWC1DTWpTZkJrMWhlUHhsVUlmZHFKVkRBeUkzSEcyN3ZLOGRnNmotRHBxWDhjSndjdknSAewBQVVfeXFMT3poSUhycVZFVUtxOFlyRUoyYUlwWG5KVWJad1prTzJRcGlKNVc0TEhDNlVOTGpSN2RVRHY2OTJmUERDNU1VVnE5Umg4bFRtN0cwSi1qLUhDYnZHX244cVk4Z3VpWHU5MXhMMFRqYm0wVmVtVGdIcE11RE5IZ0hKU1ZVZ0RnSWFZbG9TRWxmcnUweDBneFRCc2syVy13a3hBM2pUMjE4SUlBb3g5ajdLR1lyZVRWcDBQcWp3LXJ0LUlkaXJkZzZuSFhvTkl1cTVPNWxzamFnNE4xcFVNWk9CaVlRVm9jRWc3aXp5bGc?oc=5) - _Moneycontrol.com, 16 Oct 2026, 02:30 PM IST_
