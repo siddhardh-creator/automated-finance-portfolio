@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "19 Oct 2026, 11:28 AM IST",
+  "generated_at_ist": "19 Oct 2026, 11:31 AM IST",
   "as_of": "2026-10-19",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
-    "capital": 10000000.0,
+    "capital": 10300000.0,
     "initial_capital": 10000000,
-    "invested": 9996810.46,
-    "holdings_value": 9973100.38,
-    "cash": 3189.54,
-    "value": 9976289.91,
-    "pnl_inr": -23710.09,
-    "pnl_pct": -0.24,
-    "unrealised_pnl_inr": -23710.09,
+    "invested": 10145030.46,
+    "holdings_value": 10125081.6,
+    "cash": 154969.54,
+    "value": 10280051.14,
+    "pnl_inr": -19948.86,
+    "pnl_pct": -0.19,
+    "unrealised_pnl_inr": -19948.85,
     "realised_pnl_inr": 0.0,
-    "day_pnl_inr": -23710.09,
-    "day_pnl_pct": -0.24,
-    "open_positions": 3
+    "day_pnl_inr": -19948.86,
+    "day_pnl_pct": -0.2,
+    "open_positions": 4
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 23060.9,
-    "return_pct": -0.37,
-    "day_change_pct": -0.37
+    "close": 23048.65,
+    "return_pct": -0.41,
+    "day_change_pct": -0.42
   },
   "stocks": [
     {
@@ -33,26 +33,32 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 713.75,
+        "close": 714.3,
         "prev_close": 728.85,
-        "day_change_pct": -2.07,
+        "day_change_pct": -2.0,
         "open": 733.4,
         "high": 733.4,
         "low": 711.7,
         "intraday_range_pct": 2.98,
-        "volume": 14306213,
+        "volume": 14457348,
         "avg_volume_20d": 30961951,
-        "volume_vs_avg": 0.46,
-        "volatility_20d_annualised_pct": 23.46,
+        "volume_vs_avg": 0.47,
+        "volatility_20d_annualised_pct": 23.37,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3263265.0,
-        "pnl_inr": -69037.09,
-        "pnl_pct": -2.07
+        "market_value": 3265779.54,
+        "pnl_inr": -66522.54,
+        "pnl_pct": -2.0
       },
       "news": [
+        {
+          "title": "Q2 Results Today Live: Bajaj Finance, UltraTech, Hindustan Zinc, Union Bank of India, LTTS, Piramal Finance, IREDA to announce Q2 results, HDFC Bank, Axis Bank shares decline after Q2, ICICI Bank, Yes Bank flat",
+          "source": "BusinessLine",
+          "published": "19 Oct 2026, 11:26 AM IST",
+          "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-bajaj-finance-ultratech-cement-hindustan-zinc-union-bank-of-india-ltts-piramal-finance-ireda-company-results-hdfc-bank-axis-bank-yes-icici-results-19-october-2026/article71599553.ece"
+        },
         {
           "title": "Why are banking stocks falling? Nifty Bank down 1%; Axis, HDFC Bank shares crash up to 5% - What should investors do?",
           "source": "Livemint",
@@ -76,16 +82,10 @@
           "source": "Moneycontrol.com",
           "published": "19 Oct 2026, 10:55 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRVYzUUtoMHZQejFFYVJXd05tb0JaWk9LaV9kSkFMQWptdFpkMndrUEx1MzZpT1k1Ykx2dDNSQy10LW5weHVCWDhFOG9hdWNkamQ1RlcwTDhmLWgzcHFsSXFkOXFpeWlYWHFsaFZGMHVsakgwTjluOWNzRmM5dzJaWHpPTUhyR1JYOFNSc1ZxZ2s2c1ZBdUI4ZGptOVJOLVBESHNFSkdrdVN0cGN5ZTk1TlBVQVpzSTN1OWd5UXg4cGNKZ1Jtb1hIVkhjVmxUc09iZ1hTMXQ3V3RjM09HanFkMklwX2g1V1JIS3fSAe8BQVVfeXFMTnNCRjdSRnZjTE9NVTJYR05ua2hUeTVxOXcxVzh0aWhHYTBoYk9iMWt3R3BITlJQNUZOc2VYU250a050ZE5ZLVFLX1B2S2FCSERBMENwVDgtSmdwTkMwNDZwSGZGQVUtWVBDQUlhZUZqTFM4cy1SN1BRTW96cHRmaE5XUjN6aFh3Q1J6QVVCcEdfYmIxaENuV3BjYVBBdlo0eVhNeHM1aEpFMmpjWmZRQkVQT1BELXlyU3I4bUpZTWxDMVozTS1wVDgxTS1QSWJUNHpOcUdmTmdlRWh4WEFGRk9BXzNyOTh1MHpOLUc5OE0?oc=5"
-        },
-        {
-          "title": "Buy HDFC Bank; target of Rs 925: Motilal Oswal",
-          "source": "Moneycontrol.com",
-          "published": "19 Oct 2026, 10:51 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ3ZvMjI5WEZyVm53dU00MFhrQktlUE1hZDVsV3NmMFlDN09Ic3pIYnR2b1czdV82d0RtV3B2SjVuNE5yLV91TFUyaWY2UDkzSC1zTVNsaFFjVGw3c01xZ19vR3didTdWcENWSFFZODJvQi11RHNpM0V6YXM1WWNkQ1JQSnRZRG1XY29NQ2E5bGtqbVZyQVRQWXlLelpkY2NpOXhITWlR0gGrAUFVX3lxTE1FSXZkVXVWOTYtVlUzRzdGVGd6bGZBUXZ2TDZlYlJxN3dMN1lCVW5CeFBtWG9kRzVsNi1rbjVZYUhaOTVINk9kUGVpc3VXRkRKX09WcjFxWTV5bXdRdHpTNXpDbEVuaS1TSE1RRHJpNG9rUjFwQmVlN0RCUkhhZHVfemh6a1VYTTJJbWVpY1lRM1MwYUJSV2NHMlJDYjFWV0IzcnJ6RUZXaVViTQ?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 32.71
+      "weight_pct": 31.77
     },
     {
       "key": "zomato",
@@ -95,14 +95,14 @@
       "bse_code": "543320",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 325.45,
+        "close": 325.6,
         "prev_close": 325.3,
-        "day_change_pct": 0.05,
+        "day_change_pct": 0.09,
         "open": 324.85,
         "high": 327.1,
         "low": 323.35,
         "intraday_range_pct": 1.15,
-        "volume": 7835176,
+        "volume": 7950422,
         "avg_volume_20d": 21352242,
         "volume_vs_avg": 0.37,
         "volatility_20d_annualised_pct": 27.22,
@@ -110,9 +110,9 @@
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3334235.38,
-        "pnl_inr": 1537.0,
-        "pnl_pct": 0.05
+        "market_value": 3335772.06,
+        "pnl_inr": 3073.69,
+        "pnl_pct": 0.09
       },
       "news": [
         {
@@ -147,7 +147,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 33.42
+      "weight_pct": 32.45
     },
     {
       "key": "maruti",
@@ -157,23 +157,23 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11640.0,
+        "close": 11639.0,
         "prev_close": 11489.0,
         "day_change_pct": 1.31,
         "open": 11510.0,
         "high": 11702.0,
         "low": 11450.0,
         "intraday_range_pct": 2.19,
-        "volume": 197146,
+        "volume": 198953,
         "avg_volume_20d": 459379,
         "volume_vs_avg": 0.43,
-        "volatility_20d_annualised_pct": 25.73,
+        "volatility_20d_annualised_pct": 25.72,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3375600.0,
-        "pnl_inr": 43790.0,
+        "market_value": 3375310.0,
+        "pnl_inr": 43500.0,
         "pnl_pct": 1.31
       },
       "news": [
@@ -190,12 +190,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5"
         },
         {
-          "title": "Why the Toyota Glanza demands a premium over the Maruti Baleno",
-          "source": "The Financial Express",
-          "published": "17 Oct 2026, 06:02 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkkzeWdSRjEzQ1RVWVJNS2hwSFk2X3RYX0dtVkJnWXFDejRMbW8tOXNtdGlTTDlqVUMxaU1JUHQzems1ZWItZV96SnAzck5PbjlINEFVNERGTnlqUUdVUS1BQjYxaVRDUXJPWWc2Rk9uZks5aVBxdmxkNzFoMno2T3R4VE9RbjhBc2pWQWloV2UxMHNwQWlYWENzY1RyeFpnUC1QLUxEd21EbnRjYWEwR3pOMDBpVTlVSWfSAcABQVVfeXFMTXdIM05hU3F2cXFUUlVXX2hqc2NMNHJCNVN6OFNPcXhrOUhnY2F5elpOVFRieUs2YVlXd0FiTDdEVzhjUEFQZ1hwYVhiand1Y0hORjVQQTQwOXB2cTJpbl9QV2ViUzhIQWFicGVFSkRLVmJueHlLR0tPb2Fyc1ZYUUJFd1gzZjlaQTRTSEhGbVlsOExwQjB5UUtvOS13UnBCNGQ5ZGE4RHhMRngzQVJNWFhHaTFkTUR2UG10dnNId3Vu?oc=5"
-        },
-        {
           "title": "Maruti Suzuki reclaims 40% market share in H1 FY27; Tata overtakes Mahindra as Hyundai slips",
           "source": "Moneycontrol.com",
           "published": "16 Oct 2026, 02:30 PM IST",
@@ -209,51 +203,101 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 33.84
+      "weight_pct": 32.83
+    },
+    {
+      "key": "ashok",
+      "name": "Ashok Leyland",
+      "sector": "Automobiles",
+      "ticker": "ASHOKLEY.NS",
+      "bse_code": "500477",
+      "first_buy": "2026-10-19",
+      "metrics": {
+        "close": 148.22,
+        "prev_close": 148.91,
+        "day_change_pct": -0.46,
+        "open": 148.32,
+        "high": 149.4,
+        "low": 147.33,
+        "intraday_range_pct": 1.39,
+        "volume": 4275968,
+        "avg_volume_20d": 12650944,
+        "volume_vs_avg": 0.34,
+        "volatility_20d_annualised_pct": 27.39,
+        "high_52w": 211.92,
+        "low_52w": 135.84,
+        "shares": 1000,
+        "base_price": 148.22,
+        "market_value": 148220.0,
+        "pnl_inr": 0.0,
+        "pnl_pct": 0.0
+      },
+      "news": [
+        {
+          "title": "UP rewrites Rs 1,245-crore e-bus tender, opening backdoor for Tata, Ashok Leyland, JBM",
+          "source": "The Financial Express",
+          "published": "16 Oct 2026, 05:57 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzBrM2g3VXdVSG1KMi1YT2NOWk9BM1ppNjRudThYNDNiNXZVcU1hbzN4c2VHU1VvNkU2b3dpV3JEWHRPYzF6ODZ5S0Rya2FFSmVWS2M1UWhrNGRuM3JENmJjYjdiRWRYRC14d2YxTWR1TERSYUF3Tk9OT3hJQWVmcWpiS0xPYkY5VFppYmJXWW9JT2FYUzlPd3lCQW10UldCeXpMQkg3UExvNTF3WlllMUE4eThkTkl3bkFPSkVnMlQzYXRjMEZYeUFWRS1kMTMwQUFLVNIB2wFBVV95cUxNMHpRU2VpR3VPYWNic1N4RVd3VG1md25HaklPUTRZbW5tcDEtM2tKUjZqbmVyMkRhQk9Kb0UxMDcxajZaYkZpV090eEpWbGI1X2ktdEZDdnRtVlFpMldvM1JLR0dKWXJ5U1E0eHFac3dwb25ROFI3akFLOVdrRWJlclgyaE8zSUIwMVA2LXZrUVRPYVhHcE1lZ01FRHJkZ3FkWVZHZm1zQWZWOWxqbnNDekNSQzNMM1lQVXN5SFlyNUNMenRMZnZCVm40QVdGd19rN05USE0zam9CeFk?oc=5"
+        },
+        {
+          "title": "Ashok Leyland, TMB join hand to expand vehicle finance facilities",
+          "source": "BusinessLine",
+          "published": "16 Oct 2026, 12:30 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOFRBMHl4TVFZTTdtVFI2SnhrMWR5cW1kQ1ZncGZfTjZzYi1lbXBNU2tldzJUTFZsTDBOT214MGVoSTVKYzgyLXQzazJOR3RwcFhfRE9EMUVUZE1VSmlnOUxqRDliTHI0ZGhycGZMRk1GcEM4XzJGQXdOX0ZRcmtDYXNJYy1zOW1XOVl0NWhhTUg1M2NiUW82dmtrTHNjeFhUNjY1RFB6ZkR0bjFvaEtBeEJ6aWVjRm12TzJmZlRwaG9VT3N5b2hmRmpIUWdtb1R6R2I1dm9aczZaS1c5d25icFhGVkwxZlZ4Xzdvd2lzNmdnYjUyNk5vcHlEaVrSAYMCQVVfeXFMUEViVEFkUDVvVkp3TVV2dW1sLUtEdE1IQ2FzSWpTZHh4VWtJQ183QnRKNTBrWFh5NFVfR29lWkg4cTFwZjhiR2VUUTRTRXNabkttMC1kVXNxQ0IwUDNfMkc2WmdrSzNOLWFQdHdfRk5KdnFaNjFTcGRZSmdNVHBfRWlMaWFKenQtaXdrT2xXWllPMnlrdWltVF9rUlh4RFlSTVNrLURJVktrOUU4aHo0OTEwUlRURGphVS1xZnZlbV92VlFWS0lzMnJLUFk2LUxQZnNoOFZaNlJNYUxNT3RYYy1NTkQxbkV0NG5wMTk4Z0R6amFROTVsdXVkRmozbGRrOGp2QQ?oc=5"
+        },
+        {
+          "title": "Ashok Leyland Q2 Results 2026 - Find Ashok Leyland Q2 Earnings Result | ASHOKLEY Q2 results",
+          "source": "Livemint",
+          "published": "16 Oct 2026, 12:30 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXJ2T05Hc3p2YTJ6LXJLTHhUU2d2RWwtT2xnaVhJRUZ3WWFMcWUwdXp0Tkk4VTZITTlyVU9vTXlQWl9rTFE3WmE5SjNKdTZVaXF5d3VhcWNINDlsQWVHQnFnZ003YXhYYWRoWnB2b2VQeVh3c1FQZmVkRzRsVzF2R0hmYVo?oc=5"
+        }
+      ],
+      "announcements": [],
+      "weight_pct": 1.44
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 3375600.0,
-      "weight_pct": 33.84
+      "value": 3523530.0,
+      "weight_pct": 34.28
     },
     {
       "sector": "Consumer Internet",
-      "value": 3334235.38,
-      "weight_pct": 33.42
+      "value": 3335772.06,
+      "weight_pct": 32.45
     },
     {
       "sector": "Financials",
-      "value": 3263265.0,
-      "weight_pct": 32.71
+      "value": 3265779.54,
+      "weight_pct": 31.77
     },
     {
       "sector": "Cash",
-      "value": 3189.54,
-      "weight_pct": 0.03
+      "value": 154969.54,
+      "weight_pct": 1.51
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 3375600.0,
-      "weight_pct": 33.84
+      "value": 3523530.0,
+      "weight_pct": 34.28
     },
     {
       "sector": "Consumer Internet",
-      "value": 3334235.38,
-      "weight_pct": 33.42
+      "value": 3335772.06,
+      "weight_pct": 32.45
     },
     {
       "sector": "Financials",
-      "value": 3263265.0,
-      "weight_pct": 32.71
+      "value": 3265779.54,
+      "weight_pct": 31.77
     },
     {
       "sector": "Cash",
-      "value": 3189.54,
-      "weight_pct": 0.03
+      "value": 154969.54,
+      "weight_pct": 1.51
     }
   ],
   "performers": {
@@ -263,11 +307,11 @@
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -2.07
+      "pct": -2.0
     },
     "top_mover_today": {
       "name": "HDFC Bank",
-      "pct": -2.07
+      "pct": -2.0
     }
   },
   "transactions": [
@@ -302,6 +346,28 @@
       "price": 11489.0,
       "amount": 3331810.0,
       "note": "Initial allocation",
+      "provisional": false
+    },
+    {
+      "date": "2026-10-19",
+      "key": "",
+      "name": "",
+      "type": "DEPOSIT",
+      "shares": 0,
+      "price": null,
+      "amount": 300000.0,
+      "note": "Fresh virtual money to fund Ashok Leyland",
+      "provisional": false
+    },
+    {
+      "date": "2026-10-19",
+      "key": "ashok",
+      "name": "Ashok Leyland",
+      "type": "BUY",
+      "shares": 1000,
+      "price": 148.22,
+      "amount": 148220.0,
+      "note": "Added at ~11:25 AM IST",
       "provisional": false
     }
   ],
