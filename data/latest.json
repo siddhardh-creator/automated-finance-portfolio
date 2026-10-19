@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "19 Oct 2026, 02:32 PM IST",
+  "generated_at_ist": "19 Oct 2026, 03:35 PM IST",
   "as_of": "2026-10-19",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 10300000.0,
     "initial_capital": 10000000,
-    "invested": 10144620.46,
-    "holdings_value": 10022146.9,
-    "cash": 155379.54,
-    "value": 10177526.44,
-    "pnl_inr": -122473.56,
-    "pnl_pct": -1.19,
-    "unrealised_pnl_inr": -122473.56,
+    "invested": 10144530.46,
+    "holdings_value": 10011183.13,
+    "cash": 155469.54,
+    "value": 10166652.66,
+    "pnl_inr": -133347.34,
+    "pnl_pct": -1.29,
+    "unrealised_pnl_inr": -133347.34,
     "realised_pnl_inr": 0.0,
-    "day_pnl_inr": -122473.56,
-    "day_pnl_pct": -1.22,
+    "day_pnl_inr": -133347.34,
+    "day_pnl_pct": -1.33,
     "open_positions": 4
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22865.1,
-    "return_pct": -1.18,
-    "day_change_pct": -1.21
+    "close": 22888.95,
+    "return_pct": -1.08,
+    "day_change_pct": -1.11
   },
   "stocks": [
     {
@@ -33,32 +33,26 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 710.85,
+        "close": 712.0,
         "prev_close": 728.85,
-        "day_change_pct": -2.47,
+        "day_change_pct": -2.31,
         "open": 733.4,
         "high": 733.4,
         "low": 707.15,
         "intraday_range_pct": 3.6,
-        "volume": 26648915,
+        "volume": 33521753,
         "avg_volume_20d": 30961951,
-        "volume_vs_avg": 0.86,
-        "volatility_20d_annualised_pct": 23.93,
+        "volume_vs_avg": 1.08,
+        "volatility_20d_annualised_pct": 23.74,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3250006.09,
-        "pnl_inr": -82296.0,
-        "pnl_pct": -2.47
+        "market_value": 3255264.0,
+        "pnl_inr": -77038.09,
+        "pnl_pct": -2.31
       },
       "news": [
-        {
-          "title": "Q2 Results Today Live: Union Bank & HFCL Q2 PAT up, Bajaj Finance, UltraTech, Hindustan Zinc, LTTS, Piramal Finance, IREDA to announce Q2 results, HDFC Bank, Axis Bank shares decline after Q2, ICICI Bank, Yes Bank flat, PNB jumps",
-          "source": "BusinessLine",
-          "published": "19 Oct 2026, 12:44 PM IST",
-          "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-bajaj-finance-ultratech-cement-hindustan-zinc-union-bank-of-india-ltts-piramal-finance-ireda-company-results-hdfc-bank-axis-bank-yes-icici-results-19-october-2026/article71599553.ece"
-        },
         {
           "title": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
           "source": "The Economic Times",
@@ -82,10 +76,16 @@
           "source": "Moneycontrol.com",
           "published": "19 Oct 2026, 11:05 AM IST",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtJU3djdTlUbW1YMlBiYk9abVVBOFhBUmxKTWszTERBRjc4aTE3UTliSzNGNTVielZLTXdSUDdCaHlVNWR5eUZZNlZMSndEYTU4cTFmMndTME14RUxJZ3VYUUgxTDBvdWNYaWR3Xzh6M3l3VmZYT012elNwVlRrQzJZSkxNUDVaNVhrY01vc1AyaUNGR2lTcy1zRHZvM2lWRlBPanlkYU9YS19wRGdZ0gGvAUFVX3lxTE0ta0lTd2N1OVRtbVgyUGJiT1ptVUE4WEFSbEpNazNMREFGNzhpMTdROWJLM0Y1NWJ6VktNd1JQN0JoeVU1ZHl5Rlk2VkxKd0RhNThxMWYyd1MwTXhFTElndVhRSDFMMG91Y1hpZHdfOHozeXdWZlhPTXZ6U3BWVGtDMllKTE1QNVo1WGtjTW9zUDJpQ0ZHaVNzLXNEdm8zaVZGUE9qeWRhT1hLX3BEZ1k?oc=5"
+        },
+        {
+          "title": "Buzzing Stocks: Urban Company slumps 9% on widening Q2 losses; HDFC Bank jumps 2% on better earnings",
+          "source": "Moneycontrol.com",
+          "published": "19 Oct 2026, 11:04 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQS0zYVBnaUJ3Q0tPSzhxUHotSEJaeVZuZVJCckl2SFhqakU5T0hPcTdySWtrVWtOUlpFS0xCM3lfM29hZkx3QlliT0NoLVU2VkRaWXhtSHhCQ1ZIaDZ5S0Q5SEp1ckdPR21lUDAzcWlNaUZEV0l2Y2xVSk9BT1Fnbm9NblZSS0J6Z2d5LXNFY0tOajhWenctMTBIcTZmaUxLQmVTbFVic2hoejBucWJLWTZ4aHIwV1hHTXV0QnBMMTFBWWdHV3poMEpsLVBxQ19MVG12X3hJQkpOaEl3VkpGVTJndi13dVhyc1BNdHFOb2JhUlIyY2JjR9IB-AFBVV95cUxQQS0zYVBnaUJ3Q0tPSzhxUHotSEJaeVZuZVJCckl2SFhqakU5T0hPcTdySWtrVWtOUlpFS0xCM3lfM29hZkx3QlliT0NoLVU2VkRaWXhtSHhCQ1ZIaDZ5S0Q5SEp1ckdPR21lUDAzcWlNaUZEV0l2Y2xVSk9BT1Fnbm9NblZSS0J6Z2d5LXNFY0tOajhWenctMTBIcTZmaUxLQmVTbFVic2hoejBucWJLWTZ4aHIwV1hHTXV0QnBMMTFBWWdHV3poMEpsLVBxQ19MVG12X3hJQkpOaEl3VkpGVTJndi13dVhyc1BNdHFOb2JhUlIyY2JjRw?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 31.93
+      "weight_pct": 32.02
     },
     {
       "key": "zomato",
@@ -95,31 +95,31 @@
       "bse_code": "543320",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 321.35,
+        "close": 320.2,
         "prev_close": 325.3,
-        "day_change_pct": -1.21,
+        "day_change_pct": -1.57,
         "open": 324.85,
         "high": 327.1,
-        "low": 321.05,
-        "intraday_range_pct": 1.86,
-        "volume": 13365516,
+        "low": 319.5,
+        "intraday_range_pct": 2.34,
+        "volume": 18721690,
         "avg_volume_20d": 21352242,
-        "volume_vs_avg": 0.63,
-        "volatility_20d_annualised_pct": 27.56,
+        "volume_vs_avg": 0.88,
+        "volatility_20d_annualised_pct": 27.78,
         "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3292230.81,
-        "pnl_inr": -40467.56,
-        "pnl_pct": -1.21
+        "market_value": 3280449.13,
+        "pnl_inr": -52249.25,
+        "pnl_pct": -1.57
       },
       "news": [
         {
           "title": "Eternal Q2 preview: Brokerages expect market share gains, steady margins",
           "source": "Business Standard",
           "published": "19 Oct 2026, 01:58 PM IST",
-          "link": "https://www.business-standard.com/markets/news/eternal-q2-preview-brokerages-expect-market-share-gains-steady-margins-126101900471_1.html"
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYURZZEFnMVpjN3h1QjN1SW84YjE4OVAzVkN5OERPNFpsTl9SbGRQWXhrQm9CUkpqZkxwU3ZOa1dCYnBKM0hQa18xUVJ4dFdPUFVjcTZhWWZfYkpNVEo3N2NTZ0EzVXdVanNBekRGbEl2N2szbjFUZ1h0aXFraUN2SEh5TGZ6SHpxRE50TVRuUEczOWcwZUVvQ25RSUx6VGZONEo4N3RqNmFnVm1rSVJfaUVUT0ZNVWVhWUNYS1M1aDZUZDVXTFdYbVQ0RzVtRU9yN3hHQVRoWWTSAdgBQVVfeXFMTmFEWWRBZzFaYzd4dUIzdUlvOGIxODlQM1ZDeThETzRabE5fUmxkUFl4a0JvQlJKamZMcFN2TmtXQmJwSjNIUGtfMVFSeHRXT1BVY3E2YVlmX2JKTVRKNzdjU2dBM1V3VWpzQXpERmxJdjdrM24xVGdYdGlxa2lDdkhIeUxmekh6cUROdE1UblBHMzlnMGVFb0NuUUlMelRmTjRKODd0ajZhZ1Zta0lSX2lFVE9GTVVlYVlDWEtTNWg2VGQ1V0xXWG1UNEc1bUVPcjd4R0FUaFlk?oc=5"
         },
         {
           "title": "Tukaram Mundhe-led FDA cracks down on Reliance warehouse, Blinkit-linked facility; flags ‘cockroaches, spitting’",
@@ -128,26 +128,26 @@
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmUtVnN2RTB5eUJwZWlac0FxWWNYNDdMa3pBOXZFd2pYN25wT0tPV0pKN1VZVlluQ2s5Z3NKQTdFeE1TVTNCTVhVeVd3c3VNRXdFOEdWQ2V3T051VE9ETGNJUHAzVzJBaU9XTGtMY2RWUW1FMjFHYWFETEVYZUV2YXNKdVp2QWk5clFER0V2TGxidXo4cDRpdjEzQUVvSUhuVTQ2UFhNbTlvQ0hZcjd1NzhUOFZpTExzcDRmeEtFQXJCOG15dlF3TGxwMnlib3FuU21qUGs4aUNBV0JTQ3NJdE9sLXhJWEMza1FJeU1QSEhPV0M3UGfSAfsBQVVfeXFMTlcxOERPZGZTRGpvUTJla1ZTMTJkS01QQllVMHdtdm5wdzl5c0RXVVF6Z3hUcWg4RjJMWk5pbG12SklDYTEtMGlMek5XblY2NWFabEY1dzBoQXFXMlRIZXVmMTBic3pJcS1pdkhTM2JTbFBoU3NBNFF4ZkNoeFgxR0dla1BnNEJzS1FxajF0d3NGX3hDcm8xaGtwT3lQNW9lbVljODNGZHVzUVJuaG5hcjVSTEdyVlhKckZvSnhvVHdfMWZZZjk4MHdHMGVUdUFyWHRPRDdub2FwcjR1TEczbVpBTkhmeTl1YUtrbl9FY3lua0ItaWFqQTJRbEU?oc=5"
         },
         {
-          "title": "Reliance Retail faces FDA crackdown again; action also on Blinkit-linked facility",
-          "source": "The Economic Times",
-          "published": "18 Oct 2026, 09:02 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSE8zTFdoQzJwWnlhblNvOUU4b29HdENvT0RDYlZvTGltWkVLQXZVRVF2R2NVc3dtM2FJbndqN0dZaF8tUXlnU0lyejI0V2lERjVTUE5nQmRWNlBDNkZxZUFvWElnUXZ3LXlveGVfMmpjWEg5QU5RZE9DMS1HLUZtMm5STHp3YjcwengwYUlnYVdKc0RrYW9mdDNPMVpBSHVYajVfWmdCck5wU2k4akpSaTdFTW1qMzdON2JvMGhlZGE1SkhxNnYyaWFFX0hXR2x6ZENRSVM3SHpXZTVrZG5abXZqMERQSVJnWlFaSDVrUkPSAfYBQVVfeXFMTUtRNFpYdy0wOE1TVkY3WW5JTEJoWVFNWktYVzFUXzg4QmgyeTBwaXQtbmwxblZ5NmFyWWM1RmYtem9EQVB6X0lKSWFZR1c5OGZFcWJTSGFoeTdMd2JaelI5ZWNVRy11VnR5Y2N2MWZ6eTY2LXlyOGdfbVFsbXZ5dzJlTjB5NkVBYmpoMHYyX3JSdlY0WU91bWhhS3h1N084MzlxQXhOMXo4SVFLNDhiOVZLVHFnUi1jV1poTWZvVjRBeGlEUzF1YVRQSHg1QkVIbjhTOXBxdGR1WGp2R09LeF9FcGVadmF6NlJ1TVAzMzRqVG9BNWtR?oc=5"
-        },
-        {
-          "title": "Reliance and Blinkit executives face FIR in food safety case",
+          "title": "Reliance Consumer and Blinkit executives face FIR in food safety case",
           "source": "The Economic Times",
           "published": "18 Oct 2026, 12:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDBtQ1BmVEF6UWo2NHNUdExkdDRkWExWRHFWc0xGR3RHN1B6UGFuOUdYWGt5TjZiTmwySDZsMTgxZG1TVm1JT0lPTjJXU1djZU5IZ0VzYXpGV3ZmSEZlNkVqWVFmZnBlLVpobHJVTFZmWnNROEdsMWV5ZXZrbXo5UDg4c2hUVkdFRm5MV2VFdGQycS1WcU1wTGZhWHN5OTJhaGZuREplQmJwZnlrdEFzai00czZIS0ZNZ0ZnTWVmdHlQeVRySFFIUjZ1eGE1dG9zUHhjY3dxRldvYzJWT0txaWtQcHBfZ9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZlJZd292Q0JYc0lPWmJURnF6NTNwS0pGQnV3UXZtRl8ybTJSYUE4MndTQmFGX0JFU0FabGVIbERNYmYwSDZPX3NNUzVPaHZLRDlUMmlhTGRQaHVybmpObmZhdEVMdFpoaS1pRXlfSFh1dW5qMFRGTmlwSWN5MVJISmQ5STkxUHdZbTlBSEFHT1EwV2o5cVlKUE04Uk5WYVJtU1VKTEs4a2N4YTVyRWVXZDJTcFlSU29GeTY5VGR3OGVHZzdNN2pKdjNPRV9XYVVHc3V3UUo2RXZwWVJlUWN4YlNCRzZHcjE3LVB4QWdYSno1d9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5"
         },
         {
           "title": "Reliance Consumer Director, Blinkit officials among 10 booked in expired-food probe",
           "source": "BusinessLine",
           "published": "17 Oct 2026, 07:00 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzM5SEljN3g4MlRBOVJMOHkzX0YtM1NMRzNSVi1KOFVJMFQxLUtkRlJVUEZGTzZjYWd1bV93cHRCcXJyX2FMaTZUdldHUDNIX1czR3daeDJrRGxtT0RCcGhJclRxV2xYNzI0al94NGdlYzdTamxqSjBCdE93T0w5NHF3b0tibjRnTEFFdkM1X1J2RHhVUWwzQXdjRFBEay02VVhQeWh0WFBWU243SVNkUW53ZTdQWW80MjVhb0NDRUdYSnkyMVJqbU1mbFFRanJWM1ZrYThjTk9ld2gt0gHjAUFVX3lxTFB1WGVPNWZ4QW16b0lmRDE5RGQxZld2QzRYM0pidVVEamdtLVVjZ1RMZlh0NTRUUHNxRUVYRFl5SVBHRVZjTEl3SmxDYWEtbHQ3NG9OUk1XWTFIbXVHU0FVRWdCRTZoZXIzeXpnZlR0cjZPWm55N2ctanRlVTJ4NWJRNDk1U2NDVV9SMlp3VEMyZnh3RjRycDBkQzN3aTBQalFWM2gyMEZvTkpWME1jZlFVbkg2NjZNMG1TYlRqRmlrOV9OMlBuTFp5UnVCWFd0MW5Rbnh6LXBNLWpOZEZUOFVibjd3?oc=5"
+        },
+        {
+          "title": "Maha FDA names Blinkit's Dhindsa, Reliance officials in expired food probe",
+          "source": "Business Standard",
+          "published": "17 Oct 2026, 06:07 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWZSaHhFTjlaRERWVk9kTFBIMGtUYkFXQU00ZlVnRDhXVk9WdHJzLUFrSzNNdkRnUC1vbmlUb1FDallzenB4QXdNVGxYLUoyT2dmTllBeE5BUHdsRGYzNE9nT3JwbXpqSjZWdGR0NXQtcFVBa2tsNHJoYnRfRXlMNXhFaXZoX3d0TXRNaUItSFVla1lvUVpqUjN6VDJwdkV5VE1VM0NzVmYwUmMxYXdBcTUwaDQ0a0xaTW1XejR3bGFDcWgyQTMtZHhOamxOR2o3cUxwcVJwT1bSAd4BQVVfeXFMTlVzd2tZUkthM1VBWGVYWnBnQWdGSkJudjB0bHk4ekI4bk51VFBnMjFiR3QzM3g0bzhqVzVWREpzd0VIX3RtZWdwcDN1Z21wY0NnV3hRQXFGRlJvR1M3dEg0NU5WTi05T2JMYi13RG5ONHY3RVpCS2N1MWY0b25uMUZxTTNyQ2V4cGtORWF0aVNYazVWcGxscU9aeFNaU3ZlM3c1Rm05b3JiMHBJV3phd2JaVFUwTGZWUzlFM09YdWVzS3FyXzc2ck1ZZVQ1UUhHNy0tbXdDWm1qUTd0eXdn?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 32.35
+      "weight_pct": 32.27
     },
     {
       "key": "maruti",
@@ -157,24 +157,24 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11490.0,
+        "close": 11475.0,
         "prev_close": 11489.0,
-        "day_change_pct": 0.01,
+        "day_change_pct": -0.12,
         "open": 11510.0,
         "high": 11702.0,
-        "low": 11450.0,
-        "intraday_range_pct": 2.19,
-        "volume": 374718,
+        "low": 11440.0,
+        "intraday_range_pct": 2.28,
+        "volume": 463984,
         "avg_volume_20d": 459379,
-        "volume_vs_avg": 0.82,
-        "volatility_20d_annualised_pct": 25.13,
+        "volume_vs_avg": 1.01,
+        "volatility_20d_annualised_pct": 25.12,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3332100.0,
-        "pnl_inr": 290.0,
-        "pnl_pct": 0.01
+        "market_value": 3327750.0,
+        "pnl_inr": -4060.0,
+        "pnl_pct": -0.12
       },
       "news": [
         {
@@ -194,16 +194,10 @@
           "source": "NDTV Profit",
           "published": "17 Oct 2026, 03:59 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5"
-        },
-        {
-          "title": "Why the Toyota Glanza demands a premium over the Maruti Baleno",
-          "source": "The Financial Express",
-          "published": "17 Oct 2026, 06:02 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkkzeWdSRjEzQ1RVWVJNS2hwSFk2X3RYX0dtVkJnWXFDejRMbW8tOXNtdGlTTDlqVUMxaU1JUHQzems1ZWItZV96SnAzck5PbjlINEFVNERGTnlqUUdVUS1BQjYxaVRDUXJPWWc2Rk9uZks5aVBxdmxkNzFoMno2T3R4VE9RbjhBc2pWQWloV2UxMHNwQWlYWENzY1RyeFpnUC1QLUxEd21EbnRjYWEwR3pOMDBpVTlVSWfSAcABQVVfeXFMTXdIM05hU3F2cXFUUlVXX2hqc2NMNHJCNVN6OFNPcXhrOUhnY2F5elpOVFRieUs2YVlXd0FiTDdEVzhjUEFQZ1hwYVhiand1Y0hORjVQQTQwOXB2cTJpbl9QV2ViUzhIQWFicGVFSkRLVmJueHlLR0tPb2Fyc1ZYUUJFd1gzZjlaQTRTSEhGbVlsOExwQjB5UUtvOS13UnBCNGQ5ZGE4RHhMRngzQVJNWFhHaTFkTUR2UG10dnNId3Vu?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 32.74
+      "weight_pct": 32.73
     },
     {
       "key": "ashok",
@@ -213,22 +207,22 @@
       "bse_code": "500477",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 147.81,
+        "close": 147.72,
         "prev_close": 148.91,
-        "day_change_pct": -0.74,
+        "day_change_pct": -0.8,
         "open": 148.32,
         "high": 149.4,
-        "low": 147.33,
-        "intraday_range_pct": 1.39,
-        "volume": 7348806,
+        "low": 147.21,
+        "intraday_range_pct": 1.47,
+        "volume": 8609216,
         "avg_volume_20d": 12650944,
-        "volume_vs_avg": 0.58,
-        "volatility_20d_annualised_pct": 27.41,
+        "volume_vs_avg": 0.68,
+        "volatility_20d_annualised_pct": 27.42,
         "high_52w": 211.92,
         "low_52w": 135.84,
         "shares": 1000,
-        "base_price": 147.81,
-        "market_value": 147810.0,
+        "base_price": 147.72,
+        "market_value": 147720.0,
         "pnl_inr": 0.0,
         "pnl_pct": 0.0
       },
@@ -247,59 +241,59 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 3479910.0,
-      "weight_pct": 34.19
+      "value": 3475470.0,
+      "weight_pct": 34.18
     },
     {
       "sector": "Consumer Internet",
-      "value": 3292230.81,
-      "weight_pct": 32.35
+      "value": 3280449.13,
+      "weight_pct": 32.27
     },
     {
       "sector": "Financials",
-      "value": 3250006.09,
-      "weight_pct": 31.93
+      "value": 3255264.0,
+      "weight_pct": 32.02
     },
     {
       "sector": "Cash",
-      "value": 155379.54,
+      "value": 155469.54,
       "weight_pct": 1.53
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 3479910.0,
-      "weight_pct": 34.19
+      "value": 3475470.0,
+      "weight_pct": 34.18
     },
     {
       "sector": "Consumer Internet",
-      "value": 3292230.81,
-      "weight_pct": 32.35
+      "value": 3280449.13,
+      "weight_pct": 32.27
     },
     {
       "sector": "Financials",
-      "value": 3250006.09,
-      "weight_pct": 31.93
+      "value": 3255264.0,
+      "weight_pct": 32.02
     },
     {
       "sector": "Cash",
-      "value": 155379.54,
+      "value": 155469.54,
       "weight_pct": 1.53
     }
   ],
   "performers": {
     "best_since_buy": {
-      "name": "Maruti Suzuki",
-      "pct": 0.01
+      "name": "Ashok Leyland",
+      "pct": 0.0
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -2.47
+      "pct": -2.31
     },
     "top_mover_today": {
       "name": "HDFC Bank",
-      "pct": -2.47
+      "pct": -2.31
     }
   },
   "transactions": [
@@ -353,16 +347,14 @@
       "name": "Ashok Leyland",
       "type": "BUY",
       "shares": 1000,
-      "price": 147.81,
-      "amount": 147810.0,
+      "price": 147.72,
+      "amount": 147720.0,
       "note": "Added at ~11:25 AM IST",
-      "provisional": true
+      "provisional": false
     }
   ],
   "closed_positions": [],
-  "data_quality": [
-    "A trade dated today uses the live market price; it will be fixed at the closing price after the market closes."
-  ],
+  "data_quality": [],
   "sources": {
     "prices": "Yahoo Finance via yfinance (unofficial)",
     "news": "Google News RSS + publisher RSS, trusted-publisher whitelist, 72h window",
