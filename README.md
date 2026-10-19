@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 19 Oct 2026, 01:32 PM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
+**Last updated:** 19 Oct 2026, 02:09 PM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -17,14 +17,14 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹1,01,89,889** |
-| Total P&L | **-₹1,10,111 (-1.07%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹1,10,111 |
+| Current value | **₹1,02,05,944** |
+| Total P&L | **-₹94,056 (-0.91%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹94,056 |
 | &nbsp;&nbsp;Realised (shares already sold) | ₹0 |
-| Today's change | -₹1,10,111 (-1.10%) |
-| Nifty 50 since start (same money invested) | -1.15% |
-| Outperformance vs Nifty 50 | +0.08% |
-| Cash (uninvested) | ₹1,54,730 |
+| Today's change | -₹94,056 (-0.94%) |
+| Nifty 50 since start (same money invested) | -1.08% |
+| Outperformance vs Nifty 50 | +0.17% |
+| Cash (uninvested) | ₹1,54,920 |
 | Virtual money put in | ₹1,03,00,000 |
 
 ![Portfolio vs Nifty](charts/portfolio_vs_nifty.png)
@@ -35,12 +35,12 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹709.00 | -2.72% | ₹32,41,548 | 31.8% | -₹90,754 | -2.72% |
-| Eternal (Zomato) | 10,245 | ₹325.30 | ₹322.25 | -0.94% | ₹33,01,451 | 32.4% | -₹31,247 | -0.94% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,530.00 | +0.36% | ₹33,43,700 | 32.8% | ₹11,890 | +0.36% |
-| Ashok Leyland | 1,000 | ₹148.46 | ₹148.46 | -0.30% | ₹1,48,460 | 1.5% | ₹0 | +0.00% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹710.70 | -2.49% | ₹32,49,320 | 31.8% | -₹82,982 | -2.49% |
+| Eternal (Zomato) | 10,245 | ₹325.30 | ₹323.20 | -0.65% | ₹33,11,184 | 32.4% | -₹21,514 | -0.65% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,525.00 | +0.31% | ₹33,42,250 | 32.8% | ₹10,440 | +0.31% |
+| Ashok Leyland | 1,000 | ₹148.27 | ₹148.27 | -0.43% | ₹1,48,270 | 1.4% | ₹0 | +0.00% |
 
-**Best since buy:** Maruti Suzuki (+0.36%)  ·  **Worst since buy:** HDFC Bank (-2.72%)  ·  **Biggest mover today:** HDFC Bank (-2.72%)
+**Best since buy:** Maruti Suzuki (+0.31%)  ·  **Worst since buy:** HDFC Bank (-2.49%)  ·  **Biggest mover today:** HDFC Bank (-2.49%)
 
 ## Allocation
 
@@ -48,10 +48,10 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹34,92,160 | 34.3% |
-| Consumer Internet | ₹33,01,451 | 32.4% |
-| Financials | ₹32,41,548 | 31.8% |
-| Cash | ₹1,54,730 | 1.5% |
+| Automobiles | ₹34,90,520 | 34.2% |
+| Consumer Internet | ₹33,11,184 | 32.4% |
+| Financials | ₹32,49,320 | 31.8% |
+| Cash | ₹1,54,920 | 1.5% |
 
 ## Performance
 
@@ -63,7 +63,7 @@ _▲ buy · ▼ sell_
 
 | Date | Stock | Type | Shares | Price | Amount | Note |
 |---|---|---|---:|---:|---:|---|
-| 2026-10-19 | Ashok Leyland | BUY | 1,000 | ₹148.46* | ₹1,48,460 | Added at ~11:25 AM IST |
+| 2026-10-19 | Ashok Leyland | BUY | 1,000 | ₹148.27* | ₹1,48,270 | Added at ~11:25 AM IST |
 | 2026-10-19 | - | DEPOSIT | - | - | ₹3,00,000 | Fresh virtual money to fund Ashok Leyland |
 | 2026-10-16 | Maruti Suzuki | BUY | 290 | ₹11,489.00 | ₹33,31,810 | Initial allocation |
 | 2026-10-16 | Eternal (Zomato) | BUY | 10,245 | ₹325.30 | ₹33,32,698 | Initial allocation |
@@ -91,7 +91,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹709.00 | -2.72% | ₹708.30 - ₹733.40 | 21,330,423 | 30,961,951 | 0.69x | 24.28% | ₹687.10 - ₹1,009.50 |
+| ₹710.70 | -2.49% | ₹707.15 - ₹733.40 | 24,554,734 | 30,961,951 | 0.79x | 23.96% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -124,7 +124,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹322.25 | -0.94% | ₹321.90 - ₹327.10 | 11,805,865 | 21,352,242 | 0.55x | 27.42% | ₹215.68 - ₹342.65 |
+| ₹323.20 | -0.65% | ₹321.60 - ₹327.10 | 12,585,068 | 21,352,242 | 0.59x | 27.32% | ₹215.68 - ₹342.65 |
 
 **Research reports**
 
@@ -139,11 +139,11 @@ _No fully closed positions yet._
 
 <details><summary><b>Latest news (trusted publishers only)</b></summary>
 
+- [Eternal Q2 preview: Brokerages expect market share gains, steady margins](https://www.business-standard.com/markets/news/eternal-q2-preview-brokerages-expect-market-share-gains-steady-margins-126101900471_1.html) - _Business Standard, 19 Oct 2026, 01:58 PM IST_
 - [Tukaram Mundhe-led FDA cracks down on Reliance warehouse, Blinkit-linked facility; flags ‘cockroaches, spitting’](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmUtVnN2RTB5eUJwZWlac0FxWWNYNDdMa3pBOXZFd2pYN25wT0tPV0pKN1VZVlluQ2s5Z3NKQTdFeE1TVTNCTVhVeVd3c3VNRXdFOEdWQ2V3T051VE9ETGNJUHAzVzJBaU9XTGtMY2RWUW1FMjFHYWFETEVYZUV2YXNKdVp2QWk5clFER0V2TGxidXo4cDRpdjEzQUVvSUhuVTQ2UFhNbTlvQ0hZcjd1NzhUOFZpTExzcDRmeEtFQXJCOG15dlF3TGxwMnlib3FuU21qUGs4aUNBV0JTQ3NJdE9sLXhJWEMza1FJeU1QSEhPV0M3UGfSAfsBQVVfeXFMTlcxOERPZGZTRGpvUTJla1ZTMTJkS01QQllVMHdtdm5wdzl5c0RXVVF6Z3hUcWg4RjJMWk5pbG12SklDYTEtMGlMek5XblY2NWFabEY1dzBoQXFXMlRIZXVmMTBic3pJcS1pdkhTM2JTbFBoU3NBNFF4ZkNoeFgxR0dla1BnNEJzS1FxajF0d3NGX3hDcm8xaGtwT3lQNW9lbVljODNGZHVzUVJuaG5hcjVSTEdyVlhKckZvSnhvVHdfMWZZZjk4MHdHMGVUdUFyWHRPRDdub2FwcjR1TEczbVpBTkhmeTl1YUtrbl9FY3lua0ItaWFqQTJRbEU?oc=5) - _Livemint, 18 Oct 2026, 11:25 PM IST_
 - [Reliance Retail faces FDA crackdown again; action also on Blinkit-linked facility](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSE8zTFdoQzJwWnlhblNvOUU4b29HdENvT0RDYlZvTGltWkVLQXZVRVF2R2NVc3dtM2FJbndqN0dZaF8tUXlnU0lyejI0V2lERjVTUE5nQmRWNlBDNkZxZUFvWElnUXZ3LXlveGVfMmpjWEg5QU5RZE9DMS1HLUZtMm5STHp3YjcwengwYUlnYVdKc0RrYW9mdDNPMVpBSHVYajVfWmdCck5wU2k4akpSaTdFTW1qMzdON2JvMGhlZGE1SkhxNnYyaWFFX0hXR2x6ZENRSVM3SHpXZTVrZG5abXZqMERQSVJnWlFaSDVrUkPSAfYBQVVfeXFMTUtRNFpYdy0wOE1TVkY3WW5JTEJoWVFNWktYVzFUXzg4QmgyeTBwaXQtbmwxblZ5NmFyWWM1RmYtem9EQVB6X0lKSWFZR1c5OGZFcWJTSGFoeTdMd2JaelI5ZWNVRy11VnR5Y2N2MWZ6eTY2LXlyOGdfbVFsbXZ5dzJlTjB5NkVBYmpoMHYyX3JSdlY0WU91bWhhS3h1N084MzlxQXhOMXo4SVFLNDhiOVZLVHFnUi1jV1poTWZvVjRBeGlEUzF1YVRQSHg1QkVIbjhTOXBxdGR1WGp2R09LeF9FcGVadmF6NlJ1TVAzMzRqVG9BNWtR?oc=5) - _The Economic Times, 18 Oct 2026, 09:02 PM IST_
 - [Reliance and Blinkit executives face FIR in food safety case](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDBtQ1BmVEF6UWo2NHNUdExkdDRkWExWRHFWc0xGR3RHN1B6UGFuOUdYWGt5TjZiTmwySDZsMTgxZG1TVm1JT0lPTjJXU1djZU5IZ0VzYXpGV3ZmSEZlNkVqWVFmZnBlLVpobHJVTFZmWnNROEdsMWV5ZXZrbXo5UDg4c2hUVkdFRm5MV2VFdGQycS1WcU1wTGZhWHN5OTJhaGZuREplQmJwZnlrdEFzai00czZIS0ZNZ0ZnTWVmdHlQeVRySFFIUjZ1eGE1dG9zUHhjY3dxRldvYzJWT0txaWtQcHBfZ9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5) - _The Economic Times, 18 Oct 2026, 12:00 AM IST_
 - [Reliance Consumer Director, Blinkit officials among 10 booked in expired-food probe](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzM5SEljN3g4MlRBOVJMOHkzX0YtM1NMRzNSVi1KOFVJMFQxLUtkRlJVUEZGTzZjYWd1bV93cHRCcXJyX2FMaTZUdldHUDNIX1czR3daeDJrRGxtT0RCcGhJclRxV2xYNzI0al94NGdlYzdTamxqSjBCdE93T0w5NHF3b0tibjRnTEFFdkM1X1J2RHhVUWwzQXdjRFBEay02VVhQeWh0WFBWU243SVNkUW53ZTdQWW80MjVhb0NDRUdYSnkyMVJqbU1mbFFRanJWM1ZrYThjTk9ld2gt0gHjAUFVX3lxTFB1WGVPNWZ4QW16b0lmRDE5RGQxZld2QzRYM0pidVVEamdtLVVjZ1RMZlh0NTRUUHNxRUVYRFl5SVBHRVZjTEl3SmxDYWEtbHQ3NG9OUk1XWTFIbXVHU0FVRWdCRTZoZXIzeXpnZlR0cjZPWm55N2ctanRlVTJ4NWJRNDk1U2NDVV9SMlp3VEMyZnh3RjRycDBkQzN3aTBQalFWM2gyMEZvTkpWME1jZlFVbkg2NjZNMG1TYlRqRmlrOV9OMlBuTFp5UnVCWFd0MW5Rbnh6LXBNLWpOZEZUOFVibjd3?oc=5) - _BusinessLine, 17 Oct 2026, 07:00 PM IST_
-- [FDA crackdown: FIR against Reliance Consumer Products, Reliance Retail, Blinkit, Zomato Hyperpure officials; here's why](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVWlnVkVLVUhqUDk2Q3ZUeVQxbzFiSWxtZ3l0b2ZzT0EyRTNTS1lEU3M4R2k0VHJXQjlYV0d3dEJOZFJiV3lTRGdjd3d4U2ZEYnJMMmxEbl8zMjVManJlbTljTTczeld3OHVtZV90eHRqb3dyZkhwQTVPMTFNUTN4WFNmWEU0bjZBc2F5WERoOFZIWjhWUU1zbm9adWNKeWZneTgtMnJaLUVKTEd1c2oyLUlLZFhSZ1htOUlpU1dIcDBpZUowc3RGOTdEUnFCM1Naem9rUXo0aTE0bGhrTGtOc3Y5YzRON0lEUTBrY19CeGxNU2ZCTXoxNHJUTnA1QdIBgwJBVV95cUxNR0dXYmNHQVdtaDl2SVRiR3pFaU9sNkZmb1ZISGx2bUtvLXNxZmtkUmFJc3ZRZjQ0OURNX3JBU0FWeDRpQ2lfM3JrZmk0NllFeG9PZ0YzMjdNQ0lid3pRTlZ2N29acUJVZnVTd2JfVHJGQUtxREZNRW9yUGljSDg1S3BqMlBLb3BKUm5OR2NJVV9lNU1hTnQwRDFnbEc3V0g0Q0ROZ0MwejM5R1NJLTNPdXlNLVJ5cmhJbnZBSmJyNGNveXdLQ1Vlajh3OXg4Nms3OW1DbTRiUVE2OGdjclNZRmE0SjI4NjVOdjB2VVNkRjBQb3ppMlFWUjJzYTVZTEJocEZZ?oc=5) - _Livemint, 17 Oct 2026, 05:44 PM IST_
 
 </details>
 
@@ -157,7 +157,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,530.00 | +0.36% | ₹11,450.00 - ₹11,702.00 | 332,616 | 459,379 | 0.72x | 25.21% | ₹11,178.00 - ₹17,292.00 |
+| ₹11,525.00 | +0.31% | ₹11,450.00 - ₹11,702.00 | 359,327 | 459,379 | 0.78x | 25.20% | ₹11,178.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -172,11 +172,11 @@ _No fully closed positions yet._
 
 <details><summary><b>Latest news (trusted publishers only)</b></summary>
 
+- [Maruti Suzuki festive discounts: Save up to ₹1.36 lakh on Grand Vitara, Fronx, Nexa cars? Here's the catch](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejZfTm5jbzZnTzc5cWpreFNMaW1QWjlLanJiZFUyazJHbjVKN1dpNDViMWhUTzR0cmoxSmpEb2tXdWxmRVJ6eFllZW5qMkJfVktyd0l2d3R4M1hiMk9LeWkyWkhMaWVBVVFJdkYwN2JoMlZoYndkUmpkU0l1ZDlObTVra1FhQjRvVFZUdHNVQzNLeWdjVVV3WW5XM3hWb1ZXZVVoVGs1cnRyZ1Fwa0RNb1RnMks0UE9fSjYtVEtiVzkyM0RuZ05VRmNGdjJwX09GTExiZ0VhSXRKVTVqaWhoUGVEczRUT2Q3NVBfaFlvTdIB9AFBVV95cUxQRC1tVGZBZHBhSUlCTElfajMxM3kxcmhhM1lqWmJaRHRENWtiRzdDMGR3RzM3cG9CZEVfNENRZmZjUF9SR20yUll4N1NsS25FdGNZSk0xQ3hVZmRDcmR4cnZmNlVLY19mWVY5dlJ4TUVLcFZZeVd3WjhKbERYekVrYjNDZ04wM05OSTgzQU9wVUdtRE5oUEMtd1RVaU8wcHFRa01PZkZQWXZKN3luLWlYc2taSWpFRmlCZldhMngzaS02SC10cnlxVGNKZHltYWpkWmhvVXN1NTBOVEZtV0djcTlDdUhTRHY5Vlhzc2NRLWtPVUE0?oc=5) - _Livemint, 19 Oct 2026, 01:39 PM IST_
 - [Maruti Suzuki expands Integrated Traffic Management System initiative in Gurugram](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQnh6TE5aVHQ0cmZtNF9jV2Ryb2NrU3JEUjQ2djZ0UGg1ajJSMTJnTVFIcWtJMXgyeFRoTlhNTjlxamlBNWFsa1hFOC1ndGdwUW9RODhJOHBMeTA5WTFnWUJMa0dxMTRiYThObWVvTmFjRjJWLW9NcHU5cmZ5bDhwV0hKZ1lmMmFBc3NERmd6bVo3Zk0zVV9CS3dna3k3Uk9fXzFXdWJpSHJ1UUNkMlljU2tHbFd3WVcwWFNwQUp0SkxSZlNQSlFDNmpjcVItYTFFWlNVZDhnNW56NWNGeUZMejNyNV8yZ0RwVUVsRNIB8wFBVV95cUxQN3JrVGhYdTRYNUl5Yjl1cVZTbzJFQmk0QUlCQmkzMXpCckRTTmNGc25CdG03SDd1bTZzSW1EcmdmVHlXSUtOaTZqR3JEZkZnbkt4dW5PX0tQVVlCaVdLbVRiSkk5aDJYYmhwRVNIbDFlZjdpbWQ2YUliZWxYNEo1MmxJN0lyUGU4X2lSU2h5UlhpRGdLSkE3Qm1nbjVvTWxJV1BJZE8zVW42VWUwZ0lUTElpUFdIOF9LN09GUzJDN3V2XzdzellfNHFsU3ItbkpSSTFFdEpNLW9yaDFnZHdoUmRWdUJZVk9SaDJYaGpPMWNvSXM?oc=5) - _BusinessLine, 19 Oct 2026, 01:10 PM IST_
 - [Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY0drVmhyWkFNUFV2ZFc5TlRWa0pTRlUtaWlqeVo2MGxDRk5BR0h4NjJuUVdfSjRlRWVoQUgwLS1NeUd6Y1dCeWVRTXh0c2JiODBoVnFPNmthNHN2MFZSdnFzMnFyNjR5VzFqbEFnYlYweU1scjI5TXVDSVFPV1RkVEd4SEpZUVV4ekdiTkVkODloemJBcno4WS00NDBNc1pFdmsyOUNkU21Pcmc4aU1Ud2otMUV0OUwtODBLazB3T0l3M3RXQkd2bFNnV051ZWx4VXNwQmxqb2FYRUI3TTVwNnlTYVBxZTVKVmfSAe8BQVVfeXFMTlZVeEtHT2ppVTNSbTkyZDN0a3BYRjhERzluRGhWOUJvQ1Y2UmtmSTREWTIwS3JQdHhlT0RnalNkQjlaSVhQNDROVExMSEpwR1U5d1RIV0RKYUJ0NDhnaTF1TGhjWEFQU21QVkxOYjNRekNkRFVUM1YtaDlVdmI2ZV9Hbklpb2xjQVNTZlVhbllVZWowZ2NPMW92UElyMzNNOUExWnJaUnVBYUVFOHk5YnB2SG9BTnhuT2ZpZ01SNDFMUW9QWVZIekJSOFNiNTd6RkdOMTRlMUdkS0MzM1daR25XYTY1YmpqVDFBWG5IcDA?oc=5) - _Moneycontrol.com, 19 Oct 2026, 09:32 AM IST_
 - [New Renault Duster Hybrid Launched: How Does It Compare With Maruti Vitara? Check Price, Range And More](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5) - _NDTV Profit, 17 Oct 2026, 03:59 PM IST_
 - [Maruti Suzuki reclaims 40% market share in H1 FY27; Tata overtakes Mahindra as Hyundai slips](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUGszWVZJbWhxWTdtS1ljckRuQ3E1OW5uMGw1bmh5UDZ0RTVEbWoxNTZ5VnFCWGpQU0ZUWWZNVjBibUE1eEZKeVBhLXJnX1RSaUdfQ19NYjhLWlc5VzlyN1ZCOUV0UC1lZ0JaV1ZHS3NtWXJuSVRhc0h1S1BsUm5CdThWbFVzTm1YaUhBS2dtOG15Y3YtQVVhdFFzNXRjYWRjeFBPazBwbGgwQTFPNFR4ckJneUdRWC1DTWpTZkJrMWhlUHhsVUlmZHFKVkRBeUkzSEcyN3ZLOGRnNmotRHBxWDhjSndjdknSAewBQVVfeXFMT3poSUhycVZFVUtxOFlyRUoyYUlwWG5KVWJad1prTzJRcGlKNVc0TEhDNlVOTGpSN2RVRHY2OTJmUERDNU1VVnE5Umg4bFRtN0cwSi1qLUhDYnZHX244cVk4Z3VpWHU5MXhMMFRqYm0wVmVtVGdIcE11RE5IZ0hKU1ZVZ0RnSWFZbG9TRWxmcnUweDBneFRCc2syVy13a3hBM2pUMjE4SUlBb3g5ajdLR1lyZVRWcDBQcWp3LXJ0LUlkaXJkZzZuSFhvTkl1cTVPNWxzamFnNE4xcFVNWk9CaVlRVm9jRWc3aXp5bGc?oc=5) - _Moneycontrol.com, 16 Oct 2026, 02:30 PM IST_
-- [Mahindra takes on Tata, Maruti in CNG SUV race with XUV 3XO](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU19QblNJT0pfbWhjVGhxYlZibHVZS3pib19teTU4dWlTT0xiaFFBU0hjRGtUV19WSThjVERUQnNDUExCQUVCMUhWQWhQM1FRbHFVSGRqS0Z6RjVPMGFoWDg4Qnk1QTBlbE9CTmFuYm5NYURNeV9zWmRGckx2TUxUOWxmZjZUN08ycXp2RklGZGJBS1ZraGF5M2EteUZCcnpmRE5BcGpVS1kzMEhIWVZCc0FMb0M3dE1iWHpIZzVHakVsRFHSAcoBQVVfeXFMTkRBRTlNTU85OFFhMW92T0lSc01NdHVNSlJBbEJJY3JwOVhZdDcySVh5N3hUU1YzWTBhdlBIU2UzeG5wUTZYU1YxbGtULXdKb2d6aXZZN3dCOXNmTjF0X1JGeU1kYlZfWEFLcHVVSEU5ejVyVlFkMGJqczN0X29uREZzbjJwX2NtNDAxSDBHWmFfaV9Ib2RYaGdUNnJPZC1pSlVIR29SMWdlVk1UOElHT2sxLU1hc2xDZTJVckd6TTgtV283d2lVUUREdw?oc=5) - _BusinessLine, 16 Oct 2026, 01:49 PM IST_
 
 </details>
 
@@ -190,7 +190,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹148.46 | -0.30% | ₹147.33 - ₹149.40 | 6,443,399 | 12,650,944 | 0.51x | 27.40% | ₹135.84 - ₹211.92 |
+| ₹148.27 | -0.43% | ₹147.33 - ₹149.40 | 6,840,972 | 12,650,944 | 0.54x | 27.39% | ₹135.84 - ₹211.92 |
 
 **Research reports**
 

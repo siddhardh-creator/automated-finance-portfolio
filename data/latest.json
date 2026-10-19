@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "19 Oct 2026, 01:32 PM IST",
+  "generated_at_ist": "19 Oct 2026, 02:09 PM IST",
   "as_of": "2026-10-19",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 10300000.0,
     "initial_capital": 10000000,
-    "invested": 10145270.47,
-    "holdings_value": 10035159.26,
-    "cash": 154729.53,
-    "value": 10189888.79,
-    "pnl_inr": -110111.21,
-    "pnl_pct": -1.07,
-    "unrealised_pnl_inr": -110111.21,
+    "invested": 10145080.47,
+    "holdings_value": 10051024.59,
+    "cash": 154919.53,
+    "value": 10205944.12,
+    "pnl_inr": -94055.88,
+    "pnl_pct": -0.91,
+    "unrealised_pnl_inr": -94055.88,
     "realised_pnl_inr": 0.0,
-    "day_pnl_inr": -110111.21,
-    "day_pnl_pct": -1.1,
+    "day_pnl_inr": -94055.88,
+    "day_pnl_pct": -0.94,
     "open_positions": 4
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22871.45,
-    "return_pct": -1.15,
-    "day_change_pct": -1.19
+    "close": 22888.4,
+    "return_pct": -1.08,
+    "day_change_pct": -1.11
   },
   "stocks": [
     {
@@ -33,24 +33,24 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 709.0,
+        "close": 710.7,
         "prev_close": 728.85,
-        "day_change_pct": -2.72,
+        "day_change_pct": -2.49,
         "open": 733.4,
         "high": 733.4,
-        "low": 708.3,
-        "intraday_range_pct": 3.44,
-        "volume": 21330423,
+        "low": 707.15,
+        "intraday_range_pct": 3.6,
+        "volume": 24554734,
         "avg_volume_20d": 30961951,
-        "volume_vs_avg": 0.69,
-        "volatility_20d_annualised_pct": 24.28,
+        "volume_vs_avg": 0.79,
+        "volatility_20d_annualised_pct": 23.96,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3241548.0,
-        "pnl_inr": -90754.09,
-        "pnl_pct": -2.72
+        "market_value": 3249320.46,
+        "pnl_inr": -82981.63,
+        "pnl_pct": -2.49
       },
       "news": [
         {
@@ -85,7 +85,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 31.81
+      "weight_pct": 31.84
     },
     {
       "key": "zomato",
@@ -95,26 +95,32 @@
       "bse_code": "543320",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 322.25,
+        "close": 323.2,
         "prev_close": 325.3,
-        "day_change_pct": -0.94,
+        "day_change_pct": -0.65,
         "open": 324.85,
         "high": 327.1,
-        "low": 321.9,
-        "intraday_range_pct": 1.6,
-        "volume": 11805865,
+        "low": 321.6,
+        "intraday_range_pct": 1.69,
+        "volume": 12585068,
         "avg_volume_20d": 21352242,
-        "volume_vs_avg": 0.55,
-        "volatility_20d_annualised_pct": 27.42,
+        "volume_vs_avg": 0.59,
+        "volatility_20d_annualised_pct": 27.32,
         "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3301451.25,
-        "pnl_inr": -31247.12,
-        "pnl_pct": -0.94
+        "market_value": 3311184.13,
+        "pnl_inr": -21514.25,
+        "pnl_pct": -0.65
       },
       "news": [
+        {
+          "title": "Eternal Q2 preview: Brokerages expect market share gains, steady margins",
+          "source": "Business Standard",
+          "published": "19 Oct 2026, 01:58 PM IST",
+          "link": "https://www.business-standard.com/markets/news/eternal-q2-preview-brokerages-expect-market-share-gains-steady-margins-126101900471_1.html"
+        },
         {
           "title": "Tukaram Mundhe-led FDA cracks down on Reliance warehouse, Blinkit-linked facility; flags ‘cockroaches, spitting’",
           "source": "Livemint",
@@ -138,16 +144,10 @@
           "source": "BusinessLine",
           "published": "17 Oct 2026, 07:00 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzM5SEljN3g4MlRBOVJMOHkzX0YtM1NMRzNSVi1KOFVJMFQxLUtkRlJVUEZGTzZjYWd1bV93cHRCcXJyX2FMaTZUdldHUDNIX1czR3daeDJrRGxtT0RCcGhJclRxV2xYNzI0al94NGdlYzdTamxqSjBCdE93T0w5NHF3b0tibjRnTEFFdkM1X1J2RHhVUWwzQXdjRFBEay02VVhQeWh0WFBWU243SVNkUW53ZTdQWW80MjVhb0NDRUdYSnkyMVJqbU1mbFFRanJWM1ZrYThjTk9ld2gt0gHjAUFVX3lxTFB1WGVPNWZ4QW16b0lmRDE5RGQxZld2QzRYM0pidVVEamdtLVVjZ1RMZlh0NTRUUHNxRUVYRFl5SVBHRVZjTEl3SmxDYWEtbHQ3NG9OUk1XWTFIbXVHU0FVRWdCRTZoZXIzeXpnZlR0cjZPWm55N2ctanRlVTJ4NWJRNDk1U2NDVV9SMlp3VEMyZnh3RjRycDBkQzN3aTBQalFWM2gyMEZvTkpWME1jZlFVbkg2NjZNMG1TYlRqRmlrOV9OMlBuTFp5UnVCWFd0MW5Rbnh6LXBNLWpOZEZUOFVibjd3?oc=5"
-        },
-        {
-          "title": "FDA crackdown: FIR against Reliance Consumer Products, Reliance Retail, Blinkit, Zomato Hyperpure officials; here's why",
-          "source": "Livemint",
-          "published": "17 Oct 2026, 05:44 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVWlnVkVLVUhqUDk2Q3ZUeVQxbzFiSWxtZ3l0b2ZzT0EyRTNTS1lEU3M4R2k0VHJXQjlYV0d3dEJOZFJiV3lTRGdjd3d4U2ZEYnJMMmxEbl8zMjVManJlbTljTTczeld3OHVtZV90eHRqb3dyZkhwQTVPMTFNUTN4WFNmWEU0bjZBc2F5WERoOFZIWjhWUU1zbm9adWNKeWZneTgtMnJaLUVKTEd1c2oyLUlLZFhSZ1htOUlpU1dIcDBpZUowc3RGOTdEUnFCM1Naem9rUXo0aTE0bGhrTGtOc3Y5YzRON0lEUTBrY19CeGxNU2ZCTXoxNHJUTnA1QdIBgwJBVV95cUxNR0dXYmNHQVdtaDl2SVRiR3pFaU9sNkZmb1ZISGx2bUtvLXNxZmtkUmFJc3ZRZjQ0OURNX3JBU0FWeDRpQ2lfM3JrZmk0NllFeG9PZ0YzMjdNQ0lid3pRTlZ2N29acUJVZnVTd2JfVHJGQUtxREZNRW9yUGljSDg1S3BqMlBLb3BKUm5OR2NJVV9lNU1hTnQwRDFnbEc3V0g0Q0ROZ0MwejM5R1NJLTNPdXlNLVJ5cmhJbnZBSmJyNGNveXdLQ1Vlajh3OXg4Nms3OW1DbTRiUVE2OGdjclNZRmE0SjI4NjVOdjB2VVNkRjBQb3ppMlFWUjJzYTVZTEJocEZZ?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 32.4
+      "weight_pct": 32.44
     },
     {
       "key": "maruti",
@@ -157,26 +157,32 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11530.0,
+        "close": 11525.0,
         "prev_close": 11489.0,
-        "day_change_pct": 0.36,
+        "day_change_pct": 0.31,
         "open": 11510.0,
         "high": 11702.0,
         "low": 11450.0,
         "intraday_range_pct": 2.19,
-        "volume": 332616,
+        "volume": 359327,
         "avg_volume_20d": 459379,
-        "volume_vs_avg": 0.72,
-        "volatility_20d_annualised_pct": 25.21,
+        "volume_vs_avg": 0.78,
+        "volatility_20d_annualised_pct": 25.2,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3343700.0,
-        "pnl_inr": 11890.0,
-        "pnl_pct": 0.36
+        "market_value": 3342250.0,
+        "pnl_inr": 10440.0,
+        "pnl_pct": 0.31
       },
       "news": [
+        {
+          "title": "Maruti Suzuki festive discounts: Save up to ₹1.36 lakh on Grand Vitara, Fronx, Nexa cars? Here's the catch",
+          "source": "Livemint",
+          "published": "19 Oct 2026, 01:39 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejZfTm5jbzZnTzc5cWpreFNMaW1QWjlLanJiZFUyazJHbjVKN1dpNDViMWhUTzR0cmoxSmpEb2tXdWxmRVJ6eFllZW5qMkJfVktyd0l2d3R4M1hiMk9LeWkyWkhMaWVBVVFJdkYwN2JoMlZoYndkUmpkU0l1ZDlObTVra1FhQjRvVFZUdHNVQzNLeWdjVVV3WW5XM3hWb1ZXZVVoVGs1cnRyZ1Fwa0RNb1RnMks0UE9fSjYtVEtiVzkyM0RuZ05VRmNGdjJwX09GTExiZ0VhSXRKVTVqaWhoUGVEczRUT2Q3NVBfaFlvTdIB9AFBVV95cUxQRC1tVGZBZHBhSUlCTElfajMxM3kxcmhhM1lqWmJaRHRENWtiRzdDMGR3RzM3cG9CZEVfNENRZmZjUF9SR20yUll4N1NsS25FdGNZSk0xQ3hVZmRDcmR4cnZmNlVLY19mWVY5dlJ4TUVLcFZZeVd3WjhKbERYekVrYjNDZ04wM05OSTgzQU9wVUdtRE5oUEMtd1RVaU8wcHFRa01PZkZQWXZKN3luLWlYc2taSWpFRmlCZldhMngzaS02SC10cnlxVGNKZHltYWpkWmhvVXN1NTBOVEZtV0djcTlDdUhTRHY5Vlhzc2NRLWtPVUE0?oc=5"
+        },
         {
           "title": "Maruti Suzuki expands Integrated Traffic Management System initiative in Gurugram",
           "source": "BusinessLine",
@@ -200,16 +206,10 @@
           "source": "Moneycontrol.com",
           "published": "16 Oct 2026, 02:30 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUGszWVZJbWhxWTdtS1ljckRuQ3E1OW5uMGw1bmh5UDZ0RTVEbWoxNTZ5VnFCWGpQU0ZUWWZNVjBibUE1eEZKeVBhLXJnX1RSaUdfQ19NYjhLWlc5VzlyN1ZCOUV0UC1lZ0JaV1ZHS3NtWXJuSVRhc0h1S1BsUm5CdThWbFVzTm1YaUhBS2dtOG15Y3YtQVVhdFFzNXRjYWRjeFBPazBwbGgwQTFPNFR4ckJneUdRWC1DTWpTZkJrMWhlUHhsVUlmZHFKVkRBeUkzSEcyN3ZLOGRnNmotRHBxWDhjSndjdknSAewBQVVfeXFMT3poSUhycVZFVUtxOFlyRUoyYUlwWG5KVWJad1prTzJRcGlKNVc0TEhDNlVOTGpSN2RVRHY2OTJmUERDNU1VVnE5Umg4bFRtN0cwSi1qLUhDYnZHX244cVk4Z3VpWHU5MXhMMFRqYm0wVmVtVGdIcE11RE5IZ0hKU1ZVZ0RnSWFZbG9TRWxmcnUweDBneFRCc2syVy13a3hBM2pUMjE4SUlBb3g5ajdLR1lyZVRWcDBQcWp3LXJ0LUlkaXJkZzZuSFhvTkl1cTVPNWxzamFnNE4xcFVNWk9CaVlRVm9jRWc3aXp5bGc?oc=5"
-        },
-        {
-          "title": "Mahindra takes on Tata, Maruti in CNG SUV race with XUV 3XO",
-          "source": "BusinessLine",
-          "published": "16 Oct 2026, 01:49 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU19QblNJT0pfbWhjVGhxYlZibHVZS3pib19teTU4dWlTT0xiaFFBU0hjRGtUV19WSThjVERUQnNDUExCQUVCMUhWQWhQM1FRbHFVSGRqS0Z6RjVPMGFoWDg4Qnk1QTBlbE9CTmFuYm5NYURNeV9zWmRGckx2TUxUOWxmZjZUN08ycXp2RklGZGJBS1ZraGF5M2EteUZCcnpmRE5BcGpVS1kzMEhIWVZCc0FMb0M3dE1iWHpIZzVHakVsRFHSAcoBQVVfeXFMTkRBRTlNTU85OFFhMW92T0lSc01NdHVNSlJBbEJJY3JwOVhZdDcySVh5N3hUU1YzWTBhdlBIU2UzeG5wUTZYU1YxbGtULXdKb2d6aXZZN3dCOXNmTjF0X1JGeU1kYlZfWEFLcHVVSEU5ejVyVlFkMGJqczN0X29uREZzbjJwX2NtNDAxSDBHWmFfaV9Ib2RYaGdUNnJPZC1pSlVIR29SMWdlVk1UOElHT2sxLU1hc2xDZTJVckd6TTgtV283d2lVUUREdw?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 32.81
+      "weight_pct": 32.75
     },
     {
       "key": "ashok",
@@ -219,22 +219,22 @@
       "bse_code": "500477",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 148.46,
+        "close": 148.27,
         "prev_close": 148.91,
-        "day_change_pct": -0.3,
+        "day_change_pct": -0.43,
         "open": 148.32,
         "high": 149.4,
         "low": 147.33,
         "intraday_range_pct": 1.39,
-        "volume": 6443399,
+        "volume": 6840972,
         "avg_volume_20d": 12650944,
-        "volume_vs_avg": 0.51,
-        "volatility_20d_annualised_pct": 27.4,
+        "volume_vs_avg": 0.54,
+        "volatility_20d_annualised_pct": 27.39,
         "high_52w": 211.92,
         "low_52w": 135.84,
         "shares": 1000,
-        "base_price": 148.46,
-        "market_value": 148460.01,
+        "base_price": 148.27,
+        "market_value": 148270.0,
         "pnl_inr": 0.0,
         "pnl_pct": 0.0
       },
@@ -247,65 +247,65 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 1.46
+      "weight_pct": 1.45
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 3492160.01,
-      "weight_pct": 34.27
+      "value": 3490520.0,
+      "weight_pct": 34.2
     },
     {
       "sector": "Consumer Internet",
-      "value": 3301451.25,
-      "weight_pct": 32.4
+      "value": 3311184.13,
+      "weight_pct": 32.44
     },
     {
       "sector": "Financials",
-      "value": 3241548.0,
-      "weight_pct": 31.81
+      "value": 3249320.46,
+      "weight_pct": 31.84
     },
     {
       "sector": "Cash",
-      "value": 154729.53,
+      "value": 154919.53,
       "weight_pct": 1.52
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 3492160.01,
-      "weight_pct": 34.27
+      "value": 3490520.0,
+      "weight_pct": 34.2
     },
     {
       "sector": "Consumer Internet",
-      "value": 3301451.25,
-      "weight_pct": 32.4
+      "value": 3311184.13,
+      "weight_pct": 32.44
     },
     {
       "sector": "Financials",
-      "value": 3241548.0,
-      "weight_pct": 31.81
+      "value": 3249320.46,
+      "weight_pct": 31.84
     },
     {
       "sector": "Cash",
-      "value": 154729.53,
+      "value": 154919.53,
       "weight_pct": 1.52
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Maruti Suzuki",
-      "pct": 0.36
+      "pct": 0.31
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -2.72
+      "pct": -2.49
     },
     "top_mover_today": {
       "name": "HDFC Bank",
-      "pct": -2.72
+      "pct": -2.49
     }
   },
   "transactions": [
@@ -359,8 +359,8 @@
       "name": "Ashok Leyland",
       "type": "BUY",
       "shares": 1000,
-      "price": 148.46,
-      "amount": 148460.01,
+      "price": 148.27,
+      "amount": 148270.0,
       "note": "Added at ~11:25 AM IST",
       "provisional": true
     }
