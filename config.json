@@ -84,6 +84,25 @@
         "detailed": "analysis/Ashok_Leyland_Detailed.pdf"
       },
       "sector": "Automobiles"
+    },
+    {
+      "key": "manorama",
+      "name": "Manorama Industries",
+      "tickers": [
+        "MANORAMA.NS"
+      ],
+      "weight": 0,
+      "bse_code": "541974",
+      "keywords": [
+        "manorama industries",
+        "manorama"
+      ],
+      "news_query": "\"Manorama Industries\"",
+      "reports": {
+        "one_pager": "analysis/Manorama_OnePager.pdf",
+        "detailed": "analysis/Manorama_Detailed.pdf"
+      },
+      "sector": "Specialty Fats (FMCG inputs)"
     }
   ],
   "trusted_sources": [

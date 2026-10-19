@@ -4,3 +4,5 @@ date,stock,type,shares,amount,price,note
 2026-10-16,maruti,BUY,,3334000,,Initial allocation
 2026-10-19,,DEPOSIT,,300000,,Fresh virtual money to fund Ashok Leyland
 2026-10-19,ashok,BUY,1000,,,Added at ~11:25 AM IST
+2026-10-19,,DEPOSIT,,1800000,,Fresh virtual money to fund Manorama Industries
+2026-10-19,manorama,BUY,1000,,,Added on 19-Oct-26 (CMP 1790.40 per Trendlyne)
