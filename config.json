@@ -66,6 +66,24 @@
         "detailed": "analysis/Maruti_Detailed.pdf"
       },
       "sector": "Automobiles"
+    },
+    {
+      "key": "ashok",
+      "name": "Ashok Leyland",
+      "tickers": [
+        "ASHOKLEY.NS"
+      ],
+      "weight": 0,
+      "bse_code": "500477",
+      "keywords": [
+        "ashok leyland"
+      ],
+      "news_query": "\"Ashok Leyland\"",
+      "reports": {
+        "one_pager": "analysis/Ashok_Leyland_OnePager.pdf",
+        "detailed": "analysis/Ashok_Leyland_Detailed.pdf"
+      },
+      "sector": "Automobiles"
     }
   ],
   "trusted_sources": [

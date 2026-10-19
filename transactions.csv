@@ -2,3 +2,5 @@ date,stock,type,shares,amount,price,note
 2026-10-16,hdfc,BUY,,3333000,,Initial allocation
 2026-10-16,zomato,BUY,,3333000,,Initial allocation
 2026-10-16,maruti,BUY,,3334000,,Initial allocation
+2026-10-19,,DEPOSIT,,300000,,Fresh virtual money to fund Ashok Leyland
+2026-10-19,ashok,BUY,1000,,,Added at ~11:25 AM IST
