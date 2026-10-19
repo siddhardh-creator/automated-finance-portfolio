@@ -1,27 +1,27 @@
 {
-  "generated_at_ist": "19 Oct 2026, 03:35 PM IST",
+  "generated_at_ist": "19 Oct 2026, 04:35 PM IST",
   "as_of": "2026-10-19",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
-    "capital": 10300000.0,
+    "capital": 12100000.0,
     "initial_capital": 10000000,
-    "invested": 10144530.46,
-    "holdings_value": 10011183.13,
-    "cash": 155469.54,
-    "value": 10166652.66,
+    "invested": 11941330.51,
+    "holdings_value": 11807983.18,
+    "cash": 158669.49,
+    "value": 11966652.66,
     "pnl_inr": -133347.34,
-    "pnl_pct": -1.29,
+    "pnl_pct": -1.1,
     "unrealised_pnl_inr": -133347.34,
     "realised_pnl_inr": 0.0,
     "day_pnl_inr": -133347.34,
     "day_pnl_pct": -1.33,
-    "open_positions": 4
+    "open_positions": 5
   },
   "benchmark": {
     "name": "Nifty 50",
     "close": 22888.95,
-    "return_pct": -1.08,
+    "return_pct": -0.92,
     "day_change_pct": -1.11
   },
   "stocks": [
@@ -40,7 +40,7 @@
         "high": 733.4,
         "low": 707.15,
         "intraday_range_pct": 3.6,
-        "volume": 33521753,
+        "volume": 33521732,
         "avg_volume_20d": 30961951,
         "volume_vs_avg": 1.08,
         "volatility_20d_annualised_pct": 23.74,
@@ -53,6 +53,12 @@
         "pnl_pct": -2.31
       },
       "news": [
+        {
+          "title": "Buy HDFC Bank; target of Rs 1050: Emkay Global Financial",
+          "source": "Moneycontrol.com",
+          "published": "19 Oct 2026, 01:50 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHo3Q0o2enphNUcwNXNfRXd0c3AzeHBVbnRMN0wxZXN4LWxlejFuOXJlWEp6UnRibFNvek9SVTJHZE0yMVhnS19RRFZvR0lYVHBrc2gzRldzbUUtOEVYdXJ3VDNuMXVFX1k1VzFadzk1TWRUQnhKRmJtT0VYWXRnUXpYa3JhZmxNRGV6WDlrc2NjTldMaGNQdW1LQVlvWlFDWURZNUpJODV1SXhTdGhWbkYyUWd5LXdJQUU3UtIBwgFBVV95cUxOeHBSajlhZWRZT1duMnMwY2lQNG4zWWdNd19PLVRfcnN2LUR3MXlSRExLcW40RENtZ1Z2VnJSX011REVFMldhcUhHRUR2NnZKUzBzZlN2TzdoMWpxX3o0YjRXanJZUV9WUXRMdlVBQl96bWVNanBiVnl4T0tOeldrUDRqQ0s4M3ZlZFFiTU9LVGZsc0NhT21nZjN5bmd5bmoxd1lub2x0R1k4dWR6YTM4dHd0RXplZkRDZ2RpS0drTHNFUQ?oc=5"
+        },
         {
           "title": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
           "source": "The Economic Times",
@@ -76,16 +82,10 @@
           "source": "Moneycontrol.com",
           "published": "19 Oct 2026, 11:05 AM IST",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtJU3djdTlUbW1YMlBiYk9abVVBOFhBUmxKTWszTERBRjc4aTE3UTliSzNGNTVielZLTXdSUDdCaHlVNWR5eUZZNlZMSndEYTU4cTFmMndTME14RUxJZ3VYUUgxTDBvdWNYaWR3Xzh6M3l3VmZYT012elNwVlRrQzJZSkxNUDVaNVhrY01vc1AyaUNGR2lTcy1zRHZvM2lWRlBPanlkYU9YS19wRGdZ0gGvAUFVX3lxTE0ta0lTd2N1OVRtbVgyUGJiT1ptVUE4WEFSbEpNazNMREFGNzhpMTdROWJLM0Y1NWJ6VktNd1JQN0JoeVU1ZHl5Rlk2VkxKd0RhNThxMWYyd1MwTXhFTElndVhRSDFMMG91Y1hpZHdfOHozeXdWZlhPTXZ6U3BWVGtDMllKTE1QNVo1WGtjTW9zUDJpQ0ZHaVNzLXNEdm8zaVZGUE9qeWRhT1hLX3BEZ1k?oc=5"
-        },
-        {
-          "title": "Buzzing Stocks: Urban Company slumps 9% on widening Q2 losses; HDFC Bank jumps 2% on better earnings",
-          "source": "Moneycontrol.com",
-          "published": "19 Oct 2026, 11:04 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQS0zYVBnaUJ3Q0tPSzhxUHotSEJaeVZuZVJCckl2SFhqakU5T0hPcTdySWtrVWtOUlpFS0xCM3lfM29hZkx3QlliT0NoLVU2VkRaWXhtSHhCQ1ZIaDZ5S0Q5SEp1ckdPR21lUDAzcWlNaUZEV0l2Y2xVSk9BT1Fnbm9NblZSS0J6Z2d5LXNFY0tOajhWenctMTBIcTZmaUxLQmVTbFVic2hoejBucWJLWTZ4aHIwV1hHTXV0QnBMMTFBWWdHV3poMEpsLVBxQ19MVG12X3hJQkpOaEl3VkpGVTJndi13dVhyc1BNdHFOb2JhUlIyY2JjR9IB-AFBVV95cUxQQS0zYVBnaUJ3Q0tPSzhxUHotSEJaeVZuZVJCckl2SFhqakU5T0hPcTdySWtrVWtOUlpFS0xCM3lfM29hZkx3QlliT0NoLVU2VkRaWXhtSHhCQ1ZIaDZ5S0Q5SEp1ckdPR21lUDAzcWlNaUZEV0l2Y2xVSk9BT1Fnbm9NblZSS0J6Z2d5LXNFY0tOajhWenctMTBIcTZmaUxLQmVTbFVic2hoejBucWJLWTZ4aHIwV1hHTXV0QnBMMTFBWWdHV3poMEpsLVBxQ19MVG12X3hJQkpOaEl3VkpGVTJndi13dVhyc1BNdHFOb2JhUlIyY2JjRw?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 32.02
+      "weight_pct": 27.2
     },
     {
       "key": "zomato",
@@ -102,9 +102,9 @@
         "high": 327.1,
         "low": 319.5,
         "intraday_range_pct": 2.34,
-        "volume": 18721690,
+        "volume": 17848709,
         "avg_volume_20d": 21352242,
-        "volume_vs_avg": 0.88,
+        "volume_vs_avg": 0.84,
         "volatility_20d_annualised_pct": 27.78,
         "high_52w": 342.65,
         "low_52w": 215.68,
@@ -128,10 +128,10 @@
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmUtVnN2RTB5eUJwZWlac0FxWWNYNDdMa3pBOXZFd2pYN25wT0tPV0pKN1VZVlluQ2s5Z3NKQTdFeE1TVTNCTVhVeVd3c3VNRXdFOEdWQ2V3T051VE9ETGNJUHAzVzJBaU9XTGtMY2RWUW1FMjFHYWFETEVYZUV2YXNKdVp2QWk5clFER0V2TGxidXo4cDRpdjEzQUVvSUhuVTQ2UFhNbTlvQ0hZcjd1NzhUOFZpTExzcDRmeEtFQXJCOG15dlF3TGxwMnlib3FuU21qUGs4aUNBV0JTQ3NJdE9sLXhJWEMza1FJeU1QSEhPV0M3UGfSAfsBQVVfeXFMTlcxOERPZGZTRGpvUTJla1ZTMTJkS01QQllVMHdtdm5wdzl5c0RXVVF6Z3hUcWg4RjJMWk5pbG12SklDYTEtMGlMek5XblY2NWFabEY1dzBoQXFXMlRIZXVmMTBic3pJcS1pdkhTM2JTbFBoU3NBNFF4ZkNoeFgxR0dla1BnNEJzS1FxajF0d3NGX3hDcm8xaGtwT3lQNW9lbVljODNGZHVzUVJuaG5hcjVSTEdyVlhKckZvSnhvVHdfMWZZZjk4MHdHMGVUdUFyWHRPRDdub2FwcjR1TEczbVpBTkhmeTl1YUtrbl9FY3lua0ItaWFqQTJRbEU?oc=5"
         },
         {
-          "title": "Reliance Consumer and Blinkit executives face FIR in food safety case",
+          "title": "Reliance and Blinkit executives face FIR in food safety case",
           "source": "The Economic Times",
           "published": "18 Oct 2026, 12:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZlJZd292Q0JYc0lPWmJURnF6NTNwS0pGQnV3UXZtRl8ybTJSYUE4MndTQmFGX0JFU0FabGVIbERNYmYwSDZPX3NNUzVPaHZLRDlUMmlhTGRQaHVybmpObmZhdEVMdFpoaS1pRXlfSFh1dW5qMFRGTmlwSWN5MVJISmQ5STkxUHdZbTlBSEFHT1EwV2o5cVlKUE04Uk5WYVJtU1VKTEs4a2N4YTVyRWVXZDJTcFlSU29GeTY5VGR3OGVHZzdNN2pKdjNPRV9XYVVHc3V3UUo2RXZwWVJlUWN4YlNCRzZHcjE3LVB4QWdYSno1d9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDBtQ1BmVEF6UWo2NHNUdExkdDRkWExWRHFWc0xGR3RHN1B6UGFuOUdYWGt5TjZiTmwySDZsMTgxZG1TVm1JT0lPTjJXU1djZU5IZ0VzYXpGV3ZmSEZlNkVqWVFmZnBlLVpobHJVTFZmWnNROEdsMWV5ZXZrbXo5UDg4c2hUVkdFRm5MV2VFdGQycS1WcU1wTGZhWHN5OTJhaGZuREplQmJwZnlrdEFzai00czZIS0ZNZ0ZnTWVmdHlQeVRySFFIUjZ1eGE1dG9zUHhjY3dxRldvYzJWT0txaWtQcHBfZ9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5"
         },
         {
           "title": "Reliance Consumer Director, Blinkit officials among 10 booked in expired-food probe",
@@ -140,14 +140,14 @@
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzM5SEljN3g4MlRBOVJMOHkzX0YtM1NMRzNSVi1KOFVJMFQxLUtkRlJVUEZGTzZjYWd1bV93cHRCcXJyX2FMaTZUdldHUDNIX1czR3daeDJrRGxtT0RCcGhJclRxV2xYNzI0al94NGdlYzdTamxqSjBCdE93T0w5NHF3b0tibjRnTEFFdkM1X1J2RHhVUWwzQXdjRFBEay02VVhQeWh0WFBWU243SVNkUW53ZTdQWW80MjVhb0NDRUdYSnkyMVJqbU1mbFFRanJWM1ZrYThjTk9ld2gt0gHjAUFVX3lxTFB1WGVPNWZ4QW16b0lmRDE5RGQxZld2QzRYM0pidVVEamdtLVVjZ1RMZlh0NTRUUHNxRUVYRFl5SVBHRVZjTEl3SmxDYWEtbHQ3NG9OUk1XWTFIbXVHU0FVRWdCRTZoZXIzeXpnZlR0cjZPWm55N2ctanRlVTJ4NWJRNDk1U2NDVV9SMlp3VEMyZnh3RjRycDBkQzN3aTBQalFWM2gyMEZvTkpWME1jZlFVbkg2NjZNMG1TYlRqRmlrOV9OMlBuTFp5UnVCWFd0MW5Rbnh6LXBNLWpOZEZUOFVibjd3?oc=5"
         },
         {
-          "title": "Maha FDA names Blinkit's Dhindsa, Reliance officials in expired food probe",
-          "source": "Business Standard",
-          "published": "17 Oct 2026, 06:07 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWZSaHhFTjlaRERWVk9kTFBIMGtUYkFXQU00ZlVnRDhXVk9WdHJzLUFrSzNNdkRnUC1vbmlUb1FDallzenB4QXdNVGxYLUoyT2dmTllBeE5BUHdsRGYzNE9nT3JwbXpqSjZWdGR0NXQtcFVBa2tsNHJoYnRfRXlMNXhFaXZoX3d0TXRNaUItSFVla1lvUVpqUjN6VDJwdkV5VE1VM0NzVmYwUmMxYXdBcTUwaDQ0a0xaTW1XejR3bGFDcWgyQTMtZHhOamxOR2o3cUxwcVJwT1bSAd4BQVVfeXFMTlVzd2tZUkthM1VBWGVYWnBnQWdGSkJudjB0bHk4ekI4bk51VFBnMjFiR3QzM3g0bzhqVzVWREpzd0VIX3RtZWdwcDN1Z21wY0NnV3hRQXFGRlJvR1M3dEg0NU5WTi05T2JMYi13RG5ONHY3RVpCS2N1MWY0b25uMUZxTTNyQ2V4cGtORWF0aVNYazVWcGxscU9aeFNaU3ZlM3c1Rm05b3JiMHBJV3phd2JaVFUwTGZWUzlFM09YdWVzS3FyXzc2ck1ZZVQ1UUhHNy0tbXdDWm1qUTd0eXdn?oc=5"
+          "title": "FDA crackdown: FIR against Reliance Consumer Products, Reliance Retail, Blinkit, Zomato Hyperpure officials; here's why",
+          "source": "Livemint",
+          "published": "17 Oct 2026, 05:44 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVWlnVkVLVUhqUDk2Q3ZUeVQxbzFiSWxtZ3l0b2ZzT0EyRTNTS1lEU3M4R2k0VHJXQjlYV0d3dEJOZFJiV3lTRGdjd3d4U2ZEYnJMMmxEbl8zMjVManJlbTljTTczeld3OHVtZV90eHRqb3dyZkhwQTVPMTFNUTN4WFNmWEU0bjZBc2F5WERoOFZIWjhWUU1zbm9adWNKeWZneTgtMnJaLUVKTEd1c2oyLUlLZFhSZ1htOUlpU1dIcDBpZUowc3RGOTdEUnFCM1Naem9rUXo0aTE0bGhrTGtOc3Y5YzRON0lEUTBrY19CeGxNU2ZCTXoxNHJUTnA1QdIBgwJBVV95cUxNR0dXYmNHQVdtaDl2SVRiR3pFaU9sNkZmb1ZISGx2bUtvLXNxZmtkUmFJc3ZRZjQ0OURNX3JBU0FWeDRpQ2lfM3JrZmk0NllFeG9PZ0YzMjdNQ0lid3pRTlZ2N29acUJVZnVTd2JfVHJGQUtxREZNRW9yUGljSDg1S3BqMlBLb3BKUm5OR2NJVV9lNU1hTnQwRDFnbEc3V0g0Q0ROZ0MwejM5R1NJLTNPdXlNLVJ5cmhJbnZBSmJyNGNveXdLQ1Vlajh3OXg4Nms3OW1DbTRiUVE2OGdjclNZRmE0SjI4NjVOdjB2VVNkRjBQb3ppMlFWUjJzYTVZTEJocEZZ?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 32.27
+      "weight_pct": 27.41
     },
     {
       "key": "maruti",
@@ -164,9 +164,9 @@
         "high": 11702.0,
         "low": 11440.0,
         "intraday_range_pct": 2.28,
-        "volume": 463984,
+        "volume": 453824,
         "avg_volume_20d": 459379,
-        "volume_vs_avg": 1.01,
+        "volume_vs_avg": 0.99,
         "volatility_20d_annualised_pct": 25.12,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
@@ -184,6 +184,12 @@
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejZfTm5jbzZnTzc5cWpreFNMaW1QWjlLanJiZFUyazJHbjVKN1dpNDViMWhUTzR0cmoxSmpEb2tXdWxmRVJ6eFllZW5qMkJfVktyd0l2d3R4M1hiMk9LeWkyWkhMaWVBVVFJdkYwN2JoMlZoYndkUmpkU0l1ZDlObTVra1FhQjRvVFZUdHNVQzNLeWdjVVV3WW5XM3hWb1ZXZVVoVGs1cnRyZ1Fwa0RNb1RnMks0UE9fSjYtVEtiVzkyM0RuZ05VRmNGdjJwX09GTExiZ0VhSXRKVTVqaWhoUGVEczRUT2Q3NVBfaFlvTdIB9AFBVV95cUxQRC1tVGZBZHBhSUlCTElfajMxM3kxcmhhM1lqWmJaRHRENWtiRzdDMGR3RzM3cG9CZEVfNENRZmZjUF9SR20yUll4N1NsS25FdGNZSk0xQ3hVZmRDcmR4cnZmNlVLY19mWVY5dlJ4TUVLcFZZeVd3WjhKbERYekVrYjNDZ04wM05OSTgzQU9wVUdtRE5oUEMtd1RVaU8wcHFRa01PZkZQWXZKN3luLWlYc2taSWpFRmlCZldhMngzaS02SC10cnlxVGNKZHltYWpkWmhvVXN1NTBOVEZtV0djcTlDdUhTRHY5Vlhzc2NRLWtPVUE0?oc=5"
         },
         {
+          "title": "Maruti Suzuki expands Integrated Traffic Management System initiative in Gurugram",
+          "source": "BusinessLine",
+          "published": "19 Oct 2026, 01:10 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQnh6TE5aVHQ0cmZtNF9jV2Ryb2NrU3JEUjQ2djZ0UGg1ajJSMTJnTVFIcWtJMXgyeFRoTlhNTjlxamlBNWFsa1hFOC1ndGdwUW9RODhJOHBMeTA5WTFnWUJMa0dxMTRiYThObWVvTmFjRjJWLW9NcHU5cmZ5bDhwV0hKZ1lmMmFBc3NERmd6bVo3Zk0zVV9CS3dna3k3Uk9fXzFXdWJpSHJ1UUNkMlljU2tHbFd3WVcwWFNwQUp0SkxSZlNQSlFDNmpjcVItYTFFWlNVZDhnNW56NWNGeUZMejNyNV8yZ0RwVUVsRNIB8wFBVV95cUxQN3JrVGhYdTRYNUl5Yjl1cVZTbzJFQmk0QUlCQmkzMXpCckRTTmNGc25CdG03SDd1bTZzSW1EcmdmVHlXSUtOaTZqR3JEZkZnbkt4dW5PX0tQVVlCaVdLbVRiSkk5aDJYYmhwRVNIbDFlZjdpbWQ2YUliZWxYNEo1MmxJN0lyUGU4X2lSU2h5UlhpRGdLSkE3Qm1nbjVvTWxJV1BJZE8zVW42VWUwZ0lUTElpUFdIOF9LN09GUzJDN3V2XzdzellfNHFsU3ItbkpSSTFFdEpNLW9yaDFnZHdoUmRWdUJZVk9SaDJYaGpPMWNvSXM?oc=5"
+        },
+        {
           "title": "Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound",
           "source": "Moneycontrol.com",
           "published": "19 Oct 2026, 09:32 AM IST",
@@ -194,10 +200,16 @@
           "source": "NDTV Profit",
           "published": "17 Oct 2026, 03:59 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5"
+        },
+        {
+          "title": "Why the Toyota Glanza demands a premium over the Maruti Baleno",
+          "source": "The Financial Express",
+          "published": "17 Oct 2026, 06:02 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkkzeWdSRjEzQ1RVWVJNS2hwSFk2X3RYX0dtVkJnWXFDejRMbW8tOXNtdGlTTDlqVUMxaU1JUHQzems1ZWItZV96SnAzck5PbjlINEFVNERGTnlqUUdVUS1BQjYxaVRDUXJPWWc2Rk9uZks5aVBxdmxkNzFoMno2T3R4VE9RbjhBc2pWQWloV2UxMHNwQWlYWENzY1RyeFpnUC1QLUxEd21EbnRjYWEwR3pOMDBpVTlVSWfSAcABQVVfeXFMTXdIM05hU3F2cXFUUlVXX2hqc2NMNHJCNVN6OFNPcXhrOUhnY2F5elpOVFRieUs2YVlXd0FiTDdEVzhjUEFQZ1hwYVhiand1Y0hORjVQQTQwOXB2cTJpbl9QV2ViUzhIQWFicGVFSkRLVmJueHlLR0tPb2Fyc1ZYUUJFd1gzZjlaQTRTSEhGbVlsOExwQjB5UUtvOS13UnBCNGQ5ZGE4RHhMRngzQVJNWFhHaTFkTUR2UG10dnNId3Vu?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 32.73
+      "weight_pct": 27.81
     },
     {
       "key": "ashok",
@@ -214,9 +226,9 @@
         "high": 149.4,
         "low": 147.21,
         "intraday_range_pct": 1.47,
-        "volume": 8609216,
+        "volume": 8494966,
         "avg_volume_20d": 12650944,
-        "volume_vs_avg": 0.68,
+        "volume_vs_avg": 0.67,
         "volatility_20d_annualised_pct": 27.42,
         "high_52w": 211.92,
         "low_52w": 135.84,
@@ -235,51 +247,92 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 1.45
+      "weight_pct": 1.23
+    },
+    {
+      "key": "manorama",
+      "name": "Manorama Industries",
+      "sector": "Specialty Fats (FMCG inputs)",
+      "ticker": "MANORAMA.NS",
+      "bse_code": "541974",
+      "first_buy": "2026-10-19",
+      "metrics": {
+        "close": 1796.8,
+        "prev_close": 1911.2,
+        "day_change_pct": -5.99,
+        "open": 1907.2,
+        "high": 1911.2,
+        "low": 1785.3,
+        "intraday_range_pct": 6.59,
+        "volume": 217210,
+        "avg_volume_20d": 161026,
+        "volume_vs_avg": 1.35,
+        "volatility_20d_annualised_pct": 34.54,
+        "high_52w": 2132.9,
+        "low_52w": 1075.8,
+        "shares": 1000,
+        "base_price": 1796.8,
+        "market_value": 1796800.05,
+        "pnl_inr": 0.0,
+        "pnl_pct": 0.0
+      },
+      "news": [],
+      "announcements": [],
+      "weight_pct": 15.02
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
       "value": 3475470.0,
-      "weight_pct": 34.18
+      "weight_pct": 29.04
     },
     {
       "sector": "Consumer Internet",
       "value": 3280449.13,
-      "weight_pct": 32.27
+      "weight_pct": 27.41
     },
     {
       "sector": "Financials",
       "value": 3255264.0,
-      "weight_pct": 32.02
+      "weight_pct": 27.2
+    },
+    {
+      "sector": "Specialty Fats (FMCG inputs)",
+      "value": 1796800.05,
+      "weight_pct": 15.02
     },
     {
       "sector": "Cash",
-      "value": 155469.54,
-      "weight_pct": 1.53
+      "value": 158669.49,
+      "weight_pct": 1.33
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
       "value": 3475470.0,
-      "weight_pct": 34.18
+      "weight_pct": 29.04
     },
     {
       "sector": "Consumer Internet",
       "value": 3280449.13,
-      "weight_pct": 32.27
+      "weight_pct": 27.41
     },
     {
       "sector": "Financials",
       "value": 3255264.0,
-      "weight_pct": 32.02
+      "weight_pct": 27.2
+    },
+    {
+      "sector": "Specialty Fats (FMCG inputs)",
+      "value": 1796800.05,
+      "weight_pct": 15.02
     },
     {
       "sector": "Cash",
-      "value": 155469.54,
-      "weight_pct": 1.53
+      "value": 158669.49,
+      "weight_pct": 1.33
     }
   ],
   "performers": {
@@ -292,8 +345,8 @@
       "pct": -2.31
     },
     "top_mover_today": {
-      "name": "HDFC Bank",
-      "pct": -2.31
+      "name": "Manorama Industries",
+      "pct": -5.99
     }
   },
   "transactions": [
@@ -350,11 +403,35 @@
       "price": 147.72,
       "amount": 147720.0,
       "note": "Added at ~11:25 AM IST",
+      "provisional": true
+    },
+    {
+      "date": "2026-10-19",
+      "key": "",
+      "name": "",
+      "type": "DEPOSIT",
+      "shares": 0,
+      "price": null,
+      "amount": 1800000.0,
+      "note": "Fresh virtual money to fund Manorama Industries",
       "provisional": false
+    },
+    {
+      "date": "2026-10-19",
+      "key": "manorama",
+      "name": "Manorama Industries",
+      "type": "BUY",
+      "shares": 1000,
+      "price": 1796.8,
+      "amount": 1796800.05,
+      "note": "Added on 19-Oct-26 (CMP 1790.40 per Trendlyne)",
+      "provisional": true
     }
   ],
   "closed_positions": [],
-  "data_quality": [],
+  "data_quality": [
+    "A trade dated today uses the live market price; it will be fixed at the closing price after the market closes."
+  ],
   "sources": {
     "prices": "Yahoo Finance via yfinance (unofficial)",
     "news": "Google News RSS + publisher RSS, trusted-publisher whitelist, 72h window",
