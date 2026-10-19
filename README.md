@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 19 Oct 2026, 11:42 AM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
+**Last updated:** 19 Oct 2026, 12:10 PM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -17,14 +17,14 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹1,02,63,388** |
-| Total P&L | **-₹36,612 (-0.36%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹36,612 |
+| Current value | **₹1,02,35,890** |
+| Total P&L | **-₹64,110 (-0.62%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹64,110 |
 | &nbsp;&nbsp;Realised (shares already sold) | ₹0 |
-| Today's change | -₹36,612 (-0.37%) |
-| Nifty 50 since start (same money invested) | -0.58% |
-| Outperformance vs Nifty 50 | +0.22% |
-| Cash (uninvested) | ₹1,54,910 |
+| Today's change | -₹64,110 (-0.64%) |
+| Nifty 50 since start (same money invested) | -0.79% |
+| Outperformance vs Nifty 50 | +0.17% |
+| Cash (uninvested) | ₹1,54,790 |
 | Virtual money put in | ₹1,03,00,000 |
 
 ![Portfolio vs Nifty](charts/portfolio_vs_nifty.png)
@@ -35,12 +35,12 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹713.00 | -2.17% | ₹32,59,836 | 31.8% | -₹72,466 | -2.17% |
-| Eternal (Zomato) | 10,245 | ₹325.30 | ₹324.95 | -0.11% | ₹33,29,113 | 32.4% | -₹3,586 | -0.11% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,625.00 | +1.18% | ₹33,71,250 | 32.9% | ₹39,440 | +1.18% |
-| Ashok Leyland | 1,000 | ₹148.28 | ₹148.28 | -0.42% | ₹1,48,280 | 1.4% | ₹0 | +0.00% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹710.40 | -2.53% | ₹32,47,949 | 31.7% | -₹84,353 | -2.53% |
+| Eternal (Zomato) | 10,245 | ₹325.30 | ₹324.70 | -0.18% | ₹33,26,552 | 32.5% | -₹6,147 | -0.18% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,580.00 | +0.79% | ₹33,58,200 | 32.8% | ₹26,390 | +0.79% |
+| Ashok Leyland | 1,000 | ₹148.40 | ₹148.40 | -0.34% | ₹1,48,400 | 1.4% | ₹0 | +0.00% |
 
-**Best since buy:** Maruti Suzuki (+1.18%)  ·  **Worst since buy:** HDFC Bank (-2.17%)  ·  **Biggest mover today:** HDFC Bank (-2.17%)
+**Best since buy:** Maruti Suzuki (+0.79%)  ·  **Worst since buy:** HDFC Bank (-2.53%)  ·  **Biggest mover today:** HDFC Bank (-2.53%)
 
 ## Allocation
 
@@ -48,10 +48,10 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹35,19,530 | 34.3% |
-| Consumer Internet | ₹33,29,113 | 32.4% |
-| Financials | ₹32,59,836 | 31.8% |
-| Cash | ₹1,54,910 | 1.5% |
+| Automobiles | ₹35,06,600 | 34.3% |
+| Consumer Internet | ₹33,26,552 | 32.5% |
+| Financials | ₹32,47,949 | 31.7% |
+| Cash | ₹1,54,790 | 1.5% |
 
 ## Performance
 
@@ -63,7 +63,7 @@ _▲ buy · ▼ sell_
 
 | Date | Stock | Type | Shares | Price | Amount | Note |
 |---|---|---|---:|---:|---:|---|
-| 2026-10-19 | Ashok Leyland | BUY | 1,000 | ₹148.28* | ₹1,48,280 | Added at ~11:25 AM IST |
+| 2026-10-19 | Ashok Leyland | BUY | 1,000 | ₹148.40* | ₹1,48,400 | Added at ~11:25 AM IST |
 | 2026-10-19 | - | DEPOSIT | - | - | ₹3,00,000 | Fresh virtual money to fund Ashok Leyland |
 | 2026-10-16 | Maruti Suzuki | BUY | 290 | ₹11,489.00 | ₹33,31,810 | Initial allocation |
 | 2026-10-16 | Eternal (Zomato) | BUY | 10,245 | ₹325.30 | ₹33,32,698 | Initial allocation |
@@ -91,7 +91,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹713.00 | -2.17% | ₹711.45 - ₹733.40 | 15,078,151 | 30,961,951 | 0.49x | 23.57% | ₹687.10 - ₹1,009.50 |
+| ₹710.40 | -2.53% | ₹710.15 - ₹733.40 | 16,491,237 | 30,961,951 | 0.53x | 24.02% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -124,7 +124,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹324.95 | -0.11% | ₹323.35 - ₹327.10 | 8,290,334 | 21,352,242 | 0.39x | 27.22% | ₹215.68 - ₹342.65 |
+| ₹324.70 | -0.18% | ₹323.35 - ₹327.10 | 9,360,511 | 21,352,242 | 0.44x | 27.23% | ₹215.68 - ₹342.65 |
 
 **Research reports**
 
@@ -157,7 +157,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,625.00 | +1.18% | ₹11,450.00 - ₹11,702.00 | 218,724 | 459,379 | 0.48x | 25.63% | ₹11,178.00 - ₹17,292.00 |
+| ₹11,580.00 | +0.79% | ₹11,450.00 - ₹11,702.00 | 281,418 | 459,379 | 0.61x | 25.39% | ₹11,178.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -190,7 +190,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹148.28 | -0.42% | ₹147.33 - ₹149.40 | 4,439,634 | 12,650,944 | 0.35x | 27.39% | ₹135.84 - ₹211.92 |
+| ₹148.40 | -0.34% | ₹147.33 - ₹149.40 | 5,205,790 | 12,650,944 | 0.41x | 27.39% | ₹135.84 - ₹211.92 |
 
 **Research reports**
 
