@@ -630,6 +630,9 @@ def main():
         write_github_output("updated", "false")
         return
     run_mode = os.environ.get("RUN_MODE", "final")  # "intraday" = live snapshot, "final" = end of day
+    _now = datetime.now(IST)
+    if run_mode == "final" and as_of == today_ist and (_now.hour, _now.minute) < (15, 30):
+        run_mode = "intraday"  # manual run while the market is still open is a live snapshot, not a final one
     snapshot_type = "Live intraday snapshot" if run_mode == "intraday" else "End-of-day final snapshot"
 
     # 3) Ledger: holdings, cash, realised / unrealised P&L, benchmark
