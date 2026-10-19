@@ -51,10 +51,10 @@ jobs:
           git pull --rebase -X theirs origin main
           git push
 
-      # Only the 5 PM final run (and manual runs) send data to Make.com, so the AI report,
-      # PDF and Telegram message happen once a day and Make's free quota is not used up.
+      # ONLY the 5 PM final scheduled run sends data to Make.com, so the AI report, PDF and
+      # Telegram message happen exactly once a day. Manual runs and the 30-minute live runs never do.
       - name: Send data to Make.com
-        if: ${{ always() && steps.run.outputs.updated == 'true' && (github.event_name == 'workflow_dispatch' || github.event.schedule == '30 11 * * 1-5') }}
+        if: ${{ always() && steps.run.outputs.updated == 'true' && github.event_name == 'schedule' && github.event.schedule == '30 11 * * 1-5' }}
         env:
           MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
         run: |
