@@ -2,7 +2,10 @@ name: Daily Portfolio Update
 
 on:
   schedule:
-    # 11:30 UTC = 5:00 PM IST, Monday to Friday
+    # Live snapshots, Monday to Friday: 04:00, 06:00, 08:00, 10:00 UTC
+    #   = 9:30 AM, 11:30 AM, 1:30 PM, 3:30 PM IST
+    - cron: "0 4,6,8,10 * * 1-5"
+    # Final end-of-day snapshot: 11:30 UTC = 5:00 PM IST (this one also triggers the Make.com report)
     - cron: "30 11 * * 1-5"
   workflow_dispatch:   # lets you press "Run workflow" manually to test
 
@@ -33,6 +36,7 @@ jobs:
         id: run
         env:
           FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+          RUN_MODE: ${{ github.event.schedule == '0 4,6,8,10 * * 1-5' && 'intraday' || 'final' }}
         run: python tracker.py
 
       - name: Save results to the repo
@@ -41,12 +45,14 @@ jobs:
           git config user.name "portfolio-bot"
           git config user.email "portfolio-bot@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "Daily update $(date -u +%F)"
+          git diff --staged --quiet || git commit -m "Portfolio update $(TZ=Asia/Kolkata date '+%F %H:%M') IST"
           git pull --rebase -X theirs origin main
           git push
 
+      # Only the 5 PM final run (and manual runs) send data to Make.com, so the AI report,
+      # PDF and Telegram message happen once a day and Make's free quota is not used up.
       - name: Send data to Make.com
-        if: ${{ always() && steps.run.outputs.updated == 'true' }}
+        if: ${{ always() && steps.run.outputs.updated == 'true' && github.event.schedule != '0 4,6,8,10 * * 1-5' }}
         env:
           MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
         run: |

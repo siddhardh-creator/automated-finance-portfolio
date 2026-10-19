@@ -350,6 +350,11 @@ def build_readme(cfg, snapshot):
     L.append(f"> {DISCLAIMER}\n")
     L.append(f"**Last updated:** {snapshot['generated_at_ist']}  |  **Market data as of:** {snapshot['as_of']}  |  "
              f"**Virtual capital:** {inr(p['capital'])}\n")
+    snap_type = snapshot.get("snapshot_type", "End-of-day final snapshot")
+    L.append(f"**Snapshot type:** {snap_type}\n")
+    if snap_type.startswith("Live"):
+        L.append("_Live snapshot: today's session is still in progress, so volume is partial and "
+                 "\"Volume vs 20d avg\" will look low. The final end-of-day snapshot is published at 5:00 PM IST._\n")
     if snapshot["data_quality"]:
         L.append("### Data quality notes")
         L.extend(f"- {w}" for w in snapshot["data_quality"])
@@ -429,7 +434,9 @@ def build_readme(cfg, snapshot):
     L.append("- **News:** Google News RSS + publisher RSS feeds, filtered to a whitelist of trusted publishers, "
              "de-duplicated, last 72 hours only. Each item links to the original article.")
     L.append("- **Official filings:** BSE corporate announcements (best-effort, with link to the full list).")
-    L.append("- **Automation:** GitHub Actions runs every weekday at 5:00 PM IST; skips market holidays.")
+    L.append("- **Automation:** GitHub Actions refreshes this dashboard on weekdays at 9:30 AM, 11:30 AM, 1:30 PM and "
+             "3:30 PM IST (live snapshots) and at 5:00 PM IST (end-of-day final snapshot + AI daily report); "
+             "skips market holidays.")
     L.append("- **Method:** Shares = (capital x weight) / closing price on the start date. Volatility = 20-day std-dev of "
              "daily returns, annualised. Volume ratio = today's volume / average of previous 20 sessions.\n")
     L.append(f"> {DISCLAIMER}\n")
@@ -471,14 +478,16 @@ def main():
 
     as_of = closes.index[-1].strftime("%Y-%m-%d")
     latest_file = ROOT / "data" / "latest.json"
-    if latest_file.exists() and not force:
-        try:
-            if json.loads(latest_file.read_text(encoding="utf-8")).get("as_of") == as_of:
-                log(f"No new trading day (latest data is still {as_of}) - market holiday or already updated. Skipping.")
-                write_github_output("updated", "false")
-                return
-        except Exception:
-            pass
+    # Scheduled runs happen several times a day (live snapshots + a final 5 PM one).
+    # Only skip when there is NO trading data for today (market holiday, or the data
+    # provider has not published today's bar yet). Manual runs (FORCE=1) never skip.
+    today_ist = datetime.now(IST).strftime("%Y-%m-%d")
+    if not force and as_of != today_ist:
+        log(f"No trading data for today ({today_ist}); latest is {as_of} - market holiday or data not out yet. Skipping.")
+        write_github_output("updated", "false")
+        return
+    run_mode = os.environ.get("RUN_MODE", "final")  # "intraday" = live snapshot, "final" = end of day
+    snapshot_type = "Live intraday snapshot" if run_mode == "intraday" else "End-of-day final snapshot"
 
     # Positions are fixed from the base date close
     base_row = closes.iloc[0]
@@ -519,6 +528,7 @@ def main():
     snapshot = {
         "generated_at_ist": datetime.now(IST).strftime("%d %b %Y, %I:%M %p IST"),
         "as_of": as_of,
+        "snapshot_type": snapshot_type,
         "base_date": closes.index[0].strftime("%Y-%m-%d"),
         "portfolio": {
             "capital": capital,
