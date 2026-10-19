@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "19 Oct 2026, 11:31 AM IST",
+  "generated_at_ist": "19 Oct 2026, 11:42 AM IST",
   "as_of": "2026-10-19",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 10300000.0,
     "initial_capital": 10000000,
-    "invested": 10145030.46,
-    "holdings_value": 10125081.6,
-    "cash": 154969.54,
-    "value": 10280051.14,
-    "pnl_inr": -19948.86,
-    "pnl_pct": -0.19,
-    "unrealised_pnl_inr": -19948.85,
+    "invested": 10145090.46,
+    "holdings_value": 10108478.88,
+    "cash": 154909.54,
+    "value": 10263388.41,
+    "pnl_inr": -36611.59,
+    "pnl_pct": -0.36,
+    "unrealised_pnl_inr": -36611.59,
     "realised_pnl_inr": 0.0,
-    "day_pnl_inr": -19948.86,
-    "day_pnl_pct": -0.2,
+    "day_pnl_inr": -36611.59,
+    "day_pnl_pct": -0.37,
     "open_positions": 4
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 23048.65,
-    "return_pct": -0.41,
-    "day_change_pct": -0.42
+    "close": 23007.55,
+    "return_pct": -0.58,
+    "day_change_pct": -0.6
   },
   "stocks": [
     {
@@ -33,24 +33,24 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 714.3,
+        "close": 713.0,
         "prev_close": 728.85,
-        "day_change_pct": -2.0,
+        "day_change_pct": -2.17,
         "open": 733.4,
         "high": 733.4,
-        "low": 711.7,
-        "intraday_range_pct": 2.98,
-        "volume": 14457348,
+        "low": 711.45,
+        "intraday_range_pct": 3.01,
+        "volume": 15078151,
         "avg_volume_20d": 30961951,
-        "volume_vs_avg": 0.47,
-        "volatility_20d_annualised_pct": 23.37,
+        "volume_vs_avg": 0.49,
+        "volatility_20d_annualised_pct": 23.57,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3265779.54,
-        "pnl_inr": -66522.54,
-        "pnl_pct": -2.0
+        "market_value": 3259836.0,
+        "pnl_inr": -72466.09,
+        "pnl_pct": -2.17
       },
       "news": [
         {
@@ -85,7 +85,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 31.77
+      "weight_pct": 31.76
     },
     {
       "key": "zomato",
@@ -95,24 +95,24 @@
       "bse_code": "543320",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 325.6,
+        "close": 324.95,
         "prev_close": 325.3,
-        "day_change_pct": 0.09,
+        "day_change_pct": -0.11,
         "open": 324.85,
         "high": 327.1,
         "low": 323.35,
         "intraday_range_pct": 1.15,
-        "volume": 7950422,
+        "volume": 8290334,
         "avg_volume_20d": 21352242,
-        "volume_vs_avg": 0.37,
+        "volume_vs_avg": 0.39,
         "volatility_20d_annualised_pct": 27.22,
         "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3335772.06,
-        "pnl_inr": 3073.69,
-        "pnl_pct": 0.09
+        "market_value": 3329112.88,
+        "pnl_inr": -3585.5,
+        "pnl_pct": -0.11
       },
       "news": [
         {
@@ -147,7 +147,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 32.45
+      "weight_pct": 32.44
     },
     {
       "key": "maruti",
@@ -157,24 +157,24 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11639.0,
+        "close": 11625.0,
         "prev_close": 11489.0,
-        "day_change_pct": 1.31,
+        "day_change_pct": 1.18,
         "open": 11510.0,
         "high": 11702.0,
         "low": 11450.0,
         "intraday_range_pct": 2.19,
-        "volume": 198953,
+        "volume": 218724,
         "avg_volume_20d": 459379,
-        "volume_vs_avg": 0.43,
-        "volatility_20d_annualised_pct": 25.72,
+        "volume_vs_avg": 0.48,
+        "volatility_20d_annualised_pct": 25.63,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3375310.0,
-        "pnl_inr": 43500.0,
-        "pnl_pct": 1.31
+        "market_value": 3371250.0,
+        "pnl_inr": 39440.0,
+        "pnl_pct": 1.18
       },
       "news": [
         {
@@ -190,6 +190,12 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5"
         },
         {
+          "title": "Why the Toyota Glanza demands a premium over the Maruti Baleno",
+          "source": "The Financial Express",
+          "published": "17 Oct 2026, 06:02 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkkzeWdSRjEzQ1RVWVJNS2hwSFk2X3RYX0dtVkJnWXFDejRMbW8tOXNtdGlTTDlqVUMxaU1JUHQzems1ZWItZV96SnAzck5PbjlINEFVNERGTnlqUUdVUS1BQjYxaVRDUXJPWWc2Rk9uZks5aVBxdmxkNzFoMno2T3R4VE9RbjhBc2pWQWloV2UxMHNwQWlYWENzY1RyeFpnUC1QLUxEd21EbnRjYWEwR3pOMDBpVTlVSWfSAcABQVVfeXFMTXdIM05hU3F2cXFUUlVXX2hqc2NMNHJCNVN6OFNPcXhrOUhnY2F5elpOVFRieUs2YVlXd0FiTDdEVzhjUEFQZ1hwYVhiand1Y0hORjVQQTQwOXB2cTJpbl9QV2ViUzhIQWFicGVFSkRLVmJueHlLR0tPb2Fyc1ZYUUJFd1gzZjlaQTRTSEhGbVlsOExwQjB5UUtvOS13UnBCNGQ5ZGE4RHhMRngzQVJNWFhHaTFkTUR2UG10dnNId3Vu?oc=5"
+        },
+        {
           "title": "Maruti Suzuki reclaims 40% market share in H1 FY27; Tata overtakes Mahindra as Hyundai slips",
           "source": "Moneycontrol.com",
           "published": "16 Oct 2026, 02:30 PM IST",
@@ -203,7 +209,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 32.83
+      "weight_pct": 32.85
     },
     {
       "key": "ashok",
@@ -213,22 +219,22 @@
       "bse_code": "500477",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 148.22,
+        "close": 148.28,
         "prev_close": 148.91,
-        "day_change_pct": -0.46,
+        "day_change_pct": -0.42,
         "open": 148.32,
         "high": 149.4,
         "low": 147.33,
         "intraday_range_pct": 1.39,
-        "volume": 4275968,
+        "volume": 4439634,
         "avg_volume_20d": 12650944,
-        "volume_vs_avg": 0.34,
+        "volume_vs_avg": 0.35,
         "volatility_20d_annualised_pct": 27.39,
         "high_52w": 211.92,
         "low_52w": 135.84,
         "shares": 1000,
-        "base_price": 148.22,
-        "market_value": 148220.0,
+        "base_price": 148.28,
+        "market_value": 148280.0,
         "pnl_inr": 0.0,
         "pnl_pct": 0.0
       },
@@ -259,59 +265,59 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 3523530.0,
-      "weight_pct": 34.28
+      "value": 3519530.0,
+      "weight_pct": 34.29
     },
     {
       "sector": "Consumer Internet",
-      "value": 3335772.06,
-      "weight_pct": 32.45
+      "value": 3329112.88,
+      "weight_pct": 32.44
     },
     {
       "sector": "Financials",
-      "value": 3265779.54,
-      "weight_pct": 31.77
+      "value": 3259836.0,
+      "weight_pct": 31.76
     },
     {
       "sector": "Cash",
-      "value": 154969.54,
+      "value": 154909.54,
       "weight_pct": 1.51
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 3523530.0,
-      "weight_pct": 34.28
+      "value": 3519530.0,
+      "weight_pct": 34.29
     },
     {
       "sector": "Consumer Internet",
-      "value": 3335772.06,
-      "weight_pct": 32.45
+      "value": 3329112.88,
+      "weight_pct": 32.44
     },
     {
       "sector": "Financials",
-      "value": 3265779.54,
-      "weight_pct": 31.77
+      "value": 3259836.0,
+      "weight_pct": 31.76
     },
     {
       "sector": "Cash",
-      "value": 154969.54,
+      "value": 154909.54,
       "weight_pct": 1.51
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Maruti Suzuki",
-      "pct": 1.31
+      "pct": 1.18
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -2.0
+      "pct": -2.17
     },
     "top_mover_today": {
       "name": "HDFC Bank",
-      "pct": -2.0
+      "pct": -2.17
     }
   },
   "transactions": [
@@ -365,14 +371,16 @@
       "name": "Ashok Leyland",
       "type": "BUY",
       "shares": 1000,
-      "price": 148.22,
-      "amount": 148220.0,
+      "price": 148.28,
+      "amount": 148280.0,
       "note": "Added at ~11:25 AM IST",
-      "provisional": false
+      "provisional": true
     }
   ],
   "closed_positions": [],
-  "data_quality": [],
+  "data_quality": [
+    "A trade dated today uses the live market price; it will be fixed at the closing price after the market closes."
+  ],
   "sources": {
     "prices": "Yahoo Finance via yfinance (unofficial)",
     "news": "Google News RSS + publisher RSS, trusted-publisher whitelist, 72h window",

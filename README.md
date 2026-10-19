@@ -2,9 +2,14 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 19 Oct 2026, 11:31 AM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
+**Last updated:** 19 Oct 2026, 11:42 AM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:00 PM IST._
+
+### Data quality notes
+- A trade dated today uses the live market price; it will be fixed at the closing price after the market closes.
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -12,14 +17,14 @@
 
 | Metric | Value |
 |---|---|
-| Current value | **₹1,02,80,051** |
-| Total P&L | **-₹19,949 (-0.19%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹19,949 |
+| Current value | **₹1,02,63,388** |
+| Total P&L | **-₹36,612 (-0.36%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹36,612 |
 | &nbsp;&nbsp;Realised (shares already sold) | ₹0 |
-| Today's change | -₹19,949 (-0.20%) |
-| Nifty 50 since start (same money invested) | -0.41% |
+| Today's change | -₹36,612 (-0.37%) |
+| Nifty 50 since start (same money invested) | -0.58% |
 | Outperformance vs Nifty 50 | +0.22% |
-| Cash (uninvested) | ₹1,54,970 |
+| Cash (uninvested) | ₹1,54,910 |
 | Virtual money put in | ₹1,03,00,000 |
 
 ![Portfolio vs Nifty](charts/portfolio_vs_nifty.png)
@@ -30,12 +35,12 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹714.30 | -2.00% | ₹32,65,780 | 31.8% | -₹66,523 | -2.00% |
-| Eternal (Zomato) | 10,245 | ₹325.30 | ₹325.60 | +0.09% | ₹33,35,772 | 32.5% | ₹3,074 | +0.09% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,639.00 | +1.31% | ₹33,75,310 | 32.8% | ₹43,500 | +1.31% |
-| Ashok Leyland | 1,000 | ₹148.22 | ₹148.22 | -0.46% | ₹1,48,220 | 1.4% | ₹0 | +0.00% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹713.00 | -2.17% | ₹32,59,836 | 31.8% | -₹72,466 | -2.17% |
+| Eternal (Zomato) | 10,245 | ₹325.30 | ₹324.95 | -0.11% | ₹33,29,113 | 32.4% | -₹3,586 | -0.11% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,625.00 | +1.18% | ₹33,71,250 | 32.9% | ₹39,440 | +1.18% |
+| Ashok Leyland | 1,000 | ₹148.28 | ₹148.28 | -0.42% | ₹1,48,280 | 1.4% | ₹0 | +0.00% |
 
-**Best since buy:** Maruti Suzuki (+1.31%)  ·  **Worst since buy:** HDFC Bank (-2.00%)  ·  **Biggest mover today:** HDFC Bank (-2.00%)
+**Best since buy:** Maruti Suzuki (+1.18%)  ·  **Worst since buy:** HDFC Bank (-2.17%)  ·  **Biggest mover today:** HDFC Bank (-2.17%)
 
 ## Allocation
 
@@ -43,10 +48,10 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹35,23,530 | 34.3% |
-| Consumer Internet | ₹33,35,772 | 32.5% |
-| Financials | ₹32,65,780 | 31.8% |
-| Cash | ₹1,54,970 | 1.5% |
+| Automobiles | ₹35,19,530 | 34.3% |
+| Consumer Internet | ₹33,29,113 | 32.4% |
+| Financials | ₹32,59,836 | 31.8% |
+| Cash | ₹1,54,910 | 1.5% |
 
 ## Performance
 
@@ -58,11 +63,13 @@ _▲ buy · ▼ sell_
 
 | Date | Stock | Type | Shares | Price | Amount | Note |
 |---|---|---|---:|---:|---:|---|
-| 2026-10-19 | Ashok Leyland | BUY | 1,000 | ₹148.22 | ₹1,48,220 | Added at ~11:25 AM IST |
+| 2026-10-19 | Ashok Leyland | BUY | 1,000 | ₹148.28* | ₹1,48,280 | Added at ~11:25 AM IST |
 | 2026-10-19 | - | DEPOSIT | - | - | ₹3,00,000 | Fresh virtual money to fund Ashok Leyland |
 | 2026-10-16 | Maruti Suzuki | BUY | 290 | ₹11,489.00 | ₹33,31,810 | Initial allocation |
 | 2026-10-16 | Eternal (Zomato) | BUY | 10,245 | ₹325.30 | ₹33,32,698 | Initial allocation |
 | 2026-10-16 | HDFC Bank | BUY | 4,572 | ₹728.85 | ₹33,32,302 | Initial allocation |
+
+_* price is live while the market is open; it is fixed at the closing price after 3:30 PM._
 
 </details>
 
@@ -84,7 +91,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹714.30 | -2.00% | ₹711.70 - ₹733.40 | 14,457,348 | 30,961,951 | 0.47x | 23.37% | ₹687.10 - ₹1,009.50 |
+| ₹713.00 | -2.17% | ₹711.45 - ₹733.40 | 15,078,151 | 30,961,951 | 0.49x | 23.57% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -117,7 +124,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹325.60 | +0.09% | ₹323.35 - ₹327.10 | 7,950,422 | 21,352,242 | 0.37x | 27.22% | ₹215.68 - ₹342.65 |
+| ₹324.95 | -0.11% | ₹323.35 - ₹327.10 | 8,290,334 | 21,352,242 | 0.39x | 27.22% | ₹215.68 - ₹342.65 |
 
 **Research reports**
 
@@ -150,7 +157,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,639.00 | +1.31% | ₹11,450.00 - ₹11,702.00 | 198,953 | 459,379 | 0.43x | 25.72% | ₹11,178.00 - ₹17,292.00 |
+| ₹11,625.00 | +1.18% | ₹11,450.00 - ₹11,702.00 | 218,724 | 459,379 | 0.48x | 25.63% | ₹11,178.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -167,6 +174,7 @@ _No fully closed positions yet._
 
 - [Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY0drVmhyWkFNUFV2ZFc5TlRWa0pTRlUtaWlqeVo2MGxDRk5BR0h4NjJuUVdfSjRlRWVoQUgwLS1NeUd6Y1dCeWVRTXh0c2JiODBoVnFPNmthNHN2MFZSdnFzMnFyNjR5VzFqbEFnYlYweU1scjI5TXVDSVFPV1RkVEd4SEpZUVV4ekdiTkVkODloemJBcno4WS00NDBNc1pFdmsyOUNkU21Pcmc4aU1Ud2otMUV0OUwtODBLazB3T0l3M3RXQkd2bFNnV051ZWx4VXNwQmxqb2FYRUI3TTVwNnlTYVBxZTVKVmfSAe8BQVVfeXFMTlZVeEtHT2ppVTNSbTkyZDN0a3BYRjhERzluRGhWOUJvQ1Y2UmtmSTREWTIwS3JQdHhlT0RnalNkQjlaSVhQNDROVExMSEpwR1U5d1RIV0RKYUJ0NDhnaTF1TGhjWEFQU21QVkxOYjNRekNkRFVUM1YtaDlVdmI2ZV9Hbklpb2xjQVNTZlVhbllVZWowZ2NPMW92UElyMzNNOUExWnJaUnVBYUVFOHk5YnB2SG9BTnhuT2ZpZ01SNDFMUW9QWVZIekJSOFNiNTd6RkdOMTRlMUdkS0MzM1daR25XYTY1YmpqVDFBWG5IcDA?oc=5) - _Moneycontrol.com, 19 Oct 2026, 09:32 AM IST_
 - [New Renault Duster Hybrid Launched: How Does It Compare With Maruti Vitara? Check Price, Range And More](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5) - _NDTV Profit, 17 Oct 2026, 03:59 PM IST_
+- [Why the Toyota Glanza demands a premium over the Maruti Baleno](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkkzeWdSRjEzQ1RVWVJNS2hwSFk2X3RYX0dtVkJnWXFDejRMbW8tOXNtdGlTTDlqVUMxaU1JUHQzems1ZWItZV96SnAzck5PbjlINEFVNERGTnlqUUdVUS1BQjYxaVRDUXJPWWc2Rk9uZks5aVBxdmxkNzFoMno2T3R4VE9RbjhBc2pWQWloV2UxMHNwQWlYWENzY1RyeFpnUC1QLUxEd21EbnRjYWEwR3pOMDBpVTlVSWfSAcABQVVfeXFMTXdIM05hU3F2cXFUUlVXX2hqc2NMNHJCNVN6OFNPcXhrOUhnY2F5elpOVFRieUs2YVlXd0FiTDdEVzhjUEFQZ1hwYVhiand1Y0hORjVQQTQwOXB2cTJpbl9QV2ViUzhIQWFicGVFSkRLVmJueHlLR0tPb2Fyc1ZYUUJFd1gzZjlaQTRTSEhGbVlsOExwQjB5UUtvOS13UnBCNGQ5ZGE4RHhMRngzQVJNWFhHaTFkTUR2UG10dnNId3Vu?oc=5) - _The Financial Express, 17 Oct 2026, 06:02 AM IST_
 - [Maruti Suzuki reclaims 40% market share in H1 FY27; Tata overtakes Mahindra as Hyundai slips](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUGszWVZJbWhxWTdtS1ljckRuQ3E1OW5uMGw1bmh5UDZ0RTVEbWoxNTZ5VnFCWGpQU0ZUWWZNVjBibUE1eEZKeVBhLXJnX1RSaUdfQ19NYjhLWlc5VzlyN1ZCOUV0UC1lZ0JaV1ZHS3NtWXJuSVRhc0h1S1BsUm5CdThWbFVzTm1YaUhBS2dtOG15Y3YtQVVhdFFzNXRjYWRjeFBPazBwbGgwQTFPNFR4ckJneUdRWC1DTWpTZkJrMWhlUHhsVUlmZHFKVkRBeUkzSEcyN3ZLOGRnNmotRHBxWDhjSndjdknSAewBQVVfeXFMT3poSUhycVZFVUtxOFlyRUoyYUlwWG5KVWJad1prTzJRcGlKNVc0TEhDNlVOTGpSN2RVRHY2OTJmUERDNU1VVnE5Umg4bFRtN0cwSi1qLUhDYnZHX244cVk4Z3VpWHU5MXhMMFRqYm0wVmVtVGdIcE11RE5IZ0hKU1ZVZ0RnSWFZbG9TRWxmcnUweDBneFRCc2syVy13a3hBM2pUMjE4SUlBb3g5ajdLR1lyZVRWcDBQcWp3LXJ0LUlkaXJkZzZuSFhvTkl1cTVPNWxzamFnNE4xcFVNWk9CaVlRVm9jRWc3aXp5bGc?oc=5) - _Moneycontrol.com, 16 Oct 2026, 02:30 PM IST_
 - [Mahindra takes on Tata, Maruti in CNG SUV race with XUV 3XO](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU19QblNJT0pfbWhjVGhxYlZibHVZS3pib19teTU4dWlTT0xiaFFBU0hjRGtUV19WSThjVERUQnNDUExCQUVCMUhWQWhQM1FRbHFVSGRqS0Z6RjVPMGFoWDg4Qnk1QTBlbE9CTmFuYm5NYURNeV9zWmRGckx2TUxUOWxmZjZUN08ycXp2RklGZGJBS1ZraGF5M2EteUZCcnpmRE5BcGpVS1kzMEhIWVZCc0FMb0M3dE1iWHpIZzVHakVsRFHSAcoBQVVfeXFMTkRBRTlNTU85OFFhMW92T0lSc01NdHVNSlJBbEJJY3JwOVhZdDcySVh5N3hUU1YzWTBhdlBIU2UzeG5wUTZYU1YxbGtULXdKb2d6aXZZN3dCOXNmTjF0X1JGeU1kYlZfWEFLcHVVSEU5ejVyVlFkMGJqczN0X29uREZzbjJwX2NtNDAxSDBHWmFfaV9Ib2RYaGdUNnJPZC1pSlVIR29SMWdlVk1UOElHT2sxLU1hc2xDZTJVckd6TTgtV283d2lVUUREdw?oc=5) - _BusinessLine, 16 Oct 2026, 01:49 PM IST_
 
@@ -182,7 +190,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹148.22 | -0.46% | ₹147.33 - ₹149.40 | 4,275,968 | 12,650,944 | 0.34x | 27.39% | ₹135.84 - ₹211.92 |
+| ₹148.28 | -0.42% | ₹147.33 - ₹149.40 | 4,439,634 | 12,650,944 | 0.35x | 27.39% | ₹135.84 - ₹211.92 |
 
 **Research reports**
 
