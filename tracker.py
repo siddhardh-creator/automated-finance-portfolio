@@ -10,7 +10,8 @@ What it does every run:
   5. Writes data/latest.json and rebuilds README.md (the dashboard).
   6. Skips cleanly on market holidays / when there is no new trading day.
 
-Edit config.json to change capital, stocks, weights or trusted news sources.
+Portfolio holdings come from transactions.csv (BUY / SELL / DEPOSIT lines, see ledger.py).
+Edit config.json to add companies (tickers, sector, BSE code) or change trusted news sources.
 """
 import difflib
 import json
@@ -27,6 +28,8 @@ import matplotlib
 import pandas as pd
 import requests
 import yfinance as yf
+
+import ledger
 
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
@@ -274,82 +277,157 @@ def collect_announcements(stock):
 
 
 # ----------------------------------------------------------------------------
-# Charts
+# Charts (colours: validated categorical palette, one fixed colour per company)
 # ----------------------------------------------------------------------------
-def make_charts(cfg, per_stock_df, port_series, nifty_series, results):
+SURFACE, INK, INK2, MUTED, GRID, AXIS = "#fcfcfb", "#0b0b0b", "#52514e", "#898781", "#e1e0d9", "#c3c2b7"
+SERIES = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#008300", "#6250d6", "#e34948"]
+GAIN, LOSS = "#2a78d6", "#e34948"  # diverging pair: blue = gain, red = loss (always with a +/- label)
+
+
+def stock_colors(cfg):
+    """Colour follows the company (config order), never its rank. Beyond 8 -> neutral grey."""
+    return {s["key"]: (SERIES[i] if i < len(SERIES) else MUTED) for i, s in enumerate(cfg["stocks"])}
+
+
+def _style():
+    plt.rcParams.update({
+        "figure.dpi": 130, "figure.facecolor": SURFACE, "axes.facecolor": SURFACE, "savefig.facecolor": SURFACE,
+        "axes.edgecolor": AXIS, "axes.labelcolor": INK2, "xtick.color": MUTED, "ytick.color": MUTED,
+        "text.color": INK, "axes.titlecolor": INK, "axes.titleweight": "bold", "axes.titlesize": 11,
+        "axes.titlelocation": "left", "axes.grid": True, "axes.grid.axis": "y",
+        "grid.color": GRID, "grid.linewidth": 0.8, "axes.spines.top": False, "axes.spines.right": False,
+        "axes.spines.left": False, "legend.frameon": False, "font.family": "sans-serif",
+    })
+
+
+def _trade_markers(ax, trades, series, key=None):
+    """Buy = up triangle, sell = down triangle, with a surface-coloured ring so they never blur into lines."""
+    seen = set()
+    for t in trades:
+        if t["type"] not in ("BUY", "SELL") or (key and t["key"] != key):
+            continue
+        d = t["effective"]
+        if d not in series.index:
+            continue
+        buy = t["type"] == "BUY"
+        ax.scatter([d], [series.loc[d]], marker="^" if buy else "v", s=46, zorder=5,
+                   color=GAIN if buy else LOSS, edgecolors=SURFACE, linewidths=1.5,
+                   label=None if t["type"] in seen else ("Buy" if buy else "Sell"))
+        seen.add(t["type"])
+
+
+def make_charts(cfg, per_stock_df, led, results, snapshot):
     charts = ROOT / "charts"
     charts.mkdir(exist_ok=True)
-    plt.rcParams.update({"figure.dpi": 130, "axes.grid": True, "grid.alpha": 0.25})
+    _style()
+    colors = stock_colors(cfg)
+    port, nifty = led["port_series"], led["nifty_series"]
+    bname = cfg["benchmark"]["name"]
 
-    # Portfolio vs Nifty
+    # 1) Portfolio vs Nifty (+ trade markers)
     fig, ax = plt.subplots(figsize=(8, 3.8))
-    ax.plot(port_series.index, port_series.values / 1e5, label="Virtual portfolio", linewidth=2)
-    ax.plot(nifty_series.index, nifty_series.values / 1e5, label=f"{cfg['benchmark']['name']} (same start capital)",
-            linewidth=2, linestyle="--")
-    ax.set_title("Portfolio value vs Nifty 50 (Rs lakh)")
-    ax.legend()
+    ax.plot(port.index, port.values / 1e5, label="Virtual portfolio", linewidth=2, color=SERIES[0])
+    ax.plot(nifty.index, nifty.values / 1e5, label=f"{bname} (same money invested)", linewidth=2,
+            linestyle="--", color=INK2)
+    _trade_markers(ax, led["trades"], port.rename(lambda d: d) / 1e5)
+    ax.annotate(f"{port.iloc[-1] / 1e5:,.1f}", (port.index[-1], port.iloc[-1] / 1e5), xytext=(6, 0),
+                textcoords="offset points", va="center", fontsize=9, color=INK)
+    ax.annotate(f"{nifty.iloc[-1] / 1e5:,.1f}", (nifty.index[-1], nifty.iloc[-1] / 1e5), xytext=(6, 0),
+                textcoords="offset points", va="center", fontsize=9, color=INK2)
+    ax.set_title(f"Portfolio value vs {bname} (Rs lakh)")
+    ax.legend(loc="upper left")
     fig.autofmt_xdate()
     fig.tight_layout()
     fig.savefig(charts / "portfolio_vs_nifty.png")
     plt.close(fig)
 
-    # Per-stock price + volume (last ~6 months)
-    for s in cfg["stocks"]:
-        df = per_stock_df[s["key"]].tail(130)
+    # 2) One chart per CURRENT holding (price, 20d average, your average buy price, trades, volume)
+    for r in results:
+        k = r["key"]
+        df = per_stock_df[k].tail(130)
+        avg_cost = r["metrics"]["base_price"]
         fig, (a1, a2) = plt.subplots(2, 1, figsize=(8, 4.6), sharex=True, gridspec_kw={"height_ratios": [3, 1]})
-        a1.plot(df.index, df["Close"], linewidth=1.8, label="Close")
-        a1.plot(df.index, df["Close"].rolling(20).mean(), linewidth=1.2, linestyle="--", label="20-day avg")
-        a1.set_title(f"{s['name']} - price and volume (6 months)")
-        a1.legend(loc="upper left")
-        a2.bar(df.index, df["Volume"] / 1e5, width=0.8)
+        a1.plot(df.index, df["Close"], linewidth=2, label="Close", color=colors[k])
+        a1.plot(df.index, df["Close"].rolling(20).mean(), linewidth=1.4, linestyle="--", color=INK2,
+                label="20-day average")
+        a1.axhline(avg_cost, color=MUTED, linewidth=1.3, linestyle=":", label=f"Your avg buy price ({inr(avg_cost, 2)})")
+        _trade_markers(a1, led["trades"], per_stock_df[k]["Close"], key=k)
+        a1.set_title(f"{r['name']} - price and volume (6 months)")
+        a1.legend(loc="best", fontsize=8, frameon=True, facecolor=SURFACE, edgecolor="none", framealpha=0.85)
+        a2.bar(df.index, df["Volume"] / 1e5, width=0.8, color=colors[k], alpha=0.6)
         a2.set_ylabel("Volume (lakh)")
         fig.autofmt_xdate()
         fig.tight_layout()
-        fig.savefig(charts / f"{s['key']}.png")
+        fig.savefig(charts / f"{k}.png")
         plt.close(fig)
 
-    # Return comparison bar chart
-    names = [r["name"] for r in results] + [cfg["benchmark"]["name"], "Portfolio"]
-    vals = [r["metrics"]["pnl_pct"] for r in results]
-    vals += [float((nifty_series.iloc[-1] / nifty_series.iloc[0] - 1) * 100),
-             float((port_series.iloc[-1] / port_series.iloc[0] - 1) * 100)]
-    colors = ["#2a9d8f" if v >= 0 else "#e76f51" for v in vals]
+    # 3) Return comparison (gain = blue, loss = red; every bar carries its +/- label)
+    p, b = snapshot["portfolio"], snapshot["benchmark"]
+    names = [r["name"] for r in results] + [bname, "Portfolio"]
+    vals = [r["metrics"]["pnl_pct"] or 0.0 for r in results] + [b["return_pct"], p["pnl_pct"]]
     fig, ax = plt.subplots(figsize=(8, 3.6))
-    ax.bar(names, vals, color=colors)
-    ax.axhline(0, color="black", linewidth=0.8)
-    ax.set_title("Return since start date (%)")
+    ax.bar(names, vals, color=[GAIN if v >= 0 else LOSS for v in vals], width=0.55, edgecolor=SURFACE, linewidth=2)
+    ax.axhline(0, color=AXIS, linewidth=1)
+    ax.set_title("Return (%): holdings since your buy, Nifty and portfolio since start")
     for i, v in enumerate(vals):
-        ax.text(i, v, f"{v:+.2f}%", ha="center", va="bottom" if v >= 0 else "top", fontsize=9)
+        ax.text(i, v, f"{v:+.2f}%", ha="center", va="bottom" if v >= 0 else "top", fontsize=9, color=INK)
+    ax.margins(y=0.2)
     fig.tight_layout()
     fig.savefig(charts / "returns.png")
     plt.close(fig)
+
+    # 4) Allocation: one 100% bar (holdings + cash), direct labels, legend always present
+    parts = [(r["name"], r["metrics"]["market_value"], colors[r["key"]]) for r in results]
+    parts.append(("Cash", snapshot["portfolio"]["cash"], MUTED))
+    parts = [x for x in parts if x[1] > 0]
+    total = sum(x[1] for x in parts)
+    if total > 0:
+        fig, ax = plt.subplots(figsize=(8, 1.9))
+        left = 0.0
+        for name, val, col in parts:
+            w = val / total * 100
+            ax.barh([0], [w], left=left, color=col, edgecolor=SURFACE, linewidth=2, height=0.55, label=f"{name}  {w:.1f}%")
+            if w >= 7:
+                ax.text(left + w / 2, 0, f"{w:.0f}%", ha="center", va="center", fontsize=10, color="white",
+                        fontweight="bold")
+            left += w
+        ax.set_xlim(0, 100)
+        ax.set_yticks([])
+        ax.set_xticks([])
+        ax.grid(False)
+        ax.spines["bottom"].set_visible(False)
+        ax.set_title("Where the money is (share of portfolio value)")
+        ax.legend(loc="upper center", bbox_to_anchor=(0.5, 0.0), ncol=min(len(parts), 4), fontsize=8.5)
+        fig.tight_layout()
+        fig.savefig(charts / "allocation.png", bbox_inches="tight")
+        plt.close(fig)
 
 
 # ----------------------------------------------------------------------------
 # README dashboard
 # ----------------------------------------------------------------------------
-def ensure_analysis_placeholders(cfg):
-    d = ROOT / "analysis"
-    d.mkdir(exist_ok=True)
-    for s in cfg["stocks"]:
-        f = d / f"{s['key']}.md"
-        if not f.exists():
-            f.write_text(
-                f"<!-- PLACEHOLDER -->\n# {s['name']} - Equity Research Note\n\n"
-                "_Paste your detailed analysis here (replace this whole file). "
-                "Suggested sections: business overview, financials, valuation, risks, thesis._\n",
-                encoding="utf-8",
-            )
+def _details(summary, body, open_=False):
+    """Collapsible block. GitHub needs blank lines around the markdown inside <details>."""
+    return [f"<details{' open' if open_ else ''}><summary>{summary}</summary>\n", *body, "\n</details>\n"]
+
+
+def _report_links(cfg, key):
+    reports = next((s.get("reports", {}) for s in cfg["stocks"] if s["key"] == key), {})
+    out = []
+    for k, label in (("one_pager", "One-page snapshot"), ("detailed", "Detailed report")):
+        if reports.get(k) and (ROOT / reports[k]).exists():
+            out.append((label, reports[k]))
+    return out
 
 
 def build_readme(cfg, snapshot):
-    p = snapshot["portfolio"]
-    b = snapshot["benchmark"]
+    p, b = snapshot["portfolio"], snapshot["benchmark"]
+    hold = snapshot["stocks"]
     L = []
     L.append(f"# {cfg['portfolio_name']}\n")
     L.append(f"> {DISCLAIMER}\n")
     L.append(f"**Last updated:** {snapshot['generated_at_ist']}  |  **Market data as of:** {snapshot['as_of']}  |  "
-             f"**Virtual capital:** {inr(p['capital'])}\n")
+             f"**Start date:** {snapshot['base_date']}\n")
     snap_type = snapshot.get("snapshot_type", "End-of-day final snapshot")
     L.append(f"**Snapshot type:** {snap_type}\n")
     if snap_type.startswith("Live"):
@@ -359,86 +437,139 @@ def build_readme(cfg, snapshot):
         L.append("### Data quality notes")
         L.extend(f"- {w}" for w in snapshot["data_quality"])
         L.append("")
+    L.append("**Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · "
+             "[Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · "
+             "[Method](#how-this-works--data-sources)\n")
 
+    # --- Summary
     L.append("## Portfolio summary\n")
     L.append("| Metric | Value |\n|---|---|")
     L.append(f"| Current value | **{inr(p['value'])}** |")
     L.append(f"| Total P&L | **{inr(p['pnl_inr'])} ({pct(p['pnl_pct'])})** |")
+    L.append(f"| &nbsp;&nbsp;Unrealised (open positions) | {inr(p['unrealised_pnl_inr'])} |")
+    L.append(f"| &nbsp;&nbsp;Realised (shares already sold) | {inr(p['realised_pnl_inr'])} |")
     L.append(f"| Today's change | {inr(p['day_pnl_inr'])} ({pct(p['day_pnl_pct'])}) |")
-    L.append(f"| {b['name']} since start | {pct(b['return_pct'])} |")
+    L.append(f"| {b['name']} since start (same money invested) | {pct(b['return_pct'])} |")
     L.append(f"| Outperformance vs {b['name']} | {pct(p['pnl_pct'] - b['return_pct'])} |")
-    L.append(f"| Uninvested cash | {inr(p['cash'])} |")
-    L.append(f"| Start date (base prices) | {snapshot['base_date']} |\n")
-
-    L.append("| Stock | Shares | Close | Day | Value | P&L | P&L % | Volume vs 20d avg | 20d volatility (ann.) |")
-    L.append("|---|---:|---:|---:|---:|---:|---:|---:|---:|")
-    for r in snapshot["stocks"]:
-        m = r["metrics"]
-        L.append(
-            f"| {r['name']} | {num(m['shares'])} | {inr(m['close'], 2)} | {pct(m['day_change_pct'])} | "
-            f"{inr(m['market_value'])} | {inr(m['pnl_inr'])} | {pct(m['pnl_pct'])} | "
-            f"{(str(m['volume_vs_avg']) + 'x') if m['volume_vs_avg'] else 'n/a'} | "
-            f"{pct(m['volatility_20d_annualised_pct']).lstrip('+')} |"
-        )
-    L.append("")
+    L.append(f"| Cash (uninvested) | {inr(p['cash'])} |")
+    L.append(f"| Virtual money put in | {inr(p['capital'])} |\n")
     L.append("![Portfolio vs Nifty](charts/portfolio_vs_nifty.png)\n")
+    L.append("_▲ buy · ▼ sell_\n")
+
+    # --- Holdings
+    L.append("## Holdings\n")
+    if hold:
+        L.append("| Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |")
+        L.append("|---|---:|---:|---:|---:|---:|---:|---:|---:|")
+        for r in hold:
+            m = r["metrics"]
+            L.append(f"| {r['name']} | {num(m['shares'])} | {inr(m['base_price'], 2)} | {inr(m['close'], 2)} | "
+                     f"{pct(m['day_change_pct'])} | {inr(m['market_value'])} | {r['weight_pct']:.1f}% | "
+                     f"{inr(m['pnl_inr'])} | {pct(m['pnl_pct'])} |")
+        L.append("")
+        pf = snapshot["performers"]
+        bits = []
+        if pf.get("best_since_buy"):
+            bits.append(f"**Best since buy:** {pf['best_since_buy']['name']} ({pct(pf['best_since_buy']['pct'])})")
+        if pf.get("worst_since_buy"):
+            bits.append(f"**Worst since buy:** {pf['worst_since_buy']['name']} ({pct(pf['worst_since_buy']['pct'])})")
+        if pf.get("top_mover_today"):
+            bits.append(f"**Biggest mover today:** {pf['top_mover_today']['name']} ({pct(pf['top_mover_today']['pct'])})")
+        if bits:
+            L.append("  ·  ".join(bits) + "\n")
+    else:
+        L.append("_No open positions right now - all virtual money is in cash._\n")
+
+    # --- Allocation
+    L.append("## Allocation\n")
+    L.append("![Allocation](charts/allocation.png)\n")
+    L.append("| Sector | Value | Share |\n|---|---:|---:|")
+    for s in snapshot["sectors"]:
+        L.append(f"| {s['sector']} | {inr(s['value'])} | {s['weight_pct']:.1f}% |")
+    L.append("")
+
+    # --- Performance
+    L.append("## Performance\n")
     L.append("![Returns](charts/returns.png)\n")
 
-    for r in snapshot["stocks"]:
+    # --- Trade book
+    L.append("## Trade book\n")
+    tr = list(reversed(snapshot["transactions"]))
+    body = ["| Date | Stock | Type | Shares | Price | Amount | Note |", "|---|---|---|---:|---:|---:|---|"]
+    for t in tr:
+        sh = num(t["shares"]) if t["type"] != "DEPOSIT" else "-"
+        px = (inr(t["price"], 2) + ("*" if t.get("provisional") else "")) if t["price"] else "-"
+        body.append(f"| {t['date']} | {t['name'] or '-'} | {t['type']} | {sh} | {px} | {inr(t['amount'])} | "
+                    f"{t['note'] or ''} |")
+    if any(t.get("provisional") for t in tr):
+        body.append("\n_* price is live while the market is open; it is fixed at the closing price after 3:30 PM._")
+    L.extend(_details(f"<b>Transaction history</b> - {len(tr)} entries, newest first", body, open_=len(tr) <= 8))
+
+    cl = snapshot["closed_positions"]
+    if cl:
+        body = ["| Stock | Bought (avg) | Sold (avg) | Held | Invested | Proceeds | Realised P&L | Return | Research |",
+                "|---|---:|---:|---:|---:|---:|---:|---:|---|"]
+        for c in cl:
+            links = " · ".join(f"[{lbl}]({path})" for lbl, path in _report_links(cfg, c["key"])) or "-"
+            body.append(f"| {c['name']} | {c['first_buy']} @ {inr(c['avg_buy'], 2)} | {c['last_sell']} @ "
+                        f"{inr(c['avg_sell'], 2)} | {c['days']} days | {inr(c['invested'])} | {inr(c['proceeds'])} | "
+                        f"{inr(c['realised_pnl'])} | {pct(c['realised_pct'])} | {links} |")
+    else:
+        body = ["_No fully closed positions yet._"]
+    L.extend(_details(f"<b>Closed positions</b> - {len(cl)}", body, open_=0 < len(cl) <= 5))
+
+    # --- Company deep dives (open positions only)
+    L.append("## Company deep-dives\n")
+    if not hold:
+        L.append("_No open positions._\n")
+    for r in hold:
         m = r["metrics"]
-        L.append(f"---\n\n## {r['name']}\n")
+        L.append(f"---\n\n### {r['name']}  _({r['sector']})_\n")
         L.append(f"![{r['name']} chart](charts/{r['key']}.png)\n")
         sym = r["ticker"].split(".")[0]
-        L.append(f"[View {r['name']} on Google Finance](https://www.google.com/finance/quote/{sym}:NSE)\n")
-        L.append("| Close | Day change | Day range | Volume | 20d avg volume | 52w range |")
-        L.append("|---:|---:|---:|---:|---:|---:|")
+        L.append(f"[Google Finance](https://www.google.com/finance/quote/{sym}:NSE) · "
+                 f"[All BSE announcements](https://www.bseindia.com/corporates/ann.html?scrip={r['bse_code']})\n")
+        L.append("| Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |")
+        L.append("|---:|---:|---:|---:|---:|---:|---:|---:|")
         L.append(
             f"| {inr(m['close'], 2)} | {pct(m['day_change_pct'])} | {inr(m['low'], 2)} - {inr(m['high'], 2)} | "
-            f"{num(m['volume'])} | {num(m['avg_volume_20d'])} | {inr(m['low_52w'], 2)} - {inr(m['high_52w'], 2)} |\n"
+            f"{num(m['volume'])} | {num(m['avg_volume_20d'])} | "
+            f"{(str(m['volume_vs_avg']) + 'x') if m['volume_vs_avg'] else 'n/a'} | "
+            f"{pct(m['volatility_20d_annualised_pct']).lstrip('+')} | {inr(m['low_52w'], 2)} - {inr(m['high_52w'], 2)} |\n"
         )
-        L.append("**Official company announcements (BSE)**\n")
-        if r["announcements"]:
-            for a in r["announcements"]:
-                L.append(f"- {a['date']} - [{a['title']}]({a['link']})")
-        L.append(f"- [All BSE announcements for {r['name']}](https://www.bseindia.com/corporates/ann.html?scrip={r['bse_code']})")
-        L.append("")
-        L.append("**Latest news (trusted publishers only)**\n")
-        if r["news"]:
-            for n in r["news"]:
-                L.append(f"- [{n['title']}]({n['link']}) - _{n['source']}, {n['published']}_")
-        else:
-            L.append("- No fresh headlines from trusted sources in the last few days.")
-        L.append("")
+        links = _report_links(cfg, r["key"])
         f = ROOT / "analysis" / f"{r['key']}.md"
+        has_md = f.exists() and "<!-- PLACEHOLDER -->" not in f.read_text(encoding="utf-8")
         L.append("**Research reports**\n")
-        # PDF reports listed in config.json under stocks[].reports (shown only if the file exists)
-        reports = next((s.get("reports", {}) for s in cfg["stocks"] if s["key"] == r["key"]), {})
-        labels = [("one_pager", "One-page snapshot (quick read)"),
-                  ("detailed", "Detailed initiation report")]
-        pdf_links = [f"- [{label}]({reports[k]})" for k, label in labels
-                     if reports.get(k) and (ROOT / reports[k]).exists()]
-        if pdf_links:
-            L.extend(pdf_links)
+        if links:
+            L.extend(f"- [{lbl}]({path})" for lbl, path in links)
             L.append("")
-        if f.exists() and "<!-- PLACEHOLDER -->" not in f.read_text(encoding="utf-8"):
-            L.append(f"[Open full analysis](analysis/{r['key']}.md)\n")
-            L.append("<details><summary>Read the analysis here</summary>\n")
-            L.append(f.read_text(encoding="utf-8"))
-            L.append("\n</details>\n")
-        elif not pdf_links:
-            L.append("_Detailed analysis coming soon._\n")
+        if has_md:
+            L.extend(_details("Read the written analysis here", [f.read_text(encoding="utf-8")]))
+        elif not links:
+            L.append("_Research report coming soon._\n")
+        ann = [f"- {a['date']} - [{a['title']}]({a['link']})" for a in r["announcements"]] or \
+              ["- No recent filings fetched; see the link above for the full list."]
+        L.extend(_details("<b>Official company announcements (BSE)</b>", ann))
+        news = [f"- [{n['title']}]({n['link']}) - _{n['source']}, {n['published']}_" for n in r["news"]] or \
+               ["- No fresh headlines from trusted sources in the last few days."]
+        L.extend(_details("<b>Latest news (trusted publishers only)</b>", news))
 
     L.append("---\n\n## How this works & data sources\n")
-    L.append("- **Prices / volume:** Yahoo Finance via the open-source `yfinance` library (unofficial, end-of-day; "
+    L.append("- **Prices / volume:** Yahoo Finance via the open-source `yfinance` library (unofficial; "
              "may differ slightly from NSE official data).")
+    L.append("- **Trades:** every buy / sell / deposit is a line in `transactions.csv`. A trade happens at the closing "
+             "price of its date (live price for today). Average-cost method; no brokerage or taxes (virtual portfolio).")
+    L.append("- **Benchmark:** every rupee put into the portfolio is also put into the Nifty 50 on the same day, so the "
+             "comparison is like-for-like.")
     L.append("- **News:** Google News RSS + publisher RSS feeds, filtered to a whitelist of trusted publishers, "
              "de-duplicated, last 72 hours only. Each item links to the original article.")
     L.append("- **Official filings:** BSE corporate announcements (best-effort, with link to the full list).")
     L.append("- **Automation:** GitHub Actions refreshes this dashboard on weekdays every 30 minutes from 9:30 AM to "
              "3:30 PM IST (live snapshots) and at 5:00 PM IST (end-of-day final snapshot + AI daily report); "
              "skips market holidays.")
-    L.append("- **Method:** Shares = (capital x weight) / closing price on the start date. Volatility = 20-day std-dev of "
-             "daily returns, annualised. Volume ratio = today's volume / average of previous 20 sessions.\n")
+    L.append("- **Metrics:** Volatility = 20-day std-dev of daily returns, annualised. Volume ratio = today's volume / "
+             "average of previous 20 sessions.\n")
     L.append(f"> {DISCLAIMER}\n")
     (ROOT / "README.md").write_text("\n".join(L), encoding="utf-8")
 
@@ -450,17 +581,28 @@ def main():
     cfg = load_config()
     force = os.environ.get("FORCE") == "1"
     (ROOT / "data").mkdir(exist_ok=True)
-    ensure_analysis_placeholders(cfg)
 
+    # 1) Trade book
+    by_key = {s["key"]: s for s in cfg["stocks"]}
+    records, warnings = ledger.load_transactions(ROOT / cfg.get("transactions_file", "transactions.csv"), set(by_key))
+    traded = [s["key"] for s in cfg["stocks"] if any(r["key"] == s["key"] for r in records)]
+    if not traded:
+        log("transactions.csv has no usable BUY lines. Leaving everything unchanged.")
+        for w in warnings:
+            log("  " + w)
+        write_github_output("updated", "false")
+        sys.exit(0)
+
+    # 2) Prices (every stock that was ever traded, so past trades can be valued)
     log("Fetching prices ...")
     per_stock_df, used_ticker = {}, {}
-    for s in cfg["stocks"]:
-        t, df = get_history(s["tickers"])
+    for k in traded:
+        t, df = get_history(by_key[k]["tickers"])
         if df is None:
-            log(f"FATAL: could not fetch data for {s['name']}. Leaving everything unchanged.")
+            log(f"FATAL: could not fetch data for {by_key[k]['name']}. Leaving everything unchanged.")
             write_github_output("updated", "false")
             sys.exit(0)
-        per_stock_df[s["key"]], used_ticker[s["key"]] = df, t
+        per_stock_df[k], used_ticker[k] = df, t
     _, nifty_df = get_history(cfg["benchmark"]["ticker"])
     if nifty_df is None:
         log("FATAL: could not fetch benchmark. Leaving everything unchanged.")
@@ -470,9 +612,10 @@ def main():
     closes = pd.DataFrame({k: d["Close"] for k, d in per_stock_df.items()})
     closes["__nifty"] = nifty_df["Close"]
     closes = closes.ffill().dropna()
-    closes = closes[closes.index >= pd.Timestamp(cfg["base_date"])]
+    start = min(pd.Timestamp(cfg["base_date"]), min(r["date"] for r in records))
+    closes = closes[closes.index >= start]
     if len(closes) < 1:
-        log("No data on/after base_date yet. Nothing to do.")
+        log("No data on/after the start date yet. Nothing to do.")
         write_github_output("updated", "false")
         sys.exit(0)
 
@@ -489,41 +632,83 @@ def main():
     run_mode = os.environ.get("RUN_MODE", "final")  # "intraday" = live snapshot, "final" = end of day
     snapshot_type = "Live intraday snapshot" if run_mode == "intraday" else "End-of-day final snapshot"
 
-    # Positions are fixed from the base date close
-    base_row = closes.iloc[0]
-    capital = cfg["capital_inr"]
-    shares = {}
-    for s in cfg["stocks"]:
-        shares[s["key"]] = int((capital * s["weight"]) // base_row[s["key"]])
-    invested = sum(shares[s["key"]] * base_row[s["key"]] for s in cfg["stocks"])
-    cash = capital - invested
+    # 3) Ledger: holdings, cash, realised / unrealised P&L, benchmark
+    nifty_close = closes.pop("__nifty")
+    led = ledger.build_ledger(records, closes, nifty_close, cfg["capital_inr"], intraday=(run_mode == "intraday"))
+    warnings += led["warnings"]
+    if any(t.get("provisional") for t in led["trades"]):
+        warnings.append("A trade dated today uses the live market price; it will be fixed at the closing price "
+                        "after the market closes.")
+    port, nifty_series = led["port_series"], led["nifty_series"]
 
-    port_series = sum(closes[k] * n for k, n in shares.items()) + cash
-    nifty_series = closes["__nifty"] / closes["__nifty"].iloc[0] * capital
-
-    results, warnings = [], []
-    day_pnl = 0.0
+    # 4) Per-holding metrics, news, filings
+    results = []
     for s in cfg["stocks"]:
         k = s["key"]
+        pos = led["positions"].get(k)
+        if not pos:
+            continue
         df = per_stock_df[k][per_stock_df[k].index <= closes.index[-1]]
-        m = stock_metrics(df, shares[k], float(base_row[k]))
+        m = stock_metrics(df, pos["shares"], pos["avg_cost"])
         warnings += quality_checks(s["name"], m)
-        if m["prev_close"]:
-            day_pnl += shares[k] * (m["close"] - m["prev_close"])
         log(f"News + filings for {s['name']} ...")
-        results.append({"key": k, "name": s["name"], "ticker": used_ticker[k], "bse_code": s["bse_code"],
+        results.append({"key": k, "name": s["name"], "sector": s.get("sector", "-"), "ticker": used_ticker[k],
+                        "bse_code": s["bse_code"], "first_buy": pos["first_buy"].strftime("%Y-%m-%d"),
                         "metrics": m, "news": [], "announcements": collect_announcements(s)})
+    publisher_cache = {pf["url"]: fetch_feed(pf["url"]) for pf in cfg["publisher_feeds"]} if results else {}
+    for r in results:
+        r["news"] = collect_news(cfg, by_key[r["key"]], publisher_cache)
 
-    # Publisher feeds are downloaded once and reused
-    publisher_cache = {pf["url"]: fetch_feed(pf["url"]) for pf in cfg["publisher_feeds"]}
-    for s, r in zip(cfg["stocks"], results):
-        r["news"] = collect_news(cfg, s, publisher_cache)
-
-    value = float(port_series.iloc[-1])
-    prev_value = float(port_series.iloc[-2]) if len(port_series) > 1 else capital
+    # 5) Portfolio numbers
+    value = float(port.iloc[-1])
+    deposits = led["total_deposits"]
+    if len(port) > 1:
+        prev_value = float(port.iloc[-2])
+        day_pnl = value - prev_value - float(led["deposit_delta"].iloc[-1])
+    else:
+        prev_value, day_pnl = deposits, value - deposits
+    unrealised = sum(r["metrics"]["pnl_inr"] for r in results)
+    holdings_value = sum(r["metrics"]["market_value"] for r in results)
+    invested = sum(pos["cost"] for pos in led["positions"].values())
+    for r in results:
+        r["weight_pct"] = round(r["metrics"]["market_value"] / value * 100, 2) if value else 0.0
     stale_days = (datetime.now(IST).date() - closes.index[-1].date()).days
     if stale_days > 4:
         warnings.append(f"Latest market data is {stale_days} days old - the data source may be failing.")
+
+    sectors = {}
+    for r in results:
+        sectors[r["sector"]] = sectors.get(r["sector"], 0.0) + r["metrics"]["market_value"]
+    if led["cash"] > 0.5:
+        sectors["Cash"] = led["cash"]
+    sector_rows = [{"sector": s, "value": round(v, 2), "weight_pct": round(v / value * 100, 2) if value else 0.0}
+                   for s, v in sorted(sectors.items(), key=lambda kv: -kv[1])]
+
+    performers = {}
+    with_pct = [r for r in results if r["metrics"]["pnl_pct"] is not None]
+    if len(with_pct) >= 2:
+        best = max(with_pct, key=lambda r: r["metrics"]["pnl_pct"])
+        worst = min(with_pct, key=lambda r: r["metrics"]["pnl_pct"])
+        performers["best_since_buy"] = {"name": best["name"], "pct": best["metrics"]["pnl_pct"]}
+        performers["worst_since_buy"] = {"name": worst["name"], "pct": worst["metrics"]["pnl_pct"]}
+    movers = [r for r in results if r["metrics"]["day_change_pct"] is not None]
+    if movers:
+        top = max(movers, key=lambda r: abs(r["metrics"]["day_change_pct"]))
+        performers["top_mover_today"] = {"name": top["name"], "pct": top["metrics"]["day_change_pct"]}
+
+    names = {k: by_key[k]["name"] for k in by_key}
+    tx_out = [{"date": t["date"].strftime("%Y-%m-%d"), "key": t["key"], "name": names.get(t["key"], ""),
+               "type": t["type"], "shares": int(t["shares"]), "price": round(t["price"], 2) if t["price"] else None,
+               "amount": round(t["amount"], 2), "note": t["note"], "provisional": bool(t.get("provisional"))}
+              for t in led["trades"]]
+    closed_out = [{"key": c["key"], "name": names.get(c["key"], c["key"]),
+                   "first_buy": c["first_buy"].strftime("%Y-%m-%d"), "last_sell": c["last_sell"].strftime("%Y-%m-%d"),
+                   "days": c["days"], "avg_buy": round(c["avg_buy"], 2), "avg_sell": round(c["avg_sell"], 2),
+                   "invested": round(c["invested"], 2), "proceeds": round(c["proceeds"], 2),
+                   "realised_pnl": round(c["realised_pnl"], 2),
+                   "realised_pct": round(c["realised_pct"], 2) if c["realised_pct"] is not None else None}
+                  for c in led["closed"]]
+    bench_ret = float((nifty_series.iloc[-1] / deposits - 1) * 100) if deposits else 0.0
 
     snapshot = {
         "generated_at_ist": datetime.now(IST).strftime("%d %b %Y, %I:%M %p IST"),
@@ -531,34 +716,45 @@ def main():
         "snapshot_type": snapshot_type,
         "base_date": closes.index[0].strftime("%Y-%m-%d"),
         "portfolio": {
-            "capital": capital,
+            "capital": round(deposits, 2),
+            "initial_capital": cfg["capital_inr"],
             "invested": round(invested, 2),
-            "cash": round(cash, 2),
+            "holdings_value": round(holdings_value, 2),
+            "cash": round(led["cash"], 2),
             "value": round(value, 2),
-            "pnl_inr": round(value - capital, 2),
-            "pnl_pct": round((value / capital - 1) * 100, 2),
-            "day_pnl_inr": round(value - prev_value, 2),
-            "day_pnl_pct": round((value / prev_value - 1) * 100, 2),
+            "pnl_inr": round(value - deposits, 2),
+            "pnl_pct": round((value / deposits - 1) * 100, 2) if deposits else 0.0,
+            "unrealised_pnl_inr": round(unrealised, 2),
+            "realised_pnl_inr": round(led["realised_total"], 2),
+            "day_pnl_inr": round(day_pnl, 2),
+            "day_pnl_pct": round(day_pnl / prev_value * 100, 2) if prev_value else 0.0,
+            "open_positions": len(results),
         },
         "benchmark": {
             "name": cfg["benchmark"]["name"],
-            "close": round(float(closes["__nifty"].iloc[-1]), 2),
-            "return_pct": round(float((nifty_series.iloc[-1] / capital - 1) * 100), 2),
-            "day_change_pct": round(float((closes["__nifty"].iloc[-1] / closes["__nifty"].iloc[-2] - 1) * 100), 2)
-            if len(closes) > 1 else None,
+            "close": round(float(nifty_close.iloc[-1]), 2),
+            "return_pct": round(bench_ret, 2),
+            "day_change_pct": round(float((nifty_close.iloc[-1] / nifty_close.iloc[-2] - 1) * 100), 2)
+            if len(nifty_close) > 1 else None,
         },
         "stocks": results,
+        "allocation_by_sector": sector_rows,
+        "sectors": sector_rows,
+        "performers": performers,
+        "transactions": tx_out,
+        "closed_positions": closed_out,
         "data_quality": warnings,
         "sources": {
-            "prices": "Yahoo Finance via yfinance (end-of-day, unofficial)",
+            "prices": "Yahoo Finance via yfinance (unofficial)",
             "news": "Google News RSS + publisher RSS, trusted-publisher whitelist, 72h window",
             "filings": "BSE corporate announcements (best effort)",
+            "trades": "transactions.csv (average-cost method, trades at closing price of the trade date)",
         },
         "disclaimer": "Virtual portfolio for learning. Not investment advice.",
     }
 
     log("Drawing charts ...")
-    make_charts(cfg, per_stock_df, port_series, nifty_series, results)
+    make_charts(cfg, per_stock_df, led, results, snapshot)
     latest_file.write_text(json.dumps(snapshot, indent=2, ensure_ascii=False), encoding="utf-8")
     build_readme(cfg, snapshot)
     log(f"Done. Portfolio value {inr(value)} ({pct(snapshot['portfolio']['pnl_pct'])}) as of {as_of}.")

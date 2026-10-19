@@ -2,62 +2,117 @@
   "portfolio_name": "Core-Equity Virtual Portfolio",
   "capital_inr": 10000000,
   "base_date": "2026-10-16",
-  "benchmark": {"name": "Nifty 50", "ticker": "^NSEI"},
+  "benchmark": {
+    "name": "Nifty 50",
+    "ticker": "^NSEI"
+  },
   "news_max_age_hours": 72,
   "news_per_company": 5,
   "stocks": [
     {
       "key": "hdfc",
       "name": "HDFC Bank",
-      "tickers": ["HDFCBANK.NS"],
+      "tickers": [
+        "HDFCBANK.NS"
+      ],
       "weight": 0.3333,
       "bse_code": "500180",
-      "keywords": ["hdfc bank"],
+      "keywords": [
+        "hdfc bank"
+      ],
       "news_query": "\"HDFC Bank\"",
       "reports": {
         "one_pager": "analysis/HDFC_Bank_OnePager.pdf",
         "detailed": "analysis/HDFC_Bank_Detailed.pdf"
-      }
+      },
+      "sector": "Financials"
     },
     {
       "key": "zomato",
       "name": "Eternal (Zomato)",
-      "tickers": ["ETERNAL.NS", "ZOMATO.NS"],
+      "tickers": [
+        "ETERNAL.NS",
+        "ZOMATO.NS"
+      ],
       "weight": 0.3333,
       "bse_code": "543320",
-      "keywords": ["zomato", "eternal", "blinkit", "deepinder goyal"],
+      "keywords": [
+        "zomato",
+        "eternal",
+        "blinkit",
+        "deepinder goyal"
+      ],
       "news_query": "Zomato OR \"Eternal Ltd\" OR Blinkit",
       "reports": {
         "one_pager": "analysis/Eternal_OnePager.pdf",
         "detailed": "analysis/Eternal_Detailed.pdf"
-      }
+      },
+      "sector": "Consumer Internet"
     },
     {
       "key": "maruti",
       "name": "Maruti Suzuki",
-      "tickers": ["MARUTI.NS"],
+      "tickers": [
+        "MARUTI.NS"
+      ],
       "weight": 0.3334,
       "bse_code": "532500",
-      "keywords": ["maruti"],
+      "keywords": [
+        "maruti"
+      ],
       "news_query": "\"Maruti Suzuki\"",
       "reports": {
         "one_pager": "analysis/Maruti_OnePager.pdf",
         "detailed": "analysis/Maruti_Detailed.pdf"
-      }
+      },
+      "sector": "Automobiles"
     }
   ],
   "trusted_sources": [
-    "economic times", "moneycontrol", "business standard", "mint", "livemint",
-    "businessline", "hindu businessline", "the hindu", "financial express",
-    "reuters", "cnbc-tv18", "cnbctv18", "ndtv profit", "bloomberg quint",
-    "bq prime", "press trust of india", "pti", "the indian express"
+    "economic times",
+    "moneycontrol",
+    "business standard",
+    "mint",
+    "livemint",
+    "businessline",
+    "hindu businessline",
+    "the hindu",
+    "financial express",
+    "reuters",
+    "cnbc-tv18",
+    "cnbctv18",
+    "ndtv profit",
+    "bloomberg quint",
+    "bq prime",
+    "press trust of india",
+    "pti",
+    "the indian express"
   ],
   "publisher_feeds": [
-    {"source": "Economic Times", "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"},
-    {"source": "Moneycontrol", "url": "https://www.moneycontrol.com/rss/business.xml"},
-    {"source": "Moneycontrol", "url": "https://www.moneycontrol.com/rss/latestnews.xml"},
-    {"source": "Business Standard", "url": "https://www.business-standard.com/rss/markets-106.rss"},
-    {"source": "Mint", "url": "https://www.livemint.com/rss/markets"},
-    {"source": "BusinessLine", "url": "https://www.thehindubusinessline.com/markets/feeder/default.rss"}
-  ]
+    {
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"
+    },
+    {
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/rss/business.xml"
+    },
+    {
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/rss/latestnews.xml"
+    },
+    {
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/rss/markets-106.rss"
+    },
+    {
+      "source": "Mint",
+      "url": "https://www.livemint.com/rss/markets"
+    },
+    {
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/feeder/default.rss"
+    }
+  ],
+  "transactions_file": "transactions.csv"
 }
