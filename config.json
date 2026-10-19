@@ -13,7 +13,11 @@
       "weight": 0.3333,
       "bse_code": "500180",
       "keywords": ["hdfc bank"],
-      "news_query": "\"HDFC Bank\""
+      "news_query": "\"HDFC Bank\"",
+      "reports": {
+        "one_pager": "analysis/HDFC_Bank_OnePager.pdf",
+        "detailed": "analysis/HDFC_Bank_Detailed.pdf"
+      }
     },
     {
       "key": "zomato",
@@ -22,7 +26,11 @@
       "weight": 0.3333,
       "bse_code": "543320",
       "keywords": ["zomato", "eternal", "blinkit", "deepinder goyal"],
-      "news_query": "Zomato OR \"Eternal Ltd\" OR Blinkit"
+      "news_query": "Zomato OR \"Eternal Ltd\" OR Blinkit",
+      "reports": {
+        "one_pager": "analysis/Eternal_OnePager.pdf",
+        "detailed": "analysis/Eternal_Detailed.pdf"
+      }
     },
     {
       "key": "maruti",
@@ -31,7 +39,11 @@
       "weight": 0.3334,
       "bse_code": "532500",
       "keywords": ["maruti"],
-      "news_query": "\"Maruti Suzuki\""
+      "news_query": "\"Maruti Suzuki\"",
+      "reports": {
+        "one_pager": "analysis/Maruti_OnePager.pdf",
+        "detailed": "analysis/Maruti_Detailed.pdf"
+      }
     }
   ],
   "trusted_sources": [

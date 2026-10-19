@@ -405,13 +405,22 @@ def build_readme(cfg, snapshot):
             L.append("- No fresh headlines from trusted sources in the last few days.")
         L.append("")
         f = ROOT / "analysis" / f"{r['key']}.md"
-        L.append("**Research note**\n")
+        L.append("**Research reports**\n")
+        # PDF reports listed in config.json under stocks[].reports (shown only if the file exists)
+        reports = next((s.get("reports", {}) for s in cfg["stocks"] if s["key"] == r["key"]), {})
+        labels = [("one_pager", "One-page snapshot (quick read)"),
+                  ("detailed", "Detailed initiation report")]
+        pdf_links = [f"- [{label}]({reports[k]})" for k, label in labels
+                     if reports.get(k) and (ROOT / reports[k]).exists()]
+        if pdf_links:
+            L.extend(pdf_links)
+            L.append("")
         if f.exists() and "<!-- PLACEHOLDER -->" not in f.read_text(encoding="utf-8"):
             L.append(f"[Open full analysis](analysis/{r['key']}.md)\n")
             L.append("<details><summary>Read the analysis here</summary>\n")
             L.append(f.read_text(encoding="utf-8"))
             L.append("\n</details>\n")
-        else:
+        elif not pdf_links:
             L.append("_Detailed analysis coming soon._\n")
 
     L.append("---\n\n## How this works & data sources\n")
