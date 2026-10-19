@@ -2,105 +2,165 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 19 Oct 2026, 10:22 AM IST  |  **Market data as of:** 2026-10-19  |  **Virtual capital:** ₹1,00,00,000
+**Last updated:** 19 Oct 2026, 11:17 AM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
+
+**Snapshot type:** End-of-day final snapshot
+
+**Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
 ## Portfolio summary
 
 | Metric | Value |
 |---|---|
-| Current value | **₹99,50,639** |
-| Total P&L | **-₹49,361 (-0.49%)** |
-| Today's change | -₹49,361 (-0.49%) |
-| Nifty 50 since start | -0.29% |
-| Outperformance vs Nifty 50 | -0.20% |
-| Uninvested cash | ₹3,190 |
-| Start date (base prices) | 2026-10-16 |
-
-| Stock | Shares | Close | Day | Value | P&L | P&L % | Volume vs 20d avg | 20d volatility (ann.) |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹713.00 | -2.17% | ₹32,59,836 | -₹72,466 | -2.17% | 0.34x | 23.57% |
-| Eternal (Zomato) | 10,245 | ₹324.30 | -0.31% | ₹33,22,453 | -₹10,245 | -0.31% | 0.27x | 27.24% |
-| Maruti Suzuki | 290 | ₹11,604.00 | +1.00% | ₹33,65,160 | ₹33,350 | +1.00% | 0.26x | 25.51% |
+| Current value | **₹99,78,108** |
+| Total P&L | **-₹21,892 (-0.22%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹21,892 |
+| &nbsp;&nbsp;Realised (shares already sold) | ₹0 |
+| Today's change | -₹21,892 (-0.22%) |
+| Nifty 50 since start (same money invested) | -0.32% |
+| Outperformance vs Nifty 50 | +0.10% |
+| Cash (uninvested) | ₹3,190 |
+| Virtual money put in | ₹1,00,00,000 |
 
 ![Portfolio vs Nifty](charts/portfolio_vs_nifty.png)
 
+_▲ buy · ▼ sell_
+
+## Holdings
+
+| Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| HDFC Bank | 4,572 | ₹728.85 | ₹713.30 | -2.13% | ₹32,61,208 | 32.7% | -₹71,095 | -2.13% |
+| Eternal (Zomato) | 10,245 | ₹325.30 | ₹325.80 | +0.15% | ₹33,37,821 | 33.5% | ₹5,122 | +0.15% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,641.00 | +1.32% | ₹33,75,890 | 33.8% | ₹44,080 | +1.32% |
+
+**Best since buy:** Maruti Suzuki (+1.32%)  ·  **Worst since buy:** HDFC Bank (-2.13%)  ·  **Biggest mover today:** HDFC Bank (-2.13%)
+
+## Allocation
+
+![Allocation](charts/allocation.png)
+
+| Sector | Value | Share |
+|---|---:|---:|
+| Automobiles | ₹33,75,890 | 33.8% |
+| Consumer Internet | ₹33,37,821 | 33.5% |
+| Financials | ₹32,61,208 | 32.7% |
+| Cash | ₹3,190 | 0.0% |
+
+## Performance
+
 ![Returns](charts/returns.png)
+
+## Trade book
+
+<details open><summary><b>Transaction history</b> - 3 entries, newest first</summary>
+
+| Date | Stock | Type | Shares | Price | Amount | Note |
+|---|---|---|---:|---:|---:|---|
+| 2026-10-16 | Maruti Suzuki | BUY | 290 | ₹11,489.00 | ₹33,31,810 | Initial allocation |
+| 2026-10-16 | Eternal (Zomato) | BUY | 10,245 | ₹325.30 | ₹33,32,698 | Initial allocation |
+| 2026-10-16 | HDFC Bank | BUY | 4,572 | ₹728.85 | ₹33,32,302 | Initial allocation |
+
+</details>
+
+<details><summary><b>Closed positions</b> - 0</summary>
+
+_No fully closed positions yet._
+
+</details>
+
+## Company deep-dives
 
 ---
 
-## HDFC Bank
+### HDFC Bank  _(Financials)_
 
 ![HDFC Bank chart](charts/hdfc.png)
 
-[View HDFC Bank on Google Finance](https://www.google.com/finance/quote/HDFCBANK:NSE)
+[Google Finance](https://www.google.com/finance/quote/HDFCBANK:NSE) · [All BSE announcements](https://www.bseindia.com/corporates/ann.html?scrip=500180)
 
-| Close | Day change | Day range | Volume | 20d avg volume | 52w range |
-|---:|---:|---:|---:|---:|---:|
-| ₹713.00 | -2.17% | ₹712.00 - ₹733.40 | 10,399,861 | 30,961,951 | ₹687.10 - ₹1,009.50 |
-
-**Official company announcements (BSE)**
-
-- [All BSE announcements for HDFC Bank](https://www.bseindia.com/corporates/ann.html?scrip=500180)
-
-**Latest news (trusted publishers only)**
-
-- [Q2 Results Today Live: Bajaj Finance, UltraTech Cement, Hindustan Zinc, Union Bank of India, LTTS, Piramal Finance, IREDA to announce Q2 results, HDFC Bank, Axis Bank shares decline after Q2, ICICI Bank, Yes Bank flat](https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-bajaj-finance-ultratech-cement-hindustan-zinc-union-bank-of-india-ltts-piramal-finance-ireda-company-results-hdfc-bank-axis-bank-yes-icici-results-19-october-2026/article71599553.ece) - _BusinessLine, 19 Oct 2026, 10:05 AM IST_
-- [HDFC Bank shares fall 2% after Q2 results. What are Jefferies, Motilal Oswal analysts saying?](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV2xXMURPaUstbnNPMFpyRHMyTjlKOHhYWTNqcWJfaUpzQzhzVncycnNhQ3ZPOGFoT08wYjZuRnhBMGYyOExxVTF1OFBfenpaTDU0TjhDV21WVkRMbkpqM0xaUGZucUI5VVE3MnBfRmZfWFpQSGJlalhXcG1IMkM5czF4OG1qbnZza0N6RTBSOG5jcFFQeFJsWU1aMExWMEpZcEFLSzk4UGYxeE5GZkIxZHU0aG9OVmZzcVhSX3hpbGJzWU43NVMzcE4xVEo3MnJKbmwtdTRteDA5b1lVQTF4Qllmd19PQWVPZ19GZTEzVnR0WnRfa0HSAfsBQVVfeXFMTzkwOGcyNjlNMHBTQVdyQWxDY1lBMnJCYnlnMm9aS3FEaThuQThfaTR5bE4yS01wMFl1YU5pOWxxQkZVd1hHcWM2LTUzMGgzY01RTHdseHFUYl9fRGQya2x1cllUNi1uejhzd01PRTh1Q3Mtb3FVUWNtV0l1dHA3QkZ4eGdJSDZjYUpOUUl1UGVZVW5uWENxM2hja3p4Q2tNeEJBZTZJaS1RaWU1RUtuZGU0bDhvd05aTE1UYnV4aVZ3V3FnVl9mdXljenNSSTVnTmxrQ1phQnB3dV83VURFUnJPbnlMZUl5ejdNTHdzVVE5bXNaM3ZSUDIwWG8?oc=5) - _The Economic Times, 19 Oct 2026, 09:56 AM IST_
-- [HDFC Bank falls 1.5% post Q2 show; analysts say worst over; eyes on new CEO](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHN1RFpHVldDNEZuMHBkYmR6N2VkdzRNdEFKSTk0eVk2bEpIVXBGcTVqbFRHNnV5Um15eXZRelllZDM3Vzk3UEtsYmZ5bUs2aW1lb1Q2U1RzT0pSRWpPUUtTcWdlVzB4TjB2VXIyd3VQb1JZbXV6U3MwYUNUaWY1R3VhMi1Ea242dGtZXzNXSlpIaWplMzBuTUFfU3UzbHVlOFM4amxzUjJYeFlmcXBGM00tdWFMZHBZMlV3ajZUOGJONGRFLXEwWFdwNTV6Zmh4VzVYYWZ5UURlSnBDUjdEdWQyT25Td9IB6wFBVV95cUxPeWhGUTFSN25femVmTWEySkpQckZZSkRsei1kY1Zsd0VUS2hmX29wVXpLTXJyc1JBYmR4c3FBUElDQzdfYkVFVjRfS1lBWXNjUDBnbTFLY3JuOWNXRllLQnVVdmUyNzZKb2ZWdlpKMUdXeXFjVm01RHpJeC04UkFydkNzZTJhWndFTklsLUJwYmRKSzVQOVFrNlJaTHJXOWgxUFgtMHMxVUozcHRqSEtXR2NGNWhKQXdtOVkyVVZsYWtaOVNHMkhqMWN0Z1pwUl8tdTF6dHZSam1KN2JhaG9HUm5tM3dTNWhKUmtZ?oc=5) - _Business Standard, 19 Oct 2026, 09:38 AM IST_
-- [HDFC Bank stock falls 2%, among top Nifty losers after Q2 results; brokerages flag margin pressure](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDRpQTlZYmxGMjQwWFBqQkUtd2dvbEl6VzNuTzVfY29PdFM3bjNELUtTSzRnYzhNbThDTlc3UTNyQXRJYjFpLVJUd3FqeHR5T1Y0ZDI1VnhGMHRUSVNjQnpPNk80UzZQbm84dmwtRXVScHo5THRUY0t0ZmJaZ09mQ29zbllhZkFZbnVRVmFkYXVSRnFKdzExTmFQU3BuLVJ0RUdGeWZnVkx0RjY1cmloUU5kbW5VOGNlR1NkbDRwYTM4LS1qSTdvMC1mWlhFdFM0Nzg3MmUtOFRvRGdLdWl1MHU2aS1DOWswdEVzTHVPcnQtQdIB9wFBVV95cUxPcGVTN1V5NnJqb2pFVTB4Y1dhTzdlZ2ZReWNEVjNmeU5DMDNXWTZoeDFxUllHVkIxR2sxclN0Z0x5M2huOV92alRTcWg5NXdOTWF5MmN6WThXUDlHWktvYVhsclh5cHZ2SVlfNmZNa2xjQ2JlVHBocmQtUWtLTkdJUFUxX1p1ZVBNb3BqVmN6elIyQjN3d1RZSlBFaUJHYXBRZ081MmZaYm9LYW1IUVA4bjJQRjFoX21FbWxjc0l3bVBGWHMyakhxZTEwcnpjRWRDQ01PWEdvR3hmeUxfS1RnWUw3UlVSNEM5REhfRXdBSVBrMzNVeWQw?oc=5) - _Moneycontrol.com, 19 Oct 2026, 09:29 AM IST_
-- [HDFC Bank stock: Brokerages stay bullish despite target price cuts after Q2 results; Bernstein sees 58%...](https://news.google.com/rss/articles/CBMiggJBVV95cUxPOFp4eUhjaVQ3b2pVNWJzTFZhZnFpa3pTZ2FrS1hPdG1aNFRsWlZBaTJaYkdlVEV3SW1GMTNSMC0zSVlJbWJ3emRvOU5hb3ZRc2FYQ29RbTdlcUt0RVY5bWtuUGY3Q3FtZmZOLU5NMGRqSHB5WmhYSDg2ck9GM1pZQmVadml4NXZYUnhObWxmbGR1cDZwRkM5RExjMEtTbno1ZkF1MGRLbzVoNTZ6bTVtSjN4UE9temFFbDV2Yk5SUnp1dUYxa0RnWm9CVWpldXJtcU1rVHFOSUJWRXU2bWZObGhrZmFENmdKTXVYNXR3NlVELWRiX0N2TjRPeFpPZFJZT3fSAYcCQVVfeXFMT2Z2TW4yU2M4MElYWHRUeU9fV3RtcHVneURqUm4ycTA0ZEx6dmFNbXk5UVNTWEJTNkUzNVpxRl9OZF96QWsyajc1Q0huTFdwNWVubm1EVUI1bDEwdHpHZFFHY3FNdEtYVGh4dnplVWRTdXFwVF9nOGtNT0hxOVRrZXpxX1Vjcm1Ca3Q3cTBFd0hrYzdvZDVTRW1tQktLOWRsUjJMRkh3RTdQdTJPRVZLUHZpWXpFYnpMOVh4Q3JIMkRTalJ3cFBkbXB4eXkzbG5kcVVLS2pteEpELS1mQVJTaTlval9mNzE4MUZkMW1ZYzFNY2dZWENhY2UxSG9YX3owSHNEVEgwSkU?oc=5) - _Moneycontrol.com, 19 Oct 2026, 08:51 AM IST_
+| Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
+|---:|---:|---:|---:|---:|---:|---:|---:|
+| ₹713.30 | -2.13% | ₹711.70 - ₹733.40 | 13,852,808 | 30,961,951 | 0.45x | 23.52% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
-- [One-page snapshot (quick read)](analysis/HDFC_Bank_OnePager.pdf)
-- [Detailed initiation report](analysis/HDFC_Bank_Detailed.pdf)
+- [One-page snapshot](analysis/HDFC_Bank_OnePager.pdf)
+- [Detailed report](analysis/HDFC_Bank_Detailed.pdf)
+
+<details><summary><b>Official company announcements (BSE)</b></summary>
+
+- No recent filings fetched; see the link above for the full list.
+
+</details>
+
+<details><summary><b>Latest news (trusted publishers only)</b></summary>
+
+- [Why are banking stocks falling? Nifty Bank down 1%; Axis, HDFC Bank shares crash up to 5% - What should investors do?](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdmlmV1VFbHZfQTdKbURoTVJiRDV5ell4c19RRWswSnBfWjhwUV9lR1hfT2xkR0RFVUwyc0RfZHIyUm12dDlEYldraUpIQ1dLRmlFQUpWQTViaTBpWmdsdUt6VTVpaGxmMnVzM3lZb2M3OU1tMDZJU096VVNMTjZsejJTbW9xMkp4SjFZM2txazcyOFEzbXB4UU5WYWtWRmRGbzhtRFJpMTdWem1oYWM3OFJ0c2dsOTUzU1FtWk9ockQzb0tMTFJOU0pzelA3OE1ON0o3eU16NmFjYzFZdjNLQ0hWRGd6VkIxYUpjcngydVlDay1tbTVObmVLQUhrS1llbHlsaTFzdlFxbmvSAZACQVVfeXFMTkVpcUhvWFhCdllwVVJvc3BlVzV1THRQcVhpcm5udnUtNmRYcFd2MzBKVmdwQVNmNUV5WVVERVVaZVlMdXZWbE1IRGU3SnhaQlQ1MHNGb3hQb3Bfb0dTc2xZZGExc1BuSHAwMzZiYm5WelFWYWVRNXptOHI4elFPb05VaXY2RGFJcWh3WDJVd3VXeDFpYUZ5eTdDYXBTNmJvcWtHbGhySjZsS1hDQ0dUTTZlTElKY3R3bVpYdVZXUldaQ001Zkl4cFhxQ3NFR3E4T09VV251LTFncklGUmlNVUFRYnZMV2ktcHhTbUdRSk9kcEVSb1VWVDVIRldwTURldThDZjN3VjVDczEtU1oweXg?oc=5) - _Livemint, 19 Oct 2026, 11:08 AM IST_
+- [Buy HDFC Bank; target of Rs 966: Anand Rathi](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtJU3djdTlUbW1YMlBiYk9abVVBOFhBUmxKTWszTERBRjc4aTE3UTliSzNGNTVielZLTXdSUDdCaHlVNWR5eUZZNlZMSndEYTU4cTFmMndTME14RUxJZ3VYUUgxTDBvdWNYaWR3Xzh6M3l3VmZYT012elNwVlRrQzJZSkxNUDVaNVhrY01vc1AyaUNGR2lTcy1zRHZvM2lWRlBPanlkYU9YS19wRGdZ0gGvAUFVX3lxTE0ta0lTd2N1OVRtbVgyUGJiT1ptVUE4WEFSbEpNazNMREFGNzhpMTdROWJLM0Y1NWJ6VktNd1JQN0JoeVU1ZHl5Rlk2VkxKd0RhNThxMWYyd1MwTXhFTElndVhRSDFMMG91Y1hpZHdfOHozeXdWZlhPTXZ6U3BWVGtDMllKTE1QNVo1WGtjTW9zUDJpQ0ZHaVNzLXNEdm8zaVZGUE9qeWRhT1hLX3BEZ1k?oc=5) - _Moneycontrol.com, 19 Oct 2026, 11:05 AM IST_
+- [Buzzing Stocks: Urban Company slumps 9% on widening Q2 losses; HDFC Bank jumps 2% on better earnings](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQS0zYVBnaUJ3Q0tPSzhxUHotSEJaeVZuZVJCckl2SFhqakU5T0hPcTdySWtrVWtOUlpFS0xCM3lfM29hZkx3QlliT0NoLVU2VkRaWXhtSHhCQ1ZIaDZ5S0Q5SEp1ckdPR21lUDAzcWlNaUZEV0l2Y2xVSk9BT1Fnbm9NblZSS0J6Z2d5LXNFY0tOajhWenctMTBIcTZmaUxLQmVTbFVic2hoejBucWJLWTZ4aHIwV1hHTXV0QnBMMTFBWWdHV3poMEpsLVBxQ19MVG12X3hJQkpOaEl3VkpGVTJndi13dVhyc1BNdHFOb2JhUlIyY2JjR9IB-AFBVV95cUxQQS0zYVBnaUJ3Q0tPSzhxUHotSEJaeVZuZVJCckl2SFhqakU5T0hPcTdySWtrVWtOUlpFS0xCM3lfM29hZkx3QlliT0NoLVU2VkRaWXhtSHhCQ1ZIaDZ5S0Q5SEp1ckdPR21lUDAzcWlNaUZEV0l2Y2xVSk9BT1Fnbm9NblZSS0J6Z2d5LXNFY0tOajhWenctMTBIcTZmaUxLQmVTbFVic2hoejBucWJLWTZ4aHIwV1hHTXV0QnBMMTFBWWdHV3poMEpsLVBxQ19MVG12X3hJQkpOaEl3VkpGVTJndi13dVhyc1BNdHFOb2JhUlIyY2JjRw?oc=5) - _Moneycontrol.com, 19 Oct 2026, 11:04 AM IST_
+- [Bank Nifty falls 0.5%, Axis, HDFC Bank among top losers; PSU banks cap losses: What lies ahead?](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRVYzUUtoMHZQejFFYVJXd05tb0JaWk9LaV9kSkFMQWptdFpkMndrUEx1MzZpT1k1Ykx2dDNSQy10LW5weHVCWDhFOG9hdWNkamQ1RlcwTDhmLWgzcHFsSXFkOXFpeWlYWHFsaFZGMHVsakgwTjluOWNzRmM5dzJaWHpPTUhyR1JYOFNSc1ZxZ2s2c1ZBdUI4ZGptOVJOLVBESHNFSkdrdVN0cGN5ZTk1TlBVQVpzSTN1OWd5UXg4cGNKZ1Jtb1hIVkhjVmxUc09iZ1hTMXQ3V3RjM09HanFkMklwX2g1V1JIS3fSAe8BQVVfeXFMTnNCRjdSRnZjTE9NVTJYR05ua2hUeTVxOXcxVzh0aWhHYTBoYk9iMWt3R3BITlJQNUZOc2VYU250a050ZE5ZLVFLX1B2S2FCSERBMENwVDgtSmdwTkMwNDZwSGZGQVUtWVBDQUlhZUZqTFM4cy1SN1BRTW96cHRmaE5XUjN6aFh3Q1J6QVVCcEdfYmIxaENuV3BjYVBBdlo0eVhNeHM1aEpFMmpjWmZRQkVQT1BELXlyU3I4bUpZTWxDMVozTS1wVDgxTS1QSWJUNHpOcUdmTmdlRWh4WEFGRk9BXzNyOTh1MHpOLUc5OE0?oc=5) - _Moneycontrol.com, 19 Oct 2026, 10:55 AM IST_
+- [Buy HDFC Bank; target of Rs 925: Motilal Oswal](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ3ZvMjI5WEZyVm53dU00MFhrQktlUE1hZDVsV3NmMFlDN09Ic3pIYnR2b1czdV82d0RtV3B2SjVuNE5yLV91TFUyaWY2UDkzSC1zTVNsaFFjVGw3c01xZ19vR3didTdWcENWSFFZODJvQi11RHNpM0V6YXM1WWNkQ1JQSnRZRG1XY29NQ2E5bGtqbVZyQVRQWXlLelpkY2NpOXhITWlR0gGrAUFVX3lxTE1FSXZkVXVWOTYtVlUzRzdGVGd6bGZBUXZ2TDZlYlJxN3dMN1lCVW5CeFBtWG9kRzVsNi1rbjVZYUhaOTVINk9kUGVpc3VXRkRKX09WcjFxWTV5bXdRdHpTNXpDbEVuaS1TSE1RRHJpNG9rUjFwQmVlN0RCUkhhZHVfemh6a1VYTTJJbWVpY1lRM1MwYUJSV2NHMlJDYjFWV0IzcnJ6RUZXaVViTQ?oc=5) - _Moneycontrol.com, 19 Oct 2026, 10:51 AM IST_
+
+</details>
 
 ---
 
-## Eternal (Zomato)
+### Eternal (Zomato)  _(Consumer Internet)_
 
 ![Eternal (Zomato) chart](charts/zomato.png)
 
-[View Eternal (Zomato) on Google Finance](https://www.google.com/finance/quote/ETERNAL:NSE)
+[Google Finance](https://www.google.com/finance/quote/ETERNAL:NSE) · [All BSE announcements](https://www.bseindia.com/corporates/ann.html?scrip=543320)
 
-| Close | Day change | Day range | Volume | 20d avg volume | 52w range |
-|---:|---:|---:|---:|---:|---:|
-| ₹324.30 | -0.31% | ₹323.35 - ₹327.10 | 5,697,315 | 21,352,242 | ₹215.68 - ₹342.65 |
-
-**Official company announcements (BSE)**
-
-- [All BSE announcements for Eternal (Zomato)](https://www.bseindia.com/corporates/ann.html?scrip=543320)
-
-**Latest news (trusted publishers only)**
-
-- [Tukaram Mundhe-led FDA cracks down on Reliance warehouse, Blinkit-linked facility; flags ‘cockroaches, spitting’](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmUtVnN2RTB5eUJwZWlac0FxWWNYNDdMa3pBOXZFd2pYN25wT0tPV0pKN1VZVlluQ2s5Z3NKQTdFeE1TVTNCTVhVeVd3c3VNRXdFOEdWQ2V3T051VE9ETGNJUHAzVzJBaU9XTGtMY2RWUW1FMjFHYWFETEVYZUV2YXNKdVp2QWk5clFER0V2TGxidXo4cDRpdjEzQUVvSUhuVTQ2UFhNbTlvQ0hZcjd1NzhUOFZpTExzcDRmeEtFQXJCOG15dlF3TGxwMnlib3FuU21qUGs4aUNBV0JTQ3NJdE9sLXhJWEMza1FJeU1QSEhPV0M3UGfSAfsBQVVfeXFMTlcxOERPZGZTRGpvUTJla1ZTMTJkS01QQllVMHdtdm5wdzl5c0RXVVF6Z3hUcWg4RjJMWk5pbG12SklDYTEtMGlMek5XblY2NWFabEY1dzBoQXFXMlRIZXVmMTBic3pJcS1pdkhTM2JTbFBoU3NBNFF4ZkNoeFgxR0dla1BnNEJzS1FxajF0d3NGX3hDcm8xaGtwT3lQNW9lbVljODNGZHVzUVJuaG5hcjVSTEdyVlhKckZvSnhvVHdfMWZZZjk4MHdHMGVUdUFyWHRPRDdub2FwcjR1TEczbVpBTkhmeTl1YUtrbl9FY3lua0ItaWFqQTJRbEU?oc=5) - _Livemint, 18 Oct 2026, 11:25 PM IST_
-- [Reliance and Blinkit executives face FIR in food safety case](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDBtQ1BmVEF6UWo2NHNUdExkdDRkWExWRHFWc0xGR3RHN1B6UGFuOUdYWGt5TjZiTmwySDZsMTgxZG1TVm1JT0lPTjJXU1djZU5IZ0VzYXpGV3ZmSEZlNkVqWVFmZnBlLVpobHJVTFZmWnNROEdsMWV5ZXZrbXo5UDg4c2hUVkdFRm5MV2VFdGQycS1WcU1wTGZhWHN5OTJhaGZuREplQmJwZnlrdEFzai00czZIS0ZNZ0ZnTWVmdHlQeVRySFFIUjZ1eGE1dG9zUHhjY3dxRldvYzJWT0txaWtQcHBfZ9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5) - _The Economic Times, 18 Oct 2026, 12:00 AM IST_
-- [Reliance Consumer Director, Blinkit officials among 10 booked in expired-food probe](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzM5SEljN3g4MlRBOVJMOHkzX0YtM1NMRzNSVi1KOFVJMFQxLUtkRlJVUEZGTzZjYWd1bV93cHRCcXJyX2FMaTZUdldHUDNIX1czR3daeDJrRGxtT0RCcGhJclRxV2xYNzI0al94NGdlYzdTamxqSjBCdE93T0w5NHF3b0tibjRnTEFFdkM1X1J2RHhVUWwzQXdjRFBEay02VVhQeWh0WFBWU243SVNkUW53ZTdQWW80MjVhb0NDRUdYSnkyMVJqbU1mbFFRanJWM1ZrYThjTk9ld2gt0gHjAUFVX3lxTFB1WGVPNWZ4QW16b0lmRDE5RGQxZld2QzRYM0pidVVEamdtLVVjZ1RMZlh0NTRUUHNxRUVYRFl5SVBHRVZjTEl3SmxDYWEtbHQ3NG9OUk1XWTFIbXVHU0FVRWdCRTZoZXIzeXpnZlR0cjZPWm55N2ctanRlVTJ4NWJRNDk1U2NDVV9SMlp3VEMyZnh3RjRycDBkQzN3aTBQalFWM2gyMEZvTkpWME1jZlFVbkg2NjZNMG1TYlRqRmlrOV9OMlBuTFp5UnVCWFd0MW5Rbnh6LXBNLWpOZEZUOFVibjd3?oc=5) - _BusinessLine, 17 Oct 2026, 07:00 PM IST_
-- [Maha FDA names Blinkit's Dhindsa, Reliance officials in expired food probe](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXN3a1lSS2EzVUFYZVhacGdBZ0ZKQm52MHRseTh6QjhuTnVUUGcyMWJHdDMzeDRvOGpXNVZESnN3RUhfdG1lZ3BwM3VnbXBjQ2dXeFFBcUZGUm9HUzd0SDQ1TlZOLTlPYkxiLXdEbk40djdFWkJLY3UxZjRvbm4xRnFNM3JDZXhwa05FYXRpU1hrNVZwbGxxT1p4U1pTdmUzdzVGbTlvcmIwcElXemF3YlpUVTBMZlZTOUUzT1h1ZXNLcXJfNzZyTVllVDVRSEc3LS1td0NabWpRN3R5d2fSAd4BQVVfeXFMTlVzd2tZUkthM1VBWGVYWnBnQWdGSkJudjB0bHk4ekI4bk51VFBnMjFiR3QzM3g0bzhqVzVWREpzd0VIX3RtZWdwcDN1Z21wY0NnV3hRQXFGRlJvR1M3dEg0NU5WTi05T2JMYi13RG5ONHY3RVpCS2N1MWY0b25uMUZxTTNyQ2V4cGtORWF0aVNYazVWcGxscU9aeFNaU3ZlM3c1Rm05b3JiMHBJV3phd2JaVFUwTGZWUzlFM09YdWVzS3FyXzc2ck1ZZVQ1UUhHNy0tbXdDWm1qUTd0eXdn?oc=5) - _Business Standard, 17 Oct 2026, 06:07 PM IST_
-- [FDA crackdown: FIR against Reliance Consumer Products, Reliance Retail, Blinkit, Zomato Hyperpure officials; here's why](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVWlnVkVLVUhqUDk2Q3ZUeVQxbzFiSWxtZ3l0b2ZzT0EyRTNTS1lEU3M4R2k0VHJXQjlYV0d3dEJOZFJiV3lTRGdjd3d4U2ZEYnJMMmxEbl8zMjVManJlbTljTTczeld3OHVtZV90eHRqb3dyZkhwQTVPMTFNUTN4WFNmWEU0bjZBc2F5WERoOFZIWjhWUU1zbm9adWNKeWZneTgtMnJaLUVKTEd1c2oyLUlLZFhSZ1htOUlpU1dIcDBpZUowc3RGOTdEUnFCM1Naem9rUXo0aTE0bGhrTGtOc3Y5YzRON0lEUTBrY19CeGxNU2ZCTXoxNHJUTnA1QdIBgwJBVV95cUxNR0dXYmNHQVdtaDl2SVRiR3pFaU9sNkZmb1ZISGx2bUtvLXNxZmtkUmFJc3ZRZjQ0OURNX3JBU0FWeDRpQ2lfM3JrZmk0NllFeG9PZ0YzMjdNQ0lid3pRTlZ2N29acUJVZnVTd2JfVHJGQUtxREZNRW9yUGljSDg1S3BqMlBLb3BKUm5OR2NJVV9lNU1hTnQwRDFnbEc3V0g0Q0ROZ0MwejM5R1NJLTNPdXlNLVJ5cmhJbnZBSmJyNGNveXdLQ1Vlajh3OXg4Nms3OW1DbTRiUVE2OGdjclNZRmE0SjI4NjVOdjB2VVNkRjBQb3ppMlFWUjJzYTVZTEJocEZZ?oc=5) - _Livemint, 17 Oct 2026, 05:44 PM IST_
+| Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
+|---:|---:|---:|---:|---:|---:|---:|---:|
+| ₹325.80 | +0.15% | ₹323.35 - ₹327.10 | 7,534,881 | 21,352,242 | 0.35x | 27.23% | ₹215.68 - ₹342.65 |
 
 **Research reports**
 
-- [One-page snapshot (quick read)](analysis/Eternal_OnePager.pdf)
-- [Detailed initiation report](analysis/Eternal_Detailed.pdf)
+- [One-page snapshot](analysis/Eternal_OnePager.pdf)
+- [Detailed report](analysis/Eternal_Detailed.pdf)
+
+<details><summary><b>Official company announcements (BSE)</b></summary>
+
+- No recent filings fetched; see the link above for the full list.
+
+</details>
+
+<details><summary><b>Latest news (trusted publishers only)</b></summary>
+
+- [Tukaram Mundhe-led FDA cracks down on Reliance warehouse, Blinkit-linked facility; flags ‘cockroaches, spitting’](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmUtVnN2RTB5eUJwZWlac0FxWWNYNDdMa3pBOXZFd2pYN25wT0tPV0pKN1VZVlluQ2s5Z3NKQTdFeE1TVTNCTVhVeVd3c3VNRXdFOEdWQ2V3T051VE9ETGNJUHAzVzJBaU9XTGtMY2RWUW1FMjFHYWFETEVYZUV2YXNKdVp2QWk5clFER0V2TGxidXo4cDRpdjEzQUVvSUhuVTQ2UFhNbTlvQ0hZcjd1NzhUOFZpTExzcDRmeEtFQXJCOG15dlF3TGxwMnlib3FuU21qUGs4aUNBV0JTQ3NJdE9sLXhJWEMza1FJeU1QSEhPV0M3UGfSAfsBQVVfeXFMTlcxOERPZGZTRGpvUTJla1ZTMTJkS01QQllVMHdtdm5wdzl5c0RXVVF6Z3hUcWg4RjJMWk5pbG12SklDYTEtMGlMek5XblY2NWFabEY1dzBoQXFXMlRIZXVmMTBic3pJcS1pdkhTM2JTbFBoU3NBNFF4ZkNoeFgxR0dla1BnNEJzS1FxajF0d3NGX3hDcm8xaGtwT3lQNW9lbVljODNGZHVzUVJuaG5hcjVSTEdyVlhKckZvSnhvVHdfMWZZZjk4MHdHMGVUdUFyWHRPRDdub2FwcjR1TEczbVpBTkhmeTl1YUtrbl9FY3lua0ItaWFqQTJRbEU?oc=5) - _Livemint, 18 Oct 2026, 11:25 PM IST_
+- [Reliance Retail faces FDA crackdown again; action also on Blinkit-linked facility](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSE8zTFdoQzJwWnlhblNvOUU4b29HdENvT0RDYlZvTGltWkVLQXZVRVF2R2NVc3dtM2FJbndqN0dZaF8tUXlnU0lyejI0V2lERjVTUE5nQmRWNlBDNkZxZUFvWElnUXZ3LXlveGVfMmpjWEg5QU5RZE9DMS1HLUZtMm5STHp3YjcwengwYUlnYVdKc0RrYW9mdDNPMVpBSHVYajVfWmdCck5wU2k4akpSaTdFTW1qMzdON2JvMGhlZGE1SkhxNnYyaWFFX0hXR2x6ZENRSVM3SHpXZTVrZG5abXZqMERQSVJnWlFaSDVrUkPSAfYBQVVfeXFMTUtRNFpYdy0wOE1TVkY3WW5JTEJoWVFNWktYVzFUXzg4QmgyeTBwaXQtbmwxblZ5NmFyWWM1RmYtem9EQVB6X0lKSWFZR1c5OGZFcWJTSGFoeTdMd2JaelI5ZWNVRy11VnR5Y2N2MWZ6eTY2LXlyOGdfbVFsbXZ5dzJlTjB5NkVBYmpoMHYyX3JSdlY0WU91bWhhS3h1N084MzlxQXhOMXo4SVFLNDhiOVZLVHFnUi1jV1poTWZvVjRBeGlEUzF1YVRQSHg1QkVIbjhTOXBxdGR1WGp2R09LeF9FcGVadmF6NlJ1TVAzMzRqVG9BNWtR?oc=5) - _The Economic Times, 18 Oct 2026, 09:02 PM IST_
+- [Reliance and Blinkit executives face FIR in food safety case](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDBtQ1BmVEF6UWo2NHNUdExkdDRkWExWRHFWc0xGR3RHN1B6UGFuOUdYWGt5TjZiTmwySDZsMTgxZG1TVm1JT0lPTjJXU1djZU5IZ0VzYXpGV3ZmSEZlNkVqWVFmZnBlLVpobHJVTFZmWnNROEdsMWV5ZXZrbXo5UDg4c2hUVkdFRm5MV2VFdGQycS1WcU1wTGZhWHN5OTJhaGZuREplQmJwZnlrdEFzai00czZIS0ZNZ0ZnTWVmdHlQeVRySFFIUjZ1eGE1dG9zUHhjY3dxRldvYzJWT0txaWtQcHBfZ9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5) - _The Economic Times, 18 Oct 2026, 12:00 AM IST_
+- [Reliance Consumer Director, Blinkit officials among 10 booked in expired-food probe](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzM5SEljN3g4MlRBOVJMOHkzX0YtM1NMRzNSVi1KOFVJMFQxLUtkRlJVUEZGTzZjYWd1bV93cHRCcXJyX2FMaTZUdldHUDNIX1czR3daeDJrRGxtT0RCcGhJclRxV2xYNzI0al94NGdlYzdTamxqSjBCdE93T0w5NHF3b0tibjRnTEFFdkM1X1J2RHhVUWwzQXdjRFBEay02VVhQeWh0WFBWU243SVNkUW53ZTdQWW80MjVhb0NDRUdYSnkyMVJqbU1mbFFRanJWM1ZrYThjTk9ld2gt0gHjAUFVX3lxTFB1WGVPNWZ4QW16b0lmRDE5RGQxZld2QzRYM0pidVVEamdtLVVjZ1RMZlh0NTRUUHNxRUVYRFl5SVBHRVZjTEl3SmxDYWEtbHQ3NG9OUk1XWTFIbXVHU0FVRWdCRTZoZXIzeXpnZlR0cjZPWm55N2ctanRlVTJ4NWJRNDk1U2NDVV9SMlp3VEMyZnh3RjRycDBkQzN3aTBQalFWM2gyMEZvTkpWME1jZlFVbkg2NjZNMG1TYlRqRmlrOV9OMlBuTFp5UnVCWFd0MW5Rbnh6LXBNLWpOZEZUOFVibjd3?oc=5) - _BusinessLine, 17 Oct 2026, 07:00 PM IST_
+- [Maha FDA names Blinkit's Dhindsa, Reliance officials in expired food probe](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXN3a1lSS2EzVUFYZVhacGdBZ0ZKQm52MHRseTh6QjhuTnVUUGcyMWJHdDMzeDRvOGpXNVZESnN3RUhfdG1lZ3BwM3VnbXBjQ2dXeFFBcUZGUm9HUzd0SDQ1TlZOLTlPYkxiLXdEbk40djdFWkJLY3UxZjRvbm4xRnFNM3JDZXhwa05FYXRpU1hrNVZwbGxxT1p4U1pTdmUzdzVGbTlvcmIwcElXemF3YlpUVTBMZlZTOUUzT1h1ZXNLcXJfNzZyTVllVDVRSEc3LS1td0NabWpRN3R5d2fSAd4BQVVfeXFMTlVzd2tZUkthM1VBWGVYWnBnQWdGSkJudjB0bHk4ekI4bk51VFBnMjFiR3QzM3g0bzhqVzVWREpzd0VIX3RtZWdwcDN1Z21wY0NnV3hRQXFGRlJvR1M3dEg0NU5WTi05T2JMYi13RG5ONHY3RVpCS2N1MWY0b25uMUZxTTNyQ2V4cGtORWF0aVNYazVWcGxscU9aeFNaU3ZlM3c1Rm05b3JiMHBJV3phd2JaVFUwTGZWUzlFM09YdWVzS3FyXzc2ck1ZZVQ1UUhHNy0tbXdDWm1qUTd0eXdn?oc=5) - _Business Standard, 17 Oct 2026, 06:07 PM IST_
+
+</details>
 
 ---
 
-## Maruti Suzuki
+### Maruti Suzuki  _(Automobiles)_
 
 ![Maruti Suzuki chart](charts/maruti.png)
 
-[View Maruti Suzuki on Google Finance](https://www.google.com/finance/quote/MARUTI:NSE)
+[Google Finance](https://www.google.com/finance/quote/MARUTI:NSE) · [All BSE announcements](https://www.bseindia.com/corporates/ann.html?scrip=532500)
 
-| Close | Day change | Day range | Volume | 20d avg volume | 52w range |
-|---:|---:|---:|---:|---:|---:|
-| ₹11,604.00 | +1.00% | ₹11,450.00 - ₹11,702.00 | 120,249 | 459,379 | ₹11,178.00 - ₹17,292.00 |
+| Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
+|---:|---:|---:|---:|---:|---:|---:|---:|
+| ₹11,641.00 | +1.32% | ₹11,450.00 - ₹11,702.00 | 185,750 | 459,379 | 0.4x | 25.74% | ₹11,178.00 - ₹17,292.00 |
 
-**Official company announcements (BSE)**
+**Research reports**
 
-- [All BSE announcements for Maruti Suzuki](https://www.bseindia.com/corporates/ann.html?scrip=532500)
+- [One-page snapshot](analysis/Maruti_OnePager.pdf)
+- [Detailed report](analysis/Maruti_Detailed.pdf)
 
-**Latest news (trusted publishers only)**
+<details><summary><b>Official company announcements (BSE)</b></summary>
+
+- No recent filings fetched; see the link above for the full list.
+
+</details>
+
+<details><summary><b>Latest news (trusted publishers only)</b></summary>
 
 - [Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVlV4S0dPamlVM1JtOTJkM3RrcFhGOERHOW5EaFY5Qm9DVjZSa2ZJNERZMjBLclB0eGVPRGdqU2RCOVpJWFA0NE5UTExISnBHVTl3VEhXREphQnQ0OGdpMXVMaGNYQVBTbVBWTE5iM1F6Q2REVVQzVi1oOVV2YjZlX0duSWlvbGNBU1NmVWFuWVVlajBnY08xb3ZQSXIzM005QTFaclpSdUFhRUU4eTlicHZIb0FOeG5PZmlnTVI0MUxRb1BZVkh6QlI4U2I1N3pGR04xNGUxR2RLQzMzV1pHbldhNjViampUMUFYbkhwMNIB7wFBVV95cUxOVlV4S0dPamlVM1JtOTJkM3RrcFhGOERHOW5EaFY5Qm9DVjZSa2ZJNERZMjBLclB0eGVPRGdqU2RCOVpJWFA0NE5UTExISnBHVTl3VEhXREphQnQ0OGdpMXVMaGNYQVBTbVBWTE5iM1F6Q2REVVQzVi1oOVV2YjZlX0duSWlvbGNBU1NmVWFuWVVlajBnY08xb3ZQSXIzM005QTFaclpSdUFhRUU4eTlicHZIb0FOeG5PZmlnTVI0MUxRb1BZVkh6QlI4U2I1N3pGR04xNGUxR2RLQzMzV1pHbldhNjViampUMUFYbkhwMA?oc=5) - _Moneycontrol.com, 19 Oct 2026, 09:32 AM IST_
 - [New Renault Duster Hybrid Launched: How Does It Compare With Maruti Vitara? Check Price, Range And More](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5) - _NDTV Profit, 17 Oct 2026, 03:59 PM IST_
@@ -108,19 +168,18 @@
 - [Maruti Suzuki reclaims 40% market share in H1 FY27; Tata overtakes Mahindra as Hyundai slips](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUGszWVZJbWhxWTdtS1ljckRuQ3E1OW5uMGw1bmh5UDZ0RTVEbWoxNTZ5VnFCWGpQU0ZUWWZNVjBibUE1eEZKeVBhLXJnX1RSaUdfQ19NYjhLWlc5VzlyN1ZCOUV0UC1lZ0JaV1ZHS3NtWXJuSVRhc0h1S1BsUm5CdThWbFVzTm1YaUhBS2dtOG15Y3YtQVVhdFFzNXRjYWRjeFBPazBwbGgwQTFPNFR4ckJneUdRWC1DTWpTZkJrMWhlUHhsVUlmZHFKVkRBeUkzSEcyN3ZLOGRnNmotRHBxWDhjSndjdknSAewBQVVfeXFMT3poSUhycVZFVUtxOFlyRUoyYUlwWG5KVWJad1prTzJRcGlKNVc0TEhDNlVOTGpSN2RVRHY2OTJmUERDNU1VVnE5Umg4bFRtN0cwSi1qLUhDYnZHX244cVk4Z3VpWHU5MXhMMFRqYm0wVmVtVGdIcE11RE5IZ0hKU1ZVZ0RnSWFZbG9TRWxmcnUweDBneFRCc2syVy13a3hBM2pUMjE4SUlBb3g5ajdLR1lyZVRWcDBQcWp3LXJ0LUlkaXJkZzZuSFhvTkl1cTVPNWxzamFnNE4xcFVNWk9CaVlRVm9jRWc3aXp5bGc?oc=5) - _Moneycontrol.com, 16 Oct 2026, 02:30 PM IST_
 - [Mahindra takes on Tata, Maruti in CNG SUV race with XUV 3XO](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU19QblNJT0pfbWhjVGhxYlZibHVZS3pib19teTU4dWlTT0xiaFFBU0hjRGtUV19WSThjVERUQnNDUExCQUVCMUhWQWhQM1FRbHFVSGRqS0Z6RjVPMGFoWDg4Qnk1QTBlbE9CTmFuYm5NYURNeV9zWmRGckx2TUxUOWxmZjZUN08ycXp2RklGZGJBS1ZraGF5M2EteUZCcnpmRE5BcGpVS1kzMEhIWVZCc0FMb0M3dE1iWHpIZzVHakVsRFHSAcoBQVVfeXFMTkRBRTlNTU85OFFhMW92T0lSc01NdHVNSlJBbEJJY3JwOVhZdDcySVh5N3hUU1YzWTBhdlBIU2UzeG5wUTZYU1YxbGtULXdKb2d6aXZZN3dCOXNmTjF0X1JGeU1kYlZfWEFLcHVVSEU5ejVyVlFkMGJqczN0X29uREZzbjJwX2NtNDAxSDBHWmFfaV9Ib2RYaGdUNnJPZC1pSlVIR29SMWdlVk1UOElHT2sxLU1hc2xDZTJVckd6TTgtV283d2lVUUREdw?oc=5) - _BusinessLine, 16 Oct 2026, 01:49 PM IST_
 
-**Research reports**
-
-- [One-page snapshot (quick read)](analysis/Maruti_OnePager.pdf)
-- [Detailed initiation report](analysis/Maruti_Detailed.pdf)
+</details>
 
 ---
 
 ## How this works & data sources
 
-- **Prices / volume:** Yahoo Finance via the open-source `yfinance` library (unofficial, end-of-day; may differ slightly from NSE official data).
+- **Prices / volume:** Yahoo Finance via the open-source `yfinance` library (unofficial; may differ slightly from NSE official data).
+- **Trades:** every buy / sell / deposit is a line in `transactions.csv`. A trade happens at the closing price of its date (live price for today). Average-cost method; no brokerage or taxes (virtual portfolio).
+- **Benchmark:** every rupee put into the portfolio is also put into the Nifty 50 on the same day, so the comparison is like-for-like.
 - **News:** Google News RSS + publisher RSS feeds, filtered to a whitelist of trusted publishers, de-duplicated, last 72 hours only. Each item links to the original article.
 - **Official filings:** BSE corporate announcements (best-effort, with link to the full list).
-- **Automation:** GitHub Actions runs every weekday at 5:00 PM IST; skips market holidays.
-- **Method:** Shares = (capital x weight) / closing price on the start date. Volatility = 20-day std-dev of daily returns, annualised. Volume ratio = today's volume / average of previous 20 sessions.
+- **Automation:** GitHub Actions refreshes this dashboard on weekdays every 30 minutes from 9:30 AM to 3:30 PM IST (live snapshots) and at 5:00 PM IST (end-of-day final snapshot + AI daily report); skips market holidays.
+- **Metrics:** Volatility = 20-day std-dev of daily returns, annualised. Volume ratio = today's volume / average of previous 20 sessions.
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.

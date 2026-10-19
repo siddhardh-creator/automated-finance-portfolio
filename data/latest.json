@@ -1,107 +1,118 @@
 {
-  "generated_at_ist": "19 Oct 2026, 10:22 AM IST",
+  "generated_at_ist": "19 Oct 2026, 11:17 AM IST",
   "as_of": "2026-10-19",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
-    "capital": 10000000,
+    "capital": 10000000.0,
+    "initial_capital": 10000000,
     "invested": 9996810.46,
+    "holdings_value": 9974918.41,
     "cash": 3189.54,
-    "value": 9950638.91,
-    "pnl_inr": -49361.09,
-    "pnl_pct": -0.49,
-    "day_pnl_inr": -49361.09,
-    "day_pnl_pct": -0.49
+    "value": 9978107.96,
+    "pnl_inr": -21892.04,
+    "pnl_pct": -0.22,
+    "unrealised_pnl_inr": -21892.04,
+    "realised_pnl_inr": 0.0,
+    "day_pnl_inr": -21892.04,
+    "day_pnl_pct": -0.22,
+    "open_positions": 3
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 23078.45,
-    "return_pct": -0.29,
-    "day_change_pct": -0.29
+    "close": 23072.85,
+    "return_pct": -0.32,
+    "day_change_pct": -0.32
   },
   "stocks": [
     {
       "key": "hdfc",
       "name": "HDFC Bank",
+      "sector": "Financials",
       "ticker": "HDFCBANK.NS",
       "bse_code": "500180",
+      "first_buy": "2026-10-16",
       "metrics": {
-        "close": 713.0,
+        "close": 713.3,
         "prev_close": 728.85,
-        "day_change_pct": -2.17,
+        "day_change_pct": -2.13,
         "open": 733.4,
         "high": 733.4,
-        "low": 712.0,
-        "intraday_range_pct": 2.94,
-        "volume": 10399861,
+        "low": 711.7,
+        "intraday_range_pct": 2.98,
+        "volume": 13852808,
         "avg_volume_20d": 30961951,
-        "volume_vs_avg": 0.34,
-        "volatility_20d_annualised_pct": 23.57,
+        "volume_vs_avg": 0.45,
+        "volatility_20d_annualised_pct": 23.52,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3259836.0,
-        "pnl_inr": -72466.09,
-        "pnl_pct": -2.17
+        "market_value": 3261207.54,
+        "pnl_inr": -71094.54,
+        "pnl_pct": -2.13
       },
       "news": [
         {
-          "title": "Q2 Results Today Live: Bajaj Finance, UltraTech Cement, Hindustan Zinc, Union Bank of India, LTTS, Piramal Finance, IREDA to announce Q2 results, HDFC Bank, Axis Bank shares decline after Q2, ICICI Bank, Yes Bank flat",
-          "source": "BusinessLine",
-          "published": "19 Oct 2026, 10:05 AM IST",
-          "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-bajaj-finance-ultratech-cement-hindustan-zinc-union-bank-of-india-ltts-piramal-finance-ireda-company-results-hdfc-bank-axis-bank-yes-icici-results-19-october-2026/article71599553.ece"
+          "title": "Why are banking stocks falling? Nifty Bank down 1%; Axis, HDFC Bank shares crash up to 5% - What should investors do?",
+          "source": "Livemint",
+          "published": "19 Oct 2026, 11:08 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdmlmV1VFbHZfQTdKbURoTVJiRDV5ell4c19RRWswSnBfWjhwUV9lR1hfT2xkR0RFVUwyc0RfZHIyUm12dDlEYldraUpIQ1dLRmlFQUpWQTViaTBpWmdsdUt6VTVpaGxmMnVzM3lZb2M3OU1tMDZJU096VVNMTjZsejJTbW9xMkp4SjFZM2txazcyOFEzbXB4UU5WYWtWRmRGbzhtRFJpMTdWem1oYWM3OFJ0c2dsOTUzU1FtWk9ockQzb0tMTFJOU0pzelA3OE1ON0o3eU16NmFjYzFZdjNLQ0hWRGd6VkIxYUpjcngydVlDay1tbTVObmVLQUhrS1llbHlsaTFzdlFxbmvSAZACQVVfeXFMTkVpcUhvWFhCdllwVVJvc3BlVzV1THRQcVhpcm5udnUtNmRYcFd2MzBKVmdwQVNmNUV5WVVERVVaZVlMdXZWbE1IRGU3SnhaQlQ1MHNGb3hQb3Bfb0dTc2xZZGExc1BuSHAwMzZiYm5WelFWYWVRNXptOHI4elFPb05VaXY2RGFJcWh3WDJVd3VXeDFpYUZ5eTdDYXBTNmJvcWtHbGhySjZsS1hDQ0dUTTZlTElKY3R3bVpYdVZXUldaQ001Zkl4cFhxQ3NFR3E4T09VV251LTFncklGUmlNVUFRYnZMV2ktcHhTbUdRSk9kcEVSb1VWVDVIRldwTURldThDZjN3VjVDczEtU1oweXg?oc=5"
         },
         {
-          "title": "HDFC Bank shares fall 2% after Q2 results. What are Jefferies, Motilal Oswal analysts saying?",
-          "source": "The Economic Times",
-          "published": "19 Oct 2026, 09:56 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV2xXMURPaUstbnNPMFpyRHMyTjlKOHhYWTNqcWJfaUpzQzhzVncycnNhQ3ZPOGFoT08wYjZuRnhBMGYyOExxVTF1OFBfenpaTDU0TjhDV21WVkRMbkpqM0xaUGZucUI5VVE3MnBfRmZfWFpQSGJlalhXcG1IMkM5czF4OG1qbnZza0N6RTBSOG5jcFFQeFJsWU1aMExWMEpZcEFLSzk4UGYxeE5GZkIxZHU0aG9OVmZzcVhSX3hpbGJzWU43NVMzcE4xVEo3MnJKbmwtdTRteDA5b1lVQTF4Qllmd19PQWVPZ19GZTEzVnR0WnRfa0HSAfsBQVVfeXFMTzkwOGcyNjlNMHBTQVdyQWxDY1lBMnJCYnlnMm9aS3FEaThuQThfaTR5bE4yS01wMFl1YU5pOWxxQkZVd1hHcWM2LTUzMGgzY01RTHdseHFUYl9fRGQya2x1cllUNi1uejhzd01PRTh1Q3Mtb3FVUWNtV0l1dHA3QkZ4eGdJSDZjYUpOUUl1UGVZVW5uWENxM2hja3p4Q2tNeEJBZTZJaS1RaWU1RUtuZGU0bDhvd05aTE1UYnV4aVZ3V3FnVl9mdXljenNSSTVnTmxrQ1phQnB3dV83VURFUnJPbnlMZUl5ejdNTHdzVVE5bXNaM3ZSUDIwWG8?oc=5"
-        },
-        {
-          "title": "HDFC Bank falls 1.5% post Q2 show; analysts say worst over; eyes on new CEO",
-          "source": "Business Standard",
-          "published": "19 Oct 2026, 09:38 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHN1RFpHVldDNEZuMHBkYmR6N2VkdzRNdEFKSTk0eVk2bEpIVXBGcTVqbFRHNnV5Um15eXZRelllZDM3Vzk3UEtsYmZ5bUs2aW1lb1Q2U1RzT0pSRWpPUUtTcWdlVzB4TjB2VXIyd3VQb1JZbXV6U3MwYUNUaWY1R3VhMi1Ea242dGtZXzNXSlpIaWplMzBuTUFfU3UzbHVlOFM4amxzUjJYeFlmcXBGM00tdWFMZHBZMlV3ajZUOGJONGRFLXEwWFdwNTV6Zmh4VzVYYWZ5UURlSnBDUjdEdWQyT25Td9IB6wFBVV95cUxPeWhGUTFSN25femVmTWEySkpQckZZSkRsei1kY1Zsd0VUS2hmX29wVXpLTXJyc1JBYmR4c3FBUElDQzdfYkVFVjRfS1lBWXNjUDBnbTFLY3JuOWNXRllLQnVVdmUyNzZKb2ZWdlpKMUdXeXFjVm01RHpJeC04UkFydkNzZTJhWndFTklsLUJwYmRKSzVQOVFrNlJaTHJXOWgxUFgtMHMxVUozcHRqSEtXR2NGNWhKQXdtOVkyVVZsYWtaOVNHMkhqMWN0Z1pwUl8tdTF6dHZSam1KN2JhaG9HUm5tM3dTNWhKUmtZ?oc=5"
-        },
-        {
-          "title": "HDFC Bank stock falls 2%, among top Nifty losers after Q2 results; brokerages flag margin pressure",
+          "title": "Buy HDFC Bank; target of Rs 966: Anand Rathi",
           "source": "Moneycontrol.com",
-          "published": "19 Oct 2026, 09:29 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDRpQTlZYmxGMjQwWFBqQkUtd2dvbEl6VzNuTzVfY29PdFM3bjNELUtTSzRnYzhNbThDTlc3UTNyQXRJYjFpLVJUd3FqeHR5T1Y0ZDI1VnhGMHRUSVNjQnpPNk80UzZQbm84dmwtRXVScHo5THRUY0t0ZmJaZ09mQ29zbllhZkFZbnVRVmFkYXVSRnFKdzExTmFQU3BuLVJ0RUdGeWZnVkx0RjY1cmloUU5kbW5VOGNlR1NkbDRwYTM4LS1qSTdvMC1mWlhFdFM0Nzg3MmUtOFRvRGdLdWl1MHU2aS1DOWswdEVzTHVPcnQtQdIB9wFBVV95cUxPcGVTN1V5NnJqb2pFVTB4Y1dhTzdlZ2ZReWNEVjNmeU5DMDNXWTZoeDFxUllHVkIxR2sxclN0Z0x5M2huOV92alRTcWg5NXdOTWF5MmN6WThXUDlHWktvYVhsclh5cHZ2SVlfNmZNa2xjQ2JlVHBocmQtUWtLTkdJUFUxX1p1ZVBNb3BqVmN6elIyQjN3d1RZSlBFaUJHYXBRZ081MmZaYm9LYW1IUVA4bjJQRjFoX21FbWxjc0l3bVBGWHMyakhxZTEwcnpjRWRDQ01PWEdvR3hmeUxfS1RnWUw3UlVSNEM5REhfRXdBSVBrMzNVeWQw?oc=5"
+          "published": "19 Oct 2026, 11:05 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtJU3djdTlUbW1YMlBiYk9abVVBOFhBUmxKTWszTERBRjc4aTE3UTliSzNGNTVielZLTXdSUDdCaHlVNWR5eUZZNlZMSndEYTU4cTFmMndTME14RUxJZ3VYUUgxTDBvdWNYaWR3Xzh6M3l3VmZYT012elNwVlRrQzJZSkxNUDVaNVhrY01vc1AyaUNGR2lTcy1zRHZvM2lWRlBPanlkYU9YS19wRGdZ0gGvAUFVX3lxTE0ta0lTd2N1OVRtbVgyUGJiT1ptVUE4WEFSbEpNazNMREFGNzhpMTdROWJLM0Y1NWJ6VktNd1JQN0JoeVU1ZHl5Rlk2VkxKd0RhNThxMWYyd1MwTXhFTElndVhRSDFMMG91Y1hpZHdfOHozeXdWZlhPTXZ6U3BWVGtDMllKTE1QNVo1WGtjTW9zUDJpQ0ZHaVNzLXNEdm8zaVZGUE9qeWRhT1hLX3BEZ1k?oc=5"
         },
         {
-          "title": "HDFC Bank stock: Brokerages stay bullish despite target price cuts after Q2 results; Bernstein sees 58%...",
+          "title": "Buzzing Stocks: Urban Company slumps 9% on widening Q2 losses; HDFC Bank jumps 2% on better earnings",
           "source": "Moneycontrol.com",
-          "published": "19 Oct 2026, 08:51 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOFp4eUhjaVQ3b2pVNWJzTFZhZnFpa3pTZ2FrS1hPdG1aNFRsWlZBaTJaYkdlVEV3SW1GMTNSMC0zSVlJbWJ3emRvOU5hb3ZRc2FYQ29RbTdlcUt0RVY5bWtuUGY3Q3FtZmZOLU5NMGRqSHB5WmhYSDg2ck9GM1pZQmVadml4NXZYUnhObWxmbGR1cDZwRkM5RExjMEtTbno1ZkF1MGRLbzVoNTZ6bTVtSjN4UE9temFFbDV2Yk5SUnp1dUYxa0RnWm9CVWpldXJtcU1rVHFOSUJWRXU2bWZObGhrZmFENmdKTXVYNXR3NlVELWRiX0N2TjRPeFpPZFJZT3fSAYcCQVVfeXFMT2Z2TW4yU2M4MElYWHRUeU9fV3RtcHVneURqUm4ycTA0ZEx6dmFNbXk5UVNTWEJTNkUzNVpxRl9OZF96QWsyajc1Q0huTFdwNWVubm1EVUI1bDEwdHpHZFFHY3FNdEtYVGh4dnplVWRTdXFwVF9nOGtNT0hxOVRrZXpxX1Vjcm1Ca3Q3cTBFd0hrYzdvZDVTRW1tQktLOWRsUjJMRkh3RTdQdTJPRVZLUHZpWXpFYnpMOVh4Q3JIMkRTalJ3cFBkbXB4eXkzbG5kcVVLS2pteEpELS1mQVJTaTlval9mNzE4MUZkMW1ZYzFNY2dZWENhY2UxSG9YX3owSHNEVEgwSkU?oc=5"
+          "published": "19 Oct 2026, 11:04 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQS0zYVBnaUJ3Q0tPSzhxUHotSEJaeVZuZVJCckl2SFhqakU5T0hPcTdySWtrVWtOUlpFS0xCM3lfM29hZkx3QlliT0NoLVU2VkRaWXhtSHhCQ1ZIaDZ5S0Q5SEp1ckdPR21lUDAzcWlNaUZEV0l2Y2xVSk9BT1Fnbm9NblZSS0J6Z2d5LXNFY0tOajhWenctMTBIcTZmaUxLQmVTbFVic2hoejBucWJLWTZ4aHIwV1hHTXV0QnBMMTFBWWdHV3poMEpsLVBxQ19MVG12X3hJQkpOaEl3VkpGVTJndi13dVhyc1BNdHFOb2JhUlIyY2JjR9IB-AFBVV95cUxQQS0zYVBnaUJ3Q0tPSzhxUHotSEJaeVZuZVJCckl2SFhqakU5T0hPcTdySWtrVWtOUlpFS0xCM3lfM29hZkx3QlliT0NoLVU2VkRaWXhtSHhCQ1ZIaDZ5S0Q5SEp1ckdPR21lUDAzcWlNaUZEV0l2Y2xVSk9BT1Fnbm9NblZSS0J6Z2d5LXNFY0tOajhWenctMTBIcTZmaUxLQmVTbFVic2hoejBucWJLWTZ4aHIwV1hHTXV0QnBMMTFBWWdHV3poMEpsLVBxQ19MVG12X3hJQkpOaEl3VkpGVTJndi13dVhyc1BNdHFOb2JhUlIyY2JjRw?oc=5"
+        },
+        {
+          "title": "Bank Nifty falls 0.5%, Axis, HDFC Bank among top losers; PSU banks cap losses: What lies ahead?",
+          "source": "Moneycontrol.com",
+          "published": "19 Oct 2026, 10:55 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRVYzUUtoMHZQejFFYVJXd05tb0JaWk9LaV9kSkFMQWptdFpkMndrUEx1MzZpT1k1Ykx2dDNSQy10LW5weHVCWDhFOG9hdWNkamQ1RlcwTDhmLWgzcHFsSXFkOXFpeWlYWHFsaFZGMHVsakgwTjluOWNzRmM5dzJaWHpPTUhyR1JYOFNSc1ZxZ2s2c1ZBdUI4ZGptOVJOLVBESHNFSkdrdVN0cGN5ZTk1TlBVQVpzSTN1OWd5UXg4cGNKZ1Jtb1hIVkhjVmxUc09iZ1hTMXQ3V3RjM09HanFkMklwX2g1V1JIS3fSAe8BQVVfeXFMTnNCRjdSRnZjTE9NVTJYR05ua2hUeTVxOXcxVzh0aWhHYTBoYk9iMWt3R3BITlJQNUZOc2VYU250a050ZE5ZLVFLX1B2S2FCSERBMENwVDgtSmdwTkMwNDZwSGZGQVUtWVBDQUlhZUZqTFM4cy1SN1BRTW96cHRmaE5XUjN6aFh3Q1J6QVVCcEdfYmIxaENuV3BjYVBBdlo0eVhNeHM1aEpFMmpjWmZRQkVQT1BELXlyU3I4bUpZTWxDMVozTS1wVDgxTS1QSWJUNHpOcUdmTmdlRWh4WEFGRk9BXzNyOTh1MHpOLUc5OE0?oc=5"
+        },
+        {
+          "title": "Buy HDFC Bank; target of Rs 925: Motilal Oswal",
+          "source": "Moneycontrol.com",
+          "published": "19 Oct 2026, 10:51 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ3ZvMjI5WEZyVm53dU00MFhrQktlUE1hZDVsV3NmMFlDN09Ic3pIYnR2b1czdV82d0RtV3B2SjVuNE5yLV91TFUyaWY2UDkzSC1zTVNsaFFjVGw3c01xZ19vR3didTdWcENWSFFZODJvQi11RHNpM0V6YXM1WWNkQ1JQSnRZRG1XY29NQ2E5bGtqbVZyQVRQWXlLelpkY2NpOXhITWlR0gGrAUFVX3lxTE1FSXZkVXVWOTYtVlUzRzdGVGd6bGZBUXZ2TDZlYlJxN3dMN1lCVW5CeFBtWG9kRzVsNi1rbjVZYUhaOTVINk9kUGVpc3VXRkRKX09WcjFxWTV5bXdRdHpTNXpDbEVuaS1TSE1RRHJpNG9rUjFwQmVlN0RCUkhhZHVfemh6a1VYTTJJbWVpY1lRM1MwYUJSV2NHMlJDYjFWV0IzcnJ6RUZXaVViTQ?oc=5"
         }
       ],
-      "announcements": []
+      "announcements": [],
+      "weight_pct": 32.68
     },
     {
       "key": "zomato",
       "name": "Eternal (Zomato)",
+      "sector": "Consumer Internet",
       "ticker": "ETERNAL.NS",
       "bse_code": "543320",
+      "first_buy": "2026-10-16",
       "metrics": {
-        "close": 324.3,
+        "close": 325.8,
         "prev_close": 325.3,
-        "day_change_pct": -0.31,
+        "day_change_pct": 0.15,
         "open": 324.85,
         "high": 327.1,
         "low": 323.35,
         "intraday_range_pct": 1.15,
-        "volume": 5697315,
+        "volume": 7534881,
         "avg_volume_20d": 21352242,
-        "volume_vs_avg": 0.27,
-        "volatility_20d_annualised_pct": 27.24,
+        "volume_vs_avg": 0.35,
+        "volatility_20d_annualised_pct": 27.23,
         "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3322453.37,
-        "pnl_inr": -10245.0,
-        "pnl_pct": -0.31
+        "market_value": 3337820.87,
+        "pnl_inr": 5122.5,
+        "pnl_pct": 0.15
       },
       "news": [
         {
@@ -109,6 +120,12 @@
           "source": "Livemint",
           "published": "18 Oct 2026, 11:25 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmUtVnN2RTB5eUJwZWlac0FxWWNYNDdMa3pBOXZFd2pYN25wT0tPV0pKN1VZVlluQ2s5Z3NKQTdFeE1TVTNCTVhVeVd3c3VNRXdFOEdWQ2V3T051VE9ETGNJUHAzVzJBaU9XTGtMY2RWUW1FMjFHYWFETEVYZUV2YXNKdVp2QWk5clFER0V2TGxidXo4cDRpdjEzQUVvSUhuVTQ2UFhNbTlvQ0hZcjd1NzhUOFZpTExzcDRmeEtFQXJCOG15dlF3TGxwMnlib3FuU21qUGs4aUNBV0JTQ3NJdE9sLXhJWEMza1FJeU1QSEhPV0M3UGfSAfsBQVVfeXFMTlcxOERPZGZTRGpvUTJla1ZTMTJkS01QQllVMHdtdm5wdzl5c0RXVVF6Z3hUcWg4RjJMWk5pbG12SklDYTEtMGlMek5XblY2NWFabEY1dzBoQXFXMlRIZXVmMTBic3pJcS1pdkhTM2JTbFBoU3NBNFF4ZkNoeFgxR0dla1BnNEJzS1FxajF0d3NGX3hDcm8xaGtwT3lQNW9lbVljODNGZHVzUVJuaG5hcjVSTEdyVlhKckZvSnhvVHdfMWZZZjk4MHdHMGVUdUFyWHRPRDdub2FwcjR1TEczbVpBTkhmeTl1YUtrbl9FY3lua0ItaWFqQTJRbEU?oc=5"
+        },
+        {
+          "title": "Reliance Retail faces FDA crackdown again; action also on Blinkit-linked facility",
+          "source": "The Economic Times",
+          "published": "18 Oct 2026, 09:02 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSE8zTFdoQzJwWnlhblNvOUU4b29HdENvT0RDYlZvTGltWkVLQXZVRVF2R2NVc3dtM2FJbndqN0dZaF8tUXlnU0lyejI0V2lERjVTUE5nQmRWNlBDNkZxZUFvWElnUXZ3LXlveGVfMmpjWEg5QU5RZE9DMS1HLUZtMm5STHp3YjcwengwYUlnYVdKc0RrYW9mdDNPMVpBSHVYajVfWmdCck5wU2k4akpSaTdFTW1qMzdON2JvMGhlZGE1SkhxNnYyaWFFX0hXR2x6ZENRSVM3SHpXZTVrZG5abXZqMERQSVJnWlFaSDVrUkPSAfYBQVVfeXFMTUtRNFpYdy0wOE1TVkY3WW5JTEJoWVFNWktYVzFUXzg4QmgyeTBwaXQtbmwxblZ5NmFyWWM1RmYtem9EQVB6X0lKSWFZR1c5OGZFcWJTSGFoeTdMd2JaelI5ZWNVRy11VnR5Y2N2MWZ6eTY2LXlyOGdfbVFsbXZ5dzJlTjB5NkVBYmpoMHYyX3JSdlY0WU91bWhhS3h1N084MzlxQXhOMXo4SVFLNDhiOVZLVHFnUi1jV1poTWZvVjRBeGlEUzF1YVRQSHg1QkVIbjhTOXBxdGR1WGp2R09LeF9FcGVadmF6NlJ1TVAzMzRqVG9BNWtR?oc=5"
         },
         {
           "title": "Reliance and Blinkit executives face FIR in food safety case",
@@ -127,40 +144,37 @@
           "source": "Business Standard",
           "published": "17 Oct 2026, 06:07 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXN3a1lSS2EzVUFYZVhacGdBZ0ZKQm52MHRseTh6QjhuTnVUUGcyMWJHdDMzeDRvOGpXNVZESnN3RUhfdG1lZ3BwM3VnbXBjQ2dXeFFBcUZGUm9HUzd0SDQ1TlZOLTlPYkxiLXdEbk40djdFWkJLY3UxZjRvbm4xRnFNM3JDZXhwa05FYXRpU1hrNVZwbGxxT1p4U1pTdmUzdzVGbTlvcmIwcElXemF3YlpUVTBMZlZTOUUzT1h1ZXNLcXJfNzZyTVllVDVRSEc3LS1td0NabWpRN3R5d2fSAd4BQVVfeXFMTlVzd2tZUkthM1VBWGVYWnBnQWdGSkJudjB0bHk4ekI4bk51VFBnMjFiR3QzM3g0bzhqVzVWREpzd0VIX3RtZWdwcDN1Z21wY0NnV3hRQXFGRlJvR1M3dEg0NU5WTi05T2JMYi13RG5ONHY3RVpCS2N1MWY0b25uMUZxTTNyQ2V4cGtORWF0aVNYazVWcGxscU9aeFNaU3ZlM3c1Rm05b3JiMHBJV3phd2JaVFUwTGZWUzlFM09YdWVzS3FyXzc2ck1ZZVQ1UUhHNy0tbXdDWm1qUTd0eXdn?oc=5"
-        },
-        {
-          "title": "FDA crackdown: FIR against Reliance Consumer Products, Reliance Retail, Blinkit, Zomato Hyperpure officials; here's why",
-          "source": "Livemint",
-          "published": "17 Oct 2026, 05:44 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVWlnVkVLVUhqUDk2Q3ZUeVQxbzFiSWxtZ3l0b2ZzT0EyRTNTS1lEU3M4R2k0VHJXQjlYV0d3dEJOZFJiV3lTRGdjd3d4U2ZEYnJMMmxEbl8zMjVManJlbTljTTczeld3OHVtZV90eHRqb3dyZkhwQTVPMTFNUTN4WFNmWEU0bjZBc2F5WERoOFZIWjhWUU1zbm9adWNKeWZneTgtMnJaLUVKTEd1c2oyLUlLZFhSZ1htOUlpU1dIcDBpZUowc3RGOTdEUnFCM1Naem9rUXo0aTE0bGhrTGtOc3Y5YzRON0lEUTBrY19CeGxNU2ZCTXoxNHJUTnA1QdIBgwJBVV95cUxNR0dXYmNHQVdtaDl2SVRiR3pFaU9sNkZmb1ZISGx2bUtvLXNxZmtkUmFJc3ZRZjQ0OURNX3JBU0FWeDRpQ2lfM3JrZmk0NllFeG9PZ0YzMjdNQ0lid3pRTlZ2N29acUJVZnVTd2JfVHJGQUtxREZNRW9yUGljSDg1S3BqMlBLb3BKUm5OR2NJVV9lNU1hTnQwRDFnbEc3V0g0Q0ROZ0MwejM5R1NJLTNPdXlNLVJ5cmhJbnZBSmJyNGNveXdLQ1Vlajh3OXg4Nms3OW1DbTRiUVE2OGdjclNZRmE0SjI4NjVOdjB2VVNkRjBQb3ppMlFWUjJzYTVZTEJocEZZ?oc=5"
         }
       ],
-      "announcements": []
+      "announcements": [],
+      "weight_pct": 33.45
     },
     {
       "key": "maruti",
       "name": "Maruti Suzuki",
+      "sector": "Automobiles",
       "ticker": "MARUTI.NS",
       "bse_code": "532500",
+      "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11604.0,
+        "close": 11641.0,
         "prev_close": 11489.0,
-        "day_change_pct": 1.0,
+        "day_change_pct": 1.32,
         "open": 11510.0,
         "high": 11702.0,
         "low": 11450.0,
         "intraday_range_pct": 2.19,
-        "volume": 120249,
+        "volume": 185750,
         "avg_volume_20d": 459379,
-        "volume_vs_avg": 0.26,
-        "volatility_20d_annualised_pct": 25.51,
+        "volume_vs_avg": 0.4,
+        "volatility_20d_annualised_pct": 25.74,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3365160.0,
-        "pnl_inr": 33350.0,
-        "pnl_pct": 1.0
+        "market_value": 3375890.0,
+        "pnl_inr": 44080.0,
+        "pnl_pct": 1.32
       },
       "news": [
         {
@@ -194,14 +208,110 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU19QblNJT0pfbWhjVGhxYlZibHVZS3pib19teTU4dWlTT0xiaFFBU0hjRGtUV19WSThjVERUQnNDUExCQUVCMUhWQWhQM1FRbHFVSGRqS0Z6RjVPMGFoWDg4Qnk1QTBlbE9CTmFuYm5NYURNeV9zWmRGckx2TUxUOWxmZjZUN08ycXp2RklGZGJBS1ZraGF5M2EteUZCcnpmRE5BcGpVS1kzMEhIWVZCc0FMb0M3dE1iWHpIZzVHakVsRFHSAcoBQVVfeXFMTkRBRTlNTU85OFFhMW92T0lSc01NdHVNSlJBbEJJY3JwOVhZdDcySVh5N3hUU1YzWTBhdlBIU2UzeG5wUTZYU1YxbGtULXdKb2d6aXZZN3dCOXNmTjF0X1JGeU1kYlZfWEFLcHVVSEU5ejVyVlFkMGJqczN0X29uREZzbjJwX2NtNDAxSDBHWmFfaV9Ib2RYaGdUNnJPZC1pSlVIR29SMWdlVk1UOElHT2sxLU1hc2xDZTJVckd6TTgtV283d2lVUUREdw?oc=5"
         }
       ],
-      "announcements": []
+      "announcements": [],
+      "weight_pct": 33.83
     }
   ],
+  "allocation_by_sector": [
+    {
+      "sector": "Automobiles",
+      "value": 3375890.0,
+      "weight_pct": 33.83
+    },
+    {
+      "sector": "Consumer Internet",
+      "value": 3337820.87,
+      "weight_pct": 33.45
+    },
+    {
+      "sector": "Financials",
+      "value": 3261207.54,
+      "weight_pct": 32.68
+    },
+    {
+      "sector": "Cash",
+      "value": 3189.54,
+      "weight_pct": 0.03
+    }
+  ],
+  "sectors": [
+    {
+      "sector": "Automobiles",
+      "value": 3375890.0,
+      "weight_pct": 33.83
+    },
+    {
+      "sector": "Consumer Internet",
+      "value": 3337820.87,
+      "weight_pct": 33.45
+    },
+    {
+      "sector": "Financials",
+      "value": 3261207.54,
+      "weight_pct": 32.68
+    },
+    {
+      "sector": "Cash",
+      "value": 3189.54,
+      "weight_pct": 0.03
+    }
+  ],
+  "performers": {
+    "best_since_buy": {
+      "name": "Maruti Suzuki",
+      "pct": 1.32
+    },
+    "worst_since_buy": {
+      "name": "HDFC Bank",
+      "pct": -2.13
+    },
+    "top_mover_today": {
+      "name": "HDFC Bank",
+      "pct": -2.13
+    }
+  },
+  "transactions": [
+    {
+      "date": "2026-10-16",
+      "key": "hdfc",
+      "name": "HDFC Bank",
+      "type": "BUY",
+      "shares": 4572,
+      "price": 728.85,
+      "amount": 3332302.09,
+      "note": "Initial allocation",
+      "provisional": false
+    },
+    {
+      "date": "2026-10-16",
+      "key": "zomato",
+      "name": "Eternal (Zomato)",
+      "type": "BUY",
+      "shares": 10245,
+      "price": 325.3,
+      "amount": 3332698.37,
+      "note": "Initial allocation",
+      "provisional": false
+    },
+    {
+      "date": "2026-10-16",
+      "key": "maruti",
+      "name": "Maruti Suzuki",
+      "type": "BUY",
+      "shares": 290,
+      "price": 11489.0,
+      "amount": 3331810.0,
+      "note": "Initial allocation",
+      "provisional": false
+    }
+  ],
+  "closed_positions": [],
   "data_quality": [],
   "sources": {
-    "prices": "Yahoo Finance via yfinance (end-of-day, unofficial)",
+    "prices": "Yahoo Finance via yfinance (unofficial)",
     "news": "Google News RSS + publisher RSS, trusted-publisher whitelist, 72h window",
-    "filings": "BSE corporate announcements (best effort)"
+    "filings": "BSE corporate announcements (best effort)",
+    "trades": "transactions.csv (average-cost method, trades at closing price of the trade date)"
   },
   "disclaimer": "Virtual portfolio for learning. Not investment advice."
 }
