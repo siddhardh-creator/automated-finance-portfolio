@@ -6,3 +6,5 @@ date,stock,type,shares,amount,price,note
 2026-10-19,ashok,BUY,1000,,,Added at ~11:25 AM IST
 2026-10-19,,DEPOSIT,,1800000,,Fresh virtual money to fund Manorama Industries
 2026-10-19,manorama,BUY,1000,,,Added on 19-Oct-26 (CMP 1790.40 per Trendlyne)
+2026-10-20,,DEPOSIT,,1900000,,Fresh virtual money to fund Fiem Industries
+2026-10-20,fiem,BUY,1000,,,Added on 20-Oct-26 at 09:30 AM IST (CMP ref 1823.60 prev close per Screener)
