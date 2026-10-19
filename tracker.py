@@ -432,7 +432,7 @@ def build_readme(cfg, snapshot):
     L.append(f"**Snapshot type:** {snap_type}\n")
     if snap_type.startswith("Live"):
         L.append("_Live snapshot: today's session is still in progress, so volume is partial and "
-                 "\"Volume vs 20d avg\" will look low. The final end-of-day snapshot is published at 5:00 PM IST._\n")
+                 "\"Volume vs 20d avg\" will look low. The final end-of-day snapshot is published at 5:45 PM IST._\n")
     if snapshot["data_quality"]:
         L.append("### Data quality notes")
         L.extend(f"- {w}" for w in snapshot["data_quality"])
@@ -566,7 +566,7 @@ def build_readme(cfg, snapshot):
              "de-duplicated, last 72 hours only. Each item links to the original article.")
     L.append("- **Official filings:** BSE corporate announcements (best-effort, with link to the full list).")
     L.append("- **Automation:** GitHub Actions refreshes this dashboard on weekdays every 30 minutes from 9:30 AM to "
-             "3:30 PM IST (live snapshots) and at 5:00 PM IST (end-of-day final snapshot + AI daily report); "
+             "3:30 PM IST (live snapshots) and at 5:45 PM IST (end-of-day final snapshot + AI daily report); "
              "skips market holidays.")
     L.append("- **Metrics:** Volatility = 20-day std-dev of daily returns, annualised. Volume ratio = today's volume / "
              "average of previous 20 sessions.\n")

@@ -7,8 +7,8 @@ on:
     - cron: "0,30 4-9 * * 1-5"
     #   ... plus 10:00 UTC = 3:30 PM IST
     - cron: "0 10 * * 1-5"
-    # Final end-of-day snapshot: 11:30 UTC = 5:00 PM IST (this one also triggers the Make.com report)
-    - cron: "30 11 * * 1-5"
+    # Final end-of-day snapshot: 12:15 UTC = 5:45 PM IST (this one also triggers the Make.com report)
+    - cron: "15 12 * * 1-5"
   workflow_dispatch:   # lets you press "Run workflow" manually to test
 
 permissions:
@@ -38,7 +38,7 @@ jobs:
         id: run
         env:
           FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
-          RUN_MODE: ${{ github.event_name == 'schedule' && github.event.schedule != '30 11 * * 1-5' && 'intraday' || 'final' }}
+          RUN_MODE: ${{ github.event_name == 'schedule' && github.event.schedule != '15 12 * * 1-5' && 'intraday' || 'final' }}
         run: python tracker.py
 
       - name: Save results to the repo
@@ -54,7 +54,7 @@ jobs:
       # ONLY the 5 PM final scheduled run sends data to Make.com, so the AI report, PDF and
       # Telegram message happen exactly once a day. Manual runs and the 30-minute live runs never do.
       - name: Send data to Make.com
-        if: ${{ always() && steps.run.outputs.updated == 'true' && github.event_name == 'schedule' && github.event.schedule == '30 11 * * 1-5' }}
+        if: ${{ always() && steps.run.outputs.updated == 'true' && github.event_name == 'schedule' && github.event.schedule == '15 12 * * 1-5' }}
         env:
           MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
         run: |
