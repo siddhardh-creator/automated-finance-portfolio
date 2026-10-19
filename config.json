@@ -100,7 +100,8 @@
       "news_query": "\"Manorama Industries\"",
       "reports": {
         "one_pager": "analysis/Manorama_OnePager.pdf",
-        "detailed": "analysis/Manorama_Detailed.pdf"
+        "detailed": "analysis/Manorama_Detailed.pdf",
+        "verdict": "analysis/Manorama_Brutal_Verdict.pdf"
       },
       "sector": "Specialty Fats (FMCG inputs)"
     }

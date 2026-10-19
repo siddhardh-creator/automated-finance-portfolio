@@ -414,7 +414,7 @@ def _details(summary, body, open_=False):
 def _report_links(cfg, key):
     reports = next((s.get("reports", {}) for s in cfg["stocks"] if s["key"] == key), {})
     out = []
-    for k, label in (("one_pager", "One-page snapshot"), ("detailed", "Detailed report")):
+    for k, label in (("one_pager", "One-page snapshot"), ("detailed", "Detailed report"), ("verdict", "Brutal verdict")):
         if reports.get(k) and (ROOT / reports[k]).exists():
             out.append((label, reports[k]))
     return out
