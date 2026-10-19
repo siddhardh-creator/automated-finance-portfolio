@@ -10,6 +10,11 @@ on:
     # Final end-of-day snapshot: 12:15 UTC = 5:45 PM IST (this one also triggers the Make.com report)
     - cron: "15 12 * * 1-5"
   workflow_dispatch:   # lets you press "Run workflow" manually to test
+    inputs:
+      final:
+        description: "Set to true for the end-of-day run that also sends the report to Make.com (used by the 5:25 PM Claude task)"
+        required: false
+        default: "false"
 
 permissions:
   contents: write      # needed so the bot can save updated files to your repo
@@ -51,15 +56,31 @@ jobs:
           git pull --rebase -X theirs origin main
           git push
 
-      # ONLY the 5 PM final scheduled run sends data to Make.com, so the AI report, PDF and
-      # Telegram message happen exactly once a day. Manual runs and the 30-minute live runs never do.
-      - name: Send data to Make.com
-        if: ${{ always() && steps.run.outputs.updated == 'true' && github.event_name == 'schedule' && github.event.schedule == '15 12 * * 1-5' }}
+      # The AI report, PDF and Telegram message must happen EXACTLY ONCE a day.
+      # Two things can trigger it: the 5:25 PM Claude task (manual dispatch with final=true) and the
+      # 5:45 PM GitHub cron as a backup. Whichever runs first sends to Make.com and writes
+      # data/make_sent.txt with today's date; the other one sees that file and skips the Make.com call.
+      # Manual runs without final=true and the 30-minute live runs never send.
+      - name: Send data to Make.com (once a day)
+        if: ${{ always() && steps.run.outputs.updated == 'true' && ((github.event_name == 'schedule' && github.event.schedule == '15 12 * * 1-5') || (github.event_name == 'workflow_dispatch' && github.event.inputs.final == 'true')) }}
         env:
           MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
         run: |
-          if [ -n "$MAKE_WEBHOOK_URL" ]; then
-            curl -sS -X POST -H "Content-Type: application/json" --data @data/latest.json "$MAKE_WEBHOOK_URL"
-          else
-            echo "MAKE_WEBHOOK_URL secret not set - skipping Make.com step."
+          TODAY=$(TZ=Asia/Kolkata date +%F)
+          git pull --rebase -X theirs origin main
+          if [ -f data/make_sent.txt ] && [ "$(cat data/make_sent.txt)" = "$TODAY" ]; then
+            echo "Make.com report already sent for $TODAY - skipping duplicate."
+            exit 0
           fi
+          if [ -z "$MAKE_WEBHOOK_URL" ]; then
+            echo "MAKE_WEBHOOK_URL secret not set - skipping Make.com step."
+            exit 0
+          fi
+          curl -sS --fail -X POST -H "Content-Type: application/json" --data @data/latest.json "$MAKE_WEBHOOK_URL"
+          echo "$TODAY" > data/make_sent.txt
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add data/make_sent.txt
+          git commit -m "Make.com report sent $TODAY"
+          git pull --rebase -X theirs origin main
+          git push
