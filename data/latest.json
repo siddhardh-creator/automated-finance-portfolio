@@ -1,22 +1,22 @@
 {
-  "generated_at_ist": "18 Oct 2026, 11:45 PM IST",
-  "as_of": "2026-10-16",
+  "generated_at_ist": "19 Oct 2026, 10:22 AM IST",
+  "as_of": "2026-10-19",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 10000000,
     "invested": 9996810.46,
     "cash": 3189.54,
-    "value": 10000000.0,
-    "pnl_inr": 0.0,
-    "pnl_pct": 0.0,
-    "day_pnl_inr": 0.0,
-    "day_pnl_pct": 0.0
+    "value": 9950638.91,
+    "pnl_inr": -49361.09,
+    "pnl_pct": -0.49,
+    "day_pnl_inr": -49361.09,
+    "day_pnl_pct": -0.49
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 23146.15,
-    "return_pct": 0.0,
-    "day_change_pct": null
+    "close": 23078.45,
+    "return_pct": -0.29,
+    "day_change_pct": -0.29
   },
   "stocks": [
     {
@@ -25,55 +25,55 @@
       "ticker": "HDFCBANK.NS",
       "bse_code": "500180",
       "metrics": {
-        "close": 728.85,
-        "prev_close": 726.85,
-        "day_change_pct": 0.28,
-        "open": 727.9,
-        "high": 734.9,
-        "low": 724.3,
-        "intraday_range_pct": 1.46,
-        "volume": 28936902,
-        "avg_volume_20d": 30592271,
-        "volume_vs_avg": 0.95,
-        "volatility_20d_annualised_pct": 24.02,
+        "close": 713.0,
+        "prev_close": 728.85,
+        "day_change_pct": -2.17,
+        "open": 733.4,
+        "high": 733.4,
+        "low": 712.0,
+        "intraday_range_pct": 2.94,
+        "volume": 10399861,
+        "avg_volume_20d": 30961951,
+        "volume_vs_avg": 0.34,
+        "volatility_20d_annualised_pct": 23.57,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3332302.09,
-        "pnl_inr": 0.0,
-        "pnl_pct": 0.0
+        "market_value": 3259836.0,
+        "pnl_inr": -72466.09,
+        "pnl_pct": -2.17
       },
       "news": [
         {
-          "title": "Leaving behind a resilient HDFC Bank franchise, says outgoing CEO Jagdishan",
-          "source": "Business Standard",
-          "published": "18 Oct 2026, 05:26 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaGh3T2g3aXVZTFUtdmRKNEFHZVpNcE5yUXV5SnZvLVJYeHFpbkJ4YTI0QUNwaThlT3VLTlg1ZEtnRXhTTUpQRFFDWkpxYkVoVXJQRndRUWdQQlFuXzJWM05LQzV3cWx2SEJTaElhV0ozLVRsLWNFc2hJWGthSGMxREo3bXdGd1Z4YkNocndVczlNc1lQRVhGaW9FRWtJR1hmQ0NTZWpndUFQdnUwTlVMdWMtN3VjQmp3dDNlTUpzZS1icm5oR2F2aEJ3TWVib0VTX1JaT2lRX0RJMWhvN053UFBPZ9IB4wFBVV95cUxPaGh3T2g3aXVZTFUtdmRKNEFHZVpNcE5yUXV5SnZvLVJYeHFpbkJ4YTI0QUNwaThlT3VLTlg1ZEtnRXhTTUpQRFFDWkpxYkVoVXJQRndRUWdQQlFuXzJWM05LQzV3cWx2SEJTaElhV0ozLVRsLWNFc2hJWGthSGMxREo3bXdGd1Z4YkNocndVczlNc1lQRVhGaW9FRWtJR1hmQ0NTZWpndUFQdnUwTlVMdWMtN3VjQmp3dDNlTUpzZS1icm5oR2F2aEJ3TWVib0VTX1JaT2lRX0RJMWhvN053UFBPZw?oc=5"
-        },
-        {
-          "title": "HDFC Bank Issued 14 Lakh Credit Cards In Three Months. What's Behind The Surge?",
-          "source": "NDTV Profit",
-          "published": "18 Oct 2026, 11:34 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3QzaEhlbFNIajJwX2w2eXRza1Z6OWpyNGZUWTJaWUlwTldhWkpRcjJ4UDVIYkxKcTFBNkZQd3JaZU85MlV5NENkaGxsNXpXZnJiZUt1bko0U2UwYUNOTEt2SmhJdVhMcjRFQ2g1YVlNeTJ0akFzeDN1RHBUdEcwSHoybzcxUS1WMzdHeG1oa2lGU3VVVmJHNGl1TmFnOGZoY3QwLTRQcm5Fb2dkMWVscmRJNFI5dmstRGJQS0xR0gHGAUFVX3lxTFBkQmhqMXoxaEhqel9SZnhLNHJydXhrQ1FWU2phUzBhU1FhZF9wRUhwSzhxZk1mNUdvR1ZSYkUyT05XNFdLV05COHotMGRHRXdyQldHeVlVMEZkYnpFejcxRDFkSkJBZkduUVpHbDNmRlFLaUo2Z25IMUJ5QXVSdktuSjBvRmpIMjd6RVZIamFFeFl1LXVYSVJDZTJ6QkM4cHFUSVM2QWdralZHVDFsWktPMVFKSVRWRVVRRDFFZkF1a195UVhOQQ?oc=5"
-        },
-        {
-          "title": "HDFC Bank PAT ticks up 5% amid pressure",
-          "source": "The Economic Times",
-          "published": "18 Oct 2026, 10:08 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUFyaWNta0tBbFJEdEx3akdqTmRtdFlFenpvaGU4czI1THAzb0lBLUJBWFM1WVRHZk56amk3azgyc3JzQUJsUHhzQXotN3lGVEN4cGo0OFNERC00VVY0dFp6c0lOc1A4TjYtOW1mZHc5c1ZvRm5UYlNQMmhYazhTSDhSUkNjX2xFMlRUU0JuV29ZU3lHUVVMN05IUklZUmdBM0xfQ3I1cFBMRmcxSV93R1haUllsU1BRTkJOWHp6S3ZGbEnSAbwBQVVfeXFMTmMzWW5wTHZESzdjODEwSnpWQm9obVRwTWdGZS1pRmhqVllWRGFQdXdIZFo3c1RlaU13UGdYZDdFVGYwakpFVGxoZjF6YUJZYjNGd3pUVTdncExsUGJ3QnM1dXBtdjN6U19hS1UxSlIyVU41aF9UWC1xWTlPcmdRRjNDbk5yaU5CZjliMHVFdkdOMmxRVUNBZmlCMGpsazVNRDZMR0FXckticm9oRlh1bDR0bkZyQ0lUOUJTVnA?oc=5"
-        },
-        {
-          "title": "HDFC Bank shares near ₹728 ahead of Q2 results; Sell orders at 77%",
+          "title": "Q2 Results Today Live: Bajaj Finance, UltraTech Cement, Hindustan Zinc, Union Bank of India, LTTS, Piramal Finance, IREDA to announce Q2 results, HDFC Bank, Axis Bank shares decline after Q2, ICICI Bank, Yes Bank flat",
           "source": "BusinessLine",
-          "published": "18 Oct 2026, 09:45 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0hpOUVLZXZGS0YxTWJ1T0l5aGk5UmZDNzdNVTdScE93dHhIZlBpTFVrWFdLOFoteG5SZXYzUEZRRlZFRm56RjBMdS1zdVNnOWlqN1EwU0tLRDNyUUNVSzdBZHk1SEw3M2FxY0k5OFVza0hkd0RyZU9LVXExTUF4YWpHbDk1WGQzdGQ0dGlVTF9FY1psZDBaV0ZacHRPa0RzWmczaWZrWXJBSWNGaTBzNE1LNHotQ0ZaeUxFd3EwT1NsTldSaGpvOVZKczjSAdMBQVVfeXFMUHlyNzM5R0pCNFd0WjB6VDdWS3FDM1RhMGlyenhSMlotZEUyWGoyR0tuaFFBdk45VzFMd25zeWExdTFBbEZGVXlwQUVCaGh3bGdIUlo2ZGkzZU9TdFlrYWI1cHJNTGNNb08wMjhpbDduVW1acWFfcm82dDBGZFppT3h3dFVseGVOYkswblFjT0J6Um56NHAzYzdPaV9sN2I0aTNadlVvRHVzWnluYmU0RWdUNjBKMzFtQ0lidjh0U0xFMzc5bjIyMVVWdjR1ekdxcTZCRQ?oc=5"
+          "published": "19 Oct 2026, 10:05 AM IST",
+          "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-bajaj-finance-ultratech-cement-hindustan-zinc-union-bank-of-india-ltts-piramal-finance-ireda-company-results-hdfc-bank-axis-bank-yes-icici-results-19-october-2026/article71599553.ece"
         },
         {
-          "title": "Axis Bank Vs HDFC Bank Vs ICICI Bank Q2 Results: Who Led On Profit, Margins And Bad Loans?",
-          "source": "NDTV Profit",
-          "published": "18 Oct 2026, 09:05 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkgxb1lqeUxrdEtIUUgyb0xKa0IzZzhRTkg2YUtjRm8xQ3V5aFViM0N2OUcxcjk4Y1RBanltM3B0Skc5SXBIN0VtTFRkR2JCRXFOcUV0Yi1IR1pQNEV6TXpVQmNDUENreDNGR2tUQ3FiRXE0RGR4dWhPSkEtOWdTc01zVXJjeTY0RGZNQTFCWTN4TTNzdjhhUFpUYk1mTFEyX0xhZkJsR3hDM1oxOFpVd2ZuYm1PX2RVb0xDQzU3VU5VcWNRcUZnc0p6a9IB0wFBVV95cUxOXzQzM1dmelpwbFJGMWF2MXhXc2NCbVpvYnhXTUxhc1FhY2xWZURuMm5mLTlRNE52U2lUUEpmVnhoUmxNNVJ6SlV1OXBlOU9DalJqcTgxSEc4bFBoR1phcldzY3RZVlQwUUVmYVlSVXZKdC1vY09TOHhvLTU2ZDhpNU9pLVNYUWF6WUU2UFRVLTdCWWFSdXVJbGNJdWRHQTIwYWpTc01HNklwYUdVTG80Zm9IV09xR0FTaldJWExYUDNGM2MwSFZhcjJxdkFTTGM0bGp3?oc=5"
+          "title": "HDFC Bank shares fall 2% after Q2 results. What are Jefferies, Motilal Oswal analysts saying?",
+          "source": "The Economic Times",
+          "published": "19 Oct 2026, 09:56 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV2xXMURPaUstbnNPMFpyRHMyTjlKOHhYWTNqcWJfaUpzQzhzVncycnNhQ3ZPOGFoT08wYjZuRnhBMGYyOExxVTF1OFBfenpaTDU0TjhDV21WVkRMbkpqM0xaUGZucUI5VVE3MnBfRmZfWFpQSGJlalhXcG1IMkM5czF4OG1qbnZza0N6RTBSOG5jcFFQeFJsWU1aMExWMEpZcEFLSzk4UGYxeE5GZkIxZHU0aG9OVmZzcVhSX3hpbGJzWU43NVMzcE4xVEo3MnJKbmwtdTRteDA5b1lVQTF4Qllmd19PQWVPZ19GZTEzVnR0WnRfa0HSAfsBQVVfeXFMTzkwOGcyNjlNMHBTQVdyQWxDY1lBMnJCYnlnMm9aS3FEaThuQThfaTR5bE4yS01wMFl1YU5pOWxxQkZVd1hHcWM2LTUzMGgzY01RTHdseHFUYl9fRGQya2x1cllUNi1uejhzd01PRTh1Q3Mtb3FVUWNtV0l1dHA3QkZ4eGdJSDZjYUpOUUl1UGVZVW5uWENxM2hja3p4Q2tNeEJBZTZJaS1RaWU1RUtuZGU0bDhvd05aTE1UYnV4aVZ3V3FnVl9mdXljenNSSTVnTmxrQ1phQnB3dV83VURFUnJPbnlMZUl5ejdNTHdzVVE5bXNaM3ZSUDIwWG8?oc=5"
+        },
+        {
+          "title": "HDFC Bank falls 1.5% post Q2 show; analysts say worst over; eyes on new CEO",
+          "source": "Business Standard",
+          "published": "19 Oct 2026, 09:38 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHN1RFpHVldDNEZuMHBkYmR6N2VkdzRNdEFKSTk0eVk2bEpIVXBGcTVqbFRHNnV5Um15eXZRelllZDM3Vzk3UEtsYmZ5bUs2aW1lb1Q2U1RzT0pSRWpPUUtTcWdlVzB4TjB2VXIyd3VQb1JZbXV6U3MwYUNUaWY1R3VhMi1Ea242dGtZXzNXSlpIaWplMzBuTUFfU3UzbHVlOFM4amxzUjJYeFlmcXBGM00tdWFMZHBZMlV3ajZUOGJONGRFLXEwWFdwNTV6Zmh4VzVYYWZ5UURlSnBDUjdEdWQyT25Td9IB6wFBVV95cUxPeWhGUTFSN25femVmTWEySkpQckZZSkRsei1kY1Zsd0VUS2hmX29wVXpLTXJyc1JBYmR4c3FBUElDQzdfYkVFVjRfS1lBWXNjUDBnbTFLY3JuOWNXRllLQnVVdmUyNzZKb2ZWdlpKMUdXeXFjVm01RHpJeC04UkFydkNzZTJhWndFTklsLUJwYmRKSzVQOVFrNlJaTHJXOWgxUFgtMHMxVUozcHRqSEtXR2NGNWhKQXdtOVkyVVZsYWtaOVNHMkhqMWN0Z1pwUl8tdTF6dHZSam1KN2JhaG9HUm5tM3dTNWhKUmtZ?oc=5"
+        },
+        {
+          "title": "HDFC Bank stock falls 2%, among top Nifty losers after Q2 results; brokerages flag margin pressure",
+          "source": "Moneycontrol.com",
+          "published": "19 Oct 2026, 09:29 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDRpQTlZYmxGMjQwWFBqQkUtd2dvbEl6VzNuTzVfY29PdFM3bjNELUtTSzRnYzhNbThDTlc3UTNyQXRJYjFpLVJUd3FqeHR5T1Y0ZDI1VnhGMHRUSVNjQnpPNk80UzZQbm84dmwtRXVScHo5THRUY0t0ZmJaZ09mQ29zbllhZkFZbnVRVmFkYXVSRnFKdzExTmFQU3BuLVJ0RUdGeWZnVkx0RjY1cmloUU5kbW5VOGNlR1NkbDRwYTM4LS1qSTdvMC1mWlhFdFM0Nzg3MmUtOFRvRGdLdWl1MHU2aS1DOWswdEVzTHVPcnQtQdIB9wFBVV95cUxPcGVTN1V5NnJqb2pFVTB4Y1dhTzdlZ2ZReWNEVjNmeU5DMDNXWTZoeDFxUllHVkIxR2sxclN0Z0x5M2huOV92alRTcWg5NXdOTWF5MmN6WThXUDlHWktvYVhsclh5cHZ2SVlfNmZNa2xjQ2JlVHBocmQtUWtLTkdJUFUxX1p1ZVBNb3BqVmN6elIyQjN3d1RZSlBFaUJHYXBRZ081MmZaYm9LYW1IUVA4bjJQRjFoX21FbWxjc0l3bVBGWHMyakhxZTEwcnpjRWRDQ01PWEdvR3hmeUxfS1RnWUw3UlVSNEM5REhfRXdBSVBrMzNVeWQw?oc=5"
+        },
+        {
+          "title": "HDFC Bank stock: Brokerages stay bullish despite target price cuts after Q2 results; Bernstein sees 58%...",
+          "source": "Moneycontrol.com",
+          "published": "19 Oct 2026, 08:51 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOFp4eUhjaVQ3b2pVNWJzTFZhZnFpa3pTZ2FrS1hPdG1aNFRsWlZBaTJaYkdlVEV3SW1GMTNSMC0zSVlJbWJ3emRvOU5hb3ZRc2FYQ29RbTdlcUt0RVY5bWtuUGY3Q3FtZmZOLU5NMGRqSHB5WmhYSDg2ck9GM1pZQmVadml4NXZYUnhObWxmbGR1cDZwRkM5RExjMEtTbno1ZkF1MGRLbzVoNTZ6bTVtSjN4UE9temFFbDV2Yk5SUnp1dUYxa0RnWm9CVWpldXJtcU1rVHFOSUJWRXU2bWZObGhrZmFENmdKTXVYNXR3NlVELWRiX0N2TjRPeFpPZFJZT3fSAYcCQVVfeXFMT2Z2TW4yU2M4MElYWHRUeU9fV3RtcHVneURqUm4ycTA0ZEx6dmFNbXk5UVNTWEJTNkUzNVpxRl9OZF96QWsyajc1Q0huTFdwNWVubm1EVUI1bDEwdHpHZFFHY3FNdEtYVGh4dnplVWRTdXFwVF9nOGtNT0hxOVRrZXpxX1Vjcm1Ca3Q3cTBFd0hrYzdvZDVTRW1tQktLOWRsUjJMRkh3RTdQdTJPRVZLUHZpWXpFYnpMOVh4Q3JIMkRTalJ3cFBkbXB4eXkzbG5kcVVLS2pteEpELS1mQVJTaTlval9mNzE4MUZkMW1ZYzFNY2dZWENhY2UxSG9YX3owSHNEVEgwSkU?oc=5"
         }
       ],
       "announcements": []
@@ -84,24 +84,24 @@
       "ticker": "ETERNAL.NS",
       "bse_code": "543320",
       "metrics": {
-        "close": 325.3,
-        "prev_close": 323.0,
-        "day_change_pct": 0.71,
-        "open": 321.75,
-        "high": 327.45,
-        "low": 321.35,
-        "intraday_range_pct": 1.89,
-        "volume": 16825927,
-        "avg_volume_20d": 21888102,
-        "volume_vs_avg": 0.77,
-        "volatility_20d_annualised_pct": 27.68,
-        "high_52w": 347.85,
+        "close": 324.3,
+        "prev_close": 325.3,
+        "day_change_pct": -0.31,
+        "open": 324.85,
+        "high": 327.1,
+        "low": 323.35,
+        "intraday_range_pct": 1.15,
+        "volume": 5697315,
+        "avg_volume_20d": 21352242,
+        "volume_vs_avg": 0.27,
+        "volatility_20d_annualised_pct": 27.24,
+        "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3332698.37,
-        "pnl_inr": 0.0,
-        "pnl_pct": 0.0
+        "market_value": 3322453.37,
+        "pnl_inr": -10245.0,
+        "pnl_pct": -0.31
       },
       "news": [
         {
@@ -111,28 +111,28 @@
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmUtVnN2RTB5eUJwZWlac0FxWWNYNDdMa3pBOXZFd2pYN25wT0tPV0pKN1VZVlluQ2s5Z3NKQTdFeE1TVTNCTVhVeVd3c3VNRXdFOEdWQ2V3T051VE9ETGNJUHAzVzJBaU9XTGtMY2RWUW1FMjFHYWFETEVYZUV2YXNKdVp2QWk5clFER0V2TGxidXo4cDRpdjEzQUVvSUhuVTQ2UFhNbTlvQ0hZcjd1NzhUOFZpTExzcDRmeEtFQXJCOG15dlF3TGxwMnlib3FuU21qUGs4aUNBV0JTQ3NJdE9sLXhJWEMza1FJeU1QSEhPV0M3UGfSAfsBQVVfeXFMTlcxOERPZGZTRGpvUTJla1ZTMTJkS01QQllVMHdtdm5wdzl5c0RXVVF6Z3hUcWg4RjJMWk5pbG12SklDYTEtMGlMek5XblY2NWFabEY1dzBoQXFXMlRIZXVmMTBic3pJcS1pdkhTM2JTbFBoU3NBNFF4ZkNoeFgxR0dla1BnNEJzS1FxajF0d3NGX3hDcm8xaGtwT3lQNW9lbVljODNGZHVzUVJuaG5hcjVSTEdyVlhKckZvSnhvVHdfMWZZZjk4MHdHMGVUdUFyWHRPRDdub2FwcjR1TEczbVpBTkhmeTl1YUtrbl9FY3lua0ItaWFqQTJRbEU?oc=5"
         },
         {
-          "title": "Reliance Retail faces FDA crackdown again; action also on Blinkit-linked facility",
-          "source": "The Economic Times",
-          "published": "18 Oct 2026, 09:02 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSE8zTFdoQzJwWnlhblNvOUU4b29HdENvT0RDYlZvTGltWkVLQXZVRVF2R2NVc3dtM2FJbndqN0dZaF8tUXlnU0lyejI0V2lERjVTUE5nQmRWNlBDNkZxZUFvWElnUXZ3LXlveGVfMmpjWEg5QU5RZE9DMS1HLUZtMm5STHp3YjcwengwYUlnYVdKc0RrYW9mdDNPMVpBSHVYajVfWmdCck5wU2k4akpSaTdFTW1qMzdON2JvMGhlZGE1SkhxNnYyaWFFX0hXR2x6ZENRSVM3SHpXZTVrZG5abXZqMERQSVJnWlFaSDVrUkPSAfYBQVVfeXFMTUtRNFpYdy0wOE1TVkY3WW5JTEJoWVFNWktYVzFUXzg4QmgyeTBwaXQtbmwxblZ5NmFyWWM1RmYtem9EQVB6X0lKSWFZR1c5OGZFcWJTSGFoeTdMd2JaelI5ZWNVRy11VnR5Y2N2MWZ6eTY2LXlyOGdfbVFsbXZ5dzJlTjB5NkVBYmpoMHYyX3JSdlY0WU91bWhhS3h1N084MzlxQXhOMXo4SVFLNDhiOVZLVHFnUi1jV1poTWZvVjRBeGlEUzF1YVRQSHg1QkVIbjhTOXBxdGR1WGp2R09LeF9FcGVadmF6NlJ1TVAzMzRqVG9BNWtR?oc=5"
-        },
-        {
-          "title": "Reliance Consumer and Blinkit executives face FIR in food safety case",
+          "title": "Reliance and Blinkit executives face FIR in food safety case",
           "source": "The Economic Times",
           "published": "18 Oct 2026, 12:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZlJZd292Q0JYc0lPWmJURnF6NTNwS0pGQnV3UXZtRl8ybTJSYUE4MndTQmFGX0JFU0FabGVIbERNYmYwSDZPX3NNUzVPaHZLRDlUMmlhTGRQaHVybmpObmZhdEVMdFpoaS1pRXlfSFh1dW5qMFRGTmlwSWN5MVJISmQ5STkxUHdZbTlBSEFHT1EwV2o5cVlKUE04Uk5WYVJtU1VKTEs4a2N4YTVyRWVXZDJTcFlSU29GeTY5VGR3OGVHZzdNN2pKdjNPRV9XYVVHc3V3UUo2RXZwWVJlUWN4YlNCRzZHcjE3LVB4QWdYSno1d9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5"
-        },
-        {
-          "title": "FDA suspends licences of warehouses of Reliance Consumer, Reliance Retail, Blinkit, Zomato Hyperpure",
-          "source": "The Economic Times",
-          "published": "17 Oct 2026, 10:14 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMDEwLUZmVDhkTkdJbE5OTEE4S0l3djlTWnpnTmc2N3JibUV3blg5by0wZk5vR2JRa3h6LW5tT2tmemJMUlR5UVZOcTRPeDh1YWRwV2V1TGV2SkcwZE4ySVh4c1FvWGEzdG5ld3hBUzZlRjNidkg5Yy1LZC1sQmdVZE1WQmdhYWtCaUNrcGZzQllaUHZac1ItTERkVXNHMDE5a0dsQnRnZnRiMnFBZF80ZHRxSHZGZVhRZWh2a3pLeXRDTG9tclh4TkFaQllGTDh4VmFzODZMTmRmaXcwcVpwenQxUWtkd2d5RktNT2lzSXNFYWV6TVlta3BMUzdiWHdvZ2cyMGUtU0VCZUnSAZACQVVfeXFMT3Z4TGIzaU9feFl4QV9SZ0hIWkVtd0JYU1BJcWYydC12bFRrZUlZV3BBS1NLdWJoU0JjN1V0NWtDd1lqaXJYcm9VY2NOV0hoSUF6U3FtSkVHQmYxNjgwR2Z2VGZPSUJsOHVkdHZoOTMtRXp3ZGg1MmNGMVpGOW5ZWWNNX0p5LXlSN01kSU9uZnpmNVNTaE9jbkpQRGJxcjZXS1pIUGZINHJNVExTYmdlM1F1MG15T0UtYnB1a2J5bEFoS1I4dGN4dWJsWlF2Wm5MMnpWc2VSOGNLOUYyN0YyMFFLNGtESzI5TEVkZkdjcTNRWEFGYnJETHFkWU1LMnE0a1BjMVpOZS1Qc280QUJBWFI?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDBtQ1BmVEF6UWo2NHNUdExkdDRkWExWRHFWc0xGR3RHN1B6UGFuOUdYWGt5TjZiTmwySDZsMTgxZG1TVm1JT0lPTjJXU1djZU5IZ0VzYXpGV3ZmSEZlNkVqWVFmZnBlLVpobHJVTFZmWnNROEdsMWV5ZXZrbXo5UDg4c2hUVkdFRm5MV2VFdGQycS1WcU1wTGZhWHN5OTJhaGZuREplQmJwZnlrdEFzai00czZIS0ZNZ0ZnTWVmdHlQeVRySFFIUjZ1eGE1dG9zUHhjY3dxRldvYzJWT0txaWtQcHBfZ9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5"
         },
         {
           "title": "Reliance Consumer Director, Blinkit officials among 10 booked in expired-food probe",
           "source": "BusinessLine",
           "published": "17 Oct 2026, 07:00 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzM5SEljN3g4MlRBOVJMOHkzX0YtM1NMRzNSVi1KOFVJMFQxLUtkRlJVUEZGTzZjYWd1bV93cHRCcXJyX2FMaTZUdldHUDNIX1czR3daeDJrRGxtT0RCcGhJclRxV2xYNzI0al94NGdlYzdTamxqSjBCdE93T0w5NHF3b0tibjRnTEFFdkM1X1J2RHhVUWwzQXdjRFBEay02VVhQeWh0WFBWU243SVNkUW53ZTdQWW80MjVhb0NDRUdYSnkyMVJqbU1mbFFRanJWM1ZrYThjTk9ld2gt0gHjAUFVX3lxTFB1WGVPNWZ4QW16b0lmRDE5RGQxZld2QzRYM0pidVVEamdtLVVjZ1RMZlh0NTRUUHNxRUVYRFl5SVBHRVZjTEl3SmxDYWEtbHQ3NG9OUk1XWTFIbXVHU0FVRWdCRTZoZXIzeXpnZlR0cjZPWm55N2ctanRlVTJ4NWJRNDk1U2NDVV9SMlp3VEMyZnh3RjRycDBkQzN3aTBQalFWM2gyMEZvTkpWME1jZlFVbkg2NjZNMG1TYlRqRmlrOV9OMlBuTFp5UnVCWFd0MW5Rbnh6LXBNLWpOZEZUOFVibjd3?oc=5"
+        },
+        {
+          "title": "Maha FDA names Blinkit's Dhindsa, Reliance officials in expired food probe",
+          "source": "Business Standard",
+          "published": "17 Oct 2026, 06:07 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXN3a1lSS2EzVUFYZVhacGdBZ0ZKQm52MHRseTh6QjhuTnVUUGcyMWJHdDMzeDRvOGpXNVZESnN3RUhfdG1lZ3BwM3VnbXBjQ2dXeFFBcUZGUm9HUzd0SDQ1TlZOLTlPYkxiLXdEbk40djdFWkJLY3UxZjRvbm4xRnFNM3JDZXhwa05FYXRpU1hrNVZwbGxxT1p4U1pTdmUzdzVGbTlvcmIwcElXemF3YlpUVTBMZlZTOUUzT1h1ZXNLcXJfNzZyTVllVDVRSEc3LS1td0NabWpRN3R5d2fSAd4BQVVfeXFMTlVzd2tZUkthM1VBWGVYWnBnQWdGSkJudjB0bHk4ekI4bk51VFBnMjFiR3QzM3g0bzhqVzVWREpzd0VIX3RtZWdwcDN1Z21wY0NnV3hRQXFGRlJvR1M3dEg0NU5WTi05T2JMYi13RG5ONHY3RVpCS2N1MWY0b25uMUZxTTNyQ2V4cGtORWF0aVNYazVWcGxscU9aeFNaU3ZlM3c1Rm05b3JiMHBJV3phd2JaVFUwTGZWUzlFM09YdWVzS3FyXzc2ck1ZZVQ1UUhHNy0tbXdDWm1qUTd0eXdn?oc=5"
+        },
+        {
+          "title": "FDA crackdown: FIR against Reliance Consumer Products, Reliance Retail, Blinkit, Zomato Hyperpure officials; here's why",
+          "source": "Livemint",
+          "published": "17 Oct 2026, 05:44 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVWlnVkVLVUhqUDk2Q3ZUeVQxbzFiSWxtZ3l0b2ZzT0EyRTNTS1lEU3M4R2k0VHJXQjlYV0d3dEJOZFJiV3lTRGdjd3d4U2ZEYnJMMmxEbl8zMjVManJlbTljTTczeld3OHVtZV90eHRqb3dyZkhwQTVPMTFNUTN4WFNmWEU0bjZBc2F5WERoOFZIWjhWUU1zbm9adWNKeWZneTgtMnJaLUVKTEd1c2oyLUlLZFhSZ1htOUlpU1dIcDBpZUowc3RGOTdEUnFCM1Naem9rUXo0aTE0bGhrTGtOc3Y5YzRON0lEUTBrY19CeGxNU2ZCTXoxNHJUTnA1QdIBgwJBVV95cUxNR0dXYmNHQVdtaDl2SVRiR3pFaU9sNkZmb1ZISGx2bUtvLXNxZmtkUmFJc3ZRZjQ0OURNX3JBU0FWeDRpQ2lfM3JrZmk0NllFeG9PZ0YzMjdNQ0lid3pRTlZ2N29acUJVZnVTd2JfVHJGQUtxREZNRW9yUGljSDg1S3BqMlBLb3BKUm5OR2NJVV9lNU1hTnQwRDFnbEc3V0g0Q0ROZ0MwejM5R1NJLTNPdXlNLVJ5cmhJbnZBSmJyNGNveXdLQ1Vlajh3OXg4Nms3OW1DbTRiUVE2OGdjclNZRmE0SjI4NjVOdjB2VVNkRjBQb3ppMlFWUjJzYTVZTEJocEZZ?oc=5"
         }
       ],
       "announcements": []
@@ -143,31 +143,43 @@
       "ticker": "MARUTI.NS",
       "bse_code": "532500",
       "metrics": {
-        "close": 11489.0,
-        "prev_close": 11445.0,
-        "day_change_pct": 0.38,
-        "open": 11445.0,
-        "high": 11569.0,
-        "low": 11340.0,
-        "intraday_range_pct": 2.0,
-        "volume": 408961,
-        "avg_volume_20d": 451384,
-        "volume_vs_avg": 0.91,
-        "volatility_20d_annualised_pct": 25.78,
+        "close": 11604.0,
+        "prev_close": 11489.0,
+        "day_change_pct": 1.0,
+        "open": 11510.0,
+        "high": 11702.0,
+        "low": 11450.0,
+        "intraday_range_pct": 2.19,
+        "volume": 120249,
+        "avg_volume_20d": 459379,
+        "volume_vs_avg": 0.26,
+        "volatility_20d_annualised_pct": 25.51,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3331810.0,
-        "pnl_inr": 0.0,
-        "pnl_pct": 0.0
+        "market_value": 3365160.0,
+        "pnl_inr": 33350.0,
+        "pnl_pct": 1.0
       },
       "news": [
+        {
+          "title": "Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound",
+          "source": "Moneycontrol.com",
+          "published": "19 Oct 2026, 09:32 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVlV4S0dPamlVM1JtOTJkM3RrcFhGOERHOW5EaFY5Qm9DVjZSa2ZJNERZMjBLclB0eGVPRGdqU2RCOVpJWFA0NE5UTExISnBHVTl3VEhXREphQnQ0OGdpMXVMaGNYQVBTbVBWTE5iM1F6Q2REVVQzVi1oOVV2YjZlX0duSWlvbGNBU1NmVWFuWVVlajBnY08xb3ZQSXIzM005QTFaclpSdUFhRUU4eTlicHZIb0FOeG5PZmlnTVI0MUxRb1BZVkh6QlI4U2I1N3pGR04xNGUxR2RLQzMzV1pHbldhNjViampUMUFYbkhwMNIB7wFBVV95cUxOVlV4S0dPamlVM1JtOTJkM3RrcFhGOERHOW5EaFY5Qm9DVjZSa2ZJNERZMjBLclB0eGVPRGdqU2RCOVpJWFA0NE5UTExISnBHVTl3VEhXREphQnQ0OGdpMXVMaGNYQVBTbVBWTE5iM1F6Q2REVVQzVi1oOVV2YjZlX0duSWlvbGNBU1NmVWFuWVVlajBnY08xb3ZQSXIzM005QTFaclpSdUFhRUU4eTlicHZIb0FOeG5PZmlnTVI0MUxRb1BZVkh6QlI4U2I1N3pGR04xNGUxR2RLQzMzV1pHbldhNjViampUMUFYbkhwMA?oc=5"
+        },
         {
           "title": "New Renault Duster Hybrid Launched: How Does It Compare With Maruti Vitara? Check Price, Range And More",
           "source": "NDTV Profit",
           "published": "17 Oct 2026, 03:59 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5"
+        },
+        {
+          "title": "Why the Toyota Glanza demands a premium over the Maruti Baleno",
+          "source": "The Financial Express",
+          "published": "17 Oct 2026, 06:02 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkkzeWdSRjEzQ1RVWVJNS2hwSFk2X3RYX0dtVkJnWXFDejRMbW8tOXNtdGlTTDlqVUMxaU1JUHQzems1ZWItZV96SnAzck5PbjlINEFVNERGTnlqUUdVUS1BQjYxaVRDUXJPWWc2Rk9uZks5aVBxdmxkNzFoMno2T3R4VE9RbjhBc2pWQWloV2UxMHNwQWlYWENzY1RyeFpnUC1QLUxEd21EbnRjYWEwR3pOMDBpVTlVSWfSAcABQVVfeXFMTXdIM05hU3F2cXFUUlVXX2hqc2NMNHJCNVN6OFNPcXhrOUhnY2F5elpOVFRieUs2YVlXd0FiTDdEVzhjUEFQZ1hwYVhiand1Y0hORjVQQTQwOXB2cTJpbl9QV2ViUzhIQWFicGVFSkRLVmJueHlLR0tPb2Fyc1ZYUUJFd1gzZjlaQTRTSEhGbVlsOExwQjB5UUtvOS13UnBCNGQ5ZGE4RHhMRngzQVJNWFhHaTFkTUR2UG10dnNId3Vu?oc=5"
         },
         {
           "title": "Maruti Suzuki reclaims 40% market share in H1 FY27; Tata overtakes Mahindra as Hyundai slips",
@@ -180,12 +192,6 @@
           "source": "BusinessLine",
           "published": "16 Oct 2026, 01:49 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU19QblNJT0pfbWhjVGhxYlZibHVZS3pib19teTU4dWlTT0xiaFFBU0hjRGtUV19WSThjVERUQnNDUExCQUVCMUhWQWhQM1FRbHFVSGRqS0Z6RjVPMGFoWDg4Qnk1QTBlbE9CTmFuYm5NYURNeV9zWmRGckx2TUxUOWxmZjZUN08ycXp2RklGZGJBS1ZraGF5M2EteUZCcnpmRE5BcGpVS1kzMEhIWVZCc0FMb0M3dE1iWHpIZzVHakVsRFHSAcoBQVVfeXFMTkRBRTlNTU85OFFhMW92T0lSc01NdHVNSlJBbEJJY3JwOVhZdDcySVh5N3hUU1YzWTBhdlBIU2UzeG5wUTZYU1YxbGtULXdKb2d6aXZZN3dCOXNmTjF0X1JGeU1kYlZfWEFLcHVVSEU5ejVyVlFkMGJqczN0X29uREZzbjJwX2NtNDAxSDBHWmFfaV9Ib2RYaGdUNnJPZC1pSlVIR29SMWdlVk1UOElHT2sxLU1hc2xDZTJVckd6TTgtV283d2lVUUREdw?oc=5"
-        },
-        {
-          "title": "Stocks To Watch Today: Wipro, Tech Mahindra, L&T Finance, Maruti Suzuki, Yes Bank & More",
-          "source": "NDTV Profit",
-          "published": "16 Oct 2026, 07:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUFyU1BGdWwtSC1LMUlWdDYzSjVBRGc3MzlGQ3BlNmt2MU45WWtSdl9nRFlZU29zXzI5N3hkTTVEVzRqUTFkLTVoVHM1NTQySEpWSlZERWg2ZVE5Z1BlRkFzLW5aUlNLR0xwUGkybWhXVTZ3MVdXMWgwM19kaC1WeVRPcVhoNkZwT1VlckxRcFktNVdzcmV4b010bFpTcmFHUURyMzJjaHJLQVpYYVZicHRlNEhndFFHTGxHd192ZERaSTjSAcsBQVVfeXFMTUthcEFSSmNLLVA5MHdXb3dqeHhkbVpwa2M2Rnpha2d5YVFOd0x6Rm9YUml4RTZRbFVRVEtGa09MaF9tMzUwLXlBUWVfcEE1ZzZjbWNvcnRtbks1a21LYmZoTm93STBYS3JvdXZpdGFrZzNZTGducEVGNkQ1d2ZxTjJKQXVzVmJUeXNaU3VyYmQxeU15bmFVMHAtamE3VWR6U1NBaVdBcVVoMFNkTDRURGxfUWx3Y2t0NjV4TTVhTzM4MHhDT0RGUnVkZEk?oc=5"
         }
       ],
       "announcements": []
