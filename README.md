@@ -2,14 +2,9 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 19 Oct 2026, 04:35 PM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
+**Last updated:** 19 Oct 2026, 05:27 PM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
-
-### Data quality notes
-- A trade dated today uses the live market price; it will be fixed at the closing price after the market closes.
+**Snapshot type:** End-of-day final snapshot
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -65,15 +60,13 @@ _▲ buy · ▼ sell_
 
 | Date | Stock | Type | Shares | Price | Amount | Note |
 |---|---|---|---:|---:|---:|---|
-| 2026-10-19 | Manorama Industries | BUY | 1,000 | ₹1,796.80* | ₹17,96,800 | Added on 19-Oct-26 (CMP 1790.40 per Trendlyne) |
+| 2026-10-19 | Manorama Industries | BUY | 1,000 | ₹1,796.80 | ₹17,96,800 | Added on 19-Oct-26 (CMP 1790.40 per Trendlyne) |
 | 2026-10-19 | - | DEPOSIT | - | - | ₹18,00,000 | Fresh virtual money to fund Manorama Industries |
-| 2026-10-19 | Ashok Leyland | BUY | 1,000 | ₹147.72* | ₹1,47,720 | Added at ~11:25 AM IST |
+| 2026-10-19 | Ashok Leyland | BUY | 1,000 | ₹147.72 | ₹1,47,720 | Added at ~11:25 AM IST |
 | 2026-10-19 | - | DEPOSIT | - | - | ₹3,00,000 | Fresh virtual money to fund Ashok Leyland |
 | 2026-10-16 | Maruti Suzuki | BUY | 290 | ₹11,489.00 | ₹33,31,810 | Initial allocation |
 | 2026-10-16 | Eternal (Zomato) | BUY | 10,245 | ₹325.30 | ₹33,32,698 | Initial allocation |
 | 2026-10-16 | HDFC Bank | BUY | 4,572 | ₹728.85 | ₹33,32,302 | Initial allocation |
-
-_* price is live while the market is open; it is fixed at the closing price after 3:30 PM._
 
 </details>
 

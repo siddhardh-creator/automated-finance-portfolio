@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "19 Oct 2026, 04:35 PM IST",
+  "generated_at_ist": "19 Oct 2026, 05:27 PM IST",
   "as_of": "2026-10-19",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 12100000.0,
@@ -403,7 +403,7 @@
       "price": 147.72,
       "amount": 147720.0,
       "note": "Added at ~11:25 AM IST",
-      "provisional": true
+      "provisional": false
     },
     {
       "date": "2026-10-19",
@@ -425,13 +425,11 @@
       "price": 1796.8,
       "amount": 1796800.05,
       "note": "Added on 19-Oct-26 (CMP 1790.40 per Trendlyne)",
-      "provisional": true
+      "provisional": false
     }
   ],
   "closed_positions": [],
-  "data_quality": [
-    "A trade dated today uses the live market price; it will be fixed at the closing price after the market closes."
-  ],
+  "data_quality": [],
   "sources": {
     "prices": "Yahoo Finance via yfinance (unofficial)",
     "news": "Google News RSS + publisher RSS, trusted-publisher whitelist, 72h window",
