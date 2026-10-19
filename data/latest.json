@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "19 Oct 2026, 12:46 PM IST",
+  "generated_at_ist": "19 Oct 2026, 01:32 PM IST",
   "as_of": "2026-10-19",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 10300000.0,
     "initial_capital": 10000000,
-    "invested": 10144990.46,
-    "holdings_value": 10056266.49,
-    "cash": 155009.54,
-    "value": 10211276.04,
-    "pnl_inr": -88723.96,
-    "pnl_pct": -0.86,
-    "unrealised_pnl_inr": -88723.96,
+    "invested": 10145270.47,
+    "holdings_value": 10035159.26,
+    "cash": 154729.53,
+    "value": 10189888.79,
+    "pnl_inr": -110111.21,
+    "pnl_pct": -1.07,
+    "unrealised_pnl_inr": -110111.21,
     "realised_pnl_inr": 0.0,
-    "day_pnl_inr": -88723.96,
-    "day_pnl_pct": -0.89,
+    "day_pnl_inr": -110111.21,
+    "day_pnl_pct": -1.1,
     "open_positions": 4
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22928.4,
-    "return_pct": -0.91,
-    "day_change_pct": -0.94
+    "close": 22871.45,
+    "return_pct": -1.15,
+    "day_change_pct": -1.19
   },
   "stocks": [
     {
@@ -33,37 +33,37 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 710.75,
+        "close": 709.0,
         "prev_close": 728.85,
-        "day_change_pct": -2.48,
+        "day_change_pct": -2.72,
         "open": 733.4,
         "high": 733.4,
-        "low": 710.05,
-        "intraday_range_pct": 3.2,
-        "volume": 18231415,
+        "low": 708.3,
+        "intraday_range_pct": 3.44,
+        "volume": 21330423,
         "avg_volume_20d": 30961951,
-        "volume_vs_avg": 0.59,
-        "volatility_20d_annualised_pct": 23.95,
+        "volume_vs_avg": 0.69,
+        "volatility_20d_annualised_pct": 24.28,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3249549.0,
-        "pnl_inr": -82753.09,
-        "pnl_pct": -2.48
+        "market_value": 3241548.0,
+        "pnl_inr": -90754.09,
+        "pnl_pct": -2.72
       },
       "news": [
+        {
+          "title": "Q2 Results Today Live: Union Bank & HFCL Q2 PAT up, Bajaj Finance, UltraTech, Hindustan Zinc, LTTS, Piramal Finance, IREDA to announce Q2 results, HDFC Bank, Axis Bank shares decline after Q2, ICICI Bank, Yes Bank flat, PNB jumps",
+          "source": "BusinessLine",
+          "published": "19 Oct 2026, 12:44 PM IST",
+          "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-bajaj-finance-ultratech-cement-hindustan-zinc-union-bank-of-india-ltts-piramal-finance-ireda-company-results-hdfc-bank-axis-bank-yes-icici-results-19-october-2026/article71599553.ece"
+        },
         {
           "title": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
           "source": "The Economic Times",
           "published": "19 Oct 2026, 12:26 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQTFPNlpta3RJdW5HMkMteExPTUwzSVhCOXdfbXlma1cwSWtvOEdqWGhiYkR2Ukc1Q2tHUHYtRmlhQ1hJMzYwYmJCcjVHcE54QW5Oam5XUWJCcjNmU2xHNmpnWjBpMlRXTExIdWhvWnFPN3A2bDNCQlNGSGEyTnhERk0tS1NrX0UtMFlaOXZiTTZSWXZ2YXhmV0lUaTAwd29ZZ0lZMzdPZkRhYkNFQzQ0NnhpVVh3V0YtLUNuZDFwOGJsaExnZllLLWJiRmkxSm5tLXJPcWM2M1BwRHRzSVIwbVhEZldIYklnRE1FOHI2SzlGNURwSFhhUkdTUlDSAYICQVVfeXFMTnJ2SVpic3N1UXYzZkxYdWhmWUMyQVA2YVFKcThhSVowMFhKVFNmOENINWhJYmlHVDY0clFNeVpQNXlPWGdKQlEyYm1YTFdSVmhDOEJsQmpYbTlvTDZNN080TlV0ek05cVZDdzRZaVZOcGNVWlNxamk3ZjFrQTAzU2dFYWlrcERtbmFtUUlnZjNXTHRTY0hRRkdXd2ZRaUUta1l2eVZTOXhKdUFHTjkzMVhkU2RwZHRjM3E4eGRTSnpnUzYxWEJxVWRlTFZTZVFZYlFjUVdtUTQxazNpU0NBTC15VXpzZXdIZDRCNTFOdVFxcDItQkppUUNSck5nSjVnYWFn?oc=5"
-        },
-        {
-          "title": "Q2 Results Today Live: Union Bank & HFCL Q2 PAT up, Bajaj Finance, UltraTech, Hindustan Zinc, LTTS, Piramal Finance, IREDA to announce Q2 results, HDFC Bank, Axis Bank shares decline after Q2, ICICI Bank, Yes Bank flat, PNB jumps",
-          "source": "BusinessLine",
-          "published": "19 Oct 2026, 12:12 PM IST",
-          "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-bajaj-finance-ultratech-cement-hindustan-zinc-union-bank-of-india-ltts-piramal-finance-ireda-company-results-hdfc-bank-axis-bank-yes-icici-results-19-october-2026/article71599553.ece"
         },
         {
           "title": "HDFC Bank Q2 Review: Five Brokerages Stay Bullish, Sees Up To 37% Upside; Check Target Prices",
@@ -75,7 +75,7 @@
           "title": "Why are banking stocks falling? Nifty Bank down 1%; Axis, HDFC Bank shares crash up to 5% - What should investors do?",
           "source": "Livemint",
           "published": "19 Oct 2026, 11:08 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORWlxSG9YWEJ2WXBVUm9zcGVXNXVMdFBxWGlybm52dS02ZFhwV3YzMEpWZ3BBU2Y1RXlZVURFVVplWUx1dlZsTUhEZTdKeFpCVDUwc0ZveFBvcF9vR1NzbFlkYTFzUG5IcDAzNmJiblZ6UVZhZVE1em04cjh6UU9vTlVpdjZEYUlxaHdYMlV3dVd4MWlhRnl5N0NhcFM2Ym9xa0dsaHJKNmxLWENDR1RNNmVMSUpjdHdtWlh1VldSV1pDTTVmSXhwWHFDc0VHcThPT1VXbnUtMWdySUZSaU1VQVFidkxXaS1weFNtR1FKT2RwRVJvVVZUNUhGV3BNRGV1OENmM3dWNUNzMS1TWjB5eNIBkAJBVV95cUxORWlxSG9YWEJ2WXBVUm9zcGVXNXVMdFBxWGlybm52dS02ZFhwV3YzMEpWZ3BBU2Y1RXlZVURFVVplWUx1dlZsTUhEZTdKeFpCVDUwc0ZveFBvcF9vR1NzbFlkYTFzUG5IcDAzNmJiblZ6UVZhZVE1em04cjh6UU9vTlVpdjZEYUlxaHdYMlV3dVd4MWlhRnl5N0NhcFM2Ym9xa0dsaHJKNmxLWENDR1RNNmVMSUpjdHdtWlh1VldSV1pDTTVmSXhwWHFDc0VHcThPT1VXbnUtMWdySUZSaU1VQVFidkxXaS1weFNtR1FKT2RwRVJvVVZUNUhGV3BNRGV1OENmM3dWNUNzMS1TWjB5eA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdmlmV1VFbHZfQTdKbURoTVJiRDV5ell4c19RRWswSnBfWjhwUV9lR1hfT2xkR0RFVUwyc0RfZHIyUm12dDlEYldraUpIQ1dLRmlFQUpWQTViaTBpWmdsdUt6VTVpaGxmMnVzM3lZb2M3OU1tMDZJU096VVNMTjZsejJTbW9xMkp4SjFZM2txazcyOFEzbXB4UU5WYWtWRmRGbzhtRFJpMTdWem1oYWM3OFJ0c2dsOTUzU1FtWk9ockQzb0tMTFJOU0pzelA3OE1ON0o3eU16NmFjYzFZdjNLQ0hWRGd6VkIxYUpjcngydVlDay1tbTVObmVLQUhrS1llbHlsaTFzdlFxbmvSAZACQVVfeXFMTkVpcUhvWFhCdllwVVJvc3BlVzV1THRQcVhpcm5udnUtNmRYcFd2MzBKVmdwQVNmNUV5WVVERVVaZVlMdXZWbE1IRGU3SnhaQlQ1MHNGb3hQb3Bfb0dTc2xZZGExc1BuSHAwMzZiYm5WelFWYWVRNXptOHI4elFPb05VaXY2RGFJcWh3WDJVd3VXeDFpYUZ5eTdDYXBTNmJvcWtHbGhySjZsS1hDQ0dUTTZlTElKY3R3bVpYdVZXUldaQ001Zkl4cFhxQ3NFR3E4T09VV251LTFncklGUmlNVUFRYnZMV2ktcHhTbUdRSk9kcEVSb1VWVDVIRldwTURldThDZjN3VjVDczEtU1oweXg?oc=5"
         },
         {
           "title": "Buy HDFC Bank; target of Rs 966: Anand Rathi",
@@ -85,7 +85,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 31.82
+      "weight_pct": 31.81
     },
     {
       "key": "zomato",
@@ -95,24 +95,24 @@
       "bse_code": "543320",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 323.5,
+        "close": 322.25,
         "prev_close": 325.3,
-        "day_change_pct": -0.55,
+        "day_change_pct": -0.94,
         "open": 324.85,
         "high": 327.1,
-        "low": 322.85,
-        "intraday_range_pct": 1.31,
-        "volume": 10608536,
+        "low": 321.9,
+        "intraday_range_pct": 1.6,
+        "volume": 11805865,
         "avg_volume_20d": 21352242,
-        "volume_vs_avg": 0.5,
-        "volatility_20d_annualised_pct": 27.29,
+        "volume_vs_avg": 0.55,
+        "volatility_20d_annualised_pct": 27.42,
         "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3314257.5,
-        "pnl_inr": -18440.87,
-        "pnl_pct": -0.55
+        "market_value": 3301451.25,
+        "pnl_inr": -31247.12,
+        "pnl_pct": -0.94
       },
       "news": [
         {
@@ -147,7 +147,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 32.46
+      "weight_pct": 32.4
     },
     {
       "key": "maruti",
@@ -157,26 +157,32 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11532.0,
+        "close": 11530.0,
         "prev_close": 11489.0,
-        "day_change_pct": 0.37,
+        "day_change_pct": 0.36,
         "open": 11510.0,
         "high": 11702.0,
         "low": 11450.0,
         "intraday_range_pct": 2.19,
-        "volume": 308046,
+        "volume": 332616,
         "avg_volume_20d": 459379,
-        "volume_vs_avg": 0.67,
-        "volatility_20d_annualised_pct": 25.22,
+        "volume_vs_avg": 0.72,
+        "volatility_20d_annualised_pct": 25.21,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3344280.0,
-        "pnl_inr": 12470.0,
-        "pnl_pct": 0.37
+        "market_value": 3343700.0,
+        "pnl_inr": 11890.0,
+        "pnl_pct": 0.36
       },
       "news": [
+        {
+          "title": "Maruti Suzuki expands Integrated Traffic Management System initiative in Gurugram",
+          "source": "BusinessLine",
+          "published": "19 Oct 2026, 01:10 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQnh6TE5aVHQ0cmZtNF9jV2Ryb2NrU3JEUjQ2djZ0UGg1ajJSMTJnTVFIcWtJMXgyeFRoTlhNTjlxamlBNWFsa1hFOC1ndGdwUW9RODhJOHBMeTA5WTFnWUJMa0dxMTRiYThObWVvTmFjRjJWLW9NcHU5cmZ5bDhwV0hKZ1lmMmFBc3NERmd6bVo3Zk0zVV9CS3dna3k3Uk9fXzFXdWJpSHJ1UUNkMlljU2tHbFd3WVcwWFNwQUp0SkxSZlNQSlFDNmpjcVItYTFFWlNVZDhnNW56NWNGeUZMejNyNV8yZ0RwVUVsRNIB8wFBVV95cUxQN3JrVGhYdTRYNUl5Yjl1cVZTbzJFQmk0QUlCQmkzMXpCckRTTmNGc25CdG03SDd1bTZzSW1EcmdmVHlXSUtOaTZqR3JEZkZnbkt4dW5PX0tQVVlCaVdLbVRiSkk5aDJYYmhwRVNIbDFlZjdpbWQ2YUliZWxYNEo1MmxJN0lyUGU4X2lSU2h5UlhpRGdLSkE3Qm1nbjVvTWxJV1BJZE8zVW42VWUwZ0lUTElpUFdIOF9LN09GUzJDN3V2XzdzellfNHFsU3ItbkpSSTFFdEpNLW9yaDFnZHdoUmRWdUJZVk9SaDJYaGpPMWNvSXM?oc=5"
+        },
         {
           "title": "Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound",
           "source": "Moneycontrol.com",
@@ -188,12 +194,6 @@
           "source": "NDTV Profit",
           "published": "17 Oct 2026, 03:59 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5"
-        },
-        {
-          "title": "Why the Toyota Glanza demands a premium over the Maruti Baleno",
-          "source": "The Financial Express",
-          "published": "17 Oct 2026, 06:02 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkkzeWdSRjEzQ1RVWVJNS2hwSFk2X3RYX0dtVkJnWXFDejRMbW8tOXNtdGlTTDlqVUMxaU1JUHQzems1ZWItZV96SnAzck5PbjlINEFVNERGTnlqUUdVUS1BQjYxaVRDUXJPWWc2Rk9uZks5aVBxdmxkNzFoMno2T3R4VE9RbjhBc2pWQWloV2UxMHNwQWlYWENzY1RyeFpnUC1QLUxEd21EbnRjYWEwR3pOMDBpVTlVSWfSAcABQVVfeXFMTXdIM05hU3F2cXFUUlVXX2hqc2NMNHJCNVN6OFNPcXhrOUhnY2F5elpOVFRieUs2YVlXd0FiTDdEVzhjUEFQZ1hwYVhiand1Y0hORjVQQTQwOXB2cTJpbl9QV2ViUzhIQWFicGVFSkRLVmJueHlLR0tPb2Fyc1ZYUUJFd1gzZjlaQTRTSEhGbVlsOExwQjB5UUtvOS13UnBCNGQ5ZGE4RHhMRngzQVJNWFhHaTFkTUR2UG10dnNId3Vu?oc=5"
         },
         {
           "title": "Maruti Suzuki reclaims 40% market share in H1 FY27; Tata overtakes Mahindra as Hyundai slips",
@@ -209,7 +209,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 32.75
+      "weight_pct": 32.81
     },
     {
       "key": "ashok",
@@ -219,22 +219,22 @@
       "bse_code": "500477",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 148.18,
+        "close": 148.46,
         "prev_close": 148.91,
-        "day_change_pct": -0.49,
+        "day_change_pct": -0.3,
         "open": 148.32,
         "high": 149.4,
         "low": 147.33,
         "intraday_range_pct": 1.39,
-        "volume": 5668075,
+        "volume": 6443399,
         "avg_volume_20d": 12650944,
-        "volume_vs_avg": 0.45,
-        "volatility_20d_annualised_pct": 27.39,
+        "volume_vs_avg": 0.51,
+        "volatility_20d_annualised_pct": 27.4,
         "high_52w": 211.92,
         "low_52w": 135.84,
         "shares": 1000,
-        "base_price": 148.18,
-        "market_value": 148179.99,
+        "base_price": 148.46,
+        "market_value": 148460.01,
         "pnl_inr": 0.0,
         "pnl_pct": 0.0
       },
@@ -247,65 +247,65 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 1.45
+      "weight_pct": 1.46
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 3492459.99,
-      "weight_pct": 34.2
+      "value": 3492160.01,
+      "weight_pct": 34.27
     },
     {
       "sector": "Consumer Internet",
-      "value": 3314257.5,
-      "weight_pct": 32.46
+      "value": 3301451.25,
+      "weight_pct": 32.4
     },
     {
       "sector": "Financials",
-      "value": 3249549.0,
-      "weight_pct": 31.82
+      "value": 3241548.0,
+      "weight_pct": 31.81
     },
     {
       "sector": "Cash",
-      "value": 155009.54,
+      "value": 154729.53,
       "weight_pct": 1.52
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 3492459.99,
-      "weight_pct": 34.2
+      "value": 3492160.01,
+      "weight_pct": 34.27
     },
     {
       "sector": "Consumer Internet",
-      "value": 3314257.5,
-      "weight_pct": 32.46
+      "value": 3301451.25,
+      "weight_pct": 32.4
     },
     {
       "sector": "Financials",
-      "value": 3249549.0,
-      "weight_pct": 31.82
+      "value": 3241548.0,
+      "weight_pct": 31.81
     },
     {
       "sector": "Cash",
-      "value": 155009.54,
+      "value": 154729.53,
       "weight_pct": 1.52
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Maruti Suzuki",
-      "pct": 0.37
+      "pct": 0.36
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -2.48
+      "pct": -2.72
     },
     "top_mover_today": {
       "name": "HDFC Bank",
-      "pct": -2.48
+      "pct": -2.72
     }
   },
   "transactions": [
@@ -359,8 +359,8 @@
       "name": "Ashok Leyland",
       "type": "BUY",
       "shares": 1000,
-      "price": 148.18,
-      "amount": 148179.99,
+      "price": 148.46,
+      "amount": 148460.01,
       "note": "Added at ~11:25 AM IST",
       "provisional": true
     }
