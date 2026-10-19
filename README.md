@@ -222,6 +222,7 @@ _No fully closed positions yet._
 
 - [One-page snapshot](analysis/Manorama_OnePager.pdf)
 - [Detailed report](analysis/Manorama_Detailed.pdf)
+- [Brutal verdict](analysis/Manorama_Brutal_Verdict.pdf)
 
 <details><summary><b>Official company announcements (BSE)</b></summary>
 
