@@ -21,7 +21,8 @@ import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import quote_plus
+from html import unescape
+from urllib.parse import quote_plus, urljoin
 
 import feedparser
 import matplotlib
@@ -195,6 +196,65 @@ def fetch_feed(url):
         return None
 
 
+_DATE_PATTERNS = [
+    (re.compile(r"\b(\d{1,2})\s+([A-Za-z]{3,9})\.?,?\s+(\d{4})\b"), ("%d %b %Y", "%d %B %Y")),
+    (re.compile(r"\b([A-Za-z]{3,9})\.?\s+(\d{1,2}),?\s+(\d{4})\b"), ("%b %d %Y", "%B %d %Y")),
+    (re.compile(r"\b(\d{1,2})[-/](\d{1,2})[-/](\d{4})\b"), ("%d-%m-%Y",)),
+]
+
+
+def _parse_date_text(text):
+    """Return the LAST date found in text as an IST-noon datetime (UTC), or None."""
+    best = None
+    for rx, fmts in _DATE_PATTERNS:
+        for m in rx.finditer(text):
+            raw = " ".join(m.groups()) if len(fmts) > 1 or "%b" in fmts[0] else "-".join(m.groups())
+            for f in fmts:
+                try:
+                    d = datetime.strptime(raw, f)
+                except ValueError:
+                    continue
+                if best is None or m.start() >= best[0]:
+                    best = (m.start(), d)
+                break
+    if not best:
+        return None
+    return best[1].replace(hour=12, tzinfo=IST).astimezone(timezone.utc)
+
+
+def collect_official_news(stock):
+    """Official company newsroom (static HTML page). Config: stock["official_news"] =
+    {"url", "source", "max_age_days"}. Items must have a parseable date within max_age_days;
+    undated items are skipped (we cannot verify recency). Fails silently -> []."""
+    cfg = stock.get("official_news")
+    if not cfg:
+        return []
+    cutoff = datetime.now(timezone.utc) - timedelta(days=cfg.get("max_age_days", 30))
+    try:
+        r = requests.get(cfg["url"], headers={**HEADERS, "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) Chrome/124.0 Safari/537.36"}, timeout=25)
+        r.raise_for_status()
+        page = r.text
+    except Exception as e:
+        log(f"  ! official newsroom failed {cfg['url']}: {e}")
+        return []
+    found = {}
+    for m in re.finditer(r'<a\b[^>]*?href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', page, re.S | re.I):
+        href = urljoin(cfg["url"], unescape(m.group(1)).strip())
+        if not re.search(r"/in/(pressrelease|newsroom)/[^/?#]+", href):
+            continue
+        title = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", m.group(2)))).strip()
+        if len(title) < 15 or title.lower().startswith("read more"):
+            continue
+        when = _parse_date_text(page[max(0, m.start() - 700):m.start()]) or \
+            _parse_date_text(page[m.end():m.end() + 300])
+        if href not in found or len(title) > len(found[href]["title"]):
+            found[href] = {"title": title, "source": cfg["source"], "published": when, "link": href, "date_only": True}
+    out = [v for v in found.values() if v["published"] and v["published"] >= cutoff]
+    if not out:
+        log(f"  - official newsroom: no dated items in the last {cfg.get('max_age_days', 30)} days")
+    return out
+
+
 def collect_news(cfg, stock, publisher_cache):
     cutoff = datetime.now(timezone.utc) - timedelta(hours=cfg["news_max_age_hours"])
     trusted = cfg["trusted_sources"]
@@ -232,6 +292,9 @@ def collect_news(cfg, stock, publisher_cache):
                 continue
             items.append({"title": title, "source": pf["source"], "published": when, "link": e.get("link", "")})
 
+    # 3) Official company newsroom (optional, per stock)
+    items.extend(collect_official_news(stock))
+
     # De-duplicate (near-identical headlines), newest first
     items.sort(key=lambda x: x["published"], reverse=True)
     unique = []
@@ -242,7 +305,7 @@ def collect_news(cfg, stock, publisher_cache):
         unique.append(it)
     unique = unique[: cfg["news_per_company"]]
     for u in unique:
-        u["published"] = u["published"].astimezone(IST).strftime("%d %b %Y, %I:%M %p IST")
+        u["published"] = u["published"].astimezone(IST).strftime("%d %b %Y" if u.pop("date_only", False) else "%d %b %Y, %I:%M %p IST")
     return unique
 
 
@@ -553,7 +616,7 @@ def build_readme(cfg, snapshot):
         L.extend(_details("<b>Official company announcements (BSE)</b>", ann))
         news = [f"- [{n['title']}]({n['link']}) - _{n['source']}, {n['published']}_" for n in r["news"]] or \
                ["- No fresh headlines from trusted sources in the last few days."]
-        L.extend(_details("<b>Latest news (trusted publishers only)</b>", news))
+        L.extend(_details("<b>Latest news (trusted publishers + official company newsroom)</b>", news))
 
     L.append("---\n\n## How this works & data sources\n")
     L.append("- **Prices / volume:** Yahoo Finance via the open-source `yfinance` library (unofficial; "

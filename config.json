@@ -83,7 +83,12 @@
         "one_pager": "analysis/Ashok_Leyland_OnePager.pdf",
         "detailed": "analysis/Ashok_Leyland_Detailed.pdf"
       },
-      "sector": "Automobiles"
+      "sector": "Automobiles",
+      "official_news": {
+        "url": "https://www.ashokleyland.com/in/newsroom",
+        "source": "Ashok Leyland (official newsroom)",
+        "max_age_days": 30
+      }
     },
     {
       "key": "manorama",
