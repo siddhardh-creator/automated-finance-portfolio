@@ -2,14 +2,12 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 19 Oct 2026, 10:10 PM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
+**Last updated:** 20 Oct 2026, 09:32 AM IST  |  **Market data as of:** 2026-10-19  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
+**Snapshot type:** End-of-day final snapshot
 
 ### Data quality notes
-- A trade dated today uses the live market price; it will be fixed at the closing price after the market closes.
+- Trade on 20 Oct 2026 (DEPOSIT ) is not applied yet - no market data for that date so far.
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -65,15 +63,13 @@ _▲ buy · ▼ sell_
 
 | Date | Stock | Type | Shares | Price | Amount | Note |
 |---|---|---|---:|---:|---:|---|
-| 2026-10-19 | Manorama Industries | BUY | 1,000 | ₹1,796.80* | ₹17,96,800 | Added on 19-Oct-26 (CMP 1790.40 per Trendlyne) |
+| 2026-10-19 | Manorama Industries | BUY | 1,000 | ₹1,796.80 | ₹17,96,800 | Added on 19-Oct-26 (CMP 1790.40 per Trendlyne) |
 | 2026-10-19 | - | DEPOSIT | - | - | ₹18,00,000 | Fresh virtual money to fund Manorama Industries |
-| 2026-10-19 | Ashok Leyland | BUY | 1,000 | ₹147.72* | ₹1,47,720 | Added at ~11:25 AM IST |
+| 2026-10-19 | Ashok Leyland | BUY | 1,000 | ₹147.72 | ₹1,47,720 | Added at ~11:25 AM IST |
 | 2026-10-19 | - | DEPOSIT | - | - | ₹3,00,000 | Fresh virtual money to fund Ashok Leyland |
 | 2026-10-16 | Maruti Suzuki | BUY | 290 | ₹11,489.00 | ₹33,31,810 | Initial allocation |
 | 2026-10-16 | Eternal (Zomato) | BUY | 10,245 | ₹325.30 | ₹33,32,698 | Initial allocation |
 | 2026-10-16 | HDFC Bank | BUY | 4,572 | ₹728.85 | ₹33,32,302 | Initial allocation |
-
-_* price is live while the market is open; it is fixed at the closing price after 3:30 PM._
 
 </details>
 
@@ -95,7 +91,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹712.00 | -2.31% | ₹707.15 - ₹733.40 | 33,521,732 | 30,961,951 | 1.08x | 23.74% | ₹687.10 - ₹1,009.50 |
+| ₹712.00 | -2.31% | ₹707.15 - ₹733.40 | 33,524,133 | 30,961,951 | 1.08x | 23.74% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -110,11 +106,11 @@ _No fully closed positions yet._
 
 <details><summary><b>Latest news (trusted publishers only)</b></summary>
 
-- [HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?](https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-vs-icici-bank-one-has-the-growth-the-other-has-the-valuation-edge-which-stock-to-buy/articleshow/135042271.cms) - _Economic Times, 19 Oct 2026, 12:26 PM IST_
-- [Why are banking stocks falling? Nifty Bank down 1%; Axis, HDFC Bank shares crash up to 5% - What should investors do?](https://www.livemint.com/market/stock-market-news/why-are-banking-stocks-falling-nifty-bank-down-1-axis-hdfc-bank-shares-crash-up-to-5-what-should-investors-do-11792385860971.html) - _Mint, 19 Oct 2026, 11:08 AM IST_
-- [HDFC Bank falls 1.5% post Q2 show; analysts say worst over; eyes on new CEO](https://www.business-standard.com/markets/news/hdfc-bank-share-price-falls-1-5-post-q2-show-analysts-say-worst-over-eyes-on-new-ceo-126101900140_1.html) - _Business Standard, 19 Oct 2026, 09:38 AM IST_
-- [Stocks to watch: HDFC Bank, ICICI Bank, Bajaj Fin, DLF, OMCs, NTPC & more](https://www.business-standard.com/markets/news/stocks-to-watch-hdfc-bank-icici-bank-bajaj-fin-dlf-omcs-ntpc-more-126101900059_1.html) - _Business Standard, 19 Oct 2026, 08:07 AM IST_
-- [Q2 Results Highlights: HDFC Bank, ICICI Bank, Axis Bank, IDBI Bank, Central Bank of India post profit growth; YES Bank flags AT-1 bond ruling impact](https://www.thehindubusinessline.com/markets/q2-results-highlights-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-central-bank-of-india-punjab-amp-sind-bank-results-company-results-17-october-2026/article71595336.ece) - _BusinessLine, 17 Oct 2026, 08:02 PM IST_
+- [Top banking share to buy after Q2 results 2026? HDFC Bank vs Axis Bank vs ICICI Bank vs Yes Bank vs IDBI Bank - Details](https://news.google.com/rss/articles/CBMilAJBVV95cUxPYkgxd0FIbnRhVnhQT2NqQ2QzMmdUcjl1c1pRbUZMd3UzR0dub25HM3g5aDFDbk9pR21uYzFOdjYzekVMbTlGdUJscHRYdG85QTRKZktXdkxhZkd2OC1LYkJKbnVGejR3ekUwSkZDRDc0Rm1RSk1BX2xnYWppajRsR1diNXBmUVZpVGNrTWpLNFJKbjY1NW10RFJFVHk1V0pibVZpSzJqNDQwUEdhazdHYVNTNko4aHBLTmo3OHNLTDJBYVlvTFBWTnRRdTJydEtyNXdETG9HcU1faU5fYUR1TGYxekw3cW9aNVh5b0ZYU3ZxT3hQWFAzZThQVW92SlhQWXRBUkJ3MmFYc3Mxd0VSZkV6NHnSAZoCQVVfeXFMTVRqV3BmQy12bnFtdjZEcU4zM19VUUY4cWIzcWs5bHdNZGxXZkRyNkZBdE84UV82d2pvdTVIUllVNHJSNml5YV9kT3ZxakJQb2RfRTZhVV93VFk5MlJma2lKUFNVdURoSUxlNlFRdV9hOVFtNUhkUEhuN2dhUkNKNnFHdlNBbmtnMzV5Z0VtVWV5R1VzYUdDbHYzX0RtUVVCRE5rV09vVDdselNWSXZGdlY0NmdIUlFZamJTa2x4UnYzOG92RWZZcU8zUHlUQk1LWWtQbl8zTXM5NlRDZlVQSjVwTWtkTnZ3RkFqeWRBblNYRmtuZ2ZycDdhNkN2VFFId3FhYmhJNzZvemVFWjcweUpKQ0VLbzF5N3pB?oc=5) - _Livemint, 20 Oct 2026, 09:08 AM IST_
+- [Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNUdsMnVnZzAxS2huQWctNi14VHR1dmVWQlR6RXRHRl9vSEZqTGpKUjFHclhncEExbGRFWk85OWQ1MzBoV1hvZlZkeGh3SnViNl9MRjVGQTdiajZVa3g5ZGhNWUk0VXRYRFdLV1hMbERFS2pURkt4SXNwOXFJU3hSUmtvNF8ya1BxRkkzUXpzbGpkbHFOTGFMSjRhZUcxeFlCZG9lRjR6UmZNdkRsT0l0RE4zbUt0WTN5QldSMnk3YmRhaVZOaXNPMnRLc3hFSEhHaU9JSnJqRF9RSUx3QUgwdHB2cHJVQdIB6wFBVV95cUxPVERYYkxlbzVZbGlyUWw5U3phak92eC1Xd2FMTi1JWUtHalB6RUlpTEJfcktfMURJT2Frc0tNM29TWC1aRGx6TGw0bkxWeFRmWjF3QXlSVU9NR1ZiTDA0eVZPb1hEeGtmR00wYWVRaXNXUnNackRXakdqZTExdWpRYkk3WDUzcmJiSHRvVk1jOWZZUWZ0WS1mRFdobFEzX0hCU0xrd1JxS21LeFJZWWQ4T2pXSmJiVVBXNThsd1padloxSDdUVm0wM2NHRUg1ZTJ4ZGlxaHMxTlREWk42YmFBT1o0bG1hX0pfdHNJ?oc=5) - _The Economic Times, 20 Oct 2026, 06:04 AM IST_
+- [Buy, Sell Or Hold: HDFC Bank, Laurus Labs, BEL, Havells India, Cummins India And Hindustan Copper — Ask Profit](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzRCdlh3ZmRFSS10VHRUV3RHVDFZMldtUEotSHRKY3Vna0NuSWZMb3h2b2JJVl9EMFhIYmhLUG1UdlBCVDN2RXpIRmVPWkZ0M19oMHhFUDZmcS1ZaFE3ZjdUaHFnVGdVdm1MWHpjbjQ1bTZvSHpHa1hIa01WcHpGZEJ0bnZmSVR4RFZZSnZQQXBSbG5NRlgxZ25RYnVwNTB6dWhuNjZZQXRzYnNKT3dsZ2dTQ053X2xXUllnSFQ3TXVoYzFLN2FtczUyckFPdUxWcTJJNW9DZUg1aGR1QTIw0gHnAUFVX3lxTE4tclBQZ0ZPOG9XMjZaQmwySktacmRsay1iWktfM1dhWDNVRVBhNklKaXAyNjNUNzl5Y2FhcDhEdHNmYi02dmNQcnItX1l1QWs1dy1jWmx3NTFfVjlvbmVtaU9yd0tDc243bE9UZzUwQ3M5cjg0M2FCUzNBbDhEZ1ZyQkRCZkw4aURVMjlXWUR6T0NoSlhxN042WGQzZE8xV0czZ0F2WlhpYmtvbFhLSV9iTTVDbUNFNHN6Z1F0SERtVnJtSUtTQ2t3NmhQUEZ5d3R3U0Q3MTF3YUdkanBHNlZtekZQaE1ZSQ?oc=5) - _NDTV Profit, 19 Oct 2026, 10:00 PM IST_
+- [Buy HDFC Bank; target of Rs 920: ICICI Securities](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1dBd05hVWVXWVlRV3ExMmpBc3RtTjJiSklBZHd6cXBjWnRVNlE3NE5BeWN6ZmZZeFFmQVpYQi1NT3p6MDJyNmxtNExrcGRWYWVSRDRiWmpZOTBKcEJGblBoVzNzTTVuSEo4eEhac2hBS2puSjNiMmgzNkZXTl9US1Q5ZnJjN2x6dTJDOWd1a09xRHU5MmJYZThEbllDR29Kb1RHWE1uOTRQQdIBrwFBVV95cUxNM0xFSlhGRWFLUTJ3TTdHaVlXaTNFOWZrQmxHcWZTckN4R0dPblZrN2FwcldaaXBkQk1fSlBQaUFZbjBZck5OaTBaU1gycF9pQzBIZG5GUjdRMk5VbGxVaC16ZEEySmttMnJIVjY2MWlkNTh5VTd1eHFxM2xVNGhsaEw1NE1YeUR4UXFVMVh0WDdpY0FWZ0JiM0xldEF0a3dJd1NteVkwVVBJV2VsUEVn?oc=5) - _Moneycontrol.com, 19 Oct 2026, 03:45 PM IST_
+- [Buy HDFC Bank; target of Rs 1050: Emkay Global Financial](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOHo3Q0o2enphNUcwNXNfRXd0c3AzeHBVbnRMN0wxZXN4LWxlejFuOXJlWEp6UnRibFNvek9SVTJHZE0yMVhnS19RRFZvR0lYVHBrc2gzRldzbUUtOEVYdXJ3VDNuMXVFX1k1VzFadzk1TWRUQnhKRmJtT0VYWXRnUXpYa3JhZmxNRGV6WDlrc2NjTldMaGNQdW1LQVlvWlFDWURZNUpJODV1SXhTdGhWbkYyUWd5LXdJQUU3UtIBwgFBVV95cUxOeHBSajlhZWRZT1duMnMwY2lQNG4zWWdNd19PLVRfcnN2LUR3MXlSRExLcW40RENtZ1Z2VnJSX011REVFMldhcUhHRUR2NnZKUzBzZlN2TzdoMWpxX3o0YjRXanJZUV9WUXRMdlVBQl96bWVNanBiVnl4T0tOeldrUDRqQ0s4M3ZlZFFiTU9LVGZsc0NhT21nZjN5bmd5bmoxd1lub2x0R1k4dWR6YTM4dHd0RXplZkRDZ2RpS0drTHNFUQ?oc=5) - _Moneycontrol.com, 19 Oct 2026, 01:50 PM IST_
 
 </details>
 
@@ -128,7 +124,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹320.20 | -1.57% | ₹319.50 - ₹327.10 | 17,848,709 | 21,352,242 | 0.84x | 27.78% | ₹215.68 - ₹342.65 |
+| ₹320.20 | -1.57% | ₹319.50 - ₹327.10 | 17,850,721 | 21,352,242 | 0.84x | 27.78% | ₹215.68 - ₹342.65 |
 
 **Research reports**
 
@@ -143,7 +139,11 @@ _No fully closed positions yet._
 
 <details><summary><b>Latest news (trusted publishers only)</b></summary>
 
-- [Eternal Q2 preview: Brokerages expect market share gains, steady margins](https://www.business-standard.com/markets/news/eternal-q2-preview-brokerages-expect-market-share-gains-steady-margins-126101900471_1.html) - _Business Standard, 19 Oct 2026, 01:58 PM IST_
+- [Eternal Q2 preview: Brokerages expect market share gains, steady margins](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeG5FdFE5bENaSi02aUZZX19tbnJfOWhWeHRRYWVZLWZBU1J3aW9vUjA0b2EyV05FUGpQeFktU3k2OS1US2FWR0JOejNZVEpUY1dETHhQeERtM0U1d25ZQVJORjh2VlB4SWpoaDBrVG0xaE1EYU16LVhpYkFKXzNLUU55dndfVTMyeTk5R2ZGdUY1SE1VeUNQV1plXzgxS21jcjZGVmF6MG80d3VhMndQRVFYS1ZWM2R3VTJhaWNoVGtsYVVUQW5BTTg1a0xqS1dNZG1j0gHYAUFVX3lxTE5hRFlkQWcxWmM3eHVCM3VJbzhiMTg5UDNWQ3k4RE80WmxOX1JsZFBZeGtCb0JSSmpmTHBTdk5rV0JicEozSFBrXzFRUnh0V09QVWNxNmFZZl9iSk1USjc3Y1NnQTNVd1Vqc0F6REZsSXY3azNuMVRnWHRpcWtpQ3ZISHlMZnpIenFETnRNVG5QRzM5ZzBlRW9DblFJTHpUZk40Sjg3dGo2YWdWbWtJUl9pRVRPRk1VZWFZQ1hLUzVoNlRkNVdMV1htVDRHNW1FT3I3eEdBVGhZZA?oc=5) - _Business Standard, 19 Oct 2026, 01:58 PM IST_
+- [Tukaram Mundhe-led FDA cracks down on Reliance warehouse, Blinkit-linked facility; flags ‘cockroaches, spitting’](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmUtVnN2RTB5eUJwZWlac0FxWWNYNDdMa3pBOXZFd2pYN25wT0tPV0pKN1VZVlluQ2s5Z3NKQTdFeE1TVTNCTVhVeVd3c3VNRXdFOEdWQ2V3T051VE9ETGNJUHAzVzJBaU9XTGtMY2RWUW1FMjFHYWFETEVYZUV2YXNKdVp2QWk5clFER0V2TGxidXo4cDRpdjEzQUVvSUhuVTQ2UFhNbTlvQ0hZcjd1NzhUOFZpTExzcDRmeEtFQXJCOG15dlF3TGxwMnlib3FuU21qUGs4aUNBV0JTQ3NJdE9sLXhJWEMza1FJeU1QSEhPV0M3UGfSAfsBQVVfeXFMTlcxOERPZGZTRGpvUTJla1ZTMTJkS01QQllVMHdtdm5wdzl5c0RXVVF6Z3hUcWg4RjJMWk5pbG12SklDYTEtMGlMek5XblY2NWFabEY1dzBoQXFXMlRIZXVmMTBic3pJcS1pdkhTM2JTbFBoU3NBNFF4ZkNoeFgxR0dla1BnNEJzS1FxajF0d3NGX3hDcm8xaGtwT3lQNW9lbVljODNGZHVzUVJuaG5hcjVSTEdyVlhKckZvSnhvVHdfMWZZZjk4MHdHMGVUdUFyWHRPRDdub2FwcjR1TEczbVpBTkhmeTl1YUtrbl9FY3lua0ItaWFqQTJRbEU?oc=5) - _Livemint, 18 Oct 2026, 11:25 PM IST_
+- [Reliance and Blinkit executives face FIR in food safety case](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDBtQ1BmVEF6UWo2NHNUdExkdDRkWExWRHFWc0xGR3RHN1B6UGFuOUdYWGt5TjZiTmwySDZsMTgxZG1TVm1JT0lPTjJXU1djZU5IZ0VzYXpGV3ZmSEZlNkVqWVFmZnBlLVpobHJVTFZmWnNROEdsMWV5ZXZrbXo5UDg4c2hUVkdFRm5MV2VFdGQycS1WcU1wTGZhWHN5OTJhaGZuREplQmJwZnlrdEFzai00czZIS0ZNZ0ZnTWVmdHlQeVRySFFIUjZ1eGE1dG9zUHhjY3dxRldvYzJWT0txaWtQcHBfZ9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5) - _The Economic Times, 18 Oct 2026, 12:00 AM IST_
+- [FDA suspends licences of warehouses of Reliance Consumer, Reliance Retail, Blinkit, Zomato Hyperpure](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMDEwLUZmVDhkTkdJbE5OTEE4S0l3djlTWnpnTmc2N3JibUV3blg5by0wZk5vR2JRa3h6LW5tT2tmemJMUlR5UVZOcTRPeDh1YWRwV2V1TGV2SkcwZE4ySVh4c1FvWGEzdG5ld3hBUzZlRjNidkg5Yy1LZC1sQmdVZE1WQmdhYWtCaUNrcGZzQllaUHZac1ItTERkVXNHMDE5a0dsQnRnZnRiMnFBZF80ZHRxSHZGZVhRZWh2a3pLeXRDTG9tclh4TkFaQllGTDh4VmFzODZMTmRmaXcwcVpwenQxUWtkd2d5RktNT2lzSXNFYWV6TVlta3BMUzdiWHdvZ2cyMGUtU0VCZUnSAZACQVVfeXFMT3Z4TGIzaU9feFl4QV9SZ0hIWkVtd0JYU1BJcWYydC12bFRrZUlZV3BBS1NLdWJoU0JjN1V0NWtDd1lqaXJYcm9VY2NOV0hoSUF6U3FtSkVHQmYxNjgwR2Z2VGZPSUJsOHVkdHZoOTMtRXp3ZGg1MmNGMVpGOW5ZWWNNX0p5LXlSN01kSU9uZnpmNVNTaE9jbkpQRGJxcjZXS1pIUGZINHJNVExTYmdlM1F1MG15T0UtYnB1a2J5bEFoS1I4dGN4dWJsWlF2Wm5MMnpWc2VSOGNLOUYyN0YyMFFLNGtESzI5TEVkZkdjcTNRWEFGYnJETHFkWU1LMnE0a1BjMVpOZS1Qc280QUJBWFI?oc=5) - _The Economic Times, 17 Oct 2026, 10:14 PM IST_
+- [Reliance Consumer Director, Blinkit officials among 10 booked in expired-food probe](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzM5SEljN3g4MlRBOVJMOHkzX0YtM1NMRzNSVi1KOFVJMFQxLUtkRlJVUEZGTzZjYWd1bV93cHRCcXJyX2FMaTZUdldHUDNIX1czR3daeDJrRGxtT0RCcGhJclRxV2xYNzI0al94NGdlYzdTamxqSjBCdE93T0w5NHF3b0tibjRnTEFFdkM1X1J2RHhVUWwzQXdjRFBEay02VVhQeWh0WFBWU243SVNkUW53ZTdQWW80MjVhb0NDRUdYSnkyMVJqbU1mbFFRanJWM1ZrYThjTk9ld2gt0gHjAUFVX3lxTFB1WGVPNWZ4QW16b0lmRDE5RGQxZld2QzRYM0pidVVEamdtLVVjZ1RMZlh0NTRUUHNxRUVYRFl5SVBHRVZjTEl3SmxDYWEtbHQ3NG9OUk1XWTFIbXVHU0FVRWdCRTZoZXIzeXpnZlR0cjZPWm55N2ctanRlVTJ4NWJRNDk1U2NDVV9SMlp3VEMyZnh3RjRycDBkQzN3aTBQalFWM2gyMEZvTkpWME1jZlFVbkg2NjZNMG1TYlRqRmlrOV9OMlBuTFp5UnVCWFd0MW5Rbnh6LXBNLWpOZEZUOFVibjd3?oc=5) - _BusinessLine, 17 Oct 2026, 07:00 PM IST_
 
 </details>
 
@@ -157,7 +157,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,475.00 | -0.12% | ₹11,440.00 - ₹11,702.00 | 453,824 | 459,379 | 0.99x | 25.12% | ₹11,178.00 - ₹17,292.00 |
+| ₹11,475.00 | -0.12% | ₹11,440.00 - ₹11,702.00 | 453,832 | 459,379 | 0.99x | 25.12% | ₹11,178.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -172,7 +172,10 @@ _No fully closed positions yet._
 
 <details><summary><b>Latest news (trusted publishers only)</b></summary>
 
-- No fresh headlines from trusted sources in the last few days.
+- [Maruti Suzuki festive discounts: Save up to ₹1.36 lakh on Grand Vitara, Fronx, Nexa cars? Here's the catch](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejZfTm5jbzZnTzc5cWpreFNMaW1QWjlLanJiZFUyazJHbjVKN1dpNDViMWhUTzR0cmoxSmpEb2tXdWxmRVJ6eFllZW5qMkJfVktyd0l2d3R4M1hiMk9LeWkyWkhMaWVBVVFJdkYwN2JoMlZoYndkUmpkU0l1ZDlObTVra1FhQjRvVFZUdHNVQzNLeWdjVVV3WW5XM3hWb1ZXZVVoVGs1cnRyZ1Fwa0RNb1RnMks0UE9fSjYtVEtiVzkyM0RuZ05VRmNGdjJwX09GTExiZ0VhSXRKVTVqaWhoUGVEczRUT2Q3NVBfaFlvTdIB9AFBVV95cUxQRC1tVGZBZHBhSUlCTElfajMxM3kxcmhhM1lqWmJaRHRENWtiRzdDMGR3RzM3cG9CZEVfNENRZmZjUF9SR20yUll4N1NsS25FdGNZSk0xQ3hVZmRDcmR4cnZmNlVLY19mWVY5dlJ4TUVLcFZZeVd3WjhKbERYekVrYjNDZ04wM05OSTgzQU9wVUdtRE5oUEMtd1RVaU8wcHFRa01PZkZQWXZKN3luLWlYc2taSWpFRmlCZldhMngzaS02SC10cnlxVGNKZHltYWpkWmhvVXN1NTBOVEZtV0djcTlDdUhTRHY5Vlhzc2NRLWtPVUE0?oc=5) - _Livemint, 19 Oct 2026, 01:39 PM IST_
+- [Maruti Suzuki expands Integrated Traffic Management System initiative in Gurugram](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQnh6TE5aVHQ0cmZtNF9jV2Ryb2NrU3JEUjQ2djZ0UGg1ajJSMTJnTVFIcWtJMXgyeFRoTlhNTjlxamlBNWFsa1hFOC1ndGdwUW9RODhJOHBMeTA5WTFnWUJMa0dxMTRiYThObWVvTmFjRjJWLW9NcHU5cmZ5bDhwV0hKZ1lmMmFBc3NERmd6bVo3Zk0zVV9CS3dna3k3Uk9fXzFXdWJpSHJ1UUNkMlljU2tHbFd3WVcwWFNwQUp0SkxSZlNQSlFDNmpjcVItYTFFWlNVZDhnNW56NWNGeUZMejNyNV8yZ0RwVUVsRNIB8wFBVV95cUxQN3JrVGhYdTRYNUl5Yjl1cVZTbzJFQmk0QUlCQmkzMXpCckRTTmNGc25CdG03SDd1bTZzSW1EcmdmVHlXSUtOaTZqR3JEZkZnbkt4dW5PX0tQVVlCaVdLbVRiSkk5aDJYYmhwRVNIbDFlZjdpbWQ2YUliZWxYNEo1MmxJN0lyUGU4X2lSU2h5UlhpRGdLSkE3Qm1nbjVvTWxJV1BJZE8zVW42VWUwZ0lUTElpUFdIOF9LN09GUzJDN3V2XzdzellfNHFsU3ItbkpSSTFFdEpNLW9yaDFnZHdoUmRWdUJZVk9SaDJYaGpPMWNvSXM?oc=5) - _BusinessLine, 19 Oct 2026, 01:10 PM IST_
+- [Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY0drVmhyWkFNUFV2ZFc5TlRWa0pTRlUtaWlqeVo2MGxDRk5BR0h4NjJuUVdfSjRlRWVoQUgwLS1NeUd6Y1dCeWVRTXh0c2JiODBoVnFPNmthNHN2MFZSdnFzMnFyNjR5VzFqbEFnYlYweU1scjI5TXVDSVFPV1RkVEd4SEpZUVV4ekdiTkVkODloemJBcno4WS00NDBNc1pFdmsyOUNkU21Pcmc4aU1Ud2otMUV0OUwtODBLazB3T0l3M3RXQkd2bFNnV051ZWx4VXNwQmxqb2FYRUI3TTVwNnlTYVBxZTVKVmfSAe8BQVVfeXFMTlZVeEtHT2ppVTNSbTkyZDN0a3BYRjhERzluRGhWOUJvQ1Y2UmtmSTREWTIwS3JQdHhlT0RnalNkQjlaSVhQNDROVExMSEpwR1U5d1RIV0RKYUJ0NDhnaTF1TGhjWEFQU21QVkxOYjNRekNkRFVUM1YtaDlVdmI2ZV9Hbklpb2xjQVNTZlVhbllVZWowZ2NPMW92UElyMzNNOUExWnJaUnVBYUVFOHk5YnB2SG9BTnhuT2ZpZ01SNDFMUW9QWVZIekJSOFNiNTd6RkdOMTRlMUdkS0MzM1daR25XYTY1YmpqVDFBWG5IcDA?oc=5) - _Moneycontrol.com, 19 Oct 2026, 09:32 AM IST_
+- [New Renault Duster Hybrid Launched: How Does It Compare With Maruti Vitara? Check Price, Range And More](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhUM3BQWnJaNHRKc1FpSWtkMG1UVTZYNmFQT01VUU5FYmVCWlJKN3NPVkl2V183YV84dnMyTENKOFBiOWdDT2pLSldYZmhsVUZmakhtcGl6LU03VTZWUUZnbERVMzM1SmtWdUE0OXhmNElGUC1NV3ZCQ19NWExCd2I1emJLZFhPTlFkc1luRmNTRlhYZlVWbkFQUUwzVHR5TGN6eXFHelR3c1VmZklMYy1FdURCVy1KMTdJbnJqd1_SAcgBQVVfeXFMUGM2STMyOFdIa0JXLTcxRXFVbHJ6WnZ6RW8ybUUxQ2N3LXNvRmZDMXZBbGNqVmlNTXUyYk1QUDlEQUxuVTN0QmhfcHhSdGoyelRmOWxOQ2t6UXBrVmpYUlhDTHVWdWpOQnJLQkp6Y3FDSjdLLVVxNU5HUjUwcEVlMlBIS0JPdmdWdDliY2lqbE5UclB0VXpBNjM4VUE4Z0FQa3pvMEl6dk5xZEhsSEhpajRIUlFBRm9CTkZKMHZlNkV6QTJtNG1tWDQ?oc=5) - _NDTV Profit, 17 Oct 2026, 03:59 PM IST_
 
 </details>
 
@@ -186,7 +189,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹147.72 | -0.80% | ₹147.21 - ₹149.40 | 8,494,966 | 12,650,944 | 0.67x | 27.42% | ₹135.84 - ₹211.92 |
+| ₹147.72 | -0.80% | ₹147.21 - ₹149.40 | 8,502,677 | 12,650,944 | 0.67x | 27.42% | ₹135.84 - ₹211.92 |
 
 **Research reports**
 
@@ -215,7 +218,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,796.80 | -5.99% | ₹1,785.30 - ₹1,911.20 | 217,210 | 161,026 | 1.35x | 34.54% | ₹1,075.80 - ₹2,132.90 |
+| ₹1,796.80 | -5.99% | ₹1,785.30 - ₹1,911.20 | 217,222 | 161,026 | 1.35x | 34.54% | ₹1,075.80 - ₹2,132.90 |
 
 **Research reports**
 
@@ -234,19 +237,6 @@ _No fully closed positions yet._
 - No fresh headlines from trusted sources in the last few days.
 
 </details>
-
----
-
-### Fiem Industries  _(Auto Components)_
-
-[Google Finance](https://www.google.com/finance/quote/FIEMIND:NSE) · [All BSE announcements](https://www.bseindia.com/corporates/ann.html?scrip=532768)
-
-**Research reports**
-
-- [One-page snapshot](reports/FIEMIND/FIEMIND_OnePager_2026-10-20.pdf)
-- [Full report](reports/FIEMIND/FIEMIND_Full_Report_2026-10-20.pdf)
-
-_Live price table and news will appear here after the next dashboard refresh._
 
 ---
 
