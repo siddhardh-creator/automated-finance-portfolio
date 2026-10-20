@@ -1,0 +1,26 @@
+{
+  "exchange": "NSE/BSE equity segment",
+  "year": 2026,
+  "as_of": "2026-10-20",
+  "sources": ["angelone.in/nse-holidays", "kotakneo.com/share-market-holidays/nse-holidays (both agree on weekday holidays; confirm on nseindia.com)"],
+  "weekday_holidays": [
+    {"date": "2026-01-15", "name": "Municipal Corporation Election, Maharashtra"},
+    {"date": "2026-01-26", "name": "Republic Day"},
+    {"date": "2026-03-03", "name": "Holi"},
+    {"date": "2026-03-26", "name": "Shri Ram Navami"},
+    {"date": "2026-03-31", "name": "Shri Mahavir Jayanti"},
+    {"date": "2026-04-03", "name": "Good Friday"},
+    {"date": "2026-04-14", "name": "Dr. Baba Saheb Ambedkar Jayanti"},
+    {"date": "2026-05-01", "name": "Maharashtra Day"},
+    {"date": "2026-05-28", "name": "Bakri Id"},
+    {"date": "2026-06-26", "name": "Muharram"},
+    {"date": "2026-09-14", "name": "Ganesh Chaturthi"},
+    {"date": "2026-10-02", "name": "Mahatma Gandhi Jayanti"},
+    {"date": "2026-10-20", "name": "Dussehra"},
+    {"date": "2026-11-10", "name": "Diwali-Balipratipada"},
+    {"date": "2026-11-24", "name": "Prakash Gurpurb Sri Guru Nanak Dev"},
+    {"date": "2026-12-25", "name": "Christmas"}
+  ],
+  "weekend_holidays_no_effect": ["2026-02-15 Mahashivratri (Sun)", "2026-03-21 Id-Ul-Fitr (Sat)", "2026-08-15 Independence Day (Sat)", "2026-11-08 Diwali Laxmi Pujan (Sun)"],
+  "muhurat_trading": "Unconfirmed: one source says 2026-11-08 (Diwali, Sunday), another says 2026-10-21. Timing to be notified by NSE; verify on nseindia.com."
+}
