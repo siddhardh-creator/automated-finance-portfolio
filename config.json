@@ -103,11 +103,6 @@
         "manorama"
       ],
       "news_query": "\"Manorama Industries\"",
-      "reports": {
-        "one_pager": "analysis/Manorama_OnePager.pdf",
-        "detailed": "analysis/Manorama_Detailed.pdf",
-        "verdict": "analysis/Manorama_Brutal_Verdict.pdf"
-      },
       "sector": "Specialty Fats (FMCG inputs)"
     },
     {
@@ -123,10 +118,6 @@
         "fiem"
       ],
       "news_query": "\"Fiem Industries\"",
-      "reports": {
-        "one_pager": "reports/FIEMIND/FIEMIND_OnePager_2026-10-20.pdf",
-        "detailed": "reports/FIEMIND/FIEMIND_Full_Report_2026-10-20.pdf"
-      },
       "sector": "Auto Components"
     },
     {
