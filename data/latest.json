@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "21 Oct 2026, 10:34 AM IST",
+  "generated_at_ist": "21 Oct 2026, 11:33 AM IST",
   "as_of": "2026-10-21",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 21266000.0,
     "initial_capital": 10000000,
-    "invested": 17410530.46,
-    "holdings_value": 17155304.13,
-    "cash": 3810969.49,
-    "value": 20966273.61,
-    "pnl_inr": -299726.39,
-    "pnl_pct": -1.41,
-    "unrealised_pnl_inr": -255226.34,
+    "invested": 20391030.46,
+    "holdings_value": 19988405.37,
+    "cash": 830469.49,
+    "value": 20818874.86,
+    "pnl_inr": -447125.14,
+    "pnl_pct": -2.1,
+    "unrealised_pnl_inr": -402625.09,
     "realised_pnl_inr": -44500.05,
-    "day_pnl_inr": -166379.05,
-    "day_pnl_pct": -1.39,
-    "open_positions": 5
+    "day_pnl_inr": -313777.8,
+    "day_pnl_pct": -2.62,
+    "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22972.5,
-    "return_pct": -0.32,
-    "day_change_pct": 0.37
+    "close": 22879.3,
+    "return_pct": -0.55,
+    "day_change_pct": -0.04
   },
   "stocks": [
     {
@@ -33,32 +33,26 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 711.25,
+        "close": 708.5,
         "prev_close": 712.0,
-        "day_change_pct": -0.11,
+        "day_change_pct": -0.49,
         "open": 709.55,
         "high": 715.4,
         "low": 708.0,
         "intraday_range_pct": 1.04,
-        "volume": 9132871,
+        "volume": 12219560,
         "avg_volume_20d": 30668122,
-        "volume_vs_avg": 0.3,
-        "volatility_20d_annualised_pct": 23.25,
+        "volume_vs_avg": 0.4,
+        "volatility_20d_annualised_pct": 23.27,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3251835.0,
-        "pnl_inr": -80467.09,
-        "pnl_pct": -2.41
+        "market_value": 3239262.0,
+        "pnl_inr": -93040.09,
+        "pnl_pct": -2.79
       },
       "news": [
-        {
-          "title": "HDFC Bank Share Price Live Updates: HDFC Bank Stock Details",
-          "source": "Economic Times",
-          "published": "21 Oct 2026, 08:17 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-livestock-price-today-live-updates-21-oct-2026/liveblog/135080449.cms"
-        },
         {
           "title": "HDFC Bank has green shoots beyond Q2",
           "source": "Livemint",
@@ -82,10 +76,16 @@
           "source": "The Economic Times",
           "published": "20 Oct 2026, 06:04 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNUdsMnVnZzAxS2huQWctNi14VHR1dmVWQlR6RXRHRl9vSEZqTGpKUjFHclhncEExbGRFWk85OWQ1MzBoV1hvZlZkeGh3SnViNl9MRjVGQTdiajZVa3g5ZGhNWUk0VXRYRFdLV1hMbERFS2pURkt4SXNwOXFJU3hSUmtvNF8ya1BxRkkzUXpzbGpkbHFOTGFMSjRhZUcxeFlCZG9lRjR6UmZNdkRsT0l0RE4zbUt0WTN5QldSMnk3YmRhaVZOaXNPMnRLc3hFSEhHaU9JSnJqRF9RSUx3QUgwdHB2cHJVQdIB6wFBVV95cUxPVERYYkxlbzVZbGlyUWw5U3phak92eC1Xd2FMTi1JWUtHalB6RUlpTEJfcktfMURJT2Frc0tNM29TWC1aRGx6TGw0bkxWeFRmWjF3QXlSVU9NR1ZiTDA0eVZPb1hEeGtmR00wYWVRaXNXUnNackRXakdqZTExdWpRYkk3WDUzcmJiSHRvVk1jOWZZUWZ0WS1mRFdobFEzX0hCU0xrd1JxS21LeFJZWWQ4T2pXSmJiVVBXNThsd1padloxSDdUVm0wM2NHRUg1ZTJ4ZGlxaHMxTlREWk42YmFBT1o0bG1hX0pfdHNJ?oc=5"
+        },
+        {
+          "title": "Buy, Sell Or Hold: HDFC Bank, Laurus Labs, BEL, Havells India, Cummins India And Hindustan Copper — Ask Profit",
+          "source": "NDTV Profit",
+          "published": "19 Oct 2026, 10:00 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzRCdlh3ZmRFSS10VHRUV3RHVDFZMldtUEotSHRKY3Vna0NuSWZMb3h2b2JJVl9EMFhIYmhLUG1UdlBCVDN2RXpIRmVPWkZ0M19oMHhFUDZmcS1ZaFE3ZjdUaHFnVGdVdm1MWHpjbjQ1bTZvSHpHa1hIa01WcHpGZEJ0bnZmSVR4RFZZSnZQQXBSbG5NRlgxZ25RYnVwNTB6dWhuNjZZQXRzYnNKT3dsZ2dTQ053X2xXUllnSFQ3TXVoYzFLN2FtczUyckFPdUxWcTJJNW9DZUg1aGR1QTIw0gHnAUFVX3lxTE4tclBQZ0ZPOG9XMjZaQmwySktacmRsay1iWktfM1dhWDNVRVBhNklKaXAyNjNUNzl5Y2FhcDhEdHNmYi02dmNQcnItX1l1QWs1dy1jWmx3NTFfVjlvbmVtaU9yd0tDc243bE9UZzUwQ3M5cjg0M2FCUzNBbDhEZ1ZyQkRCZkw4aURVMjlXWUR6T0NoSlhxN042WGQzZE8xV0czZ0F2WlhpYmtvbFhLSV9iTTVDbUNFNHN6Z1F0SERtVnJtSUtTQ2t3NmhQUEZ5d3R3U0Q3MTF3YUdkanBHNlZtekZQaE1ZSQ?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 15.51
+      "weight_pct": 15.56
     },
     {
       "key": "zomato",
@@ -95,30 +95,30 @@
       "bse_code": "543320",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 316.2,
+        "close": 312.3,
         "prev_close": 320.2,
-        "day_change_pct": -1.25,
+        "day_change_pct": -2.47,
         "open": 322.5,
         "high": 324.55,
-        "low": 314.0,
-        "intraday_range_pct": 3.29,
-        "volume": 5224226,
+        "low": 312.25,
+        "intraday_range_pct": 3.84,
+        "volume": 7590737,
         "avg_volume_20d": 21359935,
-        "volume_vs_avg": 0.24,
-        "volatility_20d_annualised_pct": 25.89,
+        "volume_vs_avg": 0.36,
+        "volatility_20d_annualised_pct": 26.84,
         "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3239469.13,
-        "pnl_inr": -93229.25,
-        "pnl_pct": -2.8
+        "market_value": 3199513.37,
+        "pnl_inr": -133185.0,
+        "pnl_pct": -4.0
       },
       "news": [
         {
-          "title": "Q2 Results Today Live: Eternal, Adani Green, Indian Hotels, SRF, Vishal Mega Mart, KEI Ind, M&M Financial Services, PC Jeweller Share to announce Q2 results",
+          "title": "Q2 Results Today Live: Eternal, Adani Green, Indian Hotels, SRF, KEI Industries shares fall; PC Jeweller gains ahead of earnings",
           "source": "BusinessLine",
-          "published": "21 Oct 2026, 09:50 AM IST",
+          "published": "21 Oct 2026, 10:56 AM IST",
           "link": "https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-eternal-adani-green-indian-hotels-srf-vishal-mega-mafrt-kei-ind-mampm-financial-services-pc-jeweller-company-results-21-october-2026/article71606182.ece"
         },
         {
@@ -147,7 +147,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.45
+      "weight_pct": 15.37
     },
     {
       "key": "maruti",
@@ -157,24 +157,24 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11345.0,
+        "close": 11313.0,
         "prev_close": 11475.0,
-        "day_change_pct": -1.13,
+        "day_change_pct": -1.41,
         "open": 11540.0,
         "high": 11555.0,
-        "low": 11320.0,
-        "intraday_range_pct": 2.05,
-        "volume": 69760,
+        "low": 11312.0,
+        "intraday_range_pct": 2.12,
+        "volume": 183322,
         "avg_volume_20d": 449082,
-        "volume_vs_avg": 0.16,
-        "volatility_20d_annualised_pct": 25.17,
+        "volume_vs_avg": 0.41,
+        "volatility_20d_annualised_pct": 25.31,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3290050.0,
-        "pnl_inr": -41760.0,
-        "pnl_pct": -1.25
+        "market_value": 3280770.0,
+        "pnl_inr": -51040.0,
+        "pnl_pct": -1.53
       },
       "news": [
         {
@@ -209,7 +209,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.69
+      "weight_pct": 15.76
     },
     {
       "key": "ashok",
@@ -219,24 +219,24 @@
       "bse_code": "500477",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 146.95,
+        "close": 145.86,
         "prev_close": 147.72,
-        "day_change_pct": -0.52,
+        "day_change_pct": -1.26,
         "open": 147.72,
         "high": 148.3,
-        "low": 145.7,
-        "intraday_range_pct": 1.76,
-        "volume": 1661953,
+        "low": 145.61,
+        "intraday_range_pct": 1.82,
+        "volume": 2974102,
         "avg_volume_20d": 12198758,
-        "volume_vs_avg": 0.14,
-        "volatility_20d_annualised_pct": 27.4,
+        "volume_vs_avg": 0.24,
+        "volatility_20d_annualised_pct": 27.54,
         "high_52w": 211.92,
         "low_52w": 136.24,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 146950.0,
-        "pnl_inr": -770.0,
-        "pnl_pct": -0.52
+        "market_value": 145860.0,
+        "pnl_inr": -1860.0,
+        "pnl_pct": -1.26
       },
       "news": [],
       "announcements": [],
@@ -250,86 +250,127 @@
       "bse_code": "505200",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7227.0,
+        "close": 7153.5,
         "prev_close": 7349.0,
-        "day_change_pct": -1.66,
+        "day_change_pct": -2.66,
         "open": 7360.5,
         "high": 7416.0,
-        "low": 7210.5,
-        "intraday_range_pct": 2.8,
-        "volume": 118690,
+        "low": 7111.0,
+        "intraday_range_pct": 4.15,
+        "volume": 302734,
         "avg_volume_20d": 389004,
-        "volume_vs_avg": 0.31,
-        "volatility_20d_annualised_pct": 27.93,
+        "volume_vs_avg": 0.78,
+        "volatility_20d_annualised_pct": 28.84,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7227000.0,
-        "pnl_inr": -39000.0,
-        "pnl_pct": -0.54
+        "market_value": 7153500.0,
+        "pnl_inr": -112500.0,
+        "pnl_pct": -1.55
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 34.47
+      "weight_pct": 34.36
+    },
+    {
+      "key": "linde",
+      "name": "Linde India",
+      "sector": "Industrial Gases",
+      "ticker": "LINDEINDIA.NS",
+      "bse_code": "523457",
+      "first_buy": "2026-10-21",
+      "metrics": {
+        "close": 5939.0,
+        "prev_close": 6003.5,
+        "day_change_pct": -1.07,
+        "open": 5973.0,
+        "high": 5998.5,
+        "low": 5932.0,
+        "intraday_range_pct": 1.11,
+        "volume": 3398,
+        "avg_volume_20d": 19096,
+        "volume_vs_avg": 0.18,
+        "volatility_20d_annualised_pct": 24.29,
+        "high_52w": 7847.5,
+        "low_52w": 5695.5,
+        "shares": 500,
+        "base_price": 5961.0,
+        "market_value": 2969500.0,
+        "pnl_inr": -11000.0,
+        "pnl_pct": -0.37
+      },
+      "news": [],
+      "announcements": [],
+      "weight_pct": 14.26
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10664000.0,
-      "weight_pct": 50.86
-    },
-    {
-      "sector": "Cash",
-      "value": 3810969.49,
-      "weight_pct": 18.18
+      "value": 10580130.0,
+      "weight_pct": 50.82
     },
     {
       "sector": "Financials",
-      "value": 3251835.0,
-      "weight_pct": 15.51
+      "value": 3239262.0,
+      "weight_pct": 15.56
     },
     {
       "sector": "Consumer Internet",
-      "value": 3239469.13,
-      "weight_pct": 15.45
+      "value": 3199513.37,
+      "weight_pct": 15.37
+    },
+    {
+      "sector": "Industrial Gases",
+      "value": 2969500.0,
+      "weight_pct": 14.26
+    },
+    {
+      "sector": "Cash",
+      "value": 830469.49,
+      "weight_pct": 3.99
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10664000.0,
-      "weight_pct": 50.86
-    },
-    {
-      "sector": "Cash",
-      "value": 3810969.49,
-      "weight_pct": 18.18
+      "value": 10580130.0,
+      "weight_pct": 50.82
     },
     {
       "sector": "Financials",
-      "value": 3251835.0,
-      "weight_pct": 15.51
+      "value": 3239262.0,
+      "weight_pct": 15.56
     },
     {
       "sector": "Consumer Internet",
-      "value": 3239469.13,
-      "weight_pct": 15.45
+      "value": 3199513.37,
+      "weight_pct": 15.37
+    },
+    {
+      "sector": "Industrial Gases",
+      "value": 2969500.0,
+      "weight_pct": 14.26
+    },
+    {
+      "sector": "Cash",
+      "value": 830469.49,
+      "weight_pct": 3.99
     }
   ],
   "performers": {
     "best_since_buy": {
-      "name": "Ashok Leyland",
-      "pct": -0.52
+      "name": "Linde India",
+      "pct": -0.37
     },
     "worst_since_buy": {
       "name": "Eternal (Zomato)",
-      "pct": -2.8
+      "pct": -4.0
     },
     "top_mover_today": {
       "name": "Eicher Motors",
-      "pct": -1.66
+      "pct": -2.66
     }
   },
   "transactions": [
@@ -451,7 +492,7 @@
       "shares": 1000,
       "price": 1813.6,
       "amount": 1813600.0,
-      "note": "Bought 21-Oct-26 at live NSE price 1813.60 (10:00:26 AM IST; source NSE_CMDATA; 9:40 AM run did not execute)",
+      "note": "Bought 21-Oct-26 at live NSE price 1813.60 (10:00:26 AM IST; source NSE_CMDATA)",
       "provisional": false
     },
     {
@@ -474,6 +515,17 @@
       "price": 1816.9,
       "amount": 1816900.0,
       "note": "Sold 21-Oct-26 at live NSE price 1816.90 (10:03:32 AM IST; source NSE_CMDATA)",
+      "provisional": false
+    },
+    {
+      "date": "2026-10-21",
+      "key": "linde",
+      "name": "Linde India",
+      "type": "BUY",
+      "shares": 500,
+      "price": 5961.0,
+      "amount": 2980500.0,
+      "note": "Bought 21-Oct-26 from cash at 5961.00 (NSE last traded 10:53:52 AM IST per Upstox web quote)",
       "provisional": false
     }
   ],
