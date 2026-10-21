@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "20 Oct 2026, 05:26 PM IST",
-  "as_of": "2026-10-19",
-  "snapshot_type": "End-of-day final snapshot",
+  "generated_at_ist": "21 Oct 2026, 09:32 AM IST",
+  "as_of": "2026-10-21",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
-    "capital": 12100000.0,
+    "capital": 14000000.0,
     "initial_capital": 10000000,
     "invested": 11941330.51,
-    "holdings_value": 11807983.18,
-    "cash": 158669.49,
-    "value": 11966652.66,
-    "pnl_inr": -133347.34,
-    "pnl_pct": -1.1,
-    "unrealised_pnl_inr": -133347.34,
+    "holdings_value": 11770790.6,
+    "cash": 2058669.49,
+    "value": 13829460.09,
+    "pnl_inr": -170539.91,
+    "pnl_pct": -1.22,
+    "unrealised_pnl_inr": -170539.91,
     "realised_pnl_inr": 0.0,
-    "day_pnl_inr": -133347.34,
-    "day_pnl_pct": -1.33,
+    "day_pnl_inr": -37192.57,
+    "day_pnl_pct": -0.31,
     "open_positions": 5
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22888.95,
-    "return_pct": -0.92,
-    "day_change_pct": -1.11
+    "close": 23089.55,
+    "return_pct": -0.04,
+    "day_change_pct": 0.88
   },
   "stocks": [
     {
@@ -33,26 +33,32 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 712.0,
-        "prev_close": 728.85,
-        "day_change_pct": -2.31,
-        "open": 733.4,
-        "high": 733.4,
-        "low": 707.15,
-        "intraday_range_pct": 3.6,
-        "volume": 33524133,
-        "avg_volume_20d": 30961951,
-        "volume_vs_avg": 1.08,
-        "volatility_20d_annualised_pct": 23.74,
+        "close": 714.25,
+        "prev_close": 712.0,
+        "day_change_pct": 0.32,
+        "open": 709.55,
+        "high": 714.25,
+        "low": 708.0,
+        "intraday_range_pct": 0.88,
+        "volume": 5445993,
+        "avg_volume_20d": 30668122,
+        "volume_vs_avg": 0.18,
+        "volatility_20d_annualised_pct": 23.31,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3255264.0,
-        "pnl_inr": -77038.09,
-        "pnl_pct": -2.31
+        "market_value": 3265551.0,
+        "pnl_inr": -66751.09,
+        "pnl_pct": -2.0
       },
       "news": [
+        {
+          "title": "HDFC Bank has green shoots beyond Q2",
+          "source": "Livemint",
+          "published": "21 Oct 2026, 06:00 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEhybjAxWjc3Qy1YNUxpU1NzQVk2Ni1pV0hHRVhaeEhic3R0Zk5VTlB2M1VQNjFTX1UxYWxVRWI0ZDhYdm9ET1JEZW16VnBLYjFlN0trSlNiN01uNmRHb3l4RkdaZ1doRFlyR1lRaXlXSVd4VEVhbUs2eld2Sk82SmhTNmFIaGZINmJ3dzRpYjA3R01TaGNpQ3Jhek56cmhRRHp1VzhjONIBrAFBVV95cUxOOVFYN0hiYy1fUjl3U0otN3ZCa3VCdG16TDk3NmU1SVM2WUVia2t2cHJEZFZEQnBhVjBYeGh0UzEyTDlSSl9TdzRPeW54R0NuV0VuX09zM2pNanpvMGMwYkZua0VlVzM5UzFnNjIzcEpwR2VEYzhyckFhQndBVlh0U2ljVWNvdElNNi1XME95QV9zQ0ZndERaRVZ3YWxJOGJURURiX1NHQldYcUYx?oc=5"
+        },
         {
           "title": "Who is Lily Vadera? HDFC Bank reappoints former RBI executive director as Kaizad Bharucha seeks departure",
           "source": "Livemint",
@@ -64,12 +70,6 @@
           "source": "Livemint",
           "published": "20 Oct 2026, 10:29 AM IST",
           "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdVdXR1JJSGViZm9tNU1HckVRRXBicTc3MnNqcWw5YjNKNVZOeWd6RmtIaks3SGNoUlJGU19aYXFPanZZRzBKN0NTQjlHMm13SlVra2lhdm5yMURXZEJOMDkxRl9wNG9NTHU4UnE0ZEhCTjF4NzFMUFQzdW1QTk5xN19pN1d3VWREZGpBekdDRGJmcGxzdVdzZDU1YUJlV0Vya2l4d1FzVEZRTlFSYVFDSVFNaFM5dXBuVHpzdkxNT2Z4dHhSLUNLM19SWHVOMklVM1ViS0psMEVKVTBuWU5lZFVfTm9ySmNWanhuSXppOERYbUwxcmNhaHRSUG9RRHg2OHdTY3ZCQk1PV2VLRGEw0gGUAkFVX3lxTE9nMjVEYUp4bEVjQnQySXQ1QlJHN3I1aEJqd0ZsbDdxNnp1LW5EWUZDa1YyVEZYRzFmVV9nSW9FbkhSQjY2REprMkMtNHRzZ3hPeTYxeXZXdVlxYzBLbU5fdWZyNkJMMnRvc3AzU0FqeWs2QlhTc3ZGeG1zcy0zdXJyWFRQeWJDYlZNRHFrNUtzU0k2R25qei11R1FDY3RfZG42Mm95dzBNX0tjUVlVYkE0bzVzZnpQWDhUbnY1MGpUMTdnM3JRTGxKbGlyZ21uZFI2cVpNRnhmc1JNZDNoZ2xKcnZyVTZoOWZHclg4YWNnNWpkLUJTSUtpRUF5T1JJRzAzalhISlZhN1FsNl9vZTBkQUYyaw?oc=5"
-        },
-        {
-          "title": "Top banking share to buy after Q2 results 2026? HDFC Bank vs Axis Bank vs ICICI Bank vs Yes Bank vs IDBI Bank - Details",
-          "source": "Mint",
-          "published": "20 Oct 2026, 09:08 AM IST",
-          "link": "https://www.livemint.com/market/stock-market-news/top-banking-share-to-buy-after-q2-results-2026-hdfc-bank-vs-axis-bank-vs-icici-bank-vs-yes-bank-vs-idbi-bank-details-11792465348383.html"
         },
         {
           "title": "Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead",
@@ -85,7 +85,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 27.2
+      "weight_pct": 23.61
     },
     {
       "key": "zomato",
@@ -95,59 +95,59 @@
       "bse_code": "543320",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 320.2,
-        "prev_close": 325.3,
-        "day_change_pct": -1.57,
-        "open": 324.85,
-        "high": 327.1,
-        "low": 319.5,
-        "intraday_range_pct": 2.34,
-        "volume": 17850721,
-        "avg_volume_20d": 21352242,
-        "volume_vs_avg": 0.84,
-        "volatility_20d_annualised_pct": 27.78,
+        "close": 321.55,
+        "prev_close": 320.2,
+        "day_change_pct": 0.42,
+        "open": 322.5,
+        "high": 324.55,
+        "low": 320.55,
+        "intraday_range_pct": 1.25,
+        "volume": 1253717,
+        "avg_volume_20d": 21359935,
+        "volume_vs_avg": 0.06,
+        "volatility_20d_annualised_pct": 25.75,
         "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3280449.13,
-        "pnl_inr": -52249.25,
-        "pnl_pct": -1.57
+        "market_value": 3294279.62,
+        "pnl_inr": -38418.75,
+        "pnl_pct": -1.15
       },
       "news": [
         {
-          "title": "Flipkart to challenge Zomato and Swiggy with ‘Eat-in by Minutes’: Launch date, features explained",
-          "source": "Livemint",
-          "published": "20 Oct 2026, 03:42 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEFEZkdvM3lzVTUwR25JRHI1aEFSM3ctckdwV3Eya2xNTHRGbjlnbW1Vb1dvWlh5cTF2WllmY3VlTWpkaFBLRWhnZFNEQ0JoUE44a2lFdFF2QjZTSkxlU01nbHE2aENVV1c1U29CbHNLd01FQUpxWEVCRkFPbkxmNG1mdlMybmJYb0FKa3JXQXc0QVR0Z2RVNHlLU1JMLVA0X1ppRjBVLW9iUkVPcmYwU05nVjVYb1pMMnc4STNicXZLMUxfdmp2ckVfVnlsOUVLa0NFZkdVNENaaFlFdF9hclpOYmkwRmtr0gHuAUFVX3lxTE1udG5BUWpiMFdHUF82S29xYWozblROb1R4UEI0V2ZwNW5FVVhnX2pPRFpWbGtVWVZ0YzBRSmltNUtWVWpTaWNlclM1UHhQbkhKdi03MXBWQnh1cmZ1TVE1Ql9WLTVrZzJ5alB5SXV6MVNhMmZPVWNxdFhLSDJ3VzBQN0hZYjJWVEVJejY0Mi1GM0N3RUI4SHd1eHR1MU5DNU9Tb0hzZW9TYVlBVXFtMGw2aHRIby0xMlBfMjVrQUppeFFfODFETjJ0VWtiWTBHa0ZHLWNkeEdlREZLQlEwWmJrbUtjT3VET3lEb0c3X2c?oc=5"
+          "title": "Q2 Results Today Live: Eternal, Adani Green, Indian Hotels, SRF, Vishal Mega Mart, KEI Ind, M&M Financial Services, PC Jeweller Share to announce Q2 results",
+          "source": "BusinessLine",
+          "published": "21 Oct 2026, 09:18 AM IST",
+          "link": "https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-eternal-adani-green-indian-hotels-srf-vishal-mega-mafrt-kei-ind-mampm-financial-services-pc-jeweller-company-results-21-october-2026/article71606182.ece"
         },
         {
-          "title": "Eternal Q2 preview: Brokerages expect market share gains, steady margins",
+          "title": "Q2 results 2026 today: Eternal, Adani Green, Indian Hotels among 38 firms to announce quarterly earnings | Full list",
+          "source": "Mint",
+          "published": "21 Oct 2026, 08:56 AM IST",
+          "link": "https://www.livemint.com/market/stock-market-news/q2-results-2026-today-eternal-adani-green-indian-hotels-among-38-firms-to-announce-quarterly-earnings-full-list-11792550102736.html"
+        },
+        {
+          "title": "Stocks to watch: Eternal, Hindustan Zinc, YES Bank, Bajaj Fin, IREDA, LTTS",
           "source": "Business Standard",
-          "published": "19 Oct 2026, 01:58 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeG5FdFE5bENaSi02aUZZX19tbnJfOWhWeHRRYWVZLWZBU1J3aW9vUjA0b2EyV05FUGpQeFktU3k2OS1US2FWR0JOejNZVEpUY1dETHhQeERtM0U1d25ZQVJORjh2VlB4SWpoaDBrVG0xaE1EYU16LVhpYkFKXzNLUU55dndfVTMyeTk5R2ZGdUY1SE1VeUNQV1plXzgxS21jcjZGVmF6MG80d3VhMndQRVFYS1ZWM2R3VTJhaWNoVGtsYVVUQW5BTTg1a0xqS1dNZG1j0gHYAUFVX3lxTE5hRFlkQWcxWmM3eHVCM3VJbzhiMTg5UDNWQ3k4RE80WmxOX1JsZFBZeGtCb0JSSmpmTHBTdk5rV0JicEozSFBrXzFRUnh0V09QVWNxNmFZZl9iSk1USjc3Y1NnQTNVd1Vqc0F6REZsSXY3azNuMVRnWHRpcWtpQ3ZISHlMZnpIenFETnRNVG5QRzM5ZzBlRW9DblFJTHpUZk40Sjg3dGo2YWdWbWtJUl9pRVRPRk1VZWFZQ1hLUzVoNlRkNVdMV1htVDRHNW1FT3I3eEdBVGhZZA?oc=5"
+          "published": "21 Oct 2026, 08:11 AM IST",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-eternal-hindustan-zinc-yes-bank-bajaj-fin-ireda-ltts-126102100091_1.html"
         },
         {
-          "title": "Tukaram Mundhe-led FDA cracks down on Reliance warehouse, Blinkit-linked facility; flags ‘cockroaches, spitting’",
-          "source": "Livemint",
-          "published": "18 Oct 2026, 11:25 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmUtVnN2RTB5eUJwZWlac0FxWWNYNDdMa3pBOXZFd2pYN25wT0tPV0pKN1VZVlluQ2s5Z3NKQTdFeE1TVTNCTVhVeVd3c3VNRXdFOEdWQ2V3T051VE9ETGNJUHAzVzJBaU9XTGtMY2RWUW1FMjFHYWFETEVYZUV2YXNKdVp2QWk5clFER0V2TGxidXo4cDRpdjEzQUVvSUhuVTQ2UFhNbTlvQ0hZcjd1NzhUOFZpTExzcDRmeEtFQXJCOG15dlF3TGxwMnlib3FuU21qUGs4aUNBV0JTQ3NJdE9sLXhJWEMza1FJeU1QSEhPV0M3UGfSAfsBQVVfeXFMTlcxOERPZGZTRGpvUTJla1ZTMTJkS01QQllVMHdtdm5wdzl5c0RXVVF6Z3hUcWg4RjJMWk5pbG12SklDYTEtMGlMek5XblY2NWFabEY1dzBoQXFXMlRIZXVmMTBic3pJcS1pdkhTM2JTbFBoU3NBNFF4ZkNoeFgxR0dla1BnNEJzS1FxajF0d3NGX3hDcm8xaGtwT3lQNW9lbVljODNGZHVzUVJuaG5hcjVSTEdyVlhKckZvSnhvVHdfMWZZZjk4MHdHMGVUdUFyWHRPRDdub2FwcjR1TEczbVpBTkhmeTl1YUtrbl9FY3lua0ItaWFqQTJRbEU?oc=5"
+          "title": "Blinkit, Zepto face a freshness test in premium produce push",
+          "source": "The Financial Express",
+          "published": "21 Oct 2026, 07:54 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWkVxMU5lb3NGdDRSYXQ1LUF3b0oxX1o4RHZTYXlvaGR5SjVPejBxTnlqUHJCaVJoNEFVcFFuVGdtYWJvRWJHSEJyWVUyS1h1cTdZYmVVTGdrLVR2RkJaMU9KNWFZazl4NFJHZVJtVnlpcTZhSG1NUVlDbjV2aThiU3lFdHJsZmpCbGZ4eDZURGpYR3FSM3NnSzlZNzJwTk5JYkl5Q19qQVVsTEY2WHpMQktBUFZ0d9IBvAFBVV95cUxObUdQclZJdmJwLTZnRE9zVUY5OW1rY2p2QXVlMnp5WTZzNy03Z3VhekxZbFZSVnFiTXE2MUNkMllSVjR1eFMwamhEN08tSVhsXzhaQVF2VDVvbTZsUmMwRWZvcmFmYlNyZU81UTlmanBVdWVRU19XZUo0TzNVR1VoWTY2aF9yUzFKb1dNOENRWXo4TERLTlJaNURuQUdmVVdUbmYzWnFFdGZQSjdGNGpXM2Z2ajRDRXhjLVR0Nw?oc=5"
         },
         {
-          "title": "Reliance and Blinkit executives face FIR in food safety case",
-          "source": "The Economic Times",
-          "published": "18 Oct 2026, 12:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDBtQ1BmVEF6UWo2NHNUdExkdDRkWExWRHFWc0xGR3RHN1B6UGFuOUdYWGt5TjZiTmwySDZsMTgxZG1TVm1JT0lPTjJXU1djZU5IZ0VzYXpGV3ZmSEZlNkVqWVFmZnBlLVpobHJVTFZmWnNROEdsMWV5ZXZrbXo5UDg4c2hUVkdFRm5MV2VFdGQycS1WcU1wTGZhWHN5OTJhaGZuREplQmJwZnlrdEFzai00czZIS0ZNZ0ZnTWVmdHlQeVRySFFIUjZ1eGE1dG9zUHhjY3dxRldvYzJWT0txaWtQcHBfZ9IB6wFBVV95cUxNbVk5Nm1scVBMbzhWMDR4aElCdWREWnY3LXBWYXBOY2p0X1lmMzBhc2lrSk9jdXU5aFdwbFcxckhoUVFzTmZKZFNtMXJYVXZKMTlpbS1jT2hTOVJMcGtMX2xzVjBueDJHVGNtcUpuY0lRd0tfODdlWUlNV04xMVh1RDZFTElVazhBbzNZV19udWpjYUhrOUNrX3BKVENXbjNVQy1zMEJSZkRQLXlnbTN6WEY3Ql9FRWh1NXE3dlVpQnhvTjk5ejVoNUdldzJ6RE1UMDI3MnJJbjhILXhHczBzNzkxaEo0ZEJJXzlr?oc=5"
-        },
-        {
-          "title": "FDA suspends licences of warehouses of Reliance Consumer, Reliance Retail, Blinkit, Zomato Hyperpure",
-          "source": "The Economic Times",
-          "published": "17 Oct 2026, 10:14 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMDEwLUZmVDhkTkdJbE5OTEE4S0l3djlTWnpnTmc2N3JibUV3blg5by0wZk5vR2JRa3h6LW5tT2tmemJMUlR5UVZOcTRPeDh1YWRwV2V1TGV2SkcwZE4ySVh4c1FvWGEzdG5ld3hBUzZlRjNidkg5Yy1LZC1sQmdVZE1WQmdhYWtCaUNrcGZzQllaUHZac1ItTERkVXNHMDE5a0dsQnRnZnRiMnFBZF80ZHRxSHZGZVhRZWh2a3pLeXRDTG9tclh4TkFaQllGTDh4VmFzODZMTmRmaXcwcVpwenQxUWtkd2d5RktNT2lzSXNFYWV6TVlta3BMUzdiWHdvZ2cyMGUtU0VCZUnSAZACQVVfeXFMT3Z4TGIzaU9feFl4QV9SZ0hIWkVtd0JYU1BJcWYydC12bFRrZUlZV3BBS1NLdWJoU0JjN1V0NWtDd1lqaXJYcm9VY2NOV0hoSUF6U3FtSkVHQmYxNjgwR2Z2VGZPSUJsOHVkdHZoOTMtRXp3ZGg1MmNGMVpGOW5ZWWNNX0p5LXlSN01kSU9uZnpmNVNTaE9jbkpQRGJxcjZXS1pIUGZINHJNVExTYmdlM1F1MG15T0UtYnB1a2J5bEFoS1I4dGN4dWJsWlF2Wm5MMnpWc2VSOGNLOUYyN0YyMFFLNGtESzI5TEVkZkdjcTNRWEFGYnJETHFkWU1LMnE0a1BjMVpOZS1Qc280QUJBWFI?oc=5"
+          "title": "Top stocks to watch today: Eternal, Reliance Industries, IREDA, RailTel shares in focus on Wed, 21 Oct | Full list",
+          "source": "Mint",
+          "published": "21 Oct 2026, 07:25 AM IST",
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html"
         }
       ],
       "announcements": [],
-      "weight_pct": 27.41
+      "weight_pct": 23.82
     },
     {
       "key": "maruti",
@@ -157,31 +157,37 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11475.0,
-        "prev_close": 11489.0,
-        "day_change_pct": -0.12,
-        "open": 11510.0,
-        "high": 11702.0,
-        "low": 11440.0,
-        "intraday_range_pct": 2.28,
-        "volume": 453832,
-        "avg_volume_20d": 459379,
-        "volume_vs_avg": 0.99,
-        "volatility_20d_annualised_pct": 25.12,
+        "close": 11532.0,
+        "prev_close": 11475.0,
+        "day_change_pct": 0.5,
+        "open": 11540.0,
+        "high": 11555.0,
+        "low": 11425.0,
+        "intraday_range_pct": 1.13,
+        "volume": 19415,
+        "avg_volume_20d": 449082,
+        "volume_vs_avg": 0.04,
+        "volatility_20d_annualised_pct": 25.15,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3327750.0,
-        "pnl_inr": -4060.0,
-        "pnl_pct": -0.12
+        "market_value": 3344280.0,
+        "pnl_inr": 12470.0,
+        "pnl_pct": 0.37
       },
       "news": [
+        {
+          "title": "Five Stocks To Buy Today: Maruti Suzuki, Karur Vysya Bank, Ratnaveer And More | October 21, 2026",
+          "source": "NDTV Profit",
+          "published": "21 Oct 2026, 06:52 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOckRrVmJRbWdHd2dOc0w2c3poVWpNQURDS1F5OWIyNG1vUEhaTlNTTVhfYzFiQnk0Nm43djZaOU9pVnl4OG1FbV9sZ19HUWZ0SDljMFphTjFiZnBhLUNaMjRxUnpKOG9KVUFPTGp6allzQUI1aDlGM1h6dkE4M3k0V1ZnVVJlb2hrQ3NaVTluVnhnWXprY2h0RVQxN2xfXzQwUEF3ZVNQakRCVVJJWUJ2UGpQWHNXYU85NWJ4YXBReEpYLVFRUWJNZ0RtMEpoR01rMkkxQkFKaXlhenA4UEQyb1NCZTA1U0JPWXUxcnZjWFhUTFhwdHNjZGl0RXRNazBUZXfSAYoCQVVfeXFMTkJxelY5b2VXcXNTUDd3VWt4M0wzb3VCQ1RFNXpDdUlvUWViX19velNsXzlJOU9lY0JUVk9XcHMtSW5sZmFnMmtGRjk4a296ajh6bXJJNHlMaHJlaDFiWjJRRnJGbDV1Y2pqSTMwOG5oSXhXbjBxNUFWUjZVOHVhNUtpN1F2SVpEaXdVU2lZelFTdXRDTm15OE9sTTYxbm9ldVF5ZDdlejYzbUZLaS14WEEyNUVjbEF6WDhZcnFOOHFGbXRIcVJhM1lmLWY3c29wX3FUaVpOemVFQ29vTHlKLUVQZ0dYSUk4UDFqWGJzbG1jSExER2tEVzBROHIwT0pYRkROTXA1SFhiQlE?oc=5"
+        },
         {
           "title": "Maruti Suzuki Grand Vitara festive discount reaches ₹1.36 lakh; check offers on Fronx, Jimny, XL6",
           "source": "Livemint",
           "published": "20 Oct 2026, 05:05 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU1hvNTkzOVFTaUNfQ3dDY1VVYU85YlNCaTR3azNhNE9GZmltQUwyd0F5aHFPaGJUZE4zZldieWo3Rk1yXy1jaDhyQUxVeFA2eTVSQm5NeUI3MUpwVEJoVC1tdXFrcjlXQzRfNlJhR2oyZE9rOWhMUGRKVWVQTDBrT20xalE2WjUzTGYxb0ZPWm0yeUx6RnE1UHJ6c1E2eVF5RUR3alAtbG9HeHY5cUdqX2RwSVFBSXhSUGk0SVNoaVBZUnlwTVJkZXdGTnlYaWh3cks2WVo2eTJ5TXNIZWEtMk1fQmNwZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU1hvNTkzOVFTaUNfQ3dDY1VVYU85YlNCaTR3azNhNE9GZmltQUwyd0F5aHFPaGJUZE4zZldieWo3Rk1yXy1jaDhyQUxVeFA2eTVSQm5NeUI3MUpwVEJoVC1tdXFrcjlXQzRfNlJhR2oyZE9rOWhMUGRKVWVQTDBrT20xalE2WjUzTGYxb0ZPWm0yeUx6RnE1UHJ6c1E2eVF5RUR3alAtbG9HeHY5cUdqX2RwSVFBSXhSUGk0SVNoaVBZUnlwTVJkZXdGTnlYaWh3cks2WVo2eTJ5TXNIZWEtMk1fQmNwZ9IB6wFBVV95cUxOc0hCeFc0RUF5U1AxcjRNRFc3cmtIM2JtUzVZbWdpSUR1ajdtZDZWSkpqZFhJbHo5Z3lweURaX05pN203UHZmRHRoNGh5alJXY3BPWUs3Z1l2a0cwQ3NzN0w0TlQyc19ReFhfNzBZSnBibURLWXFVR2k0b0ZMWWlJR2dSR3hkSTRMR0NVRy1jZjZJNmY0SmxrR1paTWNhaXJQZGlGVWY3UWhtRnA1ZmlLR005MmhXOEZJTWE3eDlyUG9zekkzV2VTYXJFRWd0dTNQaEktdlZQOXVzUXBXd0VCSEQyQ2xmQThBbFRj?oc=5"
         },
         {
           "title": "Maruti Suzuki festive discounts: Save up to ₹1.36 lakh on Grand Vitara, Fronx, Nexa cars? Here's the catch",
@@ -203,7 +209,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 27.81
+      "weight_pct": 24.18
     },
     {
       "key": "ashok",
@@ -213,28 +219,28 @@
       "bse_code": "500477",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 147.72,
-        "prev_close": 148.91,
-        "day_change_pct": -0.8,
-        "open": 148.32,
-        "high": 149.4,
-        "low": 147.21,
-        "intraday_range_pct": 1.47,
-        "volume": 8502677,
-        "avg_volume_20d": 12650944,
-        "volume_vs_avg": 0.67,
-        "volatility_20d_annualised_pct": 27.42,
+        "close": 147.58,
+        "prev_close": 147.72,
+        "day_change_pct": -0.09,
+        "open": 147.72,
+        "high": 148.3,
+        "low": 146.91,
+        "intraday_range_pct": 0.94,
+        "volume": 588821,
+        "avg_volume_20d": 12198758,
+        "volume_vs_avg": 0.05,
+        "volatility_20d_annualised_pct": 27.43,
         "high_52w": 211.92,
-        "low_52w": 135.84,
+        "low_52w": 136.24,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 147720.0,
-        "pnl_inr": 0.0,
-        "pnl_pct": 0.0
+        "market_value": 147580.0,
+        "pnl_inr": -140.0,
+        "pnl_pct": -0.09
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 1.23
+      "weight_pct": 1.07
     },
     {
       "key": "manorama",
@@ -244,96 +250,96 @@
       "bse_code": "541974",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 1796.8,
-        "prev_close": 1911.2,
-        "day_change_pct": -5.99,
-        "open": 1907.2,
-        "high": 1911.2,
-        "low": 1785.3,
-        "intraday_range_pct": 6.59,
-        "volume": 217222,
-        "avg_volume_20d": 161026,
-        "volume_vs_avg": 1.35,
-        "volatility_20d_annualised_pct": 34.54,
+        "close": 1719.1,
+        "prev_close": 1796.8,
+        "day_change_pct": -4.32,
+        "open": 1787.9,
+        "high": 1787.9,
+        "low": 1710.5,
+        "intraday_range_pct": 4.31,
+        "volume": 63430,
+        "avg_volume_20d": 167033,
+        "volume_vs_avg": 0.38,
+        "volatility_20d_annualised_pct": 36.72,
         "high_52w": 2132.9,
         "low_52w": 1075.8,
         "shares": 1000,
         "base_price": 1796.8,
-        "market_value": 1796800.05,
-        "pnl_inr": 0.0,
-        "pnl_pct": 0.0
+        "market_value": 1719099.98,
+        "pnl_inr": -77700.07,
+        "pnl_pct": -4.32
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 15.02
+      "weight_pct": 12.43
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 3475470.0,
-      "weight_pct": 29.04
+      "value": 3491860.0,
+      "weight_pct": 25.25
     },
     {
       "sector": "Consumer Internet",
-      "value": 3280449.13,
-      "weight_pct": 27.41
+      "value": 3294279.62,
+      "weight_pct": 23.82
     },
     {
       "sector": "Financials",
-      "value": 3255264.0,
-      "weight_pct": 27.2
-    },
-    {
-      "sector": "Specialty Fats (FMCG inputs)",
-      "value": 1796800.05,
-      "weight_pct": 15.02
+      "value": 3265551.0,
+      "weight_pct": 23.61
     },
     {
       "sector": "Cash",
-      "value": 158669.49,
-      "weight_pct": 1.33
+      "value": 2058669.49,
+      "weight_pct": 14.89
+    },
+    {
+      "sector": "Specialty Fats (FMCG inputs)",
+      "value": 1719099.98,
+      "weight_pct": 12.43
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 3475470.0,
-      "weight_pct": 29.04
+      "value": 3491860.0,
+      "weight_pct": 25.25
     },
     {
       "sector": "Consumer Internet",
-      "value": 3280449.13,
-      "weight_pct": 27.41
+      "value": 3294279.62,
+      "weight_pct": 23.82
     },
     {
       "sector": "Financials",
-      "value": 3255264.0,
-      "weight_pct": 27.2
-    },
-    {
-      "sector": "Specialty Fats (FMCG inputs)",
-      "value": 1796800.05,
-      "weight_pct": 15.02
+      "value": 3265551.0,
+      "weight_pct": 23.61
     },
     {
       "sector": "Cash",
-      "value": 158669.49,
-      "weight_pct": 1.33
+      "value": 2058669.49,
+      "weight_pct": 14.89
+    },
+    {
+      "sector": "Specialty Fats (FMCG inputs)",
+      "value": 1719099.98,
+      "weight_pct": 12.43
     }
   ],
   "performers": {
     "best_since_buy": {
-      "name": "Ashok Leyland",
-      "pct": 0.0
+      "name": "Maruti Suzuki",
+      "pct": 0.37
     },
     "worst_since_buy": {
-      "name": "HDFC Bank",
-      "pct": -2.31
+      "name": "Manorama Industries",
+      "pct": -4.32
     },
     "top_mover_today": {
       "name": "Manorama Industries",
-      "pct": -5.99
+      "pct": -4.32
     }
   },
   "transactions": [
@@ -413,12 +419,21 @@
       "amount": 1796800.05,
       "note": "Added on 19-Oct-26 (CMP 1790.40 per Trendlyne)",
       "provisional": false
+    },
+    {
+      "date": "2026-10-20",
+      "key": "",
+      "name": "",
+      "type": "DEPOSIT",
+      "shares": 0,
+      "price": null,
+      "amount": 1900000.0,
+      "note": "Fresh virtual money to fund Fiem Industries",
+      "provisional": false
     }
   ],
   "closed_positions": [],
-  "data_quality": [
-    "Trade on 20 Oct 2026 (DEPOSIT ) is not applied yet - no market data for that date so far."
-  ],
+  "data_quality": [],
   "sources": {
     "prices": "Yahoo Finance via yfinance (unofficial)",
     "news": "Google News RSS + publisher RSS, trusted-publisher whitelist, 72h window",
