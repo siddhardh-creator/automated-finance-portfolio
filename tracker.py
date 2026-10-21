@@ -570,13 +570,12 @@ def build_readme(cfg, snapshot):
 
     cl = snapshot["closed_positions"]
     if cl:
-        body = ["| Stock | Bought (avg) | Sold (avg) | Held | Invested | Proceeds | Realised P&L | Return | Research |",
-                "|---|---:|---:|---:|---:|---:|---:|---:|---|"]
+        body = ["| Stock | Bought (avg) | Sold (avg) | Held | Invested | Proceeds | Realised P&L | Return |",
+                "|---|---:|---:|---:|---:|---:|---:|---:|"]
         for c in cl:
-            links = " · ".join(f"[{lbl}]({path})" for lbl, path in _report_links(cfg, c["key"])) or "-"
             body.append(f"| {c['name']} | {c['first_buy']} @ {inr(c['avg_buy'], 2)} | {c['last_sell']} @ "
                         f"{inr(c['avg_sell'], 2)} | {c['days']} days | {inr(c['invested'])} | {inr(c['proceeds'])} | "
-                        f"{inr(c['realised_pnl'])} | {pct(c['realised_pct'])} | {links} |")
+                        f"{inr(c['realised_pnl'])} | {pct(c['realised_pct'])} |")
     else:
         body = ["_No fully closed positions yet._"]
     L.extend(_details(f"<b>Closed positions</b> - {len(cl)}", body, open_=0 < len(cl) <= 5))
