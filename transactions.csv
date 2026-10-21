@@ -7,3 +7,6 @@ date,stock,type,shares,amount,price,note
 2026-10-19,,DEPOSIT,,1800000,,Fresh virtual money to fund Manorama Industries
 2026-10-19,manorama,BUY,1000,,,Added on 19-Oct-26 (CMP 1790.40 per Trendlyne)
 2026-10-20,,DEPOSIT,,1900000,,Fresh virtual money to fund Fiem Industries
+2026-10-21,,DEPOSIT,,7266000,,Fresh virtual money to fund Eicher Motors
+2026-10-21,eicher,BUY,1000,,7266.00,Bought 21-Oct-26 at live NSE price 7266.00 (10:00:26 AM IST; source NSE_CMDATA)
+2026-10-21,fiem,BUY,1000,,1813.60,Bought 21-Oct-26 at live NSE price 1813.60 (10:00:26 AM IST; source NSE_CMDATA; 9:40 AM run did not execute)

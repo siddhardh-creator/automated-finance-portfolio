@@ -128,6 +128,22 @@
         "detailed": "reports/FIEMIND/FIEMIND_Full_Report_2026-10-20.pdf"
       },
       "sector": "Auto Components"
+    },
+    {
+      "key": "eicher",
+      "name": "Eicher Motors",
+      "tickers": [
+        "EICHERMOT.NS"
+      ],
+      "weight": 0,
+      "bse_code": "505200",
+      "keywords": [
+        "eicher motors",
+        "royal enfield",
+        "vecv"
+      ],
+      "news_query": "\"Eicher Motors\" OR \"Royal Enfield\"",
+      "sector": "Automobiles"
     }
   ],
   "trusted_sources": [
