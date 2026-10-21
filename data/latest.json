@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "21 Oct 2026, 11:33 AM IST",
+  "generated_at_ist": "21 Oct 2026, 01:10 PM IST",
   "as_of": "2026-10-21",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 21266000.0,
     "initial_capital": 10000000,
     "invested": 20391030.46,
-    "holdings_value": 19988405.37,
+    "holdings_value": 19877745.33,
     "cash": 830469.49,
-    "value": 20818874.86,
-    "pnl_inr": -447125.14,
-    "pnl_pct": -2.1,
-    "unrealised_pnl_inr": -402625.09,
+    "value": 20708214.82,
+    "pnl_inr": -557785.18,
+    "pnl_pct": -2.62,
+    "unrealised_pnl_inr": -513285.13,
     "realised_pnl_inr": -44500.05,
-    "day_pnl_inr": -313777.8,
-    "day_pnl_pct": -2.62,
+    "day_pnl_inr": -424437.84,
+    "day_pnl_pct": -3.55,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22879.3,
-    "return_pct": -0.55,
-    "day_change_pct": -0.04
+    "close": 22734.2,
+    "return_pct": -0.9,
+    "day_change_pct": -0.68
   },
   "stocks": [
     {
@@ -33,26 +33,32 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 708.5,
+        "close": 702.7,
         "prev_close": 712.0,
-        "day_change_pct": -0.49,
+        "day_change_pct": -1.31,
         "open": 709.55,
         "high": 715.4,
-        "low": 708.0,
-        "intraday_range_pct": 1.04,
-        "volume": 12219560,
+        "low": 701.75,
+        "intraday_range_pct": 1.92,
+        "volume": 17357709,
         "avg_volume_20d": 30668122,
-        "volume_vs_avg": 0.4,
-        "volatility_20d_annualised_pct": 23.27,
+        "volume_vs_avg": 0.57,
+        "volatility_20d_annualised_pct": 23.58,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3239262.0,
-        "pnl_inr": -93040.09,
-        "pnl_pct": -2.79
+        "market_value": 3212744.46,
+        "pnl_inr": -119557.63,
+        "pnl_pct": -3.59
       },
       "news": [
+        {
+          "title": "HDFC Bank stock slips despite profit growth as street stays unimpressed",
+          "source": "BusinessLine",
+          "published": "21 Oct 2026, 12:20 PM IST",
+          "link": "https://www.thehindubusinessline.com/markets/hdfc-bank-stock-slips-despite-profit-growth-as-street-stays-unimpressed/article71606549.ece"
+        },
         {
           "title": "HDFC Bank has green shoots beyond Q2",
           "source": "Livemint",
@@ -76,16 +82,10 @@
           "source": "The Economic Times",
           "published": "20 Oct 2026, 06:04 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNUdsMnVnZzAxS2huQWctNi14VHR1dmVWQlR6RXRHRl9vSEZqTGpKUjFHclhncEExbGRFWk85OWQ1MzBoV1hvZlZkeGh3SnViNl9MRjVGQTdiajZVa3g5ZGhNWUk0VXRYRFdLV1hMbERFS2pURkt4SXNwOXFJU3hSUmtvNF8ya1BxRkkzUXpzbGpkbHFOTGFMSjRhZUcxeFlCZG9lRjR6UmZNdkRsT0l0RE4zbUt0WTN5QldSMnk3YmRhaVZOaXNPMnRLc3hFSEhHaU9JSnJqRF9RSUx3QUgwdHB2cHJVQdIB6wFBVV95cUxPVERYYkxlbzVZbGlyUWw5U3phak92eC1Xd2FMTi1JWUtHalB6RUlpTEJfcktfMURJT2Frc0tNM29TWC1aRGx6TGw0bkxWeFRmWjF3QXlSVU9NR1ZiTDA0eVZPb1hEeGtmR00wYWVRaXNXUnNackRXakdqZTExdWpRYkk3WDUzcmJiSHRvVk1jOWZZUWZ0WS1mRFdobFEzX0hCU0xrd1JxS21LeFJZWWQ4T2pXSmJiVVBXNThsd1padloxSDdUVm0wM2NHRUg1ZTJ4ZGlxaHMxTlREWk42YmFBT1o0bG1hX0pfdHNJ?oc=5"
-        },
-        {
-          "title": "Buy, Sell Or Hold: HDFC Bank, Laurus Labs, BEL, Havells India, Cummins India And Hindustan Copper — Ask Profit",
-          "source": "NDTV Profit",
-          "published": "19 Oct 2026, 10:00 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzRCdlh3ZmRFSS10VHRUV3RHVDFZMldtUEotSHRKY3Vna0NuSWZMb3h2b2JJVl9EMFhIYmhLUG1UdlBCVDN2RXpIRmVPWkZ0M19oMHhFUDZmcS1ZaFE3ZjdUaHFnVGdVdm1MWHpjbjQ1bTZvSHpHa1hIa01WcHpGZEJ0bnZmSVR4RFZZSnZQQXBSbG5NRlgxZ25RYnVwNTB6dWhuNjZZQXRzYnNKT3dsZ2dTQ053X2xXUllnSFQ3TXVoYzFLN2FtczUyckFPdUxWcTJJNW9DZUg1aGR1QTIw0gHnAUFVX3lxTE4tclBQZ0ZPOG9XMjZaQmwySktacmRsay1iWktfM1dhWDNVRVBhNklKaXAyNjNUNzl5Y2FhcDhEdHNmYi02dmNQcnItX1l1QWs1dy1jWmx3NTFfVjlvbmVtaU9yd0tDc243bE9UZzUwQ3M5cjg0M2FCUzNBbDhEZ1ZyQkRCZkw4aURVMjlXWUR6T0NoSlhxN042WGQzZE8xV0czZ0F2WlhpYmtvbFhLSV9iTTVDbUNFNHN6Z1F0SERtVnJtSUtTQ2t3NmhQUEZ5d3R3U0Q3MTF3YUdkanBHNlZtekZQaE1ZSQ?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 15.56
+      "weight_pct": 15.51
     },
     {
       "key": "zomato",
@@ -95,31 +95,37 @@
       "bse_code": "543320",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 312.3,
+        "close": 309.8,
         "prev_close": 320.2,
-        "day_change_pct": -2.47,
+        "day_change_pct": -3.25,
         "open": 322.5,
         "high": 324.55,
-        "low": 312.25,
-        "intraday_range_pct": 3.84,
-        "volume": 7590737,
+        "low": 309.5,
+        "intraday_range_pct": 4.7,
+        "volume": 13044572,
         "avg_volume_20d": 21359935,
-        "volume_vs_avg": 0.36,
-        "volatility_20d_annualised_pct": 26.84,
+        "volume_vs_avg": 0.61,
+        "volatility_20d_annualised_pct": 27.78,
         "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3199513.37,
-        "pnl_inr": -133185.0,
-        "pnl_pct": -4.0
+        "market_value": 3173900.87,
+        "pnl_inr": -158797.5,
+        "pnl_pct": -4.76
       },
       "news": [
         {
-          "title": "Q2 Results Today Live: Eternal, Adani Green, Indian Hotels, SRF, KEI Industries shares fall; PC Jeweller gains ahead of earnings",
+          "title": "Q2 Results Today Live: KEI Industries, Eternal, Aditya Birla Sun Life AMC shares fall up to 4%; PC Jeweller gains ahead of earnings",
           "source": "BusinessLine",
-          "published": "21 Oct 2026, 10:56 AM IST",
+          "published": "21 Oct 2026, 12:46 PM IST",
           "link": "https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-eternal-adani-green-indian-hotels-srf-vishal-mega-mafrt-kei-ind-mampm-financial-services-pc-jeweller-company-results-21-october-2026/article71606182.ece"
+        },
+        {
+          "title": "Eternal Shares Slide Over 3% Ahead Of Q2 Results; What To Expect?",
+          "source": "NDTV Profit",
+          "published": "21 Oct 2026, 12:37 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnduemlxR2V4QWwtc0xTV2lfRDdCeTc0aDYwSDkwOEViRkgweWF2azQwaHdSVnJPZlo4b2g3R0J5T1hySjk0YVJTeFJfM0FtSzBpVElkanNPZ2xFeWZic2lsUkU4WjF6WTNxLVg1bE5wSkhJU2hWY3BIVk5FcExDR3NJNmFMRjdCbElHZklleXRKV0Qwb3cxTWlyZldIcmtVUTlGQlRLVlo0MWNFR2dVNnpEYmNYZnJUWUFsRjFlUdIBxwFBVV95cUxQMXZrdTRmU2hKRVNHQTlLVy0xVU9RelNWN19XMllNUmJuaEVvcVVMTWdLbVVOZm8zV0dNczZvWEVxX201ZGcyaTVoa3Jib2NMb1pIazVOVHYtNFhVaUU4UGxhSWVGYnMyS0F5MUxXdUdMMzJjdU1QTnZQY1ZVUzJHVUZQcVVtZWwyd3VOTmZlTmtsVHgzaG5YdWUyOHl1NklNWDQwSU1mMmp3N1hMTzZ0cXdiZFo5d2lxY3BISVU3MWZlRmxsQTM0?oc=5"
         },
         {
           "title": "Eternal Q2 results 2026 today: 24% returns in 6 months | Preview | should you buy multibagger stock ahead of earnings?",
@@ -138,16 +144,10 @@
           "source": "Business Standard",
           "published": "21 Oct 2026, 08:11 AM IST",
           "link": "https://www.business-standard.com/markets/news/stocks-to-watch-eternal-hindustan-zinc-yes-bank-bajaj-fin-ireda-ltts-126102100091_1.html"
-        },
-        {
-          "title": "Blinkit, Zepto face a freshness test in premium produce push",
-          "source": "The Financial Express",
-          "published": "21 Oct 2026, 07:54 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWkVxMU5lb3NGdDRSYXQ1LUF3b0oxX1o4RHZTYXlvaGR5SjVPejBxTnlqUHJCaVJoNEFVcFFuVGdtYWJvRWJHSEJyWVUyS1h1cTdZYmVVTGdrLVR2RkJaMU9KNWFZazl4NFJHZVJtVnlpcTZhSG1NUVlDbjV2aThiU3lFdHJsZmpCbGZ4eDZURGpYR3FSM3NnSzlZNzJwTk5JYkl5Q19qQVVsTEY2WHpMQktBUFZ0d9IBvAFBVV95cUxObUdQclZJdmJwLTZnRE9zVUY5OW1rY2p2QXVlMnp5WTZzNy03Z3VhekxZbFZSVnFiTXE2MUNkMllSVjR1eFMwamhEN08tSVhsXzhaQVF2VDVvbTZsUmMwRWZvcmFmYlNyZU81UTlmanBVdWVRU19XZUo0TzNVR1VoWTY2aF9yUzFKb1dNOENRWXo4TERLTlJaNURuQUdmVVdUbmYzWnFFdGZQSjdGNGpXM2Z2ajRDRXhjLVR0Nw?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 15.37
+      "weight_pct": 15.33
     },
     {
       "key": "maruti",
@@ -157,26 +157,32 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11313.0,
+        "close": 11224.0,
         "prev_close": 11475.0,
-        "day_change_pct": -1.41,
+        "day_change_pct": -2.19,
         "open": 11540.0,
         "high": 11555.0,
-        "low": 11312.0,
-        "intraday_range_pct": 2.12,
-        "volume": 183322,
+        "low": 11203.0,
+        "intraday_range_pct": 3.07,
+        "volume": 258049,
         "avg_volume_20d": 449082,
-        "volume_vs_avg": 0.41,
-        "volatility_20d_annualised_pct": 25.31,
+        "volume_vs_avg": 0.57,
+        "volatility_20d_annualised_pct": 25.89,
         "high_52w": 17292.0,
         "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3280770.0,
-        "pnl_inr": -51040.0,
-        "pnl_pct": -1.53
+        "market_value": 3254960.0,
+        "pnl_inr": -76850.0,
+        "pnl_pct": -2.31
       },
       "news": [
+        {
+          "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Stock Update",
+          "source": "Economic Times",
+          "published": "21 Oct 2026, 09:32 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-21-oct-2026/liveblog/135081809.cms"
+        },
         {
           "title": "Five Stocks To Buy Today: Maruti Suzuki, Karur Vysya Bank, Ratnaveer And More | October 21, 2026",
           "source": "NDTV Profit",
@@ -200,16 +206,10 @@
           "source": "BusinessLine",
           "published": "19 Oct 2026, 01:10 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQnh6TE5aVHQ0cmZtNF9jV2Ryb2NrU3JEUjQ2djZ0UGg1ajJSMTJnTVFIcWtJMXgyeFRoTlhNTjlxamlBNWFsa1hFOC1ndGdwUW9RODhJOHBMeTA5WTFnWUJMa0dxMTRiYThObWVvTmFjRjJWLW9NcHU5cmZ5bDhwV0hKZ1lmMmFBc3NERmd6bVo3Zk0zVV9CS3dna3k3Uk9fXzFXdWJpSHJ1UUNkMlljU2tHbFd3WVcwWFNwQUp0SkxSZlNQSlFDNmpjcVItYTFFWlNVZDhnNW56NWNGeUZMejNyNV8yZ0RwVUVsRNIB8wFBVV95cUxQN3JrVGhYdTRYNUl5Yjl1cVZTbzJFQmk0QUlCQmkzMXpCckRTTmNGc25CdG03SDd1bTZzSW1EcmdmVHlXSUtOaTZqR3JEZkZnbkt4dW5PX0tQVVlCaVdLbVRiSkk5aDJYYmhwRVNIbDFlZjdpbWQ2YUliZWxYNEo1MmxJN0lyUGU4X2lSU2h5UlhpRGdLSkE3Qm1nbjVvTWxJV1BJZE8zVW42VWUwZ0lUTElpUFdIOF9LN09GUzJDN3V2XzdzellfNHFsU3ItbkpSSTFFdEpNLW9yaDFnZHdoUmRWdUJZVk9SaDJYaGpPMWNvSXM?oc=5"
-        },
-        {
-          "title": "Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound",
-          "source": "Moneycontrol.com",
-          "published": "19 Oct 2026, 09:32 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY0drVmhyWkFNUFV2ZFc5TlRWa0pTRlUtaWlqeVo2MGxDRk5BR0h4NjJuUVdfSjRlRWVoQUgwLS1NeUd6Y1dCeWVRTXh0c2JiODBoVnFPNmthNHN2MFZSdnFzMnFyNjR5VzFqbEFnYlYweU1scjI5TXVDSVFPV1RkVEd4SEpZUVV4ekdiTkVkODloemJBcno4WS00NDBNc1pFdmsyOUNkU21Pcmc4aU1Ud2otMUV0OUwtODBLazB3T0l3M3RXQkd2bFNnV051ZWx4VXNwQmxqb2FYRUI3TTVwNnlTYVBxZTVKVmfSAe8BQVVfeXFMTlZVeEtHT2ppVTNSbTkyZDN0a3BYRjhERzluRGhWOUJvQ1Y2UmtmSTREWTIwS3JQdHhlT0RnalNkQjlaSVhQNDROVExMSEpwR1U5d1RIV0RKYUJ0NDhnaTF1TGhjWEFQU21QVkxOYjNRekNkRFVUM1YtaDlVdmI2ZV9Hbklpb2xjQVNTZlVhbllVZWowZ2NPMW92UElyMzNNOUExWnJaUnVBYUVFOHk5YnB2SG9BTnhuT2ZpZ01SNDFMUW9QWVZIekJSOFNiNTd6RkdOMTRlMUdkS0MzM1daR25XYTY1YmpqVDFBWG5IcDA?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 15.76
+      "weight_pct": 15.72
     },
     {
       "key": "ashok",
@@ -219,24 +219,24 @@
       "bse_code": "500477",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 145.86,
+        "close": 144.89,
         "prev_close": 147.72,
-        "day_change_pct": -1.26,
+        "day_change_pct": -1.92,
         "open": 147.72,
         "high": 148.3,
-        "low": 145.61,
-        "intraday_range_pct": 1.82,
-        "volume": 2974102,
+        "low": 144.03,
+        "intraday_range_pct": 2.89,
+        "volume": 5298175,
         "avg_volume_20d": 12198758,
-        "volume_vs_avg": 0.24,
-        "volatility_20d_annualised_pct": 27.54,
+        "volume_vs_avg": 0.43,
+        "volatility_20d_annualised_pct": 27.88,
         "high_52w": 211.92,
         "low_52w": 136.24,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 145860.0,
-        "pnl_inr": -1860.0,
-        "pnl_pct": -1.26
+        "market_value": 144890.0,
+        "pnl_inr": -2830.0,
+        "pnl_pct": -1.92
       },
       "news": [],
       "announcements": [],
@@ -250,28 +250,28 @@
       "bse_code": "505200",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7153.5,
+        "close": 7129.0,
         "prev_close": 7349.0,
-        "day_change_pct": -2.66,
+        "day_change_pct": -2.99,
         "open": 7360.5,
         "high": 7416.0,
-        "low": 7111.0,
-        "intraday_range_pct": 4.15,
-        "volume": 302734,
+        "low": 7089.0,
+        "intraday_range_pct": 4.45,
+        "volume": 410312,
         "avg_volume_20d": 389004,
-        "volume_vs_avg": 0.78,
-        "volatility_20d_annualised_pct": 28.84,
+        "volume_vs_avg": 1.05,
+        "volatility_20d_annualised_pct": 29.24,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7153500.0,
-        "pnl_inr": -112500.0,
-        "pnl_pct": -1.55
+        "market_value": 7129000.0,
+        "pnl_inr": -137000.0,
+        "pnl_pct": -1.89
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 34.36
+      "weight_pct": 34.43
     },
     {
       "key": "linde",
@@ -281,96 +281,96 @@
       "bse_code": "523457",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5939.0,
+        "close": 5924.5,
         "prev_close": 6003.5,
-        "day_change_pct": -1.07,
+        "day_change_pct": -1.32,
         "open": 5973.0,
         "high": 5998.5,
-        "low": 5932.0,
-        "intraday_range_pct": 1.11,
-        "volume": 3398,
+        "low": 5901.0,
+        "intraday_range_pct": 1.62,
+        "volume": 6269,
         "avg_volume_20d": 19096,
-        "volume_vs_avg": 0.18,
-        "volatility_20d_annualised_pct": 24.29,
+        "volume_vs_avg": 0.33,
+        "volatility_20d_annualised_pct": 24.41,
         "high_52w": 7847.5,
         "low_52w": 5695.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2969500.0,
-        "pnl_inr": -11000.0,
-        "pnl_pct": -0.37
+        "market_value": 2962250.0,
+        "pnl_inr": -18250.0,
+        "pnl_pct": -0.61
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 14.26
+      "weight_pct": 14.3
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10580130.0,
-      "weight_pct": 50.82
+      "value": 10528850.0,
+      "weight_pct": 50.84
     },
     {
       "sector": "Financials",
-      "value": 3239262.0,
-      "weight_pct": 15.56
+      "value": 3212744.46,
+      "weight_pct": 15.51
     },
     {
       "sector": "Consumer Internet",
-      "value": 3199513.37,
-      "weight_pct": 15.37
+      "value": 3173900.87,
+      "weight_pct": 15.33
     },
     {
       "sector": "Industrial Gases",
-      "value": 2969500.0,
-      "weight_pct": 14.26
+      "value": 2962250.0,
+      "weight_pct": 14.3
     },
     {
       "sector": "Cash",
       "value": 830469.49,
-      "weight_pct": 3.99
+      "weight_pct": 4.01
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10580130.0,
-      "weight_pct": 50.82
+      "value": 10528850.0,
+      "weight_pct": 50.84
     },
     {
       "sector": "Financials",
-      "value": 3239262.0,
-      "weight_pct": 15.56
+      "value": 3212744.46,
+      "weight_pct": 15.51
     },
     {
       "sector": "Consumer Internet",
-      "value": 3199513.37,
-      "weight_pct": 15.37
+      "value": 3173900.87,
+      "weight_pct": 15.33
     },
     {
       "sector": "Industrial Gases",
-      "value": 2969500.0,
-      "weight_pct": 14.26
+      "value": 2962250.0,
+      "weight_pct": 14.3
     },
     {
       "sector": "Cash",
       "value": 830469.49,
-      "weight_pct": 3.99
+      "weight_pct": 4.01
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linde India",
-      "pct": -0.37
+      "pct": -0.61
     },
     "worst_since_buy": {
       "name": "Eternal (Zomato)",
-      "pct": -4.0
+      "pct": -4.76
     },
     "top_mover_today": {
-      "name": "Eicher Motors",
-      "pct": -2.66
+      "name": "Eternal (Zomato)",
+      "pct": -3.25
     }
   },
   "transactions": [
