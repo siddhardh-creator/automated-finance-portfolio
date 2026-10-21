@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "21 Oct 2026, 01:10 PM IST",
+  "generated_at_ist": "21 Oct 2026, 02:33 PM IST",
   "as_of": "2026-10-21",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 21266000.0,
     "initial_capital": 10000000,
     "invested": 20391030.46,
-    "holdings_value": 19877745.33,
+    "holdings_value": 19792800.71,
     "cash": 830469.49,
-    "value": 20708214.82,
-    "pnl_inr": -557785.18,
-    "pnl_pct": -2.62,
-    "unrealised_pnl_inr": -513285.13,
+    "value": 20623270.2,
+    "pnl_inr": -642729.8,
+    "pnl_pct": -3.02,
+    "unrealised_pnl_inr": -598229.75,
     "realised_pnl_inr": -44500.05,
-    "day_pnl_inr": -424437.84,
-    "day_pnl_pct": -3.55,
+    "day_pnl_inr": -509382.46,
+    "day_pnl_pct": -4.26,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22734.2,
-    "return_pct": -0.9,
-    "day_change_pct": -0.68
+    "close": 22683.9,
+    "return_pct": -1.03,
+    "day_change_pct": -0.9
   },
   "stocks": [
     {
@@ -33,30 +33,48 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 702.7,
+        "close": 700.9,
         "prev_close": 712.0,
-        "day_change_pct": -1.31,
+        "day_change_pct": -1.56,
         "open": 709.55,
         "high": 715.4,
-        "low": 701.75,
-        "intraday_range_pct": 1.92,
-        "volume": 17357709,
+        "low": 698.25,
+        "intraday_range_pct": 2.41,
+        "volume": 21799148,
         "avg_volume_20d": 30668122,
-        "volume_vs_avg": 0.57,
-        "volatility_20d_annualised_pct": 23.58,
+        "volume_vs_avg": 0.71,
+        "volatility_20d_annualised_pct": 23.75,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3212744.46,
-        "pnl_inr": -119557.63,
-        "pnl_pct": -3.59
+        "market_value": 3204514.91,
+        "pnl_inr": -127787.18,
+        "pnl_pct": -3.83
       },
       "news": [
         {
-          "title": "HDFC Bank stock slips despite profit growth as street stays unimpressed",
+          "title": "HDFC Bank share price: 29% down in 2026, Anand Rathi says ‘Long road to catch-up’ | Check stock target price, reasons",
+          "source": "Livemint",
+          "published": "21 Oct 2026, 02:00 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYzlfVmNlOFBBQ1Zyc0QtZWo3Q0lVMFZiZmx2QnpmeV9WZzhkWFNQUThrZFplbkxSR2oyaEdoNEFVcnVLN3UyaE1sWm5fSEZKYU5RT3p3OXgwSkdPT0VNamdGb0RwYzlDUG5jX1hEeUhjRUZPejRBTVhKdTM0XzdETnJKUlRETFEtWWZkZFZwRl9qODlNV2xFVjJLNHloUnJkUEpvSVYxajhhTnQ2RDhxdkR3UXc1QVMyREdoNkVKY2E0ZGtvR2YwQTVCbVQ0eWtjclUzTFlNRV9xcE05dTlnOHd5OFk5c3VPRDFTWDRvRW4zc1FMT2RMUmVqUEZqd0NYNlJWc3RPQnhMR03SAZACQVVfeXFMUFhfUENZYjFvek5Fem15Nkp0d0VoWElfRWpBMk50X2VzTnRlTHAyRE9KSmZhSTdyOHItbE15ZWVCaDZxOUc1WjFRQmc3SkI3Zm1MM1RQR091Rlpzdk9qSEFXLXU3VVNGU2Z4RWlBejUwc1RobFE4QXJHdkMxQ05VSzdYZUdxeVJXb2V0QkRsaGcydFlKUzFGR0xpRFhoNkxVY1J0X2RxaXRkZ2xlSC1CRHZLOU1XU2RxRXdvWkx1eGR3eTJDOGFOSkdFbDNIaWZNcTlOSm9BWThRNHRuLUdFNUFmVzVzOWNXTzFvNFQxVnRmMVdDU2J3eHRCVEh4Z0F3UTNqOWVqMlVIM1BDUGVnNVc?oc=5"
+        },
+        {
+          "title": "India's HDFC Bank probe finds executives leaked confidential information, Bloomberg News reports",
+          "source": "Reuters",
+          "published": "21 Oct 2026, 01:45 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTAwOTR1Z2FTcGtPLWtCZjdPMER5XzQ4cUo0UnF6WE45bW5iaFBwRmxvb1FldlJZUno2VmducGdDa0hHdHNXbXNfd0tBRzdpMGE1SGJDWTk3akJtYjFtd3hrWGZHXzQ1RzNvUk5teXNNekROTHhMekxlSEFDZ3lNTVpaLWZkN1NjT1JXUC1KYUJWZFBuTGxzUDB4UmdkZGlOazRTQkd2YkZLREhhMkljNkkwLVpubHlaTDBr?oc=5"
+        },
+        {
+          "title": "HDFC Bank investigates two senior executives over alleged leak of business secrets",
+          "source": "The Economic Times",
+          "published": "21 Oct 2026, 01:36 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdkhrc201YUVTYU82bk9xTmZiNDV6blI4QkNwY1ZBOGFDTjNFRGZmbC03Y194UFZDb1MxWEdTTWl5UVpnS2l5eUFwdjhRYi1mN0Jla3U0SVdTdzlKVi1SekVENEwxeG9hRGdxTW1kV3JfaTVYNGhGbjFkUUdmRFBmN19vUWpwb0I1WUtJeTFHSVpIMzlpcVlTTk5PVGlxVnB4dzV4NGxtRkxtY19HZUtKQ1VRbjZESWk3VlpXUlRKbktyM2lpR1NLV2UzQklXcDZYYTBNOE9sQ2E1eW1iLVpDTkRXS005b2l2WmtVMFVKcnBvNjA5c1dUeTc3anA0MGVPdzBxWEF4UXhwaUFPT3prS21B0gGXAkFVX3lxTE1PTV9pWXoybWRycWFwMC1sUlhpMm1FdVhubFYzVlZzUnluZC16NUF1SEdqRGpuc0dxcjdTWHJHWjQ5TFVkclFIWXJoaGRXVDRScnRZQ0FLSjhEdHZEVER4LXZCRFc1MEdnN3B1ZC1HUFI1STBXZlduM09tVzlhaUJIRWxDeHM5ZlZFMFZQZms5ZzFGM24xdy1pNDlLTFRIOUNJTF9XR2RKTXBwQUNRUTVkS1phRWROMlVFVmw5RU1IcXp4SVN6UDl0MEtXVUtpWmtsTDZJZkV5ODFxY2Z0MndHTi1jMktWbVBIOFJQRG5SdDdIcU9wSFl0ZVE2V1JCTndxV254NEU2Mkc2OVIxaWJfaTZYNHRmOA?oc=5"
+        },
+        {
+          "title": "HDFC Bank shares stock fall despite profit growth as street stays unimpressed",
           "source": "BusinessLine",
-          "published": "21 Oct 2026, 12:20 PM IST",
+          "published": "21 Oct 2026, 01:14 PM IST",
           "link": "https://www.thehindubusinessline.com/markets/hdfc-bank-stock-slips-despite-profit-growth-as-street-stays-unimpressed/article71606549.ece"
         },
         {
@@ -64,28 +82,10 @@
           "source": "Livemint",
           "published": "21 Oct 2026, 06:00 AM IST",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEhybjAxWjc3Qy1YNUxpU1NzQVk2Ni1pV0hHRVhaeEhic3R0Zk5VTlB2M1VQNjFTX1UxYWxVRWI0ZDhYdm9ET1JEZW16VnBLYjFlN0trSlNiN01uNmRHb3l4RkdaZ1doRFlyR1lRaXlXSVd4VEVhbUs2eld2Sk82SmhTNmFIaGZINmJ3dzRpYjA3R01TaGNpQ3Jhek56cmhRRHp1VzhjONIBrAFBVV95cUxOOVFYN0hiYy1fUjl3U0otN3ZCa3VCdG16TDk3NmU1SVM2WUVia2t2cHJEZFZEQnBhVjBYeGh0UzEyTDlSSl9TdzRPeW54R0NuV0VuX09zM2pNanpvMGMwYkZua0VlVzM5UzFnNjIzcEpwR2VEYzhyckFhQndBVlh0U2ljVWNvdElNNi1XME95QV9zQ0ZndERaRVZ3YWxJOGJURURiX1NHQldYcUYx?oc=5"
-        },
-        {
-          "title": "Who is Lily Vadera? HDFC Bank reappoints former RBI executive director as Kaizad Bharucha seeks departure",
-          "source": "Livemint",
-          "published": "20 Oct 2026, 01:02 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbGF6RFpEQnZGTFBmRlBRT2pvVU0zR3NBWXl0ZDZQOThVemZHSHRoQkVhVGtQLWhpTWtmLWYxRWFNOGI0Si1NQnRsZmlWSzNmMkZqaEJhUGxKN0s3Q2NLbk41Z3FwRDFYaVh3aVFTQVZZWk81R1VsWXctdzd3amR4ZnFpUm9uamlzNXMyX2s4aEh4VFZqWklXRE5keDVkZ3JBNGI4NVJFcGNjSWpVbVRFRXNyME1hWnBtWGdMWEJoazVXd0NpUU03UVFMS24ycnRfTUIxeUpWNmFlZEwwTThmWHhjazRCSU12dnhzMlQxWVg2ZGRobV9QRmF30gH_AUFVX3lxTE1Ub3lQZDNUVjlnX3MyXzBmc1YwbkdCS1EzZFBVM041T0E5ZTU1MkdPWGQyekI4V0FhMHhRamtXOU1sVXh4eEo2c3ZyOVExUE9sOE5Demlob0xGNE9xOUNqbm1BRzFzVk9feW1BcW9UUFh4bDlvdmVyZmpoa1VuUW55VGtSZ3Q5Xzl4TWlNV3VuWlpWWjRhdktfaEMxckFjUnpNS0o0cU9BUW1kMUkzN09aRzJwVkdvaWhCRXhjczZFeU9iekJfN2stSXVoeDhSME1PX3dKcEFDZmE0SVRhOF9YMFhRbnkwYVpKU013WmhUbEwzazZXanZ0TmJtQWdsdw?oc=5"
-        },
-        {
-          "title": "HDFC Bank vs ICICI Bank share price targets: Check upside potential, returns, valuations — which stock should you buy?",
-          "source": "Livemint",
-          "published": "20 Oct 2026, 10:29 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdVdXR1JJSGViZm9tNU1HckVRRXBicTc3MnNqcWw5YjNKNVZOeWd6RmtIaks3SGNoUlJGU19aYXFPanZZRzBKN0NTQjlHMm13SlVra2lhdm5yMURXZEJOMDkxRl9wNG9NTHU4UnE0ZEhCTjF4NzFMUFQzdW1QTk5xN19pN1d3VWREZGpBekdDRGJmcGxzdVdzZDU1YUJlV0Vya2l4d1FzVEZRTlFSYVFDSVFNaFM5dXBuVHpzdkxNT2Z4dHhSLUNLM19SWHVOMklVM1ViS0psMEVKVTBuWU5lZFVfTm9ySmNWanhuSXppOERYbUwxcmNhaHRSUG9RRHg2OHdTY3ZCQk1PV2VLRGEw0gGUAkFVX3lxTE9nMjVEYUp4bEVjQnQySXQ1QlJHN3I1aEJqd0ZsbDdxNnp1LW5EWUZDa1YyVEZYRzFmVV9nSW9FbkhSQjY2REprMkMtNHRzZ3hPeTYxeXZXdVlxYzBLbU5fdWZyNkJMMnRvc3AzU0FqeWs2QlhTc3ZGeG1zcy0zdXJyWFRQeWJDYlZNRHFrNUtzU0k2R25qei11R1FDY3RfZG42Mm95dzBNX0tjUVlVYkE0bzVzZnpQWDhUbnY1MGpUMTdnM3JRTGxKbGlyZ21uZFI2cVpNRnhmc1JNZDNoZ2xKcnZyVTZoOWZHclg4YWNnNWpkLUJTSUtpRUF5T1JJRzAzalhISlZhN1FsNl9vZTBkQUYyaw?oc=5"
-        },
-        {
-          "title": "Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead",
-          "source": "The Economic Times",
-          "published": "20 Oct 2026, 06:04 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNUdsMnVnZzAxS2huQWctNi14VHR1dmVWQlR6RXRHRl9vSEZqTGpKUjFHclhncEExbGRFWk85OWQ1MzBoV1hvZlZkeGh3SnViNl9MRjVGQTdiajZVa3g5ZGhNWUk0VXRYRFdLV1hMbERFS2pURkt4SXNwOXFJU3hSUmtvNF8ya1BxRkkzUXpzbGpkbHFOTGFMSjRhZUcxeFlCZG9lRjR6UmZNdkRsT0l0RE4zbUt0WTN5QldSMnk3YmRhaVZOaXNPMnRLc3hFSEhHaU9JSnJqRF9RSUx3QUgwdHB2cHJVQdIB6wFBVV95cUxPVERYYkxlbzVZbGlyUWw5U3phak92eC1Xd2FMTi1JWUtHalB6RUlpTEJfcktfMURJT2Frc0tNM29TWC1aRGx6TGw0bkxWeFRmWjF3QXlSVU9NR1ZiTDA0eVZPb1hEeGtmR00wYWVRaXNXUnNackRXakdqZTExdWpRYkk3WDUzcmJiSHRvVk1jOWZZUWZ0WS1mRFdobFEzX0hCU0xrd1JxS21LeFJZWWQ4T2pXSmJiVVBXNThsd1padloxSDdUVm0wM2NHRUg1ZTJ4ZGlxaHMxTlREWk42YmFBT1o0bG1hX0pfdHNJ?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 15.51
+      "weight_pct": 15.54
     },
     {
       "key": "zomato",
@@ -95,59 +95,59 @@
       "bse_code": "543320",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 309.8,
+        "close": 306.35,
         "prev_close": 320.2,
-        "day_change_pct": -3.25,
+        "day_change_pct": -4.33,
         "open": 322.5,
         "high": 324.55,
-        "low": 309.5,
-        "intraday_range_pct": 4.7,
-        "volume": 13044572,
+        "low": 305.5,
+        "intraday_range_pct": 5.95,
+        "volume": 19229847,
         "avg_volume_20d": 21359935,
-        "volume_vs_avg": 0.61,
-        "volatility_20d_annualised_pct": 27.78,
+        "volume_vs_avg": 0.9,
+        "volatility_20d_annualised_pct": 29.46,
         "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3173900.87,
-        "pnl_inr": -158797.5,
-        "pnl_pct": -4.76
+        "market_value": 3138555.81,
+        "pnl_inr": -194142.56,
+        "pnl_pct": -5.83
       },
       "news": [
         {
           "title": "Q2 Results Today Live: KEI Industries, Eternal, Aditya Birla Sun Life AMC shares fall up to 4%; PC Jeweller gains ahead of earnings",
           "source": "BusinessLine",
-          "published": "21 Oct 2026, 12:46 PM IST",
+          "published": "21 Oct 2026, 01:29 PM IST",
           "link": "https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-eternal-adani-green-indian-hotels-srf-vishal-mega-mafrt-kei-ind-mampm-financial-services-pc-jeweller-company-results-21-october-2026/article71606182.ece"
         },
         {
-          "title": "Eternal Shares Slide Over 3% Ahead Of Q2 Results; What To Expect?",
+          "title": "After Temple device, Deepinder Goyal creates another buzz with Dark.ai teaser; says coming soon - What's this all about?",
+          "source": "Livemint",
+          "published": "21 Oct 2026, 01:22 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYjlndUs0V2x3a0QxTnMwamtnOVJJTmRDR1ZGY0xCQlRJWFBIMk8wY0haN245djFYRFdCQzkzZDk1WDZyOUVWVnBZMzdMenB5QTM3cVJjWWJZTGRNR2dfTWlyMF9feGhrcWxTc1JxZDNKV3ZtVktqTW1nLVZHbTliOXliSWtNTzBidmh4X19kUG94QnlCcmJhdG9jc3JKbVlDaHdUdVRKdE81Z19nQWhmT29CS3BiZlFqQXV1TE1vbEtvVXd6SC1leWc5NWF4aDN3Q0QzNFk1SHZudU1iVnk4ZGlDdC1FbHRYOUZselpqbWUwUkt20gH6AUFVX3lxTFBFYjhGbVlOZXZVMVhONnc4Q29KWW5WY2VOSXFZaHJYankzaDRWeFlTaVNZdUI0MEhTd0ZwZU9Xa3dQY0RjSXRyX0lvQTZfR2ZYUVd0aDc5bzRPbjNyUDAyRE5waHVxcFhobjBiTktNV2ctQVRjdkJfMXdHaW5lRTFRczVITFlWWVBlMktTU2V2ZG9TT0JUWDJlMGw5QktUVUxraDhZb1JERFFMRFp5bWlQSzMtbVRyTVllZFdtc19pZFJWcERGeGFZTTZtRDc0VEZyMjRZdjkyNkxXZkR2OVNkVVlLek5SWmQwQkdWN0xDQ2hoZXQ5TlJYcnc?oc=5"
+        },
+        {
+          "title": "Zomato-Parent Eternal Shares Slide Over 3% Ahead Of Q2 Results; What To Expect?",
           "source": "NDTV Profit",
           "published": "21 Oct 2026, 12:37 PM IST",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnduemlxR2V4QWwtc0xTV2lfRDdCeTc0aDYwSDkwOEViRkgweWF2azQwaHdSVnJPZlo4b2g3R0J5T1hySjk0YVJTeFJfM0FtSzBpVElkanNPZ2xFeWZic2lsUkU4WjF6WTNxLVg1bE5wSkhJU2hWY3BIVk5FcExDR3NJNmFMRjdCbElHZklleXRKV0Qwb3cxTWlyZldIcmtVUTlGQlRLVlo0MWNFR2dVNnpEYmNYZnJUWUFsRjFlUdIBxwFBVV95cUxQMXZrdTRmU2hKRVNHQTlLVy0xVU9RelNWN19XMllNUmJuaEVvcVVMTWdLbVVOZm8zV0dNczZvWEVxX201ZGcyaTVoa3Jib2NMb1pIazVOVHYtNFhVaUU4UGxhSWVGYnMyS0F5MUxXdUdMMzJjdU1QTnZQY1ZVUzJHVUZQcVVtZWwyd3VOTmZlTmtsVHgzaG5YdWUyOHl1NklNWDQwSU1mMmp3N1hMTzZ0cXdiZFo5d2lxY3BISVU3MWZlRmxsQTM0?oc=5"
         },
         {
           "title": "Eternal Q2 results 2026 today: 24% returns in 6 months | Preview | should you buy multibagger stock ahead of earnings?",
-          "source": "Mint",
+          "source": "Livemint",
           "published": "21 Oct 2026, 09:42 AM IST",
-          "link": "https://www.livemint.com/market/stock-market-news/eternal-q2-results-2026-today-24-returns-in-6-months-preview-should-you-buy-multibagger-stock-ahead-of-earnings-11792554165136.html"
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQnBqcmJYQnRGdXJsR1I4SlZ2STUxQnd3V1U5WXpZeXRVNVRRLVd1TGtjTldzUlZLQjBqaW92bnMtc21FRTA1MVoxalB5TXBNQnBsaHN3Y0lfMUFvNTlmbF9kT3YtSVFLV2hVWkpjZ2hmYjBHZ1l0NnJPcEZ4NHppT0h1dy1WbkhYM0xrN2x2bXkyWUl1V1ZDNjduVEFRRDNZSDlkOVcwOVc3NnhOYy1ocmhnZTl3NmRfUGJQYzVMQXExdzJpRFFKcURZVXNha3JUdnJVaFRoSXgxUUVBUmxybUVlQjBuUmVZMnJxQWU0TUxZR2JveU5BeWNSMXJKbWNGemVMYzhQVE55ZmptcHfSAZMCQVVfeXFMTzZrd0pmNXowUDhOTU5lbW4xdHBNbFBQTFViMGVYT0V4Wlg5OC12SDhPTHpmMURWY29GcDRha2pzUWd1bWVOZWZacGs4dDZUTlV5YTZ2dmdNZ0dIczFHRjBVc0JvZHRZUXA3NTVkR2Nsc09PYWNaeGJ5X3dQX2NXZkpTZXI1X3hsRkF3cTZwbk10dEVUbnI1MS1zc2xpd3E4TXpOeDBicC1Ca3pBYkdkX3N5V3BJdzY3U19XXzQwTWZ3cXl5TDlIQ2s3dzFHRC1SOWhKVTFrLXlWT1FPUlN4dlJfN3RxYjdfenQ3Q3ZoUGNZeUFPT1VRcUFEVERzT3d3Wm5TSkZ6eDktNHhha0N4ZXFxMmM?oc=5"
         },
         {
           "title": "Q2 results 2026 today: Eternal, Adani Green, Indian Hotels among 38 firms to announce quarterly earnings | Full list",
           "source": "Mint",
           "published": "21 Oct 2026, 08:56 AM IST",
           "link": "https://www.livemint.com/market/stock-market-news/q2-results-2026-today-eternal-adani-green-indian-hotels-among-38-firms-to-announce-quarterly-earnings-full-list-11792550102736.html"
-        },
-        {
-          "title": "Stocks to watch: Eternal, Hindustan Zinc, YES Bank, Bajaj Fin, IREDA, LTTS",
-          "source": "Business Standard",
-          "published": "21 Oct 2026, 08:11 AM IST",
-          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-eternal-hindustan-zinc-yes-bank-bajaj-fin-ireda-ltts-126102100091_1.html"
         }
       ],
       "announcements": [],
-      "weight_pct": 15.33
+      "weight_pct": 15.22
     },
     {
       "key": "maruti",
@@ -157,24 +157,24 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11224.0,
+        "close": 11177.0,
         "prev_close": 11475.0,
-        "day_change_pct": -2.19,
+        "day_change_pct": -2.6,
         "open": 11540.0,
         "high": 11555.0,
-        "low": 11203.0,
-        "intraday_range_pct": 3.07,
-        "volume": 258049,
+        "low": 11162.0,
+        "intraday_range_pct": 3.42,
+        "volume": 325250,
         "avg_volume_20d": 449082,
-        "volume_vs_avg": 0.57,
-        "volatility_20d_annualised_pct": 25.89,
+        "volume_vs_avg": 0.72,
+        "volatility_20d_annualised_pct": 26.3,
         "high_52w": 17292.0,
-        "low_52w": 11178.0,
+        "low_52w": 11177.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3254960.0,
-        "pnl_inr": -76850.0,
-        "pnl_pct": -2.31
+        "market_value": 3241330.0,
+        "pnl_inr": -90480.0,
+        "pnl_pct": -2.72
       },
       "news": [
         {
@@ -219,24 +219,24 @@
       "bse_code": "500477",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 144.89,
+        "close": 144.65,
         "prev_close": 147.72,
-        "day_change_pct": -1.92,
+        "day_change_pct": -2.08,
         "open": 147.72,
         "high": 148.3,
         "low": 144.03,
         "intraday_range_pct": 2.89,
-        "volume": 5298175,
+        "volume": 6193364,
         "avg_volume_20d": 12198758,
-        "volume_vs_avg": 0.43,
-        "volatility_20d_annualised_pct": 27.88,
+        "volume_vs_avg": 0.51,
+        "volatility_20d_annualised_pct": 27.99,
         "high_52w": 211.92,
         "low_52w": 136.24,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 144890.0,
-        "pnl_inr": -2830.0,
-        "pnl_pct": -1.92
+        "market_value": 144649.99,
+        "pnl_inr": -3070.01,
+        "pnl_pct": -2.08
       },
       "news": [],
       "announcements": [],
@@ -250,28 +250,28 @@
       "bse_code": "505200",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7129.0,
+        "close": 7118.0,
         "prev_close": 7349.0,
-        "day_change_pct": -2.99,
+        "day_change_pct": -3.14,
         "open": 7360.5,
         "high": 7416.0,
         "low": 7089.0,
         "intraday_range_pct": 4.45,
-        "volume": 410312,
+        "volume": 470901,
         "avg_volume_20d": 389004,
-        "volume_vs_avg": 1.05,
-        "volatility_20d_annualised_pct": 29.24,
+        "volume_vs_avg": 1.21,
+        "volatility_20d_annualised_pct": 29.43,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7129000.0,
-        "pnl_inr": -137000.0,
-        "pnl_pct": -1.89
+        "market_value": 7118000.0,
+        "pnl_inr": -148000.0,
+        "pnl_pct": -2.04
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 34.43
+      "weight_pct": 34.51
     },
     {
       "key": "linde",
@@ -281,96 +281,96 @@
       "bse_code": "523457",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5924.5,
+        "close": 5891.5,
         "prev_close": 6003.5,
-        "day_change_pct": -1.32,
+        "day_change_pct": -1.87,
         "open": 5973.0,
         "high": 5998.5,
-        "low": 5901.0,
-        "intraday_range_pct": 1.62,
-        "volume": 6269,
+        "low": 5883.5,
+        "intraday_range_pct": 1.92,
+        "volume": 8984,
         "avg_volume_20d": 19096,
-        "volume_vs_avg": 0.33,
-        "volatility_20d_annualised_pct": 24.41,
+        "volume_vs_avg": 0.47,
+        "volatility_20d_annualised_pct": 24.8,
         "high_52w": 7847.5,
         "low_52w": 5695.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2962250.0,
-        "pnl_inr": -18250.0,
-        "pnl_pct": -0.61
+        "market_value": 2945750.0,
+        "pnl_inr": -34750.0,
+        "pnl_pct": -1.17
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 14.3
+      "weight_pct": 14.28
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10528850.0,
-      "weight_pct": 50.84
+      "value": 10503979.99,
+      "weight_pct": 50.93
     },
     {
       "sector": "Financials",
-      "value": 3212744.46,
-      "weight_pct": 15.51
+      "value": 3204514.91,
+      "weight_pct": 15.54
     },
     {
       "sector": "Consumer Internet",
-      "value": 3173900.87,
-      "weight_pct": 15.33
+      "value": 3138555.81,
+      "weight_pct": 15.22
     },
     {
       "sector": "Industrial Gases",
-      "value": 2962250.0,
-      "weight_pct": 14.3
+      "value": 2945750.0,
+      "weight_pct": 14.28
     },
     {
       "sector": "Cash",
       "value": 830469.49,
-      "weight_pct": 4.01
+      "weight_pct": 4.03
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10528850.0,
-      "weight_pct": 50.84
+      "value": 10503979.99,
+      "weight_pct": 50.93
     },
     {
       "sector": "Financials",
-      "value": 3212744.46,
-      "weight_pct": 15.51
+      "value": 3204514.91,
+      "weight_pct": 15.54
     },
     {
       "sector": "Consumer Internet",
-      "value": 3173900.87,
-      "weight_pct": 15.33
+      "value": 3138555.81,
+      "weight_pct": 15.22
     },
     {
       "sector": "Industrial Gases",
-      "value": 2962250.0,
-      "weight_pct": 14.3
+      "value": 2945750.0,
+      "weight_pct": 14.28
     },
     {
       "sector": "Cash",
       "value": 830469.49,
-      "weight_pct": 4.01
+      "weight_pct": 4.03
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linde India",
-      "pct": -0.61
+      "pct": -1.17
     },
     "worst_since_buy": {
       "name": "Eternal (Zomato)",
-      "pct": -4.76
+      "pct": -5.83
     },
     "top_mover_today": {
       "name": "Eternal (Zomato)",
-      "pct": -3.25
+      "pct": -4.33
     }
   },
   "transactions": [

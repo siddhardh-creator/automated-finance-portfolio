@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 21 Oct 2026, 01:10 PM IST  |  **Market data as of:** 2026-10-21  |  **Start date:** 2026-10-16
+**Last updated:** 21 Oct 2026, 02:33 PM IST  |  **Market data as of:** 2026-10-21  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,13 +14,13 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,07,08,215** |
-| Total P&L | **-₹5,57,785 (-2.62%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹5,13,285 |
+| Current value | **₹2,06,23,270** |
+| Total P&L | **-₹6,42,730 (-3.02%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹5,98,230 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹44,500 |
-| Today's change | -₹4,24,438 (-3.55%) |
-| Nifty 50 since start (same money invested) | -0.90% |
-| Outperformance vs Nifty 50 | -1.72% |
+| Today's change | -₹5,09,382 (-4.26%) |
+| Nifty 50 since start (same money invested) | -1.03% |
+| Outperformance vs Nifty 50 | -1.99% |
 | Cash (uninvested) | ₹8,30,469 |
 | Virtual money put in | ₹2,12,66,000 |
 
@@ -32,14 +32,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹702.70 | -1.31% | ₹32,12,744 | 15.5% | -₹1,19,558 | -3.59% |
-| Eternal (Zomato) | 10,245 | ₹325.30 | ₹309.80 | -3.25% | ₹31,73,901 | 15.3% | -₹1,58,798 | -4.76% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,224.00 | -2.19% | ₹32,54,960 | 15.7% | -₹76,850 | -2.31% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹144.89 | -1.92% | ₹1,44,890 | 0.7% | -₹2,830 | -1.92% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,129.00 | -2.99% | ₹71,29,000 | 34.4% | -₹1,37,000 | -1.89% |
-| Linde India | 500 | ₹5,961.00 | ₹5,924.50 | -1.32% | ₹29,62,250 | 14.3% | -₹18,250 | -0.61% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹700.90 | -1.56% | ₹32,04,515 | 15.5% | -₹1,27,787 | -3.83% |
+| Eternal (Zomato) | 10,245 | ₹325.30 | ₹306.35 | -4.33% | ₹31,38,556 | 15.2% | -₹1,94,143 | -5.83% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,177.00 | -2.60% | ₹32,41,330 | 15.7% | -₹90,480 | -2.72% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹144.65 | -2.08% | ₹1,44,650 | 0.7% | -₹3,070 | -2.08% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,118.00 | -3.14% | ₹71,18,000 | 34.5% | -₹1,48,000 | -2.04% |
+| Linde India | 500 | ₹5,961.00 | ₹5,891.50 | -1.87% | ₹29,45,750 | 14.3% | -₹34,750 | -1.17% |
 
-**Best since buy:** Linde India (-0.61%)  ·  **Worst since buy:** Eternal (Zomato) (-4.76%)  ·  **Biggest mover today:** Eternal (Zomato) (-3.25%)
+**Best since buy:** Linde India (-1.17%)  ·  **Worst since buy:** Eternal (Zomato) (-5.83%)  ·  **Biggest mover today:** Eternal (Zomato) (-4.33%)
 
 ## Allocation
 
@@ -47,10 +47,10 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,05,28,850 | 50.8% |
-| Financials | ₹32,12,744 | 15.5% |
-| Consumer Internet | ₹31,73,901 | 15.3% |
-| Industrial Gases | ₹29,62,250 | 14.3% |
+| Automobiles | ₹1,05,03,980 | 50.9% |
+| Financials | ₹32,04,515 | 15.5% |
+| Consumer Internet | ₹31,38,556 | 15.2% |
+| Industrial Gases | ₹29,45,750 | 14.3% |
 | Cash | ₹8,30,469 | 4.0% |
 
 ## Performance
@@ -101,7 +101,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹702.70 | -1.31% | ₹701.75 - ₹715.40 | 17,357,709 | 30,668,122 | 0.57x | 23.58% | ₹687.10 - ₹1,009.50 |
+| ₹700.90 | -1.56% | ₹698.25 - ₹715.40 | 21,799,148 | 30,668,122 | 0.71x | 23.75% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -116,11 +116,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [HDFC Bank stock slips despite profit growth as street stays unimpressed](https://www.thehindubusinessline.com/markets/hdfc-bank-stock-slips-despite-profit-growth-as-street-stays-unimpressed/article71606549.ece) - _BusinessLine, 21 Oct 2026, 12:20 PM IST_
+- [HDFC Bank share price: 29% down in 2026, Anand Rathi says ‘Long road to catch-up’ | Check stock target price, reasons](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYzlfVmNlOFBBQ1Zyc0QtZWo3Q0lVMFZiZmx2QnpmeV9WZzhkWFNQUThrZFplbkxSR2oyaEdoNEFVcnVLN3UyaE1sWm5fSEZKYU5RT3p3OXgwSkdPT0VNamdGb0RwYzlDUG5jX1hEeUhjRUZPejRBTVhKdTM0XzdETnJKUlRETFEtWWZkZFZwRl9qODlNV2xFVjJLNHloUnJkUEpvSVYxajhhTnQ2RDhxdkR3UXc1QVMyREdoNkVKY2E0ZGtvR2YwQTVCbVQ0eWtjclUzTFlNRV9xcE05dTlnOHd5OFk5c3VPRDFTWDRvRW4zc1FMT2RMUmVqUEZqd0NYNlJWc3RPQnhMR03SAZACQVVfeXFMUFhfUENZYjFvek5Fem15Nkp0d0VoWElfRWpBMk50X2VzTnRlTHAyRE9KSmZhSTdyOHItbE15ZWVCaDZxOUc1WjFRQmc3SkI3Zm1MM1RQR091Rlpzdk9qSEFXLXU3VVNGU2Z4RWlBejUwc1RobFE4QXJHdkMxQ05VSzdYZUdxeVJXb2V0QkRsaGcydFlKUzFGR0xpRFhoNkxVY1J0X2RxaXRkZ2xlSC1CRHZLOU1XU2RxRXdvWkx1eGR3eTJDOGFOSkdFbDNIaWZNcTlOSm9BWThRNHRuLUdFNUFmVzVzOWNXTzFvNFQxVnRmMVdDU2J3eHRCVEh4Z0F3UTNqOWVqMlVIM1BDUGVnNVc?oc=5) - _Livemint, 21 Oct 2026, 02:00 PM IST_
+- [India's HDFC Bank probe finds executives leaked confidential information, Bloomberg News reports](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTAwOTR1Z2FTcGtPLWtCZjdPMER5XzQ4cUo0UnF6WE45bW5iaFBwRmxvb1FldlJZUno2VmducGdDa0hHdHNXbXNfd0tBRzdpMGE1SGJDWTk3akJtYjFtd3hrWGZHXzQ1RzNvUk5teXNNekROTHhMekxlSEFDZ3lNTVpaLWZkN1NjT1JXUC1KYUJWZFBuTGxzUDB4UmdkZGlOazRTQkd2YkZLREhhMkljNkkwLVpubHlaTDBr?oc=5) - _Reuters, 21 Oct 2026, 01:45 PM IST_
+- [HDFC Bank investigates two senior executives over alleged leak of business secrets](https://news.google.com/rss/articles/CBMikgJBVV95cUxOdkhrc201YUVTYU82bk9xTmZiNDV6blI4QkNwY1ZBOGFDTjNFRGZmbC03Y194UFZDb1MxWEdTTWl5UVpnS2l5eUFwdjhRYi1mN0Jla3U0SVdTdzlKVi1SekVENEwxeG9hRGdxTW1kV3JfaTVYNGhGbjFkUUdmRFBmN19vUWpwb0I1WUtJeTFHSVpIMzlpcVlTTk5PVGlxVnB4dzV4NGxtRkxtY19HZUtKQ1VRbjZESWk3VlpXUlRKbktyM2lpR1NLV2UzQklXcDZYYTBNOE9sQ2E1eW1iLVpDTkRXS005b2l2WmtVMFVKcnBvNjA5c1dUeTc3anA0MGVPdzBxWEF4UXhwaUFPT3prS21B0gGXAkFVX3lxTE1PTV9pWXoybWRycWFwMC1sUlhpMm1FdVhubFYzVlZzUnluZC16NUF1SEdqRGpuc0dxcjdTWHJHWjQ5TFVkclFIWXJoaGRXVDRScnRZQ0FLSjhEdHZEVER4LXZCRFc1MEdnN3B1ZC1HUFI1STBXZlduM09tVzlhaUJIRWxDeHM5ZlZFMFZQZms5ZzFGM24xdy1pNDlLTFRIOUNJTF9XR2RKTXBwQUNRUTVkS1phRWROMlVFVmw5RU1IcXp4SVN6UDl0MEtXVUtpWmtsTDZJZkV5ODFxY2Z0MndHTi1jMktWbVBIOFJQRG5SdDdIcU9wSFl0ZVE2V1JCTndxV254NEU2Mkc2OVIxaWJfaTZYNHRmOA?oc=5) - _The Economic Times, 21 Oct 2026, 01:36 PM IST_
+- [HDFC Bank shares stock fall despite profit growth as street stays unimpressed](https://www.thehindubusinessline.com/markets/hdfc-bank-stock-slips-despite-profit-growth-as-street-stays-unimpressed/article71606549.ece) - _BusinessLine, 21 Oct 2026, 01:14 PM IST_
 - [HDFC Bank has green shoots beyond Q2](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEhybjAxWjc3Qy1YNUxpU1NzQVk2Ni1pV0hHRVhaeEhic3R0Zk5VTlB2M1VQNjFTX1UxYWxVRWI0ZDhYdm9ET1JEZW16VnBLYjFlN0trSlNiN01uNmRHb3l4RkdaZ1doRFlyR1lRaXlXSVd4VEVhbUs2eld2Sk82SmhTNmFIaGZINmJ3dzRpYjA3R01TaGNpQ3Jhek56cmhRRHp1VzhjONIBrAFBVV95cUxOOVFYN0hiYy1fUjl3U0otN3ZCa3VCdG16TDk3NmU1SVM2WUVia2t2cHJEZFZEQnBhVjBYeGh0UzEyTDlSSl9TdzRPeW54R0NuV0VuX09zM2pNanpvMGMwYkZua0VlVzM5UzFnNjIzcEpwR2VEYzhyckFhQndBVlh0U2ljVWNvdElNNi1XME95QV9zQ0ZndERaRVZ3YWxJOGJURURiX1NHQldYcUYx?oc=5) - _Livemint, 21 Oct 2026, 06:00 AM IST_
-- [Who is Lily Vadera? HDFC Bank reappoints former RBI executive director as Kaizad Bharucha seeks departure](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbGF6RFpEQnZGTFBmRlBRT2pvVU0zR3NBWXl0ZDZQOThVemZHSHRoQkVhVGtQLWhpTWtmLWYxRWFNOGI0Si1NQnRsZmlWSzNmMkZqaEJhUGxKN0s3Q2NLbk41Z3FwRDFYaVh3aVFTQVZZWk81R1VsWXctdzd3amR4ZnFpUm9uamlzNXMyX2s4aEh4VFZqWklXRE5keDVkZ3JBNGI4NVJFcGNjSWpVbVRFRXNyME1hWnBtWGdMWEJoazVXd0NpUU03UVFMS24ycnRfTUIxeUpWNmFlZEwwTThmWHhjazRCSU12dnhzMlQxWVg2ZGRobV9QRmF30gH_AUFVX3lxTE1Ub3lQZDNUVjlnX3MyXzBmc1YwbkdCS1EzZFBVM041T0E5ZTU1MkdPWGQyekI4V0FhMHhRamtXOU1sVXh4eEo2c3ZyOVExUE9sOE5Demlob0xGNE9xOUNqbm1BRzFzVk9feW1BcW9UUFh4bDlvdmVyZmpoa1VuUW55VGtSZ3Q5Xzl4TWlNV3VuWlpWWjRhdktfaEMxckFjUnpNS0o0cU9BUW1kMUkzN09aRzJwVkdvaWhCRXhjczZFeU9iekJfN2stSXVoeDhSME1PX3dKcEFDZmE0SVRhOF9YMFhRbnkwYVpKU013WmhUbEwzazZXanZ0TmJtQWdsdw?oc=5) - _Livemint, 20 Oct 2026, 01:02 PM IST_
-- [HDFC Bank vs ICICI Bank share price targets: Check upside potential, returns, valuations — which stock should you buy?](https://news.google.com/rss/articles/CBMijwJBVV95cUxNdVdXR1JJSGViZm9tNU1HckVRRXBicTc3MnNqcWw5YjNKNVZOeWd6RmtIaks3SGNoUlJGU19aYXFPanZZRzBKN0NTQjlHMm13SlVra2lhdm5yMURXZEJOMDkxRl9wNG9NTHU4UnE0ZEhCTjF4NzFMUFQzdW1QTk5xN19pN1d3VWREZGpBekdDRGJmcGxzdVdzZDU1YUJlV0Vya2l4d1FzVEZRTlFSYVFDSVFNaFM5dXBuVHpzdkxNT2Z4dHhSLUNLM19SWHVOMklVM1ViS0psMEVKVTBuWU5lZFVfTm9ySmNWanhuSXppOERYbUwxcmNhaHRSUG9RRHg2OHdTY3ZCQk1PV2VLRGEw0gGUAkFVX3lxTE9nMjVEYUp4bEVjQnQySXQ1QlJHN3I1aEJqd0ZsbDdxNnp1LW5EWUZDa1YyVEZYRzFmVV9nSW9FbkhSQjY2REprMkMtNHRzZ3hPeTYxeXZXdVlxYzBLbU5fdWZyNkJMMnRvc3AzU0FqeWs2QlhTc3ZGeG1zcy0zdXJyWFRQeWJDYlZNRHFrNUtzU0k2R25qei11R1FDY3RfZG42Mm95dzBNX0tjUVlVYkE0bzVzZnpQWDhUbnY1MGpUMTdnM3JRTGxKbGlyZ21uZFI2cVpNRnhmc1JNZDNoZ2xKcnZyVTZoOWZHclg4YWNnNWpkLUJTSUtpRUF5T1JJRzAzalhISlZhN1FsNl9vZTBkQUYyaw?oc=5) - _Livemint, 20 Oct 2026, 10:29 AM IST_
-- [Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNUdsMnVnZzAxS2huQWctNi14VHR1dmVWQlR6RXRHRl9vSEZqTGpKUjFHclhncEExbGRFWk85OWQ1MzBoV1hvZlZkeGh3SnViNl9MRjVGQTdiajZVa3g5ZGhNWUk0VXRYRFdLV1hMbERFS2pURkt4SXNwOXFJU3hSUmtvNF8ya1BxRkkzUXpzbGpkbHFOTGFMSjRhZUcxeFlCZG9lRjR6UmZNdkRsT0l0RE4zbUt0WTN5QldSMnk3YmRhaVZOaXNPMnRLc3hFSEhHaU9JSnJqRF9RSUx3QUgwdHB2cHJVQdIB6wFBVV95cUxPVERYYkxlbzVZbGlyUWw5U3phak92eC1Xd2FMTi1JWUtHalB6RUlpTEJfcktfMURJT2Frc0tNM29TWC1aRGx6TGw0bkxWeFRmWjF3QXlSVU9NR1ZiTDA0eVZPb1hEeGtmR00wYWVRaXNXUnNackRXakdqZTExdWpRYkk3WDUzcmJiSHRvVk1jOWZZUWZ0WS1mRFdobFEzX0hCU0xrd1JxS21LeFJZWWQ4T2pXSmJiVVBXNThsd1padloxSDdUVm0wM2NHRUg1ZTJ4ZGlxaHMxTlREWk42YmFBT1o0bG1hX0pfdHNJ?oc=5) - _The Economic Times, 20 Oct 2026, 06:04 AM IST_
 
 </details>
 
@@ -134,7 +134,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹309.80 | -3.25% | ₹309.50 - ₹324.55 | 13,044,572 | 21,359,935 | 0.61x | 27.78% | ₹215.68 - ₹342.65 |
+| ₹306.35 | -4.33% | ₹305.50 - ₹324.55 | 19,229,847 | 21,359,935 | 0.9x | 29.46% | ₹215.68 - ₹342.65 |
 
 **Research reports**
 
@@ -149,11 +149,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Q2 Results Today Live: KEI Industries, Eternal, Aditya Birla Sun Life AMC shares fall up to 4%; PC Jeweller gains ahead of earnings](https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-eternal-adani-green-indian-hotels-srf-vishal-mega-mafrt-kei-ind-mampm-financial-services-pc-jeweller-company-results-21-october-2026/article71606182.ece) - _BusinessLine, 21 Oct 2026, 12:46 PM IST_
-- [Eternal Shares Slide Over 3% Ahead Of Q2 Results; What To Expect?](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnduemlxR2V4QWwtc0xTV2lfRDdCeTc0aDYwSDkwOEViRkgweWF2azQwaHdSVnJPZlo4b2g3R0J5T1hySjk0YVJTeFJfM0FtSzBpVElkanNPZ2xFeWZic2lsUkU4WjF6WTNxLVg1bE5wSkhJU2hWY3BIVk5FcExDR3NJNmFMRjdCbElHZklleXRKV0Qwb3cxTWlyZldIcmtVUTlGQlRLVlo0MWNFR2dVNnpEYmNYZnJUWUFsRjFlUdIBxwFBVV95cUxQMXZrdTRmU2hKRVNHQTlLVy0xVU9RelNWN19XMllNUmJuaEVvcVVMTWdLbVVOZm8zV0dNczZvWEVxX201ZGcyaTVoa3Jib2NMb1pIazVOVHYtNFhVaUU4UGxhSWVGYnMyS0F5MUxXdUdMMzJjdU1QTnZQY1ZVUzJHVUZQcVVtZWwyd3VOTmZlTmtsVHgzaG5YdWUyOHl1NklNWDQwSU1mMmp3N1hMTzZ0cXdiZFo5d2lxY3BISVU3MWZlRmxsQTM0?oc=5) - _NDTV Profit, 21 Oct 2026, 12:37 PM IST_
-- [Eternal Q2 results 2026 today: 24% returns in 6 months | Preview | should you buy multibagger stock ahead of earnings?](https://www.livemint.com/market/stock-market-news/eternal-q2-results-2026-today-24-returns-in-6-months-preview-should-you-buy-multibagger-stock-ahead-of-earnings-11792554165136.html) - _Mint, 21 Oct 2026, 09:42 AM IST_
+- [Q2 Results Today Live: KEI Industries, Eternal, Aditya Birla Sun Life AMC shares fall up to 4%; PC Jeweller gains ahead of earnings](https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-eternal-adani-green-indian-hotels-srf-vishal-mega-mafrt-kei-ind-mampm-financial-services-pc-jeweller-company-results-21-october-2026/article71606182.ece) - _BusinessLine, 21 Oct 2026, 01:29 PM IST_
+- [After Temple device, Deepinder Goyal creates another buzz with Dark.ai teaser; says coming soon - What's this all about?](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYjlndUs0V2x3a0QxTnMwamtnOVJJTmRDR1ZGY0xCQlRJWFBIMk8wY0haN245djFYRFdCQzkzZDk1WDZyOUVWVnBZMzdMenB5QTM3cVJjWWJZTGRNR2dfTWlyMF9feGhrcWxTc1JxZDNKV3ZtVktqTW1nLVZHbTliOXliSWtNTzBidmh4X19kUG94QnlCcmJhdG9jc3JKbVlDaHdUdVRKdE81Z19nQWhmT29CS3BiZlFqQXV1TE1vbEtvVXd6SC1leWc5NWF4aDN3Q0QzNFk1SHZudU1iVnk4ZGlDdC1FbHRYOUZselpqbWUwUkt20gH6AUFVX3lxTFBFYjhGbVlOZXZVMVhONnc4Q29KWW5WY2VOSXFZaHJYankzaDRWeFlTaVNZdUI0MEhTd0ZwZU9Xa3dQY0RjSXRyX0lvQTZfR2ZYUVd0aDc5bzRPbjNyUDAyRE5waHVxcFhobjBiTktNV2ctQVRjdkJfMXdHaW5lRTFRczVITFlWWVBlMktTU2V2ZG9TT0JUWDJlMGw5QktUVUxraDhZb1JERFFMRFp5bWlQSzMtbVRyTVllZFdtc19pZFJWcERGeGFZTTZtRDc0VEZyMjRZdjkyNkxXZkR2OVNkVVlLek5SWmQwQkdWN0xDQ2hoZXQ5TlJYcnc?oc=5) - _Livemint, 21 Oct 2026, 01:22 PM IST_
+- [Zomato-Parent Eternal Shares Slide Over 3% Ahead Of Q2 Results; What To Expect?](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnduemlxR2V4QWwtc0xTV2lfRDdCeTc0aDYwSDkwOEViRkgweWF2azQwaHdSVnJPZlo4b2g3R0J5T1hySjk0YVJTeFJfM0FtSzBpVElkanNPZ2xFeWZic2lsUkU4WjF6WTNxLVg1bE5wSkhJU2hWY3BIVk5FcExDR3NJNmFMRjdCbElHZklleXRKV0Qwb3cxTWlyZldIcmtVUTlGQlRLVlo0MWNFR2dVNnpEYmNYZnJUWUFsRjFlUdIBxwFBVV95cUxQMXZrdTRmU2hKRVNHQTlLVy0xVU9RelNWN19XMllNUmJuaEVvcVVMTWdLbVVOZm8zV0dNczZvWEVxX201ZGcyaTVoa3Jib2NMb1pIazVOVHYtNFhVaUU4UGxhSWVGYnMyS0F5MUxXdUdMMzJjdU1QTnZQY1ZVUzJHVUZQcVVtZWwyd3VOTmZlTmtsVHgzaG5YdWUyOHl1NklNWDQwSU1mMmp3N1hMTzZ0cXdiZFo5d2lxY3BISVU3MWZlRmxsQTM0?oc=5) - _NDTV Profit, 21 Oct 2026, 12:37 PM IST_
+- [Eternal Q2 results 2026 today: 24% returns in 6 months | Preview | should you buy multibagger stock ahead of earnings?](https://news.google.com/rss/articles/CBMijgJBVV95cUxOQnBqcmJYQnRGdXJsR1I4SlZ2STUxQnd3V1U5WXpZeXRVNVRRLVd1TGtjTldzUlZLQjBqaW92bnMtc21FRTA1MVoxalB5TXBNQnBsaHN3Y0lfMUFvNTlmbF9kT3YtSVFLV2hVWkpjZ2hmYjBHZ1l0NnJPcEZ4NHppT0h1dy1WbkhYM0xrN2x2bXkyWUl1V1ZDNjduVEFRRDNZSDlkOVcwOVc3NnhOYy1ocmhnZTl3NmRfUGJQYzVMQXExdzJpRFFKcURZVXNha3JUdnJVaFRoSXgxUUVBUmxybUVlQjBuUmVZMnJxQWU0TUxZR2JveU5BeWNSMXJKbWNGemVMYzhQVE55ZmptcHfSAZMCQVVfeXFMTzZrd0pmNXowUDhOTU5lbW4xdHBNbFBQTFViMGVYT0V4Wlg5OC12SDhPTHpmMURWY29GcDRha2pzUWd1bWVOZWZacGs4dDZUTlV5YTZ2dmdNZ0dIczFHRjBVc0JvZHRZUXA3NTVkR2Nsc09PYWNaeGJ5X3dQX2NXZkpTZXI1X3hsRkF3cTZwbk10dEVUbnI1MS1zc2xpd3E4TXpOeDBicC1Ca3pBYkdkX3N5V3BJdzY3U19XXzQwTWZ3cXl5TDlIQ2s3dzFHRC1SOWhKVTFrLXlWT1FPUlN4dlJfN3RxYjdfenQ3Q3ZoUGNZeUFPT1VRcUFEVERzT3d3Wm5TSkZ6eDktNHhha0N4ZXFxMmM?oc=5) - _Livemint, 21 Oct 2026, 09:42 AM IST_
 - [Q2 results 2026 today: Eternal, Adani Green, Indian Hotels among 38 firms to announce quarterly earnings | Full list](https://www.livemint.com/market/stock-market-news/q2-results-2026-today-eternal-adani-green-indian-hotels-among-38-firms-to-announce-quarterly-earnings-full-list-11792550102736.html) - _Mint, 21 Oct 2026, 08:56 AM IST_
-- [Stocks to watch: Eternal, Hindustan Zinc, YES Bank, Bajaj Fin, IREDA, LTTS](https://www.business-standard.com/markets/news/stocks-to-watch-eternal-hindustan-zinc-yes-bank-bajaj-fin-ireda-ltts-126102100091_1.html) - _Business Standard, 21 Oct 2026, 08:11 AM IST_
 
 </details>
 
@@ -167,7 +167,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,224.00 | -2.19% | ₹11,203.00 - ₹11,555.00 | 258,049 | 449,082 | 0.57x | 25.89% | ₹11,178.00 - ₹17,292.00 |
+| ₹11,177.00 | -2.60% | ₹11,162.00 - ₹11,555.00 | 325,250 | 449,082 | 0.72x | 26.30% | ₹11,177.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -200,7 +200,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹144.89 | -1.92% | ₹144.03 - ₹148.30 | 5,298,175 | 12,198,758 | 0.43x | 27.88% | ₹136.24 - ₹211.92 |
+| ₹144.65 | -2.08% | ₹144.03 - ₹148.30 | 6,193,364 | 12,198,758 | 0.51x | 27.99% | ₹136.24 - ₹211.92 |
 
 **Research reports**
 
@@ -229,7 +229,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,129.00 | -2.99% | ₹7,089.00 - ₹7,416.00 | 410,312 | 389,004 | 1.05x | 29.24% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,118.00 | -3.14% | ₹7,089.00 - ₹7,416.00 | 470,901 | 389,004 | 1.21x | 29.43% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -257,7 +257,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,924.50 | -1.32% | ₹5,901.00 - ₹5,998.50 | 6,269 | 19,096 | 0.33x | 24.41% | ₹5,695.50 - ₹7,847.50 |
+| ₹5,891.50 | -1.87% | ₹5,883.50 - ₹5,998.50 | 8,984 | 19,096 | 0.47x | 24.80% | ₹5,695.50 - ₹7,847.50 |
 
 **Research reports**
 
