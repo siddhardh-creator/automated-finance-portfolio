@@ -10,3 +10,5 @@ date,stock,type,shares,amount,price,note
 2026-10-21,,DEPOSIT,,7266000,,Fresh virtual money to fund Eicher Motors
 2026-10-21,eicher,BUY,1000,,7266.00,Bought 21-Oct-26 at live NSE price 7266.00 (10:00:26 AM IST; source NSE_CMDATA)
 2026-10-21,fiem,BUY,1000,,1813.60,Bought 21-Oct-26 at live NSE price 1813.60 (10:00:26 AM IST; source NSE_CMDATA; 9:40 AM run did not execute)
+2026-10-21,manorama,SELL,1000,,1749.00,Sold 21-Oct-26 at live NSE price 1749.00 (10:03:32 AM IST; source NSE_CMDATA)
+2026-10-21,fiem,SELL,1000,,1816.90,Sold 21-Oct-26 at live NSE price 1816.90 (10:03:32 AM IST; source NSE_CMDATA)
