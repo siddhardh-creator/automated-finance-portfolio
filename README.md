@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 21 Oct 2026, 09:32 AM IST  |  **Market data as of:** 2026-10-21  |  **Start date:** 2026-10-16
+**Last updated:** 21 Oct 2026, 10:34 AM IST  |  **Market data as of:** 2026-10-21  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,15 +14,15 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹1,38,29,460** |
-| Total P&L | **-₹1,70,540 (-1.22%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹1,70,540 |
-| &nbsp;&nbsp;Realised (shares already sold) | ₹0 |
-| Today's change | -₹37,193 (-0.31%) |
-| Nifty 50 since start (same money invested) | -0.04% |
-| Outperformance vs Nifty 50 | -1.18% |
-| Cash (uninvested) | ₹20,58,669 |
-| Virtual money put in | ₹1,40,00,000 |
+| Current value | **₹2,09,66,274** |
+| Total P&L | **-₹2,99,726 (-1.41%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹2,55,226 |
+| &nbsp;&nbsp;Realised (shares already sold) | -₹44,500 |
+| Today's change | -₹1,66,379 (-1.39%) |
+| Nifty 50 since start (same money invested) | -0.32% |
+| Outperformance vs Nifty 50 | -1.09% |
+| Cash (uninvested) | ₹38,10,969 |
+| Virtual money put in | ₹2,12,66,000 |
 
 ![Portfolio vs Nifty](charts/portfolio_vs_nifty.png)
 
@@ -32,13 +32,13 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹714.25 | +0.32% | ₹32,65,551 | 23.6% | -₹66,751 | -2.00% |
-| Eternal (Zomato) | 10,245 | ₹325.30 | ₹321.55 | +0.42% | ₹32,94,280 | 23.8% | -₹38,419 | -1.15% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,532.00 | +0.50% | ₹33,44,280 | 24.2% | ₹12,470 | +0.37% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹147.58 | -0.09% | ₹1,47,580 | 1.1% | -₹140 | -0.09% |
-| Manorama Industries | 1,000 | ₹1,796.80 | ₹1,719.10 | -4.32% | ₹17,19,100 | 12.4% | -₹77,700 | -4.32% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹711.25 | -0.11% | ₹32,51,835 | 15.5% | -₹80,467 | -2.41% |
+| Eternal (Zomato) | 10,245 | ₹325.30 | ₹316.20 | -1.25% | ₹32,39,469 | 15.4% | -₹93,229 | -2.80% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,345.00 | -1.13% | ₹32,90,050 | 15.7% | -₹41,760 | -1.25% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹146.95 | -0.52% | ₹1,46,950 | 0.7% | -₹770 | -0.52% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,227.00 | -1.66% | ₹72,27,000 | 34.5% | -₹39,000 | -0.54% |
 
-**Best since buy:** Maruti Suzuki (+0.37%)  ·  **Worst since buy:** Manorama Industries (-4.32%)  ·  **Biggest mover today:** Manorama Industries (-4.32%)
+**Best since buy:** Ashok Leyland (-0.52%)  ·  **Worst since buy:** Eternal (Zomato) (-2.80%)  ·  **Biggest mover today:** Eicher Motors (-1.66%)
 
 ## Allocation
 
@@ -46,11 +46,10 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹34,91,860 | 25.2% |
-| Consumer Internet | ₹32,94,280 | 23.8% |
-| Financials | ₹32,65,551 | 23.6% |
-| Cash | ₹20,58,669 | 14.9% |
-| Specialty Fats (FMCG inputs) | ₹17,19,100 | 12.4% |
+| Automobiles | ₹1,06,64,000 | 50.9% |
+| Cash | ₹38,10,969 | 18.2% |
+| Financials | ₹32,51,835 | 15.5% |
+| Consumer Internet | ₹32,39,469 | 15.4% |
 
 ## Performance
 
@@ -58,10 +57,15 @@ _▲ buy · ▼ sell_
 
 ## Trade book
 
-<details open><summary><b>Transaction history</b> - 8 entries, newest first</summary>
+<details><summary><b>Transaction history</b> - 13 entries, newest first</summary>
 
 | Date | Stock | Type | Shares | Price | Amount | Note |
 |---|---|---|---:|---:|---:|---|
+| 2026-10-21 | Fiem Industries | SELL | 1,000 | ₹1,816.90 | ₹18,16,900 | Sold 21-Oct-26 at live NSE price 1816.90 (10:03:32 AM IST; source NSE_CMDATA) |
+| 2026-10-21 | Manorama Industries | SELL | 1,000 | ₹1,749.00 | ₹17,49,000 | Sold 21-Oct-26 at live NSE price 1749.00 (10:03:32 AM IST; source NSE_CMDATA) |
+| 2026-10-21 | Fiem Industries | BUY | 1,000 | ₹1,813.60 | ₹18,13,600 | Bought 21-Oct-26 at live NSE price 1813.60 (10:00:26 AM IST; source NSE_CMDATA; 9:40 AM run did not execute) |
+| 2026-10-21 | Eicher Motors | BUY | 1,000 | ₹7,266.00 | ₹72,66,000 | Bought 21-Oct-26 at live NSE price 7266.00 (10:00:26 AM IST; source NSE_CMDATA) |
+| 2026-10-21 | - | DEPOSIT | - | - | ₹72,66,000 | Fresh virtual money to fund Eicher Motors |
 | 2026-10-20 | - | DEPOSIT | - | - | ₹19,00,000 | Fresh virtual money to fund Fiem Industries |
 | 2026-10-19 | Manorama Industries | BUY | 1,000 | ₹1,796.80 | ₹17,96,800 | Added on 19-Oct-26 (CMP 1790.40 per Trendlyne) |
 | 2026-10-19 | - | DEPOSIT | - | - | ₹18,00,000 | Fresh virtual money to fund Manorama Industries |
@@ -73,9 +77,12 @@ _▲ buy · ▼ sell_
 
 </details>
 
-<details><summary><b>Closed positions</b> - 0</summary>
+<details open><summary><b>Closed positions</b> - 2</summary>
 
-_No fully closed positions yet._
+| Stock | Bought (avg) | Sold (avg) | Held | Invested | Proceeds | Realised P&L | Return | Research |
+|---|---:|---:|---:|---:|---:|---:|---:|---|
+| Manorama Industries | 2026-10-19 @ ₹1,796.80 | 2026-10-21 @ ₹1,749.00 | 2 days | ₹17,96,800 | ₹17,49,000 | -₹47,800 | -2.66% | [One-page snapshot](analysis/Manorama_OnePager.pdf) · [Detailed report](analysis/Manorama_Detailed.pdf) · [Brutal verdict](analysis/Manorama_Brutal_Verdict.pdf) |
+| Fiem Industries | 2026-10-21 @ ₹1,813.60 | 2026-10-21 @ ₹1,816.90 | 0 days | ₹18,13,600 | ₹18,16,900 | ₹3,300 | +0.18% | [One-page snapshot](reports/FIEMIND/FIEMIND_OnePager_2026-10-20.pdf) · [Detailed report](reports/FIEMIND/FIEMIND_Full_Report_2026-10-20.pdf) |
 
 </details>
 
@@ -91,7 +98,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹714.25 | +0.32% | ₹708.00 - ₹714.25 | 5,445,993 | 30,668,122 | 0.18x | 23.31% | ₹687.10 - ₹1,009.50 |
+| ₹711.25 | -0.11% | ₹708.00 - ₹715.40 | 9,132,871 | 30,668,122 | 0.3x | 23.25% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -106,11 +113,11 @@ _No fully closed positions yet._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [HDFC Bank Share Price Live Updates: HDFC Bank Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-livestock-price-today-live-updates-21-oct-2026/liveblog/135080449.cms) - _Economic Times, 21 Oct 2026, 08:17 AM IST_
 - [HDFC Bank has green shoots beyond Q2](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEhybjAxWjc3Qy1YNUxpU1NzQVk2Ni1pV0hHRVhaeEhic3R0Zk5VTlB2M1VQNjFTX1UxYWxVRWI0ZDhYdm9ET1JEZW16VnBLYjFlN0trSlNiN01uNmRHb3l4RkdaZ1doRFlyR1lRaXlXSVd4VEVhbUs2eld2Sk82SmhTNmFIaGZINmJ3dzRpYjA3R01TaGNpQ3Jhek56cmhRRHp1VzhjONIBrAFBVV95cUxOOVFYN0hiYy1fUjl3U0otN3ZCa3VCdG16TDk3NmU1SVM2WUVia2t2cHJEZFZEQnBhVjBYeGh0UzEyTDlSSl9TdzRPeW54R0NuV0VuX09zM2pNanpvMGMwYkZua0VlVzM5UzFnNjIzcEpwR2VEYzhyckFhQndBVlh0U2ljVWNvdElNNi1XME95QV9zQ0ZndERaRVZ3YWxJOGJURURiX1NHQldYcUYx?oc=5) - _Livemint, 21 Oct 2026, 06:00 AM IST_
 - [Who is Lily Vadera? HDFC Bank reappoints former RBI executive director as Kaizad Bharucha seeks departure](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbGF6RFpEQnZGTFBmRlBRT2pvVU0zR3NBWXl0ZDZQOThVemZHSHRoQkVhVGtQLWhpTWtmLWYxRWFNOGI0Si1NQnRsZmlWSzNmMkZqaEJhUGxKN0s3Q2NLbk41Z3FwRDFYaVh3aVFTQVZZWk81R1VsWXctdzd3amR4ZnFpUm9uamlzNXMyX2s4aEh4VFZqWklXRE5keDVkZ3JBNGI4NVJFcGNjSWpVbVRFRXNyME1hWnBtWGdMWEJoazVXd0NpUU03UVFMS24ycnRfTUIxeUpWNmFlZEwwTThmWHhjazRCSU12dnhzMlQxWVg2ZGRobV9QRmF30gH_AUFVX3lxTE1Ub3lQZDNUVjlnX3MyXzBmc1YwbkdCS1EzZFBVM041T0E5ZTU1MkdPWGQyekI4V0FhMHhRamtXOU1sVXh4eEo2c3ZyOVExUE9sOE5Demlob0xGNE9xOUNqbm1BRzFzVk9feW1BcW9UUFh4bDlvdmVyZmpoa1VuUW55VGtSZ3Q5Xzl4TWlNV3VuWlpWWjRhdktfaEMxckFjUnpNS0o0cU9BUW1kMUkzN09aRzJwVkdvaWhCRXhjczZFeU9iekJfN2stSXVoeDhSME1PX3dKcEFDZmE0SVRhOF9YMFhRbnkwYVpKU013WmhUbEwzazZXanZ0TmJtQWdsdw?oc=5) - _Livemint, 20 Oct 2026, 01:02 PM IST_
 - [HDFC Bank vs ICICI Bank share price targets: Check upside potential, returns, valuations — which stock should you buy?](https://news.google.com/rss/articles/CBMijwJBVV95cUxNdVdXR1JJSGViZm9tNU1HckVRRXBicTc3MnNqcWw5YjNKNVZOeWd6RmtIaks3SGNoUlJGU19aYXFPanZZRzBKN0NTQjlHMm13SlVra2lhdm5yMURXZEJOMDkxRl9wNG9NTHU4UnE0ZEhCTjF4NzFMUFQzdW1QTk5xN19pN1d3VWREZGpBekdDRGJmcGxzdVdzZDU1YUJlV0Vya2l4d1FzVEZRTlFSYVFDSVFNaFM5dXBuVHpzdkxNT2Z4dHhSLUNLM19SWHVOMklVM1ViS0psMEVKVTBuWU5lZFVfTm9ySmNWanhuSXppOERYbUwxcmNhaHRSUG9RRHg2OHdTY3ZCQk1PV2VLRGEw0gGUAkFVX3lxTE9nMjVEYUp4bEVjQnQySXQ1QlJHN3I1aEJqd0ZsbDdxNnp1LW5EWUZDa1YyVEZYRzFmVV9nSW9FbkhSQjY2REprMkMtNHRzZ3hPeTYxeXZXdVlxYzBLbU5fdWZyNkJMMnRvc3AzU0FqeWs2QlhTc3ZGeG1zcy0zdXJyWFRQeWJDYlZNRHFrNUtzU0k2R25qei11R1FDY3RfZG42Mm95dzBNX0tjUVlVYkE0bzVzZnpQWDhUbnY1MGpUMTdnM3JRTGxKbGlyZ21uZFI2cVpNRnhmc1JNZDNoZ2xKcnZyVTZoOWZHclg4YWNnNWpkLUJTSUtpRUF5T1JJRzAzalhISlZhN1FsNl9vZTBkQUYyaw?oc=5) - _Livemint, 20 Oct 2026, 10:29 AM IST_
 - [Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNUdsMnVnZzAxS2huQWctNi14VHR1dmVWQlR6RXRHRl9vSEZqTGpKUjFHclhncEExbGRFWk85OWQ1MzBoV1hvZlZkeGh3SnViNl9MRjVGQTdiajZVa3g5ZGhNWUk0VXRYRFdLV1hMbERFS2pURkt4SXNwOXFJU3hSUmtvNF8ya1BxRkkzUXpzbGpkbHFOTGFMSjRhZUcxeFlCZG9lRjR6UmZNdkRsT0l0RE4zbUt0WTN5QldSMnk3YmRhaVZOaXNPMnRLc3hFSEhHaU9JSnJqRF9RSUx3QUgwdHB2cHJVQdIB6wFBVV95cUxPVERYYkxlbzVZbGlyUWw5U3phak92eC1Xd2FMTi1JWUtHalB6RUlpTEJfcktfMURJT2Frc0tNM29TWC1aRGx6TGw0bkxWeFRmWjF3QXlSVU9NR1ZiTDA0eVZPb1hEeGtmR00wYWVRaXNXUnNackRXakdqZTExdWpRYkk3WDUzcmJiSHRvVk1jOWZZUWZ0WS1mRFdobFEzX0hCU0xrd1JxS21LeFJZWWQ4T2pXSmJiVVBXNThsd1padloxSDdUVm0wM2NHRUg1ZTJ4ZGlxaHMxTlREWk42YmFBT1o0bG1hX0pfdHNJ?oc=5) - _The Economic Times, 20 Oct 2026, 06:04 AM IST_
-- [Buy, Sell Or Hold: HDFC Bank, Laurus Labs, BEL, Havells India, Cummins India And Hindustan Copper — Ask Profit](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzRCdlh3ZmRFSS10VHRUV3RHVDFZMldtUEotSHRKY3Vna0NuSWZMb3h2b2JJVl9EMFhIYmhLUG1UdlBCVDN2RXpIRmVPWkZ0M19oMHhFUDZmcS1ZaFE3ZjdUaHFnVGdVdm1MWHpjbjQ1bTZvSHpHa1hIa01WcHpGZEJ0bnZmSVR4RFZZSnZQQXBSbG5NRlgxZ25RYnVwNTB6dWhuNjZZQXRzYnNKT3dsZ2dTQ053X2xXUllnSFQ3TXVoYzFLN2FtczUyckFPdUxWcTJJNW9DZUg1aGR1QTIw0gHnAUFVX3lxTE4tclBQZ0ZPOG9XMjZaQmwySktacmRsay1iWktfM1dhWDNVRVBhNklKaXAyNjNUNzl5Y2FhcDhEdHNmYi02dmNQcnItX1l1QWs1dy1jWmx3NTFfVjlvbmVtaU9yd0tDc243bE9UZzUwQ3M5cjg0M2FCUzNBbDhEZ1ZyQkRCZkw4aURVMjlXWUR6T0NoSlhxN042WGQzZE8xV0czZ0F2WlhpYmtvbFhLSV9iTTVDbUNFNHN6Z1F0SERtVnJtSUtTQ2t3NmhQUEZ5d3R3U0Q3MTF3YUdkanBHNlZtekZQaE1ZSQ?oc=5) - _NDTV Profit, 19 Oct 2026, 10:00 PM IST_
 
 </details>
 
@@ -124,7 +131,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹321.55 | +0.42% | ₹320.55 - ₹324.55 | 1,253,717 | 21,359,935 | 0.06x | 25.75% | ₹215.68 - ₹342.65 |
+| ₹316.20 | -1.25% | ₹314.00 - ₹324.55 | 5,224,226 | 21,359,935 | 0.24x | 25.89% | ₹215.68 - ₹342.65 |
 
 **Research reports**
 
@@ -139,11 +146,11 @@ _No fully closed positions yet._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Q2 Results Today Live: Eternal, Adani Green, Indian Hotels, SRF, Vishal Mega Mart, KEI Ind, M&M Financial Services, PC Jeweller Share to announce Q2 results](https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-eternal-adani-green-indian-hotels-srf-vishal-mega-mafrt-kei-ind-mampm-financial-services-pc-jeweller-company-results-21-october-2026/article71606182.ece) - _BusinessLine, 21 Oct 2026, 09:18 AM IST_
+- [Q2 Results Today Live: Eternal, Adani Green, Indian Hotels, SRF, Vishal Mega Mart, KEI Ind, M&M Financial Services, PC Jeweller Share to announce Q2 results](https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-eternal-adani-green-indian-hotels-srf-vishal-mega-mafrt-kei-ind-mampm-financial-services-pc-jeweller-company-results-21-october-2026/article71606182.ece) - _BusinessLine, 21 Oct 2026, 09:50 AM IST_
+- [Eternal Q2 results 2026 today: 24% returns in 6 months | Preview | should you buy multibagger stock ahead of earnings?](https://www.livemint.com/market/stock-market-news/eternal-q2-results-2026-today-24-returns-in-6-months-preview-should-you-buy-multibagger-stock-ahead-of-earnings-11792554165136.html) - _Mint, 21 Oct 2026, 09:42 AM IST_
 - [Q2 results 2026 today: Eternal, Adani Green, Indian Hotels among 38 firms to announce quarterly earnings | Full list](https://www.livemint.com/market/stock-market-news/q2-results-2026-today-eternal-adani-green-indian-hotels-among-38-firms-to-announce-quarterly-earnings-full-list-11792550102736.html) - _Mint, 21 Oct 2026, 08:56 AM IST_
 - [Stocks to watch: Eternal, Hindustan Zinc, YES Bank, Bajaj Fin, IREDA, LTTS](https://www.business-standard.com/markets/news/stocks-to-watch-eternal-hindustan-zinc-yes-bank-bajaj-fin-ireda-ltts-126102100091_1.html) - _Business Standard, 21 Oct 2026, 08:11 AM IST_
 - [Blinkit, Zepto face a freshness test in premium produce push](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWkVxMU5lb3NGdDRSYXQ1LUF3b0oxX1o4RHZTYXlvaGR5SjVPejBxTnlqUHJCaVJoNEFVcFFuVGdtYWJvRWJHSEJyWVUyS1h1cTdZYmVVTGdrLVR2RkJaMU9KNWFZazl4NFJHZVJtVnlpcTZhSG1NUVlDbjV2aThiU3lFdHJsZmpCbGZ4eDZURGpYR3FSM3NnSzlZNzJwTk5JYkl5Q19qQVVsTEY2WHpMQktBUFZ0d9IBvAFBVV95cUxObUdQclZJdmJwLTZnRE9zVUY5OW1rY2p2QXVlMnp5WTZzNy03Z3VhekxZbFZSVnFiTXE2MUNkMllSVjR1eFMwamhEN08tSVhsXzhaQVF2VDVvbTZsUmMwRWZvcmFmYlNyZU81UTlmanBVdWVRU19XZUo0TzNVR1VoWTY2aF9yUzFKb1dNOENRWXo4TERLTlJaNURuQUdmVVdUbmYzWnFFdGZQSjdGNGpXM2Z2ajRDRXhjLVR0Nw?oc=5) - _The Financial Express, 21 Oct 2026, 07:54 AM IST_
-- [Top stocks to watch today: Eternal, Reliance Industries, IREDA, RailTel shares in focus on Wed, 21 Oct | Full list](https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html) - _Mint, 21 Oct 2026, 07:25 AM IST_
 
 </details>
 
@@ -157,7 +164,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,532.00 | +0.50% | ₹11,425.00 - ₹11,555.00 | 19,415 | 449,082 | 0.04x | 25.15% | ₹11,178.00 - ₹17,292.00 |
+| ₹11,345.00 | -1.13% | ₹11,320.00 - ₹11,555.00 | 69,760 | 449,082 | 0.16x | 25.17% | ₹11,178.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -190,7 +197,7 @@ _No fully closed positions yet._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹147.58 | -0.09% | ₹146.91 - ₹148.30 | 588,821 | 12,198,758 | 0.05x | 27.43% | ₹136.24 - ₹211.92 |
+| ₹146.95 | -0.52% | ₹145.70 - ₹148.30 | 1,661,953 | 12,198,758 | 0.14x | 27.40% | ₹136.24 - ₹211.92 |
 
 **Research reports**
 
@@ -211,21 +218,19 @@ _No fully closed positions yet._
 
 ---
 
-### Manorama Industries  _(Specialty Fats (FMCG inputs))_
+### Eicher Motors  _(Automobiles)_
 
-![Manorama Industries chart](charts/manorama.png)
+![Eicher Motors chart](charts/eicher.png)
 
-[Google Finance](https://www.google.com/finance/quote/MANORAMA:NSE) · [All BSE announcements](https://www.bseindia.com/corporates/ann.html?scrip=541974)
+[Google Finance](https://www.google.com/finance/quote/EICHERMOT:NSE) · [All BSE announcements](https://www.bseindia.com/corporates/ann.html?scrip=505200)
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,719.10 | -4.32% | ₹1,710.50 - ₹1,787.90 | 63,430 | 167,033 | 0.38x | 36.72% | ₹1,075.80 - ₹2,132.90 |
+| ₹7,227.00 | -1.66% | ₹7,210.50 - ₹7,416.00 | 118,690 | 389,004 | 0.31x | 27.93% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
-- [One-page snapshot](analysis/Manorama_OnePager.pdf)
-- [Detailed report](analysis/Manorama_Detailed.pdf)
-- [Brutal verdict](analysis/Manorama_Brutal_Verdict.pdf)
+_Research report coming soon._
 
 <details><summary><b>Official company announcements (BSE)</b></summary>
 
