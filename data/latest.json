@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "21 Oct 2026, 08:13 PM IST",
+  "generated_at_ist": "21 Oct 2026, 10:38 PM IST",
   "as_of": "2026-10-21",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 21266000.0,
@@ -54,6 +54,12 @@
       },
       "news": [
         {
+          "title": "HDFC Bank probes alleged leak of confidential information, two under lens",
+          "source": "Business Standard",
+          "published": "21 Oct 2026, 07:21 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2Mwb3NVOHZ0V0VpckF2a3RWaEhfbVFEU3dkNnRvRmRjWHUxSHVlOTAwSk9Pem1IU2lkNDh3dV9lZ25qTDlBRTFtYTNOMkNZVVQ0OUhCUWFhVEY2YXdSMUhMdF9MWndWOGV4c3lEWnA2SzZzdEExY1ZSemRfWVd2TjMwYXJzRW1BaTJLVnpSM0d1TmlaeU1sOVkwY3MtSUhYRjRkQ0RyVDZUU29WQXZyUUNxcWdxSW5Oa2tkcVQ0d1MwU09YU3hXX1hjYnk4U0wxRENVR3VvVmJGWGfSAeABQVVfeXFMTUdQUjN6YmcweG9KQ1RCOTJDbS11TlNRU2lsa3RTa2xFSlBSMmlKODRxczdLLTFzdFZILUJoa1VvOS1xa28tZXVqbVNUZ3UtU2lyV01faXJCb1FpeEFiZzZMUmJoU2dVUUpZamNPNHI1Smx3cUNfX2l2R3huUjdycmo3NUN0bU5qUFVCTFhyREVuREMwb0NxVEVvV25sWF9MQllnQ1NFVjZWVmZ6X3RGNGh0b0J5d2xhWWdYRVE5cUlGUVE2c1ZaQk5IS1EyN01wX3R2bXM5TW1CcWJlNkhhSmU?oc=5"
+        },
+        {
           "title": "HDFC Bank governance woes grow: Probe finds 2 executives leaked confidential information",
           "source": "The Indian Express",
           "published": "21 Oct 2026, 05:29 PM IST",
@@ -72,16 +78,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTAwOTR1Z2FTcGtPLWtCZjdPMER5XzQ4cUo0UnF6WE45bW5iaFBwRmxvb1FldlJZUno2VmducGdDa0hHdHNXbXNfd0tBRzdpMGE1SGJDWTk3akJtYjFtd3hrWGZHXzQ1RzNvUk5teXNNekROTHhMekxlSEFDZ3lNTVpaLWZkN1NjT1JXUC1KYUJWZFBuTGxzUDB4UmdkZGlOazRTQkd2YkZLREhhMkljNkkwLVpubHlaTDBr?oc=5"
         },
         {
-          "title": "HDFC Bank probe finds senior executives leaked secrets to outsiders",
-          "source": "Business Standard",
-          "published": "21 Oct 2026, 02:01 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbzJjSmFybXdRV0cyWWE5TENXNFBObkdLWHNzSE9BTEExTnhkX0pHLTV5cTU1UkIwanlRWWVScFA3N1o2Rlk1d0trOTNjdE1vMFhzYXlIS0QyV3ZFaGxDZUtvUUw4X2dfbERjU1I5WG5RY3dwTnVDdDhzYWUweGxrWDRhaENVUzZscElZV1NHaFRqbmdTV1pieHMxNk5iV3oyQXhUZ1Fyem1IX3ljdmVTZ2pFdkpNTVJzeXFlbG9sUExOd2puaUhiRUMwTUhhYWsweVluLS1FNNIB1wFBVV95cUxNbzJjSmFybXdRV0cyWWE5TENXNFBObkdLWHNzSE9BTEExTnhkX0pHLTV5cTU1UkIwanlRWWVScFA3N1o2Rlk1d0trOTNjdE1vMFhzYXlIS0QyV3ZFaGxDZUtvUUw4X2dfbERjU1I5WG5RY3dwTnVDdDhzYWUweGxrWDRhaENVUzZscElZV1NHaFRqbmdTV1pieHMxNk5iV3oyQXhUZ1Fyem1IX3ljdmVTZ2pFdkpNTVJzeXFlbG9sUExOd2puaUhiRUMwTUhhYWsweVluLS1FNA?oc=5"
-        },
-        {
-          "title": "HDFC Bank share price: 29% down in 2026, Anand Rathi says ‘Long road to catch-up’ | Check stock target price, reasons",
-          "source": "Livemint",
-          "published": "21 Oct 2026, 02:00 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYzlfVmNlOFBBQ1Zyc0QtZWo3Q0lVMFZiZmx2QnpmeV9WZzhkWFNQUThrZFplbkxSR2oyaEdoNEFVcnVLN3UyaE1sWm5fSEZKYU5RT3p3OXgwSkdPT0VNamdGb0RwYzlDUG5jX1hEeUhjRUZPejRBTVhKdTM0XzdETnJKUlRETFEtWWZkZFZwRl9qODlNV2xFVjJLNHloUnJkUEpvSVYxajhhTnQ2RDhxdkR3UXc1QVMyREdoNkVKY2E0ZGtvR2YwQTVCbVQ0eWtjclUzTFlNRV9xcE05dTlnOHd5OFk5c3VPRDFTWDRvRW4zc1FMT2RMUmVqUEZqd0NYNlJWc3RPQnhMR03SAZACQVVfeXFMUFhfUENZYjFvek5Fem15Nkp0d0VoWElfRWpBMk50X2VzTnRlTHAyRE9KSmZhSTdyOHItbE15ZWVCaDZxOUc1WjFRQmc3SkI3Zm1MM1RQR091Rlpzdk9qSEFXLXU3VVNGU2Z4RWlBejUwc1RobFE4QXJHdkMxQ05VSzdYZUdxeVJXb2V0QkRsaGcydFlKUzFGR0xpRFhoNkxVY1J0X2RxaXRkZ2xlSC1CRHZLOU1XU2RxRXdvWkx1eGR3eTJDOGFOSkdFbDNIaWZNcTlOSm9BWThRNHRuLUdFNUFmVzVzOWNXTzFvNFQxVnRmMVdDU2J3eHRCVEh4Z0F3UTNqOWVqMlVIM1BDUGVnNVc?oc=5"
+          "title": "HDFC Bank probe finds two executives shared confidential information",
+          "source": "BusinessLine",
+          "published": "21 Oct 2026, 02:12 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTTJPNzJZYklTaVlseU05OXhfbkpfNnoyV25idHMyTEU5MXZIeXJEX1dyWE5FVHVULUxZQkhBT1hCcU9DN2hvOW52MHhoemhZR3B5VGdPY0xvMmY4a2dwOUZvdkw2WjZwT0laSy1yY2dEUFo3MjRmUFo2RjgzX0dPN3p1dGxkWmVKdEktOTB1NjkyNG5RXzRqVXVTV1dKNkFfSUk4NW4yZ1lGazRlOU40S3FHNE0xMkI0RG5WQ0RXcUlYeVZaRXQ4dGFjU0NpOS0wdlB2RkV2ZXFPLU1TX0EzSkJKTDhkRDI2X0V6d000Y19MODNoYnBHTNIB_wFBVV95cUxOY3BlUHJQcmN4MV8tTzRHZ0NPVnBYRlBLakZjWmRZWm81WjBtTkF1NUhkMWFqbDFkNUo3SndYRlJlYV9naDExRFAxT29GV1RvQ3lpX3VJYlI3Z3dLOTNXcXRBR2tEVU03OE41Szh2c0ZFWndOdlRrUVJnLUY3MmhFckdIQ1dWc3otRFVSSkdBeFR5TzdROUJCeGJhdWFsSlJrVnNlRHl5cGttX1FTdFRkY3lwYWFIZWkwRVRkaVNmVzVUNHJoRnlJVDM3ZElWOFFSR25VaEVxRmdJSUZGbndxNE5ZSlNabl9tMEFONFFPV2htaHZzSExHRl9YcVJ6Qnc?oc=5"
         }
       ],
       "announcements": [],
@@ -116,6 +116,18 @@
       },
       "news": [
         {
+          "title": "Eternal’s Q2 revenue jumps 78% on quick commerce growth; profit misses estimates",
+          "source": "The Economic Times",
+          "published": "21 Oct 2026, 08:37 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTHVnSUxneVMyOWp1U0pZaXJRaXNYbWFuNnFzc2xGaFNNY2tjbVBPVmFIdy01dDRSX3BWX095VWg2aFk3NkpEemNRelJyb204N1RaVmZialozZnc0NDVOZk95ejI3YTB4cDhnWVpfb0FFcFQtTVcxaUZqYjN0VmlxeXpfYVNmdWJLdTR3M2dISDdnNDJfeEQ2bldfNGNrWTlkZXBQLUlpU19vZ2J1Tk91aVB5TkY1ZlhrQkxuTWROTG0xRGE1ZU9zQWp2dXpQZEdES2tZVERJbXkwMjEyZWs1MlpoMmFYUdIB5gFBVV95cUxOTHVnSUxneVMyOWp1U0pZaXJRaXNYbWFuNnFzc2xGaFNNY2tjbVBPVmFIdy01dDRSX3BWX095VWg2aFk3NkpEemNRelJyb204N1RaVmZialozZnc0NDVOZk95ejI3YTB4cDhnWVpfb0FFcFQtTVcxaUZqYjN0VmlxeXpfYVNmdWJLdTR3M2dISDdnNDJfeEQ2bldfNGNrWTlkZXBQLUlpU19vZ2J1Tk91aVB5TkY1ZlhrQkxuTWROTG0xRGE1ZU9zQWp2dXpQZEdES2tZVERJbXkwMjEyZWs1MlpoMmFYUQ?oc=5"
+        },
+        {
+          "title": "Q2 Results Today Highlights: Adani Green Energy, Eternal, LMW profit jumps 74% as revenue rises 38%; Nureca gains 4.71%",
+          "source": "BusinessLine",
+          "published": "21 Oct 2026, 08:13 PM IST",
+          "link": "https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-eternal-adani-green-indian-hotels-srf-vishal-mega-mafrt-kei-ind-mampm-financial-services-pc-jeweller-company-results-21-october-2026/article71606182.ece"
+        },
+        {
           "title": "Tech3 | eMudhra and the eight keys of chaos; Eternal goes 'dark' on AI, big on Blinkit; and more",
           "source": "Moneycontrol.com",
           "published": "21 Oct 2026, 07:51 PM IST",
@@ -128,22 +140,10 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmR4dHRRemhtOTFmcnRqOWdfelM5b1FHbEVDVjR1QTNsLWt4TS1BdS1UNUl3b0RBVGYwQk5WdFk2OWZXcUkxY0E0dmtEVjNLSjRHZjVxdHFZaGdIQm1IWFhGdUxYdXp1eGFuWFlYc29sLU5YbnFNa25iNEs3TXgzbnFSdy1QMUlfQXBqTW00YWcxRGdjYnR6VWs5b0VaWnZkQ1RtZmRsTnN2YVE1b1JybTdpSG5yczFTVi14QnZ2SHBUSzhTbWVWXzJBa2N2d9IB0wFBVV95cUxNODBnVXp4a3E0QkU0cWt4WnVpWU5vTS1qdld5VXllQjJaSHVMY1pKbmZicXpXOGNwcnRUU2lfaDVEcHJGaWZPM0Fab0lJc25uSUw2NDA4MjB0MXdiTTZqcm5KZUdMMV9qRFJxYkZrMFlZZjdjc3hLYUQ4RUhGWW05MVBHVnFGdXRmSmNGeU1Jb2tBcDVITG5YTXpNRDZXZmxsYzJDTjZRazhtU0JpdUZCWldhd1Fwc3RmOTVUemhYTVJSdTFlS2lIamZsR2FTbi12VVBF?oc=5"
         },
         {
-          "title": "Zomato parent Eternal to swap Adonmo stake for ₹156 crore Mygate shares",
-          "source": "Business Standard",
-          "published": "21 Oct 2026, 07:13 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdVN2RXVUTHdCVnJ1UUMxdU1CX1hXVkFxbDhSb0FSWURJeW9NOXA4ZThuaVA5U0FRZGFFNDdGNFVpb3ZlSHFvTVNDdGtPOFo5QTJzX2dOcmNKa2FXSkRoOGRlNjh0ajlvR2xuWlFKcTczU1NNTDNvemlNd3pGRGh6NFpkckFYTnFSYi1UOU1EdUpWdFh4djZOMERjZi1RV29hNW9Bb1E2NC05RE9WcFBhTGZKMHBDdU1RdXV3WHlMbWpSYW5XcXVqTmlNX3FtM0lNenZPZWNB0gHbAUFVX3lxTE5wRHFodi1jN1RaNENKZW84eTRPeFRQVHNqTWg1WVlrellObF93ZTQxYVA2UnhmUl9oT001SElXa1BHU1VPUzdGdzRHZGVPaGl1dEIwamZ1aWJOQ04xeVFVLXFvOW4wdnFtVUllWGpUSkNNeThhTXNZZnJ2eUJaNUZFVHVTOVBmQW9CUEdyZDlxQTRkRmQ4RnJCQmNHZExGU0xCaFhET2oyMl9UMEJ4S2UycFMwX1dOR0w3VTg3djhjRGY2b18yZm02b2FiX0hZQlNYRlNaMUpoM1RHcw?oc=5"
-        },
-        {
-          "title": "Blinkit sees no compelling case for expanding private labels, says Dhindsa",
-          "source": "The Economic Times",
-          "published": "21 Oct 2026, 07:12 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNFE5OXdNeFVwaXhuU3JjLTBpcG1xMi10c2YwSTNHUGxlQ01QeUdrM3FtQS03djRIQXp4M1F6X2RGNnV2WEpwMVNrT0RJbXM5ZmFjOEY0bndxWkt1TFZrZ1pVV3UzQjloOWRPTENDMkRDRG5HWXZzTjlwWWw3N2lhSFRyTnJ1VUpUck9MRWZobzdLajVONXVuVVpsUTVoUFJlazdvS2ZVTW4tVzRkdFIyeGhleHE2X1ZPY0hOa0J6ZGRSTFNnOXNoX3hqTFFSUjZDR0dVOGp2NU7SAd4BQVVfeXFMTnd3d2d6TGdMNjZnQ0ZWNnlaUUNTeUZWWmc2NDFkNE5Fa1pRQlVYWWVpMjJFV09kd1RTQmtKYkMxUWl1THJVMDRmQlB3V1NqNGJ5eUNjWEl3akROVVBkSmlJQm9LS1Y1VU5lMHk3Z1d3QlQ0azMwQndkb2RpcHhEaGxIVUZrWEw3eDFsQW9qWE1IQ1NCY0ZUTE92UVhpNHRFeUtHNmcxdnNfWl85alkwZmhRYm13MnktVEIyU0FVS3F2N0dqQXNKMzZiUlRnT2ptcUNfU2pxVjFQZ0c5T3lR?oc=5"
-        },
-        {
-          "title": "India's Eternal expects faster Blinkit growth as quarterly profit nearly doubles",
-          "source": "Reuters",
-          "published": "21 Oct 2026, 07:02 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWlrdnFzcnJPc0I5SUw2NTAwbFphdVNrZ1hhYXJDWVZPODUwQkxEZnliQ3lfUkUwVFJaSm9wc3JFLXk3cHlRaGZWeF9LbnB5cnNRMVEzaWxHZVVGVjQ3cE1KZnoxWE5hamIyTHlCbFdVVU5zZHV1bGtWMmlVckRPRFFfeGQyaFZqRDlhWTNON0ZYaS1vaWhkeHdzR2Z6cWV0UkJkY3B0cjIzcjNkT1JUQVdGR1ZoWTZwQjg3cEdXT282aUww?oc=5"
+          "title": "Eternal Q2 profit up nearly 2x but misses street view",
+          "source": "The Financial Express",
+          "published": "21 Oct 2026, 07:24 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkNTdlJqSTE1QkpDVFVteUdieGdPcmZ6dEIwMjJ4Z2RjYXo5c1I3SzVpclZmNnY2cW51Uk5fdlFXSkp4OE44d2J1X0dWUGtxT3B1WkkwQndxLXZ6bEVQa3JSSU9NUlpmVVhuVDI2Z3hJUnpiNnNCLWU4bmI5TzY4YmkwZWsxYk90SE5abGl3aHdDQlRsQnBCVzRKbDZncnpoTEhKLTFOckdqYTI1TkEzQVJrSdIBugFBVV95cUxPWFFnMW5KenJKQklLNFlNTHlNbUJQdjBuVi1vb2Q4dEZ0MWhMdkxEdVV2Rm9DOHR1Q1N6WFZ1Vjk0SkMzMW1tbkVRRmZVUHhVV1NNWkZmVDlUUEhtVE9tMFJiRkpOWi1CbkNJSEg5YU1LQzhKTWtzNjVTcmJ4bDZ6bWRYTjVHV3lNZXZKekNNaUgxb2QyRHlCSlVYNUYzanBPSUhuN05mc0xYZGlJY0NZRm56SnVXd1dyd0E?oc=5"
         }
       ],
       "announcements": [],
@@ -178,6 +178,12 @@
       },
       "news": [
         {
+          "title": "Maruti Suzuki expects double-digit growth in festival season sales",
+          "source": "Press Trust of India",
+          "published": "21 Oct 2026, 08:41 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1LZFFGUmdwa2FCMU05SHZqRFcxM1ZYZ1FfLVpwZk5GNlNnVkIxMmZrVGktMmJqa2J0MFhBR3NMbm5VRUc1N3F5SGV3eEw1anpWN0tpZVlaUVh0cG81cUNWYkZVQXdhVDBWLUF1eXNQYVZ1YVZsbnQwbVRBNEdPNi0wVDNpQUF1QWJqTFhPRm5xa0RtM0xjWGM1SU9qVTVxaG40ekxtY0xSeWtaOWlXdkFiWQ?oc=5"
+        },
+        {
           "title": "Maruti Suzuki Ertiga gets costlier by up to ₹10,000: 16,911 units sold last month; check new variant-wise prices",
           "source": "Livemint",
           "published": "21 Oct 2026, 05:52 PM IST",
@@ -200,12 +206,6 @@
           "source": "Livemint",
           "published": "19 Oct 2026, 01:39 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejZfTm5jbzZnTzc5cWpreFNMaW1QWjlLanJiZFUyazJHbjVKN1dpNDViMWhUTzR0cmoxSmpEb2tXdWxmRVJ6eFllZW5qMkJfVktyd0l2d3R4M1hiMk9LeWkyWkhMaWVBVVFJdkYwN2JoMlZoYndkUmpkU0l1ZDlObTVra1FhQjRvVFZUdHNVQzNLeWdjVVV3WW5XM3hWb1ZXZVVoVGs1cnRyZ1Fwa0RNb1RnMks0UE9fSjYtVEtiVzkyM0RuZ05VRmNGdjJwX09GTExiZ0VhSXRKVTVqaWhoUGVEczRUT2Q3NVBfaFlvTdIB9AFBVV95cUxQRC1tVGZBZHBhSUlCTElfajMxM3kxcmhhM1lqWmJaRHRENWtiRzdDMGR3RzM3cG9CZEVfNENRZmZjUF9SR20yUll4N1NsS25FdGNZSk0xQ3hVZmRDcmR4cnZmNlVLY19mWVY5dlJ4TUVLcFZZeVd3WjhKbERYekVrYjNDZ04wM05OSTgzQU9wVUdtRE5oUEMtd1RVaU8wcHFRa01PZkZQWXZKN3luLWlYc2taSWpFRmlCZldhMngzaS02SC10cnlxVGNKZHltYWpkWmhvVXN1NTBOVEZtV0djcTlDdUhTRHY5Vlhzc2NRLWtPVUE0?oc=5"
-        },
-        {
-          "title": "Maruti Suzuki expands Integrated Traffic Management System initiative in Gurugram",
-          "source": "BusinessLine",
-          "published": "19 Oct 2026, 01:10 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQnh6TE5aVHQ0cmZtNF9jV2Ryb2NrU3JEUjQ2djZ0UGg1ajJSMTJnTVFIcWtJMXgyeFRoTlhNTjlxamlBNWFsa1hFOC1ndGdwUW9RODhJOHBMeTA5WTFnWUJMa0dxMTRiYThObWVvTmFjRjJWLW9NcHU5cmZ5bDhwV0hKZ1lmMmFBc3NERmd6bVo3Zk0zVV9CS3dna3k3Uk9fXzFXdWJpSHJ1UUNkMlljU2tHbFd3WVcwWFNwQUp0SkxSZlNQSlFDNmpjcVItYTFFWlNVZDhnNW56NWNGeUZMejNyNV8yZ0RwVUVsRNIB8wFBVV95cUxQN3JrVGhYdTRYNUl5Yjl1cVZTbzJFQmk0QUlCQmkzMXpCckRTTmNGc25CdG03SDd1bTZzSW1EcmdmVHlXSUtOaTZqR3JEZkZnbkt4dW5PX0tQVVlCaVdLbVRiSkk5aDJYYmhwRVNIbDFlZjdpbWQ2YUliZWxYNEo1MmxJN0lyUGU4X2lSU2h5UlhpRGdLSkE3Qm1nbjVvTWxJV1BJZE8zVW42VWUwZ0lUTElpUFdIOF9LN09GUzJDN3V2XzdzellfNHFsU3ItbkpSSTFFdEpNLW9yaDFnZHdoUmRWdUJZVk9SaDJYaGpPMWNvSXM?oc=5"
         }
       ],
       "announcements": [],
@@ -275,6 +275,12 @@
           "source": "Livemint",
           "published": "21 Oct 2026, 05:27 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxONIB1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxOA?oc=5"
+        },
+        {
+          "title": "Eicher Motors Ltd Share/Stock Price Live Today",
+          "source": "BusinessLine",
+          "published": "19 Oct 2026, 12:30 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HN2REZzdJM0F1RnZUMGt2N004ajR6TXRUbVB2a0g2OWdKakM2MW1pUFhqMmQ3NlQ3V2hBVGN2WHNBOGZId0RqVzg1UDJEVnNTTENGM1NIMy10dkpFTWtpdzVWYzFGVWxoTGNxWnFCTQ?oc=5"
         }
       ],
       "announcements": [],
