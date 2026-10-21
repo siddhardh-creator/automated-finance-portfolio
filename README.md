@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 21 Oct 2026, 02:33 PM IST  |  **Market data as of:** 2026-10-21  |  **Start date:** 2026-10-16
+**Last updated:** 21 Oct 2026, 02:39 PM IST  |  **Market data as of:** 2026-10-21  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,13 +14,13 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,06,23,270** |
-| Total P&L | **-₹6,42,730 (-3.02%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹5,98,230 |
+| Current value | **₹2,06,09,411** |
+| Total P&L | **-₹6,56,589 (-3.09%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹6,12,089 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹44,500 |
-| Today's change | -₹5,09,382 (-4.26%) |
-| Nifty 50 since start (same money invested) | -1.03% |
-| Outperformance vs Nifty 50 | -1.99% |
+| Today's change | -₹5,23,242 (-4.37%) |
+| Nifty 50 since start (same money invested) | -1.05% |
+| Outperformance vs Nifty 50 | -2.04% |
 | Cash (uninvested) | ₹8,30,469 |
 | Virtual money put in | ₹2,12,66,000 |
 
@@ -32,14 +32,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹700.90 | -1.56% | ₹32,04,515 | 15.5% | -₹1,27,787 | -3.83% |
-| Eternal (Zomato) | 10,245 | ₹325.30 | ₹306.35 | -4.33% | ₹31,38,556 | 15.2% | -₹1,94,143 | -5.83% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,177.00 | -2.60% | ₹32,41,330 | 15.7% | -₹90,480 | -2.72% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹144.65 | -2.08% | ₹1,44,650 | 0.7% | -₹3,070 | -2.08% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,118.00 | -3.14% | ₹71,18,000 | 34.5% | -₹1,48,000 | -2.04% |
-| Linde India | 500 | ₹5,961.00 | ₹5,891.50 | -1.87% | ₹29,45,750 | 14.3% | -₹34,750 | -1.17% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹701.70 | -1.45% | ₹32,08,172 | 15.6% | -₹1,24,130 | -3.73% |
+| Eternal (Zomato) | 10,245 | ₹325.30 | ₹306.65 | -4.23% | ₹31,41,629 | 15.2% | -₹1,91,069 | -5.73% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,171.00 | -2.65% | ₹32,39,590 | 15.7% | -₹92,220 | -2.77% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹144.55 | -2.15% | ₹1,44,550 | 0.7% | -₹3,170 | -2.15% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,096.00 | -3.44% | ₹70,96,000 | 34.4% | -₹1,70,000 | -2.34% |
+| Linde India | 500 | ₹5,961.00 | ₹5,898.00 | -1.76% | ₹29,49,000 | 14.3% | -₹31,500 | -1.06% |
 
-**Best since buy:** Linde India (-1.17%)  ·  **Worst since buy:** Eternal (Zomato) (-5.83%)  ·  **Biggest mover today:** Eternal (Zomato) (-4.33%)
+**Best since buy:** Linde India (-1.06%)  ·  **Worst since buy:** Eternal (Zomato) (-5.73%)  ·  **Biggest mover today:** Eternal (Zomato) (-4.23%)
 
 ## Allocation
 
@@ -47,10 +47,10 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,05,03,980 | 50.9% |
-| Financials | ₹32,04,515 | 15.5% |
-| Consumer Internet | ₹31,38,556 | 15.2% |
-| Industrial Gases | ₹29,45,750 | 14.3% |
+| Automobiles | ₹1,04,80,140 | 50.9% |
+| Financials | ₹32,08,172 | 15.6% |
+| Consumer Internet | ₹31,41,629 | 15.2% |
+| Industrial Gases | ₹29,49,000 | 14.3% |
 | Cash | ₹8,30,469 | 4.0% |
 
 ## Performance
@@ -101,7 +101,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹700.90 | -1.56% | ₹698.25 - ₹715.40 | 21,799,148 | 30,668,122 | 0.71x | 23.75% | ₹687.10 - ₹1,009.50 |
+| ₹701.70 | -1.45% | ₹698.25 - ₹715.40 | 22,244,760 | 30,668,122 | 0.73x | 23.67% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -134,7 +134,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹306.35 | -4.33% | ₹305.50 - ₹324.55 | 19,229,847 | 21,359,935 | 0.9x | 29.46% | ₹215.68 - ₹342.65 |
+| ₹306.65 | -4.23% | ₹305.50 - ₹324.55 | 20,496,777 | 21,359,935 | 0.96x | 29.30% | ₹215.68 - ₹342.65 |
 
 **Research reports**
 
@@ -167,7 +167,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,177.00 | -2.60% | ₹11,162.00 - ₹11,555.00 | 325,250 | 449,082 | 0.72x | 26.30% | ₹11,177.00 - ₹17,292.00 |
+| ₹11,171.00 | -2.65% | ₹11,162.00 - ₹11,555.00 | 329,580 | 449,082 | 0.73x | 26.36% | ₹11,171.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -200,7 +200,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹144.65 | -2.08% | ₹144.03 - ₹148.30 | 6,193,364 | 12,198,758 | 0.51x | 27.99% | ₹136.24 - ₹211.92 |
+| ₹144.55 | -2.15% | ₹144.03 - ₹148.30 | 6,298,190 | 12,198,758 | 0.52x | 28.04% | ₹136.24 - ₹211.92 |
 
 **Research reports**
 
@@ -229,7 +229,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,118.00 | -3.14% | ₹7,089.00 - ₹7,416.00 | 470,901 | 389,004 | 1.21x | 29.43% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,096.00 | -3.44% | ₹7,089.00 - ₹7,416.00 | 479,176 | 389,004 | 1.23x | 29.84% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -257,7 +257,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,891.50 | -1.87% | ₹5,883.50 - ₹5,998.50 | 8,984 | 19,096 | 0.47x | 24.80% | ₹5,695.50 - ₹7,847.50 |
+| ₹5,898.00 | -1.76% | ₹5,883.50 - ₹5,998.50 | 9,264 | 19,096 | 0.49x | 24.71% | ₹5,695.50 - ₹7,847.50 |
 
 **Research reports**
 

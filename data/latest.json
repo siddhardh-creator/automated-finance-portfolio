@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "21 Oct 2026, 02:33 PM IST",
+  "generated_at_ist": "21 Oct 2026, 02:39 PM IST",
   "as_of": "2026-10-21",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 21266000.0,
     "initial_capital": 10000000,
     "invested": 20391030.46,
-    "holdings_value": 19792800.71,
+    "holdings_value": 19778941.65,
     "cash": 830469.49,
-    "value": 20623270.2,
-    "pnl_inr": -642729.8,
-    "pnl_pct": -3.02,
-    "unrealised_pnl_inr": -598229.75,
+    "value": 20609411.13,
+    "pnl_inr": -656588.87,
+    "pnl_pct": -3.09,
+    "unrealised_pnl_inr": -612088.82,
     "realised_pnl_inr": -44500.05,
-    "day_pnl_inr": -509382.46,
-    "day_pnl_pct": -4.26,
+    "day_pnl_inr": -523241.53,
+    "day_pnl_pct": -4.37,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22683.9,
-    "return_pct": -1.03,
-    "day_change_pct": -0.9
+    "close": 22675.8,
+    "return_pct": -1.05,
+    "day_change_pct": -0.93
   },
   "stocks": [
     {
@@ -33,24 +33,24 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 700.9,
+        "close": 701.7,
         "prev_close": 712.0,
-        "day_change_pct": -1.56,
+        "day_change_pct": -1.45,
         "open": 709.55,
         "high": 715.4,
         "low": 698.25,
         "intraday_range_pct": 2.41,
-        "volume": 21799148,
+        "volume": 22244760,
         "avg_volume_20d": 30668122,
-        "volume_vs_avg": 0.71,
-        "volatility_20d_annualised_pct": 23.75,
+        "volume_vs_avg": 0.73,
+        "volatility_20d_annualised_pct": 23.67,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3204514.91,
-        "pnl_inr": -127787.18,
-        "pnl_pct": -3.83
+        "market_value": 3208172.46,
+        "pnl_inr": -124129.63,
+        "pnl_pct": -3.73
       },
       "news": [
         {
@@ -85,7 +85,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.54
+      "weight_pct": 15.57
     },
     {
       "key": "zomato",
@@ -95,24 +95,24 @@
       "bse_code": "543320",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 306.35,
+        "close": 306.65,
         "prev_close": 320.2,
-        "day_change_pct": -4.33,
+        "day_change_pct": -4.23,
         "open": 322.5,
         "high": 324.55,
         "low": 305.5,
         "intraday_range_pct": 5.95,
-        "volume": 19229847,
+        "volume": 20496777,
         "avg_volume_20d": 21359935,
-        "volume_vs_avg": 0.9,
-        "volatility_20d_annualised_pct": 29.46,
+        "volume_vs_avg": 0.96,
+        "volatility_20d_annualised_pct": 29.3,
         "high_52w": 342.65,
         "low_52w": 215.68,
         "shares": 10245,
         "base_price": 325.3,
-        "market_value": 3138555.81,
-        "pnl_inr": -194142.56,
-        "pnl_pct": -5.83
+        "market_value": 3141629.19,
+        "pnl_inr": -191069.19,
+        "pnl_pct": -5.73
       },
       "news": [
         {
@@ -147,7 +147,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.22
+      "weight_pct": 15.24
     },
     {
       "key": "maruti",
@@ -157,24 +157,24 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11177.0,
+        "close": 11171.0,
         "prev_close": 11475.0,
-        "day_change_pct": -2.6,
+        "day_change_pct": -2.65,
         "open": 11540.0,
         "high": 11555.0,
         "low": 11162.0,
         "intraday_range_pct": 3.42,
-        "volume": 325250,
+        "volume": 329580,
         "avg_volume_20d": 449082,
-        "volume_vs_avg": 0.72,
-        "volatility_20d_annualised_pct": 26.3,
+        "volume_vs_avg": 0.73,
+        "volatility_20d_annualised_pct": 26.36,
         "high_52w": 17292.0,
-        "low_52w": 11177.0,
+        "low_52w": 11171.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3241330.0,
-        "pnl_inr": -90480.0,
-        "pnl_pct": -2.72
+        "market_value": 3239590.0,
+        "pnl_inr": -92220.0,
+        "pnl_pct": -2.77
       },
       "news": [
         {
@@ -219,24 +219,24 @@
       "bse_code": "500477",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 144.65,
+        "close": 144.55,
         "prev_close": 147.72,
-        "day_change_pct": -2.08,
+        "day_change_pct": -2.15,
         "open": 147.72,
         "high": 148.3,
         "low": 144.03,
         "intraday_range_pct": 2.89,
-        "volume": 6193364,
+        "volume": 6298190,
         "avg_volume_20d": 12198758,
-        "volume_vs_avg": 0.51,
-        "volatility_20d_annualised_pct": 27.99,
+        "volume_vs_avg": 0.52,
+        "volatility_20d_annualised_pct": 28.04,
         "high_52w": 211.92,
         "low_52w": 136.24,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 144649.99,
-        "pnl_inr": -3070.01,
-        "pnl_pct": -2.08
+        "market_value": 144550.0,
+        "pnl_inr": -3170.0,
+        "pnl_pct": -2.15
       },
       "news": [],
       "announcements": [],
@@ -250,28 +250,28 @@
       "bse_code": "505200",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7118.0,
+        "close": 7096.0,
         "prev_close": 7349.0,
-        "day_change_pct": -3.14,
+        "day_change_pct": -3.44,
         "open": 7360.5,
         "high": 7416.0,
         "low": 7089.0,
         "intraday_range_pct": 4.45,
-        "volume": 470901,
+        "volume": 479176,
         "avg_volume_20d": 389004,
-        "volume_vs_avg": 1.21,
-        "volatility_20d_annualised_pct": 29.43,
+        "volume_vs_avg": 1.23,
+        "volatility_20d_annualised_pct": 29.84,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7118000.0,
-        "pnl_inr": -148000.0,
-        "pnl_pct": -2.04
+        "market_value": 7096000.0,
+        "pnl_inr": -170000.0,
+        "pnl_pct": -2.34
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 34.51
+      "weight_pct": 34.43
     },
     {
       "key": "linde",
@@ -281,50 +281,50 @@
       "bse_code": "523457",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5891.5,
+        "close": 5898.0,
         "prev_close": 6003.5,
-        "day_change_pct": -1.87,
+        "day_change_pct": -1.76,
         "open": 5973.0,
         "high": 5998.5,
         "low": 5883.5,
         "intraday_range_pct": 1.92,
-        "volume": 8984,
+        "volume": 9264,
         "avg_volume_20d": 19096,
-        "volume_vs_avg": 0.47,
-        "volatility_20d_annualised_pct": 24.8,
+        "volume_vs_avg": 0.49,
+        "volatility_20d_annualised_pct": 24.71,
         "high_52w": 7847.5,
         "low_52w": 5695.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2945750.0,
-        "pnl_inr": -34750.0,
-        "pnl_pct": -1.17
+        "market_value": 2949000.0,
+        "pnl_inr": -31500.0,
+        "pnl_pct": -1.06
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 14.28
+      "weight_pct": 14.31
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10503979.99,
-      "weight_pct": 50.93
+      "value": 10480140.0,
+      "weight_pct": 50.85
     },
     {
       "sector": "Financials",
-      "value": 3204514.91,
-      "weight_pct": 15.54
+      "value": 3208172.46,
+      "weight_pct": 15.57
     },
     {
       "sector": "Consumer Internet",
-      "value": 3138555.81,
-      "weight_pct": 15.22
+      "value": 3141629.19,
+      "weight_pct": 15.24
     },
     {
       "sector": "Industrial Gases",
-      "value": 2945750.0,
-      "weight_pct": 14.28
+      "value": 2949000.0,
+      "weight_pct": 14.31
     },
     {
       "sector": "Cash",
@@ -335,23 +335,23 @@
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10503979.99,
-      "weight_pct": 50.93
+      "value": 10480140.0,
+      "weight_pct": 50.85
     },
     {
       "sector": "Financials",
-      "value": 3204514.91,
-      "weight_pct": 15.54
+      "value": 3208172.46,
+      "weight_pct": 15.57
     },
     {
       "sector": "Consumer Internet",
-      "value": 3138555.81,
-      "weight_pct": 15.22
+      "value": 3141629.19,
+      "weight_pct": 15.24
     },
     {
       "sector": "Industrial Gases",
-      "value": 2945750.0,
-      "weight_pct": 14.28
+      "value": 2949000.0,
+      "weight_pct": 14.31
     },
     {
       "sector": "Cash",
@@ -362,15 +362,15 @@
   "performers": {
     "best_since_buy": {
       "name": "Linde India",
-      "pct": -1.17
+      "pct": -1.06
     },
     "worst_since_buy": {
       "name": "Eternal (Zomato)",
-      "pct": -5.83
+      "pct": -5.73
     },
     "top_mover_today": {
       "name": "Eternal (Zomato)",
-      "pct": -4.33
+      "pct": -4.23
     }
   },
   "transactions": [
