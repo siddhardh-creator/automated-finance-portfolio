@@ -144,6 +144,20 @@
       ],
       "news_query": "\"Eicher Motors\" OR \"Royal Enfield\"",
       "sector": "Automobiles"
+    },
+    {
+      "key": "linde",
+      "name": "Linde India",
+      "tickers": [
+        "LINDEINDIA.NS"
+      ],
+      "weight": 0,
+      "bse_code": "523457",
+      "keywords": [
+        "linde india"
+      ],
+      "news_query": "\"Linde India\"",
+      "sector": "Industrial Gases"
     }
   ],
   "trusted_sources": [
