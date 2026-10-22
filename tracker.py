@@ -522,11 +522,12 @@ def build_readme(cfg, snapshot):
     # --- Holdings
     L.append("## Holdings\n")
     if hold:
-        L.append("| Stock | Shares | Avg buy | Current price | Prev close | Day | Value | Weight | P&L | P&L % |")
-        L.append("|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|")
+        L.append("| Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |")
+        L.append("|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|")
         for r in hold:
             m = r["metrics"]
             L.append(f"| {r['name']} | {num(m['shares'])} | {inr(m['base_price'], 2)} | {inr(m['close'], 2)} | "
+                     f"{'-' if snap_type.startswith('Live') else inr(m['close'], 2)} | "
                      f"{inr(m['prev_close'], 2) if m.get('prev_close') is not None else 'n/a'} | {pct(m['day_change_pct'])} | {inr(m['market_value'])} | {r['weight_pct']:.1f}% | "
                      f"{inr(m['pnl_inr'])} | {pct(m['pnl_pct'])} |")
         L.append("")
