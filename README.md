@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 22 Oct 2026, 12:51 PM IST  |  **Market data as of:** 2026-10-22  |  **Start date:** 2026-10-16
+**Last updated:** 22 Oct 2026, 01:06 PM IST  |  **Market data as of:** 2026-10-22  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,13 +14,13 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,06,55,185** |
-| Total P&L | **-₹6,95,815 (-3.26%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹4,84,321 |
+| Current value | **₹2,06,74,356** |
+| Total P&L | **-₹6,76,644 (-3.17%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹4,65,151 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹2,11,493 |
-| Today's change | -₹2,59,475 (-1.25%) |
-| Nifty 50 since start (same money invested) | -1.43% |
-| Outperformance vs Nifty 50 | -1.83% |
+| Today's change | -₹2,40,305 (-1.15%) |
+| Nifty 50 since start (same money invested) | -1.26% |
+| Outperformance vs Nifty 50 | -1.91% |
 | Cash (uninvested) | ₹39,96,174 |
 | Virtual money put in | ₹2,13,51,000 |
 
@@ -30,16 +30,16 @@ _▲ buy · ▼ sell_
 
 ## Holdings
 
-| Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹691.75 | -2.15% | ₹31,62,681 | 15.3% | -₹1,69,621 | -5.09% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,126.00 | -0.66% | ₹32,26,540 | 15.6% | -₹1,05,270 | -3.16% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹146.33 | -0.28% | ₹1,46,330 | 0.7% | -₹1,390 | -0.94% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,071.00 | -1.39% | ₹70,71,000 | 34.2% | -₹1,95,000 | -2.68% |
-| Linde India | 500 | ₹5,961.00 | ₹5,935.00 | -1.14% | ₹29,67,500 | 14.4% | -₹13,000 | -0.44% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹84.96 | -8.40% | ₹84,960 | 0.4% | -₹40 | -0.05% |
+| Stock | Shares | Avg buy | Current price | Prev close | Day | Value | Weight | P&L | P&L % |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| HDFC Bank | 4,572 | ₹728.85 | ₹692.80 | ₹706.95 | -2.00% | ₹31,67,482 | 15.3% | -₹1,64,821 | -4.95% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,138.00 | ₹11,200.00 | -0.55% | ₹32,30,020 | 15.6% | -₹1,01,790 | -3.06% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹146.70 | ₹146.74 | -0.03% | ₹1,46,700 | 0.7% | -₹1,020 | -0.69% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,060.00 | ₹7,170.50 | -1.54% | ₹70,60,000 | 34.1% | -₹2,06,000 | -2.84% |
+| Linde India | 500 | ₹5,961.00 | ₹5,980.00 | ₹6,003.50 | -0.39% | ₹29,90,000 | 14.5% | ₹9,500 | +0.32% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹83.98 | ₹92.75 | -9.46% | ₹83,980 | 0.4% | -₹1,020 | -1.20% |
 
-**Best since buy:** Linc Ltd (-0.05%)  ·  **Worst since buy:** HDFC Bank (-5.09%)  ·  **Biggest mover today:** Linc Ltd (-8.40%)
+**Best since buy:** Linde India (+0.32%)  ·  **Worst since buy:** HDFC Bank (-4.95%)  ·  **Biggest mover today:** Linc Ltd (-9.46%)
 
 ## Allocation
 
@@ -47,11 +47,11 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,04,43,870 | 50.6% |
-| Cash | ₹39,96,174 | 19.4% |
-| Financials | ₹31,62,681 | 15.3% |
-| Industrial Gases | ₹29,67,500 | 14.4% |
-| Stationery & Writing Instruments | ₹84,960 | 0.4% |
+| Automobiles | ₹1,04,36,720 | 50.5% |
+| Cash | ₹39,96,174 | 19.3% |
+| Financials | ₹31,67,482 | 15.3% |
+| Industrial Gases | ₹29,90,000 | 14.5% |
+| Stationery & Writing Instruments | ₹83,980 | 0.4% |
 
 ## Performance
 
@@ -105,7 +105,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹691.75 | -2.15% | ₹691.15 - ₹703.35 | 35,202,516 | 30,222,673 | 1.16x | 24.30% | ₹687.10 - ₹1,009.50 |
+| ₹692.80 | -2.00% | ₹691.15 - ₹703.35 | 38,776,664 | 30,222,673 | 1.28x | 24.16% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -138,7 +138,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,126.00 | -0.66% | ₹10,985.00 - ₹11,208.00 | 229,467 | 451,789 | 0.51x | 25.97% | ₹11,126.00 - ₹17,292.00 |
+| ₹11,138.00 | -0.55% | ₹10,985.00 - ₹11,208.00 | 243,104 | 451,789 | 0.54x | 25.96% | ₹11,138.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -171,7 +171,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹146.33 | -0.28% | ₹143.04 - ₹147.29 | 5,211,306 | 12,205,493 | 0.43x | 27.41% | ₹136.35 - ₹211.92 |
+| ₹146.70 | -0.03% | ₹143.04 - ₹147.29 | 5,663,130 | 12,205,493 | 0.46x | 27.44% | ₹136.35 - ₹211.92 |
 
 **Research reports**
 
@@ -200,7 +200,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,071.00 | -1.39% | ₹7,035.00 - ₹7,230.00 | 231,993 | 404,953 | 0.57x | 28.72% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,060.00 | -1.54% | ₹7,035.00 - ₹7,230.00 | 250,822 | 404,953 | 0.62x | 28.80% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -216,7 +216,7 @@ _▲ buy · ▼ sell_
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Eicher Motors Share Price Live Updates: Eicher Motors Price Movement Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-22-oct-2026/liveblog/135105682.cms) - _Economic Times, 22 Oct 2026, 08:35 AM IST_
-- [Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxONIB1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxOA?oc=5) - _Livemint, 21 Oct 2026, 05:27 PM IST_
+- [Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdW5ndWpjU0hZRUd3SThkbjVybER1THc1M1ZtMEFqWENsOWM5VFJSd2p5WUI3REVwMWkxWF9sdWVQeEE1d2N6alFhc3FtQ3U4dUNmeTlGT3AtUGVrWGZTLVR6VVMyREQxOTVwZlBNb2VPdEwwR1l3d2NrcGowR090dE84Mzg2RFVfY0tVR2VDWkxHZC1rWUZ6Z2E3WDcxRl96SFEzOUxJUWs2WWZoSzBxZEFRZ1NZZElPeUNHNHFkQzlUZld2OWJOUTZEd0NJenPSAdQBQVVfeXFMTTkwUlRnYktsTTVIWFY3c1ZOQm5hX1pNSG5acVA3cHJzYWxTNFRGakZPQ19fb21mMFJtaHRpX1Y4cmY3b29lWjhzQTVubFdUU0JBMGhIR29VLXNRLXhtRGtGSVR5Tl9TN2tfcmhsalFWMnFxOVdyZWZDTEtrbnY4MTRSZk9mOXRhd19vNUxxVENuaU91a2tFZVhBYjJLQ29wSmwzS0JBbUhsbjZoX185NWcxMlFnUmpMTnhxQVBHby1XTHBZSGMtSzJ3S1lzVXpfYkFrMTg?oc=5) - _Livemint, 21 Oct 2026, 05:27 PM IST_
 
 </details>
 
@@ -230,7 +230,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,935.00 | -1.14% | ₹5,810.00 - ₹5,957.50 | 7,272 | 19,096 | 0.38x | 24.32% | ₹5,695.50 - ₹7,847.50 |
+| ₹5,980.00 | -0.39% | ₹5,810.00 - ₹5,993.50 | 8,869 | 19,096 | 0.46x | 24.11% | ₹5,695.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -258,7 +258,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹84.96 | -8.40% | ₹84.51 - ₹90.90 | 58,998 | 37,167 | 1.59x | 47.58% | ₹81.54 - ₹130.64 |
+| ₹83.98 | -9.46% | ₹83.91 - ₹90.90 | 67,675 | 37,167 | 1.82x | 50.04% | ₹81.54 - ₹130.64 |
 
 **Research reports**
 
