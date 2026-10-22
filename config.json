@@ -134,7 +134,11 @@
         "vecv"
       ],
       "news_query": "\"Eicher Motors\" OR \"Royal Enfield\"",
-      "sector": "Automobiles"
+      "sector": "Automobiles",
+      "reports": {
+        "one_pager": "analysis/Eicher_OnePager.pdf",
+        "detailed": "analysis/Eicher_Detailed.pdf"
+      }
     },
     {
       "key": "linde",
