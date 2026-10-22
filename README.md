@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 22 Oct 2026, 05:26 PM IST  |  **Market data as of:** 2026-10-22  |  **Start date:** 2026-10-16
+**Last updated:** 22 Oct 2026, 08:06 PM IST  |  **Market data as of:** 2026-10-22  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -30,12 +32,12 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹694.05 | ₹694.05 | ₹706.95 | -1.82% | ₹31,73,197 | 15.3% | -₹1,59,106 | -4.77% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,170.00 | ₹11,170.00 | ₹11,200.00 | -0.27% | ₹32,39,300 | 15.7% | -₹92,510 | -2.78% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹146.03 | ₹146.03 | ₹146.74 | -0.48% | ₹1,46,030 | 0.7% | -₹1,690 | -1.14% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,084.50 | ₹7,084.50 | ₹7,170.50 | -1.20% | ₹70,84,500 | 34.3% | -₹1,81,500 | -2.50% |
-| Linde India | 500 | ₹5,961.00 | ₹5,900.50 | ₹5,900.50 | ₹5,882.50 | +0.31% | ₹29,50,250 | 14.3% | -₹30,250 | -1.01% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹76.41 | ₹76.41 | ₹85.54 | -10.67% | ₹76,410 | 0.4% | -₹8,590 | -10.11% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹694.05 | - | ₹706.95 | -1.82% | ₹31,73,197 | 15.3% | -₹1,59,106 | -4.77% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,170.00 | - | ₹11,200.00 | -0.27% | ₹32,39,300 | 15.7% | -₹92,510 | -2.78% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹146.03 | - | ₹146.74 | -0.48% | ₹1,46,030 | 0.7% | -₹1,690 | -1.14% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,084.50 | - | ₹7,170.50 | -1.20% | ₹70,84,500 | 34.3% | -₹1,81,500 | -2.50% |
+| Linde India | 500 | ₹5,961.00 | ₹5,900.50 | - | ₹5,882.50 | +0.31% | ₹29,50,250 | 14.3% | -₹30,250 | -1.01% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹76.41 | - | ₹85.54 | -10.67% | ₹76,410 | 0.4% | -₹8,590 | -10.11% |
 
 **Best since buy:** Linde India (-1.01%)  ·  **Worst since buy:** Linc Ltd (-10.11%)  ·  **Biggest mover today:** Linc Ltd (-10.67%)
 
@@ -152,7 +154,7 @@ _▲ buy · ▼ sell_
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Lupin, SRF, TMPV, Maruti, NTPC among 74 BSE 500 stocks hit 52-week lows](https://www.business-standard.com/markets/news/lupin-srf-tmpv-maruti-ntpc-among-74-bse-500-stocks-hit-52-week-lows-on-thursday-126102200219_1.html) - _Business Standard, 22 Oct 2026, 10:07 AM IST_
-- [Maruti Suzuki expects double-digit growth in festival season sales](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1LZFFGUmdwa2FCMU05SHZqRFcxM1ZYZ1FfLVpwZk5GNlNnVkIxMmZrVGktMmJqa2J0MFhBR3NMbm5VRUc1N3F5SGV3eEw1anpWN0tpZVlaUVh0cG81cUNWYkZVQXdhVDBWLUF1eXNQYVZ1YVZsbnQwbVRBNEdPNi0wVDNpQUF1QWJqTFhPRm5xa0RtM0xjWGM1SU9qVTVxaG40ekxtY0xSeWtaOWlXdkFiWQ?oc=5) - _Press Trust of India, 21 Oct 2026, 08:41 PM IST_
+- [Maruti Suzuki expects double-digit growth in festival season sales](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1LZFFGUmdwa2FCMU05SHZqRFcxM1ZYZ1FfLVpwZk5GNlNnVkIxMmZrVGktMmJqa2J0MFhBR3NMbm5VRUc1N3F5SGV3eEw1anpWN0tpZVlaUVh0cG81cUNWYkZVQXdhVDBWLUF1eXNQYVZ1YVZsbnQwbVRBNEdPNi0wVDNpQUF1QWJqTFhPRm5xa0RtM0xjWGM1SU9qVTVxaG40ekxtY0xSeWtaOWlXdkFiWQ?oc=5) - _Press Trust Of India, 21 Oct 2026, 08:41 PM IST_
 - [Maruti Suzuki Ertiga gets costlier by up to ₹10,000: 16,911 units sold last month; check new variant-wise prices](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLTZNeENQY3U3bkZYRmdyWGE1NmpYZ0tYVDJOWGlCdkpBeGliSi1ZU3RLYUN6T1V0VDlmb3BVY2E3RjlhTENyQngxQXEwWWgwd1BOaC1hSkNYMXQ0dTJrZXVET0VuQkl4SmdRU2RXekZ6WGUtSk9wSFRuUVpldDg1aXNRU1VWRTV5cllETDQ5RzFhRXZYSFpad0dtcU9JRXVFTXNUZmhVaXhJS04xRkZqWTlFYmd0OF96c054WElDSE1pcG1WWUY0UUNTU0JiOVBJT3B4dWdtVkxHYzhOMVNoWHBfUzNsVFE4MEJUQk5TV3lsNG1ZcGJV0gH8AUFVX3lxTE9YOE1JaVJaRm9FR1JHTVZJdE43UklsUW5YWWFEcjdTZ1RwQWYwaG9mcFphOWwxTjAwelhEN1JzWGZwaG1fTTFHNHZ4N1diQ1RqVHBna1NhNHF6TzItZkV3RmxrMWFrRElTTjc5bHNoUlp4eDVDRko4T2VrNlRMZ2luTDVYTlRBSjZiOHg2U1hneEg0ZGVYdU1ZaVU4VE5nS2hEWnk5M0dLMGtnc0NnZEVjbUVNUkNuZWFPNzZvUzl1eGJpMUNldXlSYmpPNE9OeTRlTjJRdUtGVzlNN1IzT1dyWllBeFFwYTJMVmk1ZXNaLWRHOER2dE5TSVBJUg?oc=5) - _Livemint, 21 Oct 2026, 05:52 PM IST_
 - [Five Stocks To Buy Today: Maruti Suzuki, Karur Vysya Bank, Ratnaveer And More | October 21, 2026](https://news.google.com/rss/articles/CBMiggJBVV95cUxOckRrVmJRbWdHd2dOc0w2c3poVWpNQURDS1F5OWIyNG1vUEhaTlNTTVhfYzFiQnk0Nm43djZaOU9pVnl4OG1FbV9sZ19HUWZ0SDljMFphTjFiZnBhLUNaMjRxUnpKOG9KVUFPTGp6allzQUI1aDlGM1h6dkE4M3k0V1ZnVVJlb2hrQ3NaVTluVnhnWXprY2h0RVQxN2xfXzQwUEF3ZVNQakRCVVJJWUJ2UGpQWHNXYU85NWJ4YXBReEpYLVFRUWJNZ0RtMEpoR01rMkkxQkFKaXlhenA4UEQyb1NCZTA1U0JPWXUxcnZjWFhUTFhwdHNjZGl0RXRNazBUZXfSAYoCQVVfeXFMTkJxelY5b2VXcXNTUDd3VWt4M0wzb3VCQ1RFNXpDdUlvUWViX19velNsXzlJOU9lY0JUVk9XcHMtSW5sZmFnMmtGRjk4a296ajh6bXJJNHlMaHJlaDFiWjJRRnJGbDV1Y2pqSTMwOG5oSXhXbjBxNUFWUjZVOHVhNUtpN1F2SVpEaXdVU2lZelFTdXRDTm15OE9sTTYxbm9ldVF5ZDdlejYzbUZLaS14WEEyNUVjbEF6WDhZcnFOOHFGbXRIcVJhM1lmLWY3c29wX3FUaVpOemVFQ29vTHlKLUVQZ0dYSUk4UDFqWGJzbG1jSExER2tEVzBROHIwT0pYRkROTXA1SFhiQlE?oc=5) - _NDTV Profit, 21 Oct 2026, 06:52 AM IST_
 
@@ -212,7 +214,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdW5ndWpjU0hZRUd3SThkbjVybER1THc1M1ZtMEFqWENsOWM5VFJSd2p5WUI3REVwMWkxWF9sdWVQeEE1d2N6alFhc3FtQ3U4dUNmeTlGT3AtUGVrWGZTLVR6VVMyREQxOTVwZlBNb2VPdEwwR1l3d2NrcGowR090dE84Mzg2RFVfY0tVR2VDWkxHZC1rWUZ6Z2E3WDcxRl96SFEzOUxJUWs2WWZoSzBxZEFRZ1NZZElPeUNHNHFkQzlUZld2OWJOUTZEd0NJenPSAdQBQVVfeXFMTTkwUlRnYktsTTVIWFY3c1ZOQm5hX1pNSG5acVA3cHJzYWxTNFRGakZPQ19fb21mMFJtaHRpX1Y4cmY3b29lWjhzQTVubFdUU0JBMGhIR29VLXNRLXhtRGtGSVR5Tl9TN2tfcmhsalFWMnFxOVdyZWZDTEtrbnY4MTRSZk9mOXRhd19vNUxxVENuaU91a2tFZVhBYjJLQ29wSmwzS0JBbUhsbjZoX185NWcxMlFnUmpMTnhxQVBHby1XTHBZSGMtSzJ3S1lzVXpfYkFrMTg?oc=5) - _Livemint, 21 Oct 2026, 05:27 PM IST_
+- [Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxONIB1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxOA?oc=5) - _Livemint, 21 Oct 2026, 05:27 PM IST_
 
 </details>
 
