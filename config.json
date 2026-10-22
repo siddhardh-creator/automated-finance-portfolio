@@ -43,10 +43,6 @@
         "deepinder goyal"
       ],
       "news_query": "Zomato OR \"Eternal Ltd\" OR Blinkit",
-      "reports": {
-        "one_pager": "analysis/Eternal_OnePager.pdf",
-        "detailed": "analysis/Eternal_Detailed.pdf"
-      },
       "sector": "Consumer Internet"
     },
     {
@@ -153,6 +149,20 @@
       ],
       "news_query": "\"Linde India\"",
       "sector": "Industrial Gases"
+    },
+    {
+      "key": "linc",
+      "name": "Linc Ltd",
+      "tickers": [
+        "LINC.NS"
+      ],
+      "weight": 0,
+      "bse_code": "531241",
+      "keywords": [
+        "linc"
+      ],
+      "news_query": "\"Linc Ltd\" OR \"Linc Pen\"",
+      "sector": "Stationery & Writing Instruments"
     }
   ],
   "trusted_sources": [

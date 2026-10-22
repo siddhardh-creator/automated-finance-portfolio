@@ -13,3 +13,6 @@ date,stock,type,shares,amount,price,note
 2026-10-21,manorama,SELL,1000,,1749.00,Sold 21-Oct-26 at live NSE price 1749.00 (10:03:32 AM IST; source NSE_CMDATA)
 2026-10-21,fiem,SELL,1000,,1816.90,Sold 21-Oct-26 at live NSE price 1816.90 (10:03:32 AM IST; source NSE_CMDATA)
 2026-10-21,linde,BUY,500,,5961.00,Bought 21-Oct-26 from cash at 5961.00 (NSE last traded 10:53:52 AM IST per Upstox web quote)
+2026-10-22,zomato,SELL,ALL,,309.00,Sold 22-Oct-26 at live NSE price 309.00 (12:30:26 PM IST; source NSE_CMDATA)
+2026-10-22,,DEPOSIT,,85000,,Fresh virtual money to fund Linc Ltd
+2026-10-22,linc,BUY,1000,,85.00,Bought 22-Oct-26 at live NSE price 85.00 (12:30:26 PM IST; source NSE_CMDATA)
