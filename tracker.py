@@ -719,7 +719,9 @@ def main():
         warnings += quality_checks(s["name"], m)
         log(f"News + filings for {s['name']} ...")
         results.append({"key": k, "name": s["name"], "sector": s.get("sector", "-"), "ticker": used_ticker[k],
-                        "bse_code": s["bse_code"], "first_buy": pos["first_buy"].strftime("%Y-%m-%d"),
+                        "bse_code": s["bse_code"],
+                        "google_finance_url": f"https://www.google.com/finance/quote/{used_ticker[k].split('.')[0]}:NSE",
+                        "first_buy": pos["first_buy"].strftime("%Y-%m-%d"),
                         "metrics": m, "news": [], "announcements": collect_announcements(s)})
     publisher_cache = {pf["url"]: fetch_feed(pf["url"]) for pf in cfg["publisher_feeds"]} if results else {}
     for r in results:
