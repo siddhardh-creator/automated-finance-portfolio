@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 22 Oct 2026, 11:33 AM IST  |  **Market data as of:** 2026-10-22  |  **Start date:** 2026-10-16
+**Last updated:** 22 Oct 2026, 12:32 PM IST  |  **Market data as of:** 2026-10-22  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,15 +14,15 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,06,43,741** |
-| Total P&L | **-₹6,22,259 (-2.93%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹5,77,759 |
-| &nbsp;&nbsp;Realised (shares already sold) | -₹44,500 |
-| Today's change | -₹1,85,920 (-0.89%) |
-| Nifty 50 since start (same money invested) | -1.06% |
-| Outperformance vs Nifty 50 | -1.87% |
-| Cash (uninvested) | ₹8,30,469 |
-| Virtual money put in | ₹2,12,66,000 |
+| Current value | **₹2,06,22,498** |
+| Total P&L | **-₹7,28,502 (-3.41%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹5,17,008 |
+| &nbsp;&nbsp;Realised (shares already sold) | -₹2,11,493 |
+| Today's change | -₹2,92,162 (-1.40%) |
+| Nifty 50 since start (same money invested) | -1.48% |
+| Outperformance vs Nifty 50 | -1.93% |
+| Cash (uninvested) | ₹39,96,174 |
+| Virtual money put in | ₹2,13,51,000 |
 
 ![Portfolio vs Nifty](charts/portfolio_vs_nifty.png)
 
@@ -32,14 +32,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Avg buy | Close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹697.75 | -1.30% | ₹31,90,113 | 15.4% | -₹1,42,189 | -4.27% |
-| Eternal (Zomato) | 10,245 | ₹325.30 | ₹313.75 | +0.45% | ₹32,14,369 | 15.6% | -₹1,18,330 | -3.55% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,148.00 | -0.46% | ₹32,32,920 | 15.7% | -₹98,890 | -2.97% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹146.62 | -0.08% | ₹1,46,620 | 0.7% | -₹1,100 | -0.74% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,081.00 | -1.25% | ₹70,81,000 | 34.3% | -₹1,85,000 | -2.55% |
-| Linde India | 500 | ₹5,961.00 | ₹5,896.50 | -1.78% | ₹29,48,250 | 14.3% | -₹32,250 | -1.08% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹692.00 | -2.11% | ₹31,63,824 | 15.3% | -₹1,68,478 | -5.06% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,106.00 | -0.84% | ₹32,20,740 | 15.6% | -₹1,11,070 | -3.33% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹146.03 | -0.48% | ₹1,46,030 | 0.7% | -₹1,690 | -1.14% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,060.50 | -1.53% | ₹70,60,500 | 34.2% | -₹2,05,500 | -2.83% |
+| Linde India | 500 | ₹5,961.00 | ₹5,900.50 | -1.72% | ₹29,50,250 | 14.3% | -₹30,250 | -1.01% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹84.98 | -8.38% | ₹84,980 | 0.4% | -₹20 | -0.02% |
 
-**Best since buy:** Ashok Leyland (-0.74%)  ·  **Worst since buy:** HDFC Bank (-4.27%)  ·  **Biggest mover today:** Linde India (-1.78%)
+**Best since buy:** Linc Ltd (-0.02%)  ·  **Worst since buy:** HDFC Bank (-5.06%)  ·  **Biggest mover today:** Linc Ltd (-8.38%)
 
 ## Allocation
 
@@ -47,11 +47,11 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,04,60,540 | 50.7% |
-| Consumer Internet | ₹32,14,369 | 15.6% |
-| Financials | ₹31,90,113 | 15.4% |
-| Industrial Gases | ₹29,48,250 | 14.3% |
-| Cash | ₹8,30,469 | 4.0% |
+| Automobiles | ₹1,04,27,270 | 50.6% |
+| Cash | ₹39,96,174 | 19.4% |
+| Financials | ₹31,63,824 | 15.3% |
+| Industrial Gases | ₹29,50,250 | 14.3% |
+| Stationery & Writing Instruments | ₹84,980 | 0.4% |
 
 ## Performance
 
@@ -59,10 +59,13 @@ _▲ buy · ▼ sell_
 
 ## Trade book
 
-<details><summary><b>Transaction history</b> - 14 entries, newest first</summary>
+<details><summary><b>Transaction history</b> - 17 entries, newest first</summary>
 
 | Date | Stock | Type | Shares | Price | Amount | Note |
 |---|---|---|---:|---:|---:|---|
+| 2026-10-22 | Linc Ltd | BUY | 1,000 | ₹85.00 | ₹85,000 | Bought 22-Oct-26 at live NSE price 85.00 (12:30:26 PM IST; source NSE_CMDATA) |
+| 2026-10-22 | - | DEPOSIT | - | - | ₹85,000 | Fresh virtual money to fund Linc Ltd |
+| 2026-10-22 | Eternal (Zomato) | SELL | 10,245 | ₹309.00 | ₹31,65,705 | Sold 22-Oct-26 at live NSE price 309.00 (12:30:26 PM IST; source NSE_CMDATA) |
 | 2026-10-21 | Linde India | BUY | 500 | ₹5,961.00 | ₹29,80,500 | Bought 21-Oct-26 from cash at 5961.00 (NSE last traded 10:53:52 AM IST per Upstox web quote) |
 | 2026-10-21 | Fiem Industries | SELL | 1,000 | ₹1,816.90 | ₹18,16,900 | Sold 21-Oct-26 at live NSE price 1816.90 (10:03:32 AM IST; source NSE_CMDATA) |
 | 2026-10-21 | Manorama Industries | SELL | 1,000 | ₹1,749.00 | ₹17,49,000 | Sold 21-Oct-26 at live NSE price 1749.00 (10:03:32 AM IST; source NSE_CMDATA) |
@@ -80,12 +83,13 @@ _▲ buy · ▼ sell_
 
 </details>
 
-<details open><summary><b>Closed positions</b> - 2</summary>
+<details open><summary><b>Closed positions</b> - 3</summary>
 
 | Stock | Bought (avg) | Sold (avg) | Held | Invested | Proceeds | Realised P&L | Return |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | Manorama Industries | 2026-10-19 @ ₹1,796.80 | 2026-10-21 @ ₹1,749.00 | 2 days | ₹17,96,800 | ₹17,49,000 | -₹47,800 | -2.66% |
 | Fiem Industries | 2026-10-21 @ ₹1,813.60 | 2026-10-21 @ ₹1,816.90 | 0 days | ₹18,13,600 | ₹18,16,900 | ₹3,300 | +0.18% |
+| Eternal (Zomato) | 2026-10-16 @ ₹325.30 | 2026-10-22 @ ₹309.00 | 6 days | ₹33,32,698 | ₹31,65,705 | -₹1,66,993 | -5.01% |
 
 </details>
 
@@ -101,7 +105,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹697.75 | -1.30% | ₹691.15 - ₹703.35 | 25,437,716 | 30,222,673 | 0.84x | 23.63% | ₹687.10 - ₹1,009.50 |
+| ₹692.00 | -2.11% | ₹691.15 - ₹703.35 | 33,565,442 | 30,222,673 | 1.11x | 24.27% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -116,44 +120,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [HDFC Bank shares near 52-week low amid insider leak probe](https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-near-52-week-low-as-insider-leak-probe-rattles-investors/article71610369.ece) - _BusinessLine, 22 Oct 2026, 11:58 AM IST_
 - [HDFC Bank Share Price Live Updates: HDFC Bank Faces Downward Price Breakout](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-22-oct-2026/liveblog/135106002.cms) - _Economic Times, 22 Oct 2026, 08:52 AM IST_
 - [HDFC Bank begins probe into alleged internal data leak](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeU1iVENGb29FblI4LVBjMi1Pek5jQmFjd0x6N3UwWTRXaHpoaDNsSEQzVFNEU0UxNEl0emg0d2cwU2lmVEpfQmk5cWxwdFM0Qk5ROVZqNEZ1anBPODY3X2t1U0JELUQ4NTJSVzZhZ3FwU0JqNmR3cEZIUU5GZmt2Y3FWdTFuOUY5bzhCczRPU1N0WF9HY29yLU01bUxZSjYtUU1NTTdwSm8tcENLZXB6MGxjdnYxS2NuZzRsYzZ1UnVlMlltcVM4QlNZT1JWMEljTzBIVzdtNGrSAd4BQVVfeXFMUFFTMV9FWEd5d0IxRmc0WnU4TVp1WWVRUWxmMjhuSVZHaVVBRm96STdlX01vRUFQYXpIXzF5Zzd3TEFkWGVJb0ZUS1J6dTg3eGFjTlBkS2dzNlB2bjNsaXBuU1pzTHF0aldXZ0RRbmlEUUtiTjRySEtxVlFlWHhoQy13RlhEekhDUGpXTWJ4TmkzOWVBV01ZLWZnRk5COGRtS3NRcVZBQVZPTHlqb1Q1dzZlaE9IUjdRX25EdEJlWG90dlJ6S1Nqajd4Q0VrRm5WQjVacERZdG82Sk1HcGx3?oc=5) - _The Economic Times, 22 Oct 2026, 01:14 AM IST_
 - [HDFC Bank initiates internal probe into alleged data leak by two senior executives](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVNJd0lielpaN0lVT0NMWHJ6SmZtLXpsYXVRbTBMa0dBYzVEd2FjUENRTVdsSXFnZ0hoOEwxbTY1UDRSZ0VvSk1jVnhubVpvNks2dzY1QVRYYll4SkszVjVYOW9uRlNOZjdnRU1xSmVCdzBzTXZiLWVEaTA3aWZKamIxekhBMjB2VkZrOXg2eGhEYmtmUFRxV1liNl9vTDJhVldoYzkyNXpLek1hbnB1dW1pajd5bnFoYWZRNmU1MnRXWVE1QVlwV0FqbGRXT1hLYy0wWjZJTjh6eEpoSGfSAeQBQVVfeXFMTzNBaGo4UnItRmdheDAzd2dTN0tmeHRfajU2OFpCSWNRaDNMU0UyX2hDcm9FOWpCaGpsV0JlallZSlJQLTItVV9MdEg4SWpEc1JlalNIUFhqN0lVVG93dGpwOWgxWE1xRF95Y0JkSXhTV2Ixc2lEaTFHdFdzcW5peDFmTGN3bTlacUFiT2FqQTFpQ2ZqRzJBV2l0VWh5Z01kLVVwbzVKc3I4NFBjN2xaSFd3MWhkQ1FpRjlncjVfbnJMSGlPS3J6Y0FDSVl4cGhMZ0VnV2NPLXJPa0laUEl5TUNmdjJT?oc=5) - _The Hindu, 21 Oct 2026, 11:45 PM IST_
-- [HDFC Bank probes alleged leak of confidential information, two under lens](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2Mwb3NVOHZ0V0VpckF2a3RWaEhfbVFEU3dkNnRvRmRjWHUxSHVlOTAwSk9Pem1IU2lkNDh3dV9lZ25qTDlBRTFtYTNOMkNZVVQ0OUhCUWFhVEY2YXdSMUhMdF9MWndWOGV4c3lEWnA2SzZzdEExY1ZSemRfWVd2TjMwYXJzRW1BaTJLVnpSM0d1TmlaeU1sOVkwY3MtSUhYRjRkQ0RyVDZUU29WQXZyUUNxcWdxSW5Oa2tkcVQ0d1MwU09YU3hXX1hjYnk4U0wxRENVR3VvVmJGWGfSAeABQVVfeXFMTUdQUjN6YmcweG9KQ1RCOTJDbS11TlNRU2lsa3RTa2xFSlBSMmlKODRxczdLLTFzdFZILUJoa1VvOS1xa28tZXVqbVNUZ3UtU2lyV01faXJCb1FpeEFiZzZMUmJoU2dVUUpZamNPNHI1Smx3cUNfX2l2R3huUjdycmo3NUN0bU5qUFVCTFhyREVuREMwb0NxVEVvV25sWF9MQllnQ1NFVjZWVmZ6X3RGNGh0b0J5d2xhWWdYRVE5cUlGUVE2c1ZaQk5IS1EyN01wX3R2bXM5TW1CcWJlNkhhSmU?oc=5) - _Business Standard, 21 Oct 2026, 07:21 PM IST_
-- [Trouble mounts for HDFC Bank: Probe points to senior-level ‘leaks’](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEtobVF2clRPLXNSb0ppTlpfal9JeTdBRENNdGNCdWJlU0VXV1pHQUsyTXphY3lKTVl5bjZtWTRqdW1LZlppOE1WU3g4VF9BTU1NTm4wYXdiUXotVE5wVGphYUpDd0pPbTBqMHNhQWhEU2FvZy1pMVdXSUJueXhaa2o0MkgwZmxCYUd1Q0ZSRnBPcGQwY29RVmtnVU1WNGdia0JVdXlPUdIBrgFBVV95cUxNTUNpZEcxOVhWTW1sX1NOZVhOcXdqRFd6UEZ2YjQxVVVVWXdCTVoxRG1BTk9HQWhIdjgyUkhaTzNITGhkWUJoNzBDTS1oVnR2MmtaVnVEME03Vmw0UHRiTUJ2ZlZ0TGQ2VU1QcVJpb2UtNDVYT2hKQ1F1NHhIU3Z6Y2VLcFVjWmlZY1RMNFlaWWtsTlNYV29JRmhDQ09Wc19HWnpXa1RYYXllaWxqcmc?oc=5) - _The Indian Express, 21 Oct 2026, 05:29 PM IST_
-
-</details>
-
----
-
-### Eternal (Zomato)  _(Consumer Internet)_
-
-![Eternal (Zomato) chart](charts/zomato.png)
-
-[Google Finance](https://www.google.com/finance/quote/ETERNAL:NSE) · [All BSE announcements](https://www.bseindia.com/corporates/ann.html?scrip=543320)
-
-| Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
-|---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹313.75 | +0.45% | ₹306.70 - ₹319.00 | 55,244,130 | 21,853,832 | 2.53x | 25.78% | ₹215.68 - ₹342.65 |
-
-**Research reports**
-
-- [One-page snapshot](analysis/Eternal_OnePager.pdf)
-- [Detailed report](analysis/Eternal_Detailed.pdf)
-
-<details><summary><b>Official company announcements (BSE)</b></summary>
-
-- No recent filings fetched; see the link above for the full list.
-
-</details>
-
-<details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
-
-- [Eternal shares jump 2% after strong Q2 show, brokerages see up to 34% upside](https://economictimes.indiatimes.com/markets/stocks/news/eternal-shares-jump-2-after-strong-q2-show-brokerages-see-up-to-34-upside/articleshow/135106738.cms) - _Economic Times, 22 Oct 2026, 09:41 AM IST_
-- [Eternal Q2 FY27: Blinkit scales up, profitability improves](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNejJQMlFwdDdKeU9FenZLSnlEV1ItN29GWF9mdFRXbXpXZXU0Q2drUkdldEF4dEZPSHBPXzZ2TXl1aDIwbkZvR3Fjak9GSXVWY1VYc0JNZWRBNXNrN1hET1NCSmtZRy1KX3pjaFd3MkVjRDhSQTlIN2xpLUtZU0pWVnJjd3pUclNXTndlLVVsTEVIRkprYS1YOVFvNURrSjB1Tk9LUWJMZTFvSVJXa2VXUUlJVHJ3ekUtN1JwVjdpcWRQMGs1OFVvd29pSjhJaXBG0gHWAUFVX3lxTFBpUUlfWmw1elotNU9JWXllUTU2NTJ1RkFxVEJDQ2V4M3pWRWpUdlhtNFNreWtHc2loOTdGcUR1eVRnbm9XcGEzeVE4bmVBTy1SbGNsWjU4Wmg5dTN3cjRFV1JQdS1UR3hvV1EtcXlNZjdfR1lIcmx0REx4SndCYUZ3UDhpVFlZaVJtUlozU1FKaVRUeUYyY1V4LUZoMkxZeWxoNVBQRnhoNDJCN2hwbVFyZ2xzeEdJdTVPOWxkOFg1ZGR4TjN2RFFGdDBYaXA1ZVZDRXdlcVE?oc=5) - _Moneycontrol.com, 22 Oct 2026, 09:37 AM IST_
-- [Video | Eternal Q2 Review: Brokerages Raise Targets As Blinkit Expansion Accelerates](https://news.google.com/rss/articles/CBMixAFBVV95cUxQem1UcmpPYnh4U0YzSEdxMDlRSUpqQ3ZiNHV1cFA1cUVDd0dYR1FBOFZYSzljUEdLN3NEZkd4OWVNamFhc3FzdWk0NmNYaVJNTU9xdGU4Z1JjbWU5bERyaFFNMHBETXNleHlwQ3RNMk54RmpaMlVzeGQtd1JmSzNoV0N3emppVWhlZTMtV0VyTjFqYkcwR1lTMmt0bFRSc3BZSGhuSlNMMF9oZTl6dl9KMjZhbDQ3ZFlBMFhFY3kyTkEza0Na?oc=5) - _NDTV Profit, 22 Oct 2026, 09:29 AM IST_
-- [Eternal shares defy market fall after Q2 results; brokerages remain bullish](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWhwZ25YcGlGSGUxM0JUV18xbGhmUnQ4WGlhOXkwTXRadnJuM01HYmZEZXVqV2I3NEoyUmI5SE9UdUl1Nmp4LXdFX2ZfcGNfTndoall0VlZRcEg0ZW1IQjk1NWg0SlZsRTNzeWc4bjB6amw3OVFVTWFnbmp3TTVkRzV0TUNWTmljR1YwT1pPLTJwR2ZoVW05TzJJTzJXVkhHSHN4RFU4ZFVtTFk2VzhQVnNCZEh1a1k1TlVlOE1ZV1g0MDd6a01fVDVsQlNkdkIzejJNdE9B0gHWAUFVX3lxTE8taHBnblhwaUZIZTEzQlRXXzFsaGZSdDhYaWE5eTBNdFp2cm4zTUdiZkRldWpXYjc0SjJSYjlIT1R1SXU2angtd0VfZl9wY19Od2hqWXRWVlFwSDRlbUhCOTU1aDRKVmxFM3N5ZzhuMHpqbDc5UVVNYWduandNNWRHNXRNQ1ZOaWNHVjBPWk8tMnBHZmhVbTlPMklPMldWSEdIc3hEVThkVW1MWTZXOFBWc0JkSHVrWTVOVWU4TVlXWDQwN3prTV9UNWxCU2R2QjN6Mk10T0E?oc=5) - _Business Standard, 22 Oct 2026, 09:26 AM IST_
-- [Stocks to watch: BEL, Swiggy, Eternal, IHCL, PC Jeweller, RBL Bank, SRF](https://www.business-standard.com/markets/news/stocks-to-watch-bel-swiggy-eternal-ihcl-pc-jeweller-rbl-bank-srf-126102200104_1.html) - _Business Standard, 22 Oct 2026, 08:10 AM IST_
+- [Video | HDFC Bank Says Probe Into Confidential Information Leak Is Underway](https://news.google.com/rss/articles/CBMiugFBVV95cUxQb29RYU11bHF5SXdvblpBbjB5V3FtTkUwSDJkYm1BTkhzVGMzblBYdUtJMHNGZ0luS0s2TGF5MEVCUnZhbFhCVFE4RXFZajlNWmozWjFKUFdxT3NjcGdGTjd2OElpbERCWGFSbmpzTGR0SnFfaDZBT3Z1WFJ6RTQ1V2ZIZFZHa0Z3UWo0ODJ5TkUwazR6N0trVmNRZF96SG1PY3EyV21BSTczdHl5emFGYmRpZnZEM3RIVlE?oc=5) - _NDTV Profit, 21 Oct 2026, 07:55 PM IST_
 
 </details>
 
@@ -167,7 +138,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,148.00 | -0.46% | ₹10,985.00 - ₹11,208.00 | 152,917 | 451,789 | 0.34x | 25.96% | ₹11,148.00 - ₹17,292.00 |
+| ₹11,106.00 | -0.84% | ₹10,985.00 - ₹11,208.00 | 219,941 | 451,789 | 0.49x | 26.00% | ₹11,106.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -200,7 +171,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹146.62 | -0.08% | ₹143.04 - ₹147.29 | 3,913,467 | 12,205,493 | 0.32x | 27.43% | ₹136.35 - ₹211.92 |
+| ₹146.03 | -0.48% | ₹143.04 - ₹147.29 | 5,002,349 | 12,205,493 | 0.41x | 27.40% | ₹136.35 - ₹211.92 |
 
 **Research reports**
 
@@ -229,11 +200,12 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,081.00 | -1.25% | ₹7,035.00 - ₹7,230.00 | 136,267 | 404,953 | 0.34x | 28.65% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,060.50 | -1.53% | ₹7,035.00 - ₹7,230.00 | 211,380 | 404,953 | 0.52x | 28.80% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
-_Research report coming soon._
+- [One-page snapshot](analysis/Eicher_OnePager.pdf)
+- [Detailed report](analysis/Eicher_Detailed.pdf)
 
 <details><summary><b>Official company announcements (BSE)</b></summary>
 
@@ -243,7 +215,7 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Eicher Motors Share Price Live Updates: Eicher Motors trades below 20-day EMA](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-22-oct-2026/liveblog/135105682.cms) - _Economic Times, 22 Oct 2026, 08:35 AM IST_
+- [Eicher Motors Share Price Live Updates: Eicher Motors Price Movement Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-22-oct-2026/liveblog/135105682.cms) - _Economic Times, 22 Oct 2026, 08:35 AM IST_
 - [Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxONIB1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxOA?oc=5) - _Livemint, 21 Oct 2026, 05:27 PM IST_
 
 </details>
@@ -258,7 +230,35 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,896.50 | -1.78% | ₹5,810.00 - ₹5,957.50 | 5,050 | 19,096 | 0.26x | 24.73% | ₹5,695.50 - ₹7,847.50 |
+| ₹5,900.50 | -1.72% | ₹5,810.00 - ₹5,957.50 | 6,137 | 19,096 | 0.32x | 24.68% | ₹5,695.50 - ₹7,847.50 |
+
+**Research reports**
+
+_Research report coming soon._
+
+<details><summary><b>Official company announcements (BSE)</b></summary>
+
+- No recent filings fetched; see the link above for the full list.
+
+</details>
+
+<details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
+
+- No fresh headlines from trusted sources in the last few days.
+
+</details>
+
+---
+
+### Linc Ltd  _(Stationery & Writing Instruments)_
+
+![Linc Ltd chart](charts/linc.png)
+
+[Google Finance](https://www.google.com/finance/quote/LINC:NSE) · [All BSE announcements](https://www.bseindia.com/corporates/ann.html?scrip=531241)
+
+| Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
+|---:|---:|---:|---:|---:|---:|---:|---:|
+| ₹84.98 | -8.38% | ₹84.80 - ₹90.90 | 51,124 | 37,167 | 1.38x | 47.53% | ₹81.54 - ₹130.64 |
 
 **Research reports**
 
