@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "22 Oct 2026, 01:06 PM IST",
+  "generated_at_ist": "22 Oct 2026, 01:32 PM IST",
   "as_of": "2026-10-22",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 21351000.0,
     "initial_capital": 10000000,
     "invested": 17143332.09,
-    "holdings_value": 16678181.54,
+    "holdings_value": 16663577.53,
     "cash": 3996174.49,
-    "value": 20674356.03,
-    "pnl_inr": -676643.97,
-    "pnl_pct": -3.17,
-    "unrealised_pnl_inr": -465150.54,
+    "value": 20659752.03,
+    "pnl_inr": -691247.97,
+    "pnl_pct": -3.24,
+    "unrealised_pnl_inr": -479754.55,
     "realised_pnl_inr": -211493.42,
-    "day_pnl_inr": -240304.73,
-    "day_pnl_pct": -1.15,
+    "day_pnl_inr": -254908.73,
+    "day_pnl_pct": -1.22,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22685.2,
-    "return_pct": -1.26,
-    "day_change_pct": -0.55
+    "close": 22634.6,
+    "return_pct": -1.48,
+    "day_change_pct": -0.77
   },
   "stocks": [
     {
@@ -33,24 +33,24 @@
       "bse_code": "500180",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 692.8,
+        "close": 690.8,
         "prev_close": 706.95,
-        "day_change_pct": -2.0,
+        "day_change_pct": -2.28,
         "open": 701.45,
         "high": 703.35,
-        "low": 691.15,
-        "intraday_range_pct": 1.73,
-        "volume": 38776664,
+        "low": 689.1,
+        "intraday_range_pct": 2.02,
+        "volume": 43541540,
         "avg_volume_20d": 30222673,
-        "volume_vs_avg": 1.28,
-        "volatility_20d_annualised_pct": 24.16,
+        "volume_vs_avg": 1.44,
+        "volatility_20d_annualised_pct": 24.44,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3167481.54,
-        "pnl_inr": -164820.54,
-        "pnl_pct": -4.95
+        "market_value": 3158337.54,
+        "pnl_inr": -173964.54,
+        "pnl_pct": -5.22
       },
       "news": [
         {
@@ -72,7 +72,7 @@
           "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-near-52-week-low-as-insider-leak-probe-rattles-investors/article71610369.ece"
         },
         {
-          "title": "HDFC Bank Share Price Live Updates: HDFC Bank Faces Downward Price Breakout",
+          "title": "HDFC Bank Share Price Live Updates: HDFC Bank Sees Price Drop Amidst High Trading Volume",
           "source": "Economic Times",
           "published": "22 Oct 2026, 08:52 AM IST",
           "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-22-oct-2026/liveblog/135106002.cms"
@@ -85,7 +85,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.32
+      "weight_pct": 15.29
     },
     {
       "key": "maruti",
@@ -95,24 +95,24 @@
       "bse_code": "532500",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11138.0,
+        "close": 11111.0,
         "prev_close": 11200.0,
-        "day_change_pct": -0.55,
+        "day_change_pct": -0.79,
         "open": 11170.0,
         "high": 11208.0,
         "low": 10985.0,
         "intraday_range_pct": 1.99,
-        "volume": 243104,
+        "volume": 263421,
         "avg_volume_20d": 451789,
-        "volume_vs_avg": 0.54,
-        "volatility_20d_annualised_pct": 25.96,
+        "volume_vs_avg": 0.58,
+        "volatility_20d_annualised_pct": 25.99,
         "high_52w": 17292.0,
-        "low_52w": 11138.0,
+        "low_52w": 11111.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3230020.0,
-        "pnl_inr": -101790.0,
-        "pnl_pct": -3.06
+        "market_value": 3222190.0,
+        "pnl_inr": -109620.0,
+        "pnl_pct": -3.29
       },
       "news": [
         {
@@ -147,7 +147,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.62
+      "weight_pct": 15.6
     },
     {
       "key": "ashok",
@@ -157,24 +157,24 @@
       "bse_code": "500477",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 146.7,
+        "close": 146.4,
         "prev_close": 146.74,
-        "day_change_pct": -0.03,
+        "day_change_pct": -0.23,
         "open": 144.95,
         "high": 147.29,
         "low": 143.04,
         "intraday_range_pct": 2.9,
-        "volume": 5663130,
+        "volume": 6150842,
         "avg_volume_20d": 12205493,
-        "volume_vs_avg": 0.46,
-        "volatility_20d_annualised_pct": 27.44,
+        "volume_vs_avg": 0.5,
+        "volatility_20d_annualised_pct": 27.41,
         "high_52w": 211.92,
         "low_52w": 136.35,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 146700.0,
-        "pnl_inr": -1020.0,
-        "pnl_pct": -0.69
+        "market_value": 146399.99,
+        "pnl_inr": -1320.01,
+        "pnl_pct": -0.89
       },
       "news": [],
       "announcements": [],
@@ -188,24 +188,24 @@
       "bse_code": "505200",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7060.0,
+        "close": 7073.5,
         "prev_close": 7170.5,
-        "day_change_pct": -1.54,
+        "day_change_pct": -1.35,
         "open": 7088.0,
         "high": 7230.0,
         "low": 7035.0,
         "intraday_range_pct": 2.72,
-        "volume": 250822,
+        "volume": 283232,
         "avg_volume_20d": 404953,
-        "volume_vs_avg": 0.62,
-        "volatility_20d_annualised_pct": 28.8,
+        "volume_vs_avg": 0.7,
+        "volatility_20d_annualised_pct": 28.7,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7060000.0,
-        "pnl_inr": -206000.0,
-        "pnl_pct": -2.84
+        "market_value": 7073500.0,
+        "pnl_inr": -192500.0,
+        "pnl_pct": -2.65
       },
       "news": [
         {
@@ -218,11 +218,11 @@
           "title": "Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for",
           "source": "Livemint",
           "published": "21 Oct 2026, 05:27 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdW5ndWpjU0hZRUd3SThkbjVybER1THc1M1ZtMEFqWENsOWM5VFJSd2p5WUI3REVwMWkxWF9sdWVQeEE1d2N6alFhc3FtQ3U4dUNmeTlGT3AtUGVrWGZTLVR6VVMyREQxOTVwZlBNb2VPdEwwR1l3d2NrcGowR090dE84Mzg2RFVfY0tVR2VDWkxHZC1rWUZ6Z2E3WDcxRl96SFEzOUxJUWs2WWZoSzBxZEFRZ1NZZElPeUNHNHFkQzlUZld2OWJOUTZEd0NJenPSAdQBQVVfeXFMTTkwUlRnYktsTTVIWFY3c1ZOQm5hX1pNSG5acVA3cHJzYWxTNFRGakZPQ19fb21mMFJtaHRpX1Y4cmY3b29lWjhzQTVubFdUU0JBMGhIR29VLXNRLXhtRGtGSVR5Tl9TN2tfcmhsalFWMnFxOVdyZWZDTEtrbnY4MTRSZk9mOXRhd19vNUxxVENuaU91a2tFZVhBYjJLQ29wSmwzS0JBbUhsbjZoX185NWcxMlFnUmpMTnhxQVBHby1XTHBZSGMtSzJ3S1lzVXpfYkFrMTg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxONIB1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxOA?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 34.15
+      "weight_pct": 34.24
     },
     {
       "key": "linde",
@@ -232,28 +232,28 @@
       "bse_code": "523457",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5980.0,
+        "close": 5960.5,
         "prev_close": 6003.5,
-        "day_change_pct": -0.39,
+        "day_change_pct": -0.72,
         "open": 5877.0,
-        "high": 5993.5,
+        "high": 6000.0,
         "low": 5810.0,
-        "intraday_range_pct": 3.06,
-        "volume": 8869,
+        "intraday_range_pct": 3.16,
+        "volume": 9460,
         "avg_volume_20d": 19096,
-        "volume_vs_avg": 0.46,
-        "volatility_20d_annualised_pct": 24.11,
+        "volume_vs_avg": 0.5,
+        "volatility_20d_annualised_pct": 24.16,
         "high_52w": 7847.5,
         "low_52w": 5695.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2990000.0,
-        "pnl_inr": 9500.0,
-        "pnl_pct": 0.32
+        "market_value": 2980250.0,
+        "pnl_inr": -250.0,
+        "pnl_pct": -0.01
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 14.46
+      "weight_pct": 14.43
     },
     {
       "key": "linc",
@@ -263,96 +263,96 @@
       "bse_code": "531241",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 83.98,
+        "close": 82.9,
         "prev_close": 92.75,
-        "day_change_pct": -9.46,
+        "day_change_pct": -10.62,
         "open": 85.54,
         "high": 90.9,
-        "low": 83.91,
-        "intraday_range_pct": 7.54,
-        "volume": 67675,
+        "low": 82.64,
+        "intraday_range_pct": 8.91,
+        "volume": 80941,
         "avg_volume_20d": 37167,
-        "volume_vs_avg": 1.82,
-        "volatility_20d_annualised_pct": 50.04,
+        "volume_vs_avg": 2.18,
+        "volatility_20d_annualised_pct": 52.93,
         "high_52w": 130.64,
         "low_52w": 81.54,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 83980.0,
-        "pnl_inr": -1020.0,
-        "pnl_pct": -1.2
+        "market_value": 82900.0,
+        "pnl_inr": -2100.0,
+        "pnl_pct": -2.47
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.41
+      "weight_pct": 0.4
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10436720.0,
-      "weight_pct": 50.48
+      "value": 10442089.99,
+      "weight_pct": 50.54
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.33
+      "weight_pct": 19.34
     },
     {
       "sector": "Financials",
-      "value": 3167481.54,
-      "weight_pct": 15.32
+      "value": 3158337.54,
+      "weight_pct": 15.29
     },
     {
       "sector": "Industrial Gases",
-      "value": 2990000.0,
-      "weight_pct": 14.46
+      "value": 2980250.0,
+      "weight_pct": 14.43
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 83980.0,
-      "weight_pct": 0.41
+      "value": 82900.0,
+      "weight_pct": 0.4
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10436720.0,
-      "weight_pct": 50.48
+      "value": 10442089.99,
+      "weight_pct": 50.54
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.33
+      "weight_pct": 19.34
     },
     {
       "sector": "Financials",
-      "value": 3167481.54,
-      "weight_pct": 15.32
+      "value": 3158337.54,
+      "weight_pct": 15.29
     },
     {
       "sector": "Industrial Gases",
-      "value": 2990000.0,
-      "weight_pct": 14.46
+      "value": 2980250.0,
+      "weight_pct": 14.43
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 83980.0,
-      "weight_pct": 0.41
+      "value": 82900.0,
+      "weight_pct": 0.4
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linde India",
-      "pct": 0.32
+      "pct": -0.01
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -4.95
+      "pct": -5.22
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": -9.46
+      "pct": -10.62
     }
   },
   "transactions": [
