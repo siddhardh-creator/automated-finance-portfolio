@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "22 Oct 2026, 08:13 PM IST",
+  "generated_at_ist": "22 Oct 2026, 10:37 PM IST",
   "as_of": "2026-10-22",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 21351000.0,
@@ -54,6 +54,12 @@
       },
       "news": [
         {
+          "title": "Internal review underway on potential violations: HDFC Bank",
+          "source": "The Hindu",
+          "published": "22 Oct 2026, 10:05 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3luTVQzYU9ZdlptYmtkakplUGdjNnNWODVVZ3BpV1JFUWsyMmFqYVJWRDV5TVlLQjVzbUxkVWpseHJkUmNuVk5BNV9rTXFzVTJxRVMtU2lJQmZFdFpVdGUxdGNGM2xRaXJhbTBUZ29kOVlkYnFZbW05NjhTaXV1bEs3d21nUnBjOTY3N2xtb1B2SHE0RVYxQUpVbDZQUUg3V3kxRS1ScVVXTm15VmxGNjNB0gG4AUFVX3lxTE5yTmdLbU5XR1VuSW91MnNOWGM1Z0RsNmRJSEEwbkRGRVhublpCTjE5ZEpWdWc4QWNUUnNBUWpCS0M2TTcxWEQ1UGJxTDlrakpRZWxxLVRWRVp2WDEyLU1VT3VQZTY4SnotU2lUX1Y4UVFTWlI2MEdaQ09uWGlHQmc5MDNwV1A4eEdnQW1sN0VIanNuZUVLc21wX3c1Tzh2UnJFc2dJUURJcmw0eDFRcnc1TWo3UWhub1E?oc=5"
+        },
+        {
           "title": "HDFC Bank stock dips 2% on huge volume; trades lower for third straight day",
           "source": "Business Standard",
           "published": "22 Oct 2026, 03:12 PM IST",
@@ -76,12 +82,6 @@
           "source": "Mint",
           "published": "22 Oct 2026, 12:31 PM IST",
           "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-drops-over-2-down-30-ytd-experts-highlight-key-support-resistance-levels-to-watch-11792651570617.html"
-        },
-        {
-          "title": "HDFC Bank shares near 52-week low amid insider leak probe",
-          "source": "BusinessLine",
-          "published": "22 Oct 2026, 11:58 AM IST",
-          "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-near-52-week-low-as-insider-leak-probe-rattles-investors/article71610369.ece"
         }
       ],
       "announcements": [],

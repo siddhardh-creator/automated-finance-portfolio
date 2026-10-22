@@ -2,11 +2,9 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 22 Oct 2026, 08:13 PM IST  |  **Market data as of:** 2026-10-22  |  **Start date:** 2026-10-16
+**Last updated:** 22 Oct 2026, 10:37 PM IST  |  **Market data as of:** 2026-10-22  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
+**Snapshot type:** End-of-day final snapshot
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -32,12 +30,12 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹694.05 | - | ₹706.95 | -1.82% | ₹31,73,197 | 15.3% | -₹1,59,106 | -4.77% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,170.00 | - | ₹11,200.00 | -0.27% | ₹32,39,300 | 15.7% | -₹92,510 | -2.78% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹146.03 | - | ₹146.74 | -0.48% | ₹1,46,030 | 0.7% | -₹1,690 | -1.14% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,084.50 | - | ₹7,170.50 | -1.20% | ₹70,84,500 | 34.3% | -₹1,81,500 | -2.50% |
-| Linde India | 500 | ₹5,961.00 | ₹5,900.50 | - | ₹5,882.50 | +0.31% | ₹29,50,250 | 14.3% | -₹30,250 | -1.01% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹76.41 | - | ₹85.54 | -10.67% | ₹76,410 | 0.4% | -₹8,590 | -10.11% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹694.05 | ₹694.05 | ₹706.95 | -1.82% | ₹31,73,197 | 15.3% | -₹1,59,106 | -4.77% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,170.00 | ₹11,170.00 | ₹11,200.00 | -0.27% | ₹32,39,300 | 15.7% | -₹92,510 | -2.78% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹146.03 | ₹146.03 | ₹146.74 | -0.48% | ₹1,46,030 | 0.7% | -₹1,690 | -1.14% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,084.50 | ₹7,084.50 | ₹7,170.50 | -1.20% | ₹70,84,500 | 34.3% | -₹1,81,500 | -2.50% |
+| Linde India | 500 | ₹5,961.00 | ₹5,900.50 | ₹5,900.50 | ₹5,882.50 | +0.31% | ₹29,50,250 | 14.3% | -₹30,250 | -1.01% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹76.41 | ₹76.41 | ₹85.54 | -10.67% | ₹76,410 | 0.4% | -₹8,590 | -10.11% |
 
 **Best since buy:** Linde India (-1.01%)  ·  **Worst since buy:** Linc Ltd (-10.11%)  ·  **Biggest mover today:** Linc Ltd (-10.67%)
 
@@ -120,11 +118,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Internal review underway on potential violations: HDFC Bank](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3luTVQzYU9ZdlptYmtkakplUGdjNnNWODVVZ3BpV1JFUWsyMmFqYVJWRDV5TVlLQjVzbUxkVWpseHJkUmNuVk5BNV9rTXFzVTJxRVMtU2lJQmZFdFpVdGUxdGNGM2xRaXJhbTBUZ29kOVlkYnFZbW05NjhTaXV1bEs3d21nUnBjOTY3N2xtb1B2SHE0RVYxQUpVbDZQUUg3V3kxRS1ScVVXTm15VmxGNjNB0gG4AUFVX3lxTE5yTmdLbU5XR1VuSW91MnNOWGM1Z0RsNmRJSEEwbkRGRVhublpCTjE5ZEpWdWc4QWNUUnNBUWpCS0M2TTcxWEQ1UGJxTDlrakpRZWxxLVRWRVp2WDEyLU1VT3VQZTY4SnotU2lUX1Y4UVFTWlI2MEdaQ09uWGlHQmc5MDNwV1A4eEdnQW1sN0VIanNuZUVLc21wX3c1Tzh2UnJFc2dJUURJcmw0eDFRcnc1TWo3UWhub1E?oc=5) - _The Hindu, 22 Oct 2026, 10:05 PM IST_
 - [HDFC Bank stock dips 2% on huge volume; trades lower for third straight day](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa21wZk1ZS1dXbmxPZ281ZS15djJyc2RPNldpYm9WTEFrQU5nS0lrdG5tSkNocHhQNF96WTVPRlJLbGFhRGZEc2V5WmdxODQ1OFZzY1N6d2x3UmFwYVV1S25vQW5SMXphZGVuUGRHUVdlX3h5YWkxV2xoSnVNVlJIZGlNU3F0SjNVV01ZUml3SVFPcUNhVFdLM1FMRzFNb2VRakJoanZoTzUzdE15MDRWR2xWNUtWMHM2UGJCcEduZkdrTjRzM1VBS0p5VldpTGlEbF9DOEduVdIB3AFBVV95cUxPenhtcUtSSEg1Z2hyRG55azZUV1hYc1BfQUFRRV8wVWJHMUpBQ2pFMER0UExiTzVma1BkQlk5Mm1udUxqVnJIQ2NHMEdzcWtrVFhnaVAwdjAtd0xMVEZmX0JfMFJQUUtuSVh1YnYzOGJ1cVp6Z2JHTnVZaE9DelBHTXl1ZEg1U1JkamNHNV9qZjlsZko0dGRtTXRPMGM4RTY2ejFXUkNwS2RrY0pMd3E4eHJRdE5JTEhrSTYtRWFzVkJ4T3lwLWMtd2RhWVhuVTVBTmZlS3Q4cTZzS1Fx?oc=5) - _Business Standard, 22 Oct 2026, 03:12 PM IST_
 - [A turbulent year at HDFC Bank: Controversies that kept India’s biggest private lender in the headlines](https://news.google.com/rss/articles/CBMilgJBVV95cUxNU2xmUWNaLW9wNVVscUgxVmlPVWtPQWMydDlnMVdqdldYRGpfLWR2MWwyenZrMXlxb1FVQm02djF3T0g5a3BxZGVkTGx2RDJjNFZOUUI1S05kRGg5NDNlbVVMRFNoZGZOUlBRLXlaUEtGRFR0QnNLS2RpMDFxWDRiSnlnc0d4U1gzQW9Yem9XU1hfd3MxTHJYaGI3THNCVmF1VGdHNmRiZ2lVWnlGNm1XVFF0Qjh5OEdaSWRfX0h5STRmamVpWDZyREhTMF9aY2hzSHh3N0YyZjFEaXJXMVVUUXdWd05YRzBzSjYxNGVQQ1NnZl9ROXVBQ2c1cXpId2xtUTVPYjBwcUh0bTFDR21TWllIajF0UdIBmwJBVV95cUxQU2J0T0tUNi1GSk1yMVJvaGhzc3plbWJOTFJiV1FFQllycEk2NV9pbmVQMVF0dVhRemZZamlkSEtGYTgwbTJsTzFybm5CZzZYSDVWSC1rUk5GcjFJakk3VFlaZEVrYmJlSWs1NG5TVDc4MExvU0xWb0l0azZKU1J5b21mdXVNdkZyS1N2ZmJDQzhuU2hyX3dKdXp0TjhEZ0JqNGZVWVVpRDZsd2VLdl9XSXpHUW8xaXFZcmNLVXlLUnFZV2RkZ0RTQ1BBV1N6YVJ6V2Y2NXViUkRZRG0yWVRyNDBzMmxpaGxvamUtWjdlaTB6X0RkOW1PdWxhLXJVQ0pmeGttbGxiNzRVLWpGSnVVbVo3UVFidVFhbzM0?oc=5) - _The Economic Times, 22 Oct 2026, 01:43 PM IST_
 - [Dubai regulatory action, MSRDC fees and Jagdishan-Chakraborty differences: What HDFC Bank’s internal probe examines](https://news.google.com/rss/articles/CBMihgJBVV95cUxOcFNiUlpxQVlTcVdPczJVMDVRN1A4TUM1UUtSbTZ2clRZb3phQ2VWam5LWXFSaHpxTFROR3M1WG4zU2pZck96RzFHQUF5Y2JSSnJ3UFg5OExRdkxRakotUnNjbHZLQWY4MENPdlVVQXZ2dkFvVXBITXJ4LVNiQ1VrMzl3YWxzazZkRmZmWGN5WDR1UnVNZV91bG1aVW00SnBkQWRtYXh5VWpJYks4Tm1uNC1QRUNkNUxuNVY4cUx4WWlxaHlvNWx3bTJzdVFWSWNOekFObWVXQnU3NGpjT1R4ZHhnMmtzZFhsYjFLZ2NMdDM1a3BGODRFSmthbXFiU1BKRjFLQnp30gGLAkFVX3lxTFBBb2U2SkViNEtGMFVoRGZHSnppNWxjaGNqemxtU3BzUWZhQ1d6eTlxLUJBUE5jaFFVbVZTM3duRDQtalpQUU81UGY0NzJtNWxILWJGMklBMGNSNDF2eHI3SVlabWxtemo5WDFINkFVcDRTM3FrUHJCaUl0NFJTbHlJWDB2MmVLNXlYWUx0Xy1zZVRaRUhsZ0FPVVBsMGdzY2ZhSC1vU3Q5cklfeVNNdWRJTjJ2RENycW9KcERMNV90YWs2d1pYX3ByX3FQbkJtbnhMYmM4eDhUTVV6QTk5NFE2RFUtV2lVX1Z4NlBxaVl2Mm5WdDVDTEk5WUJjODV2cFFRTjFxNWdGTVV4RQ?oc=5) - _Livemint, 22 Oct 2026, 12:31 PM IST_
 - [HDFC Bank share price drops over 2%, down 30% YTD - Experts highlight key support, resistance levels to watch](https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-drops-over-2-down-30-ytd-experts-highlight-key-support-resistance-levels-to-watch-11792651570617.html) - _Mint, 22 Oct 2026, 12:31 PM IST_
-- [HDFC Bank shares near 52-week low amid insider leak probe](https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-near-52-week-low-as-insider-leak-probe-rattles-investors/article71610369.ece) - _BusinessLine, 22 Oct 2026, 11:58 AM IST_
 
 </details>
 
