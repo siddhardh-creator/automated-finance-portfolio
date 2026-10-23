@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "22 Oct 2026, 10:37 PM IST",
+  "generated_at_ist": "23 Oct 2026, 07:52 AM IST",
   "as_of": "2026-10-22",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -7,15 +7,15 @@
     "capital": 21351000.0,
     "initial_capital": 10000000,
     "invested": 17143332.09,
-    "holdings_value": 16669686.54,
+    "holdings_value": 16678516.54,
     "cash": 3996174.49,
-    "value": 20665861.03,
-    "pnl_inr": -685138.97,
-    "pnl_pct": -3.21,
-    "unrealised_pnl_inr": -473645.54,
+    "value": 20674691.03,
+    "pnl_inr": -676308.97,
+    "pnl_pct": -3.17,
+    "unrealised_pnl_inr": -464815.54,
     "realised_pnl_inr": -211493.42,
-    "day_pnl_inr": -188299.73,
-    "day_pnl_pct": -0.91,
+    "day_pnl_inr": -179469.73,
+    "day_pnl_pct": -0.86,
     "open_positions": 6
   },
   "benchmark": {
@@ -31,6 +31,7 @@
       "sector": "Financials",
       "ticker": "HDFCBANK.NS",
       "bse_code": "500180",
+      "google_finance_url": "https://www.google.com/finance/quote/HDFCBANK:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
         "close": 694.05,
@@ -40,7 +41,7 @@
         "high": 703.35,
         "low": 689.1,
         "intraday_range_pct": 2.02,
-        "volume": 60255284,
+        "volume": 60280576,
         "avg_volume_20d": 30222673,
         "volume_vs_avg": 1.99,
         "volatility_20d_annualised_pct": 24.0,
@@ -78,10 +79,10 @@
           "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcFNiUlpxQVlTcVdPczJVMDVRN1A4TUM1UUtSbTZ2clRZb3phQ2VWam5LWXFSaHpxTFROR3M1WG4zU2pZck96RzFHQUF5Y2JSSnJ3UFg5OExRdkxRakotUnNjbHZLQWY4MENPdlVVQXZ2dkFvVXBITXJ4LVNiQ1VrMzl3YWxzazZkRmZmWGN5WDR1UnVNZV91bG1aVW00SnBkQWRtYXh5VWpJYks4Tm1uNC1QRUNkNUxuNVY4cUx4WWlxaHlvNWx3bTJzdVFWSWNOekFObWVXQnU3NGpjT1R4ZHhnMmtzZFhsYjFLZ2NMdDM1a3BGODRFSmthbXFiU1BKRjFLQnp30gGLAkFVX3lxTFBBb2U2SkViNEtGMFVoRGZHSnppNWxjaGNqemxtU3BzUWZhQ1d6eTlxLUJBUE5jaFFVbVZTM3duRDQtalpQUU81UGY0NzJtNWxILWJGMklBMGNSNDF2eHI3SVlabWxtemo5WDFINkFVcDRTM3FrUHJCaUl0NFJTbHlJWDB2MmVLNXlYWUx0Xy1zZVRaRUhsZ0FPVVBsMGdzY2ZhSC1vU3Q5cklfeVNNdWRJTjJ2RENycW9KcERMNV90YWs2d1pYX3ByX3FQbkJtbnhMYmM4eDhUTVV6QTk5NFE2RFUtV2lVX1Z4NlBxaVl2Mm5WdDVDTEk5WUJjODV2cFFRTjFxNWdGTVV4RQ?oc=5"
         },
         {
-          "title": "HDFC Bank share price drops over 2%, down 30% YTD - Experts highlight key support, resistance levels to watch",
-          "source": "Mint",
-          "published": "22 Oct 2026, 12:31 PM IST",
-          "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-drops-over-2-down-30-ytd-experts-highlight-key-support-resistance-levels-to-watch-11792651570617.html"
+          "title": "HDFC Bank shares near 52-week low amid insider leak probe",
+          "source": "BusinessLine",
+          "published": "22 Oct 2026, 11:58 AM IST",
+          "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-near-52-week-low-as-insider-leak-probe-rattles-investors/article71610369.ece"
         }
       ],
       "announcements": [],
@@ -93,26 +94,27 @@
       "sector": "Automobiles",
       "ticker": "MARUTI.NS",
       "bse_code": "532500",
+      "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11170.0,
-        "prev_close": 11200.0,
-        "day_change_pct": -0.27,
-        "open": 11170.0,
-        "high": 11208.0,
-        "low": 10985.0,
-        "intraday_range_pct": 1.99,
-        "volume": 407458,
+        "close": 11200.0,
+        "prev_close": 11475.0,
+        "day_change_pct": -2.4,
+        "open": 11540.0,
+        "high": 11555.0,
+        "low": 11152.0,
+        "intraday_range_pct": 3.51,
+        "volume": 393314,
         "avg_volume_20d": 451789,
-        "volume_vs_avg": 0.9,
-        "volatility_20d_annualised_pct": 25.97,
+        "volume_vs_avg": 0.87,
+        "volatility_20d_annualised_pct": 26.09,
         "high_52w": 17292.0,
-        "low_52w": 11170.0,
+        "low_52w": 11178.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3239300.0,
-        "pnl_inr": -92510.0,
-        "pnl_pct": -2.78
+        "market_value": 3248000.0,
+        "pnl_inr": -83810.0,
+        "pnl_pct": -2.52
       },
       "news": [
         {
@@ -123,7 +125,7 @@
         },
         {
           "title": "Maruti Suzuki expects double-digit growth in festival season sales",
-          "source": "Press Trust Of India",
+          "source": "Press Trust of India",
           "published": "21 Oct 2026, 08:41 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1LZFFGUmdwa2FCMU05SHZqRFcxM1ZYZ1FfLVpwZk5GNlNnVkIxMmZrVGktMmJqa2J0MFhBR3NMbm5VRUc1N3F5SGV3eEw1anpWN0tpZVlaUVh0cG81cUNWYkZVQXdhVDBWLUF1eXNQYVZ1YVZsbnQwbVRBNEdPNi0wVDNpQUF1QWJqTFhPRm5xa0RtM0xjWGM1SU9qVTVxaG40ekxtY0xSeWtaOWlXdkFiWQ?oc=5"
         },
@@ -141,7 +143,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.67
+      "weight_pct": 15.71
     },
     {
       "key": "ashok",
@@ -149,6 +151,7 @@
       "sector": "Automobiles",
       "ticker": "ASHOKLEY.NS",
       "bse_code": "500477",
+      "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
         "close": 146.03,
@@ -158,7 +161,7 @@
         "high": 147.29,
         "low": 143.04,
         "intraday_range_pct": 2.9,
-        "volume": 9615337,
+        "volume": 9616781,
         "avg_volume_20d": 12205493,
         "volume_vs_avg": 0.79,
         "volatility_20d_annualised_pct": 27.4,
@@ -180,6 +183,7 @@
       "sector": "Automobiles",
       "ticker": "EICHERMOT.NS",
       "bse_code": "505200",
+      "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
         "close": 7084.5,
@@ -189,7 +193,7 @@
         "high": 7230.0,
         "low": 7022.0,
         "intraday_range_pct": 2.9,
-        "volume": 406736,
+        "volume": 406738,
         "avg_volume_20d": 404953,
         "volume_vs_avg": 1.0,
         "volatility_20d_annualised_pct": 28.62,
@@ -210,7 +214,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 34.28
+      "weight_pct": 34.27
     },
     {
       "key": "linde",
@@ -218,30 +222,31 @@
       "sector": "Industrial Gases",
       "ticker": "LINDEINDIA.NS",
       "bse_code": "523457",
+      "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5900.5,
-        "prev_close": 5882.5,
-        "day_change_pct": 0.31,
-        "open": 5877.0,
-        "high": 6000.0,
-        "low": 5810.0,
-        "intraday_range_pct": 3.23,
-        "volume": 15079,
+        "close": 5882.5,
+        "prev_close": 6003.5,
+        "day_change_pct": -2.02,
+        "open": 5973.0,
+        "high": 5998.5,
+        "low": 5875.0,
+        "intraday_range_pct": 2.06,
+        "volume": 14341,
         "avg_volume_20d": 19134,
-        "volume_vs_avg": 0.79,
-        "volatility_20d_annualised_pct": 24.76,
+        "volume_vs_avg": 0.75,
+        "volatility_20d_annualised_pct": 24.93,
         "high_52w": 7847.5,
         "low_52w": 5695.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2950250.0,
-        "pnl_inr": -30250.0,
-        "pnl_pct": -1.01
+        "market_value": 2941250.0,
+        "pnl_inr": -39250.0,
+        "pnl_pct": -1.32
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 14.28
+      "weight_pct": 14.23
     },
     {
       "key": "linc",
@@ -249,42 +254,43 @@
       "sector": "Stationery & Writing Instruments",
       "ticker": "LINC.NS",
       "bse_code": "531241",
+      "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 76.41,
-        "prev_close": 85.54,
-        "day_change_pct": -10.67,
-        "open": 85.54,
-        "high": 90.9,
-        "low": 75.86,
-        "intraday_range_pct": 17.58,
-        "volume": 202122,
+        "close": 85.54,
+        "prev_close": 92.75,
+        "day_change_pct": -7.77,
+        "open": 92.75,
+        "high": 93.28,
+        "low": 81.9,
+        "intraday_range_pct": 12.27,
+        "volume": 49381,
         "avg_volume_20d": 32030,
-        "volume_vs_avg": 6.31,
-        "volatility_20d_annualised_pct": 58.78,
+        "volume_vs_avg": 1.54,
+        "volatility_20d_annualised_pct": 46.2,
         "high_52w": 130.64,
-        "low_52w": 76.41,
+        "low_52w": 81.54,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 76410.0,
-        "pnl_inr": -8590.0,
-        "pnl_pct": -10.11
+        "market_value": 85540.0,
+        "pnl_inr": 540.0,
+        "pnl_pct": 0.64
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.37
+      "weight_pct": 0.41
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10469830.0,
-      "weight_pct": 50.66
+      "value": 10478530.0,
+      "weight_pct": 50.68
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.34
+      "weight_pct": 19.33
     },
     {
       "sector": "Financials",
@@ -293,25 +299,25 @@
     },
     {
       "sector": "Industrial Gases",
-      "value": 2950250.0,
-      "weight_pct": 14.28
+      "value": 2941250.0,
+      "weight_pct": 14.23
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 76410.0,
-      "weight_pct": 0.37
+      "value": 85540.0,
+      "weight_pct": 0.41
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10469830.0,
-      "weight_pct": 50.66
+      "value": 10478530.0,
+      "weight_pct": 50.68
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.34
+      "weight_pct": 19.33
     },
     {
       "sector": "Financials",
@@ -320,27 +326,27 @@
     },
     {
       "sector": "Industrial Gases",
-      "value": 2950250.0,
-      "weight_pct": 14.28
+      "value": 2941250.0,
+      "weight_pct": 14.23
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 76410.0,
-      "weight_pct": 0.37
+      "value": 85540.0,
+      "weight_pct": 0.41
     }
   ],
   "performers": {
     "best_since_buy": {
-      "name": "Linde India",
-      "pct": -1.01
+      "name": "Linc Ltd",
+      "pct": 0.64
     },
     "worst_since_buy": {
-      "name": "Linc Ltd",
-      "pct": -10.11
+      "name": "HDFC Bank",
+      "pct": -4.77
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": -10.67
+      "pct": -7.77
     }
   },
   "transactions": [
