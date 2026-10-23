@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 23 Oct 2026, 03:35 PM IST  |  **Market data as of:** 2026-10-23  |  **Start date:** 2026-10-16
+**Last updated:** 23 Oct 2026, 05:26 PM IST  |  **Market data as of:** 2026-10-23  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -106,7 +106,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹692.80 | -0.18% | ₹686.85 - ₹696.80 | 19,832,844 | 31,462,518 | 0.63x | 24.00% | ₹687.10 - ₹1,009.50 |
+| ₹692.80 | -0.18% | ₹686.85 - ₹696.80 | 18,983,998 | 31,462,518 | 0.6x | 24.00% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -122,10 +122,10 @@ _▲ buy · ▼ sell_
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [HDFC Bank shares hover 52-week low ahead of CEO handover on Monday](https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-steadies-near-52-week-low-ahead-of-monday-ceo-handover/article71615025.ece) - _BusinessLine, 23 Oct 2026, 01:04 PM IST_
-- [HDFC Bank shares stabilise as stocks' focus turns towards new chief executive, Anup Bagchi's takeover on October 27](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcjBVWWxMSjVuT2ZQTzR6aWNkU0NTVTU0c0lTQjlmSkZ0ZndFT0daYWtNNDhsQ1FaaXBvU2NmWmtwMmkxRmp2MU5uUDltdGNLSWQ1bkFlUkxDX1gyalRMWGR4RDgwbFJMZ1FBam9DQlEzVXdfZ0N5d01VSDk1UjJ4bzVSMmZtMWV6ODJJQjdnei03RGR3blp1U0xlQ1BheUVQZmJoc1l0a0s2aWZtLVFQUkM4eW1OeGZ0WTZCakUzNlZQSHdQeVBPREs3YnUtanozLVRKZjdybWxZRVE1akVIQ1FR0gHiAUFVX3lxTE1yMFVZbExKNW5PZlBPNHppY2RTQ1NVNTRzSVNCOWZKRnRmd0VPR1pha000OGxDUVppcG9TY2Zaa3AyaTFGanYxTm5QOW10Y0tJZDVuQWVSTENfWDJqVExYZHhEODBsUkxnUUFqb0NCUTNVd19nQ3l3TVVIOTVSMnhvNVIyZm0xZXo4MklCN2d6LTdEZHduWnVTTGVDUGF5RVBmYmhzWXRrSzZpZm0tUVBSQzh5bU54ZnRZNkJqRTM2VlBId1B5UE9ESzdidS1qejMtVEpmN3JtbFlFUTVqRUhDUVE?oc=5) - _BusinessLine, 23 Oct 2026, 12:51 PM IST_
 - [Sonu Sood’s Mumbai property portfolio: How ₹3.52 crore Bokka Coffee rent is structured, how much he earns from HDFC Bank](https://news.google.com/rss/articles/CBMikAJBVV95cUxNZTlTbFhxbzhvTHNJSGtqd0pWWmt4c2VVOFNsZ1JlaWkyb3BHNFNBRzN2UmtwOWRaWU1MVkhDUW1CRVlRajhDZi1uVmVwLXlsNnR4bmxHVmtGUG1ibF9hcnlyVFQ4QXZOdnRBeHFIYnRaMU5XSDRtWU1KdUpQa0lOYWY4N3B3azlNSUZhNnBHNTk1ZGpoNU9MbzNjSFhFbWoxVl93RGowOUprbV9CQWh4eEE2RHIyc1ZwNVhSNldDQWtOWV9JcHdJMnRndzJDX3NmS0l3YTVvNUVtRmp5SjhMc2swQ0ZCaDZzWkxPNllsZlhHT3NLTHRXQ0Q0QzBPMHBsS2JTaGF6VGI5NE90anpLVdIBlgJBVV95cUxOYVluLTZ3bUtFb3JLOWR4S2lUUURaY0VVTVRlSVJpcUNGTFBZcm9GX0dzZDhvaE1qb3VKcTBjTmRhMWpjZWpUQ2Q2enFXNmZVamdVZndBN3BSbklHZEdrdWlqRmx3N2Q1S1ZnRkxmdWozNllxZFNSN2NDNUMyWlJzQzRnRDZmR0c3YnpEeXdrcXJpOGh4ZWh1ZDlBNjdZZTVVN3Z2ZHFQWDJWSTZPOVdCc3VnV3NhV01NS2otUHZsazlCbDl3ZV9fR0pqMUhYQmFxanBnTjZlN09EVzRCTkszZnBBcTlNSGZlZUd1TWs5eWlyY21jeEpaWmhuaFpKcjYwUmFPQjUyeTJVZjc1WlpxTEsxOXp3QQ?oc=5) - _Livemint, 23 Oct 2026, 11:36 AM IST_
 - [Internal review underway on potential violations: HDFC Bank](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3luTVQzYU9ZdlptYmtkakplUGdjNnNWODVVZ3BpV1JFUWsyMmFqYVJWRDV5TVlLQjVzbUxkVWpseHJkUmNuVk5BNV9rTXFzVTJxRVMtU2lJQmZFdFpVdGUxdGNGM2xRaXJhbTBUZ29kOVlkYnFZbW05NjhTaXV1bEs3d21nUnBjOTY3N2xtb1B2SHE0RVYxQUpVbDZQUUg3V3kxRS1ScVVXTm15VmxGNjNB0gG4AUFVX3lxTE5yTmdLbU5XR1VuSW91MnNOWGM1Z0RsNmRJSEEwbkRGRVhublpCTjE5ZEpWdWc4QWNUUnNBUWpCS0M2TTcxWEQ1UGJxTDlrakpRZWxxLVRWRVp2WDEyLU1VT3VQZTY4SnotU2lUX1Y4UVFTWlI2MEdaQ09uWGlHQmc5MDNwV1A4eEdnQW1sN0VIanNuZUVLc21wX3c1Tzh2UnJFc2dJUURJcmw0eDFRcnc1TWo3UWhub1E?oc=5) - _The Hindu, 22 Oct 2026, 10:05 PM IST_
 - [HDFC Bank stock dips 2% on huge volume; trades lower for third straight day](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa21wZk1ZS1dXbmxPZ281ZS15djJyc2RPNldpYm9WTEFrQU5nS0lrdG5tSkNocHhQNF96WTVPRlJLbGFhRGZEc2V5WmdxODQ1OFZzY1N6d2x3UmFwYVV1S25vQW5SMXphZGVuUGRHUVdlX3h5YWkxV2xoSnVNVlJIZGlNU3F0SjNVV01ZUml3SVFPcUNhVFdLM1FMRzFNb2VRakJoanZoTzUzdE15MDRWR2xWNUtWMHM2UGJCcEduZkdrTjRzM1VBS0p5VldpTGlEbF9DOEduVdIB3AFBVV95cUxPenhtcUtSSEg1Z2hyRG55azZUV1hYc1BfQUFRRV8wVWJHMUpBQ2pFMER0UExiTzVma1BkQlk5Mm1udUxqVnJIQ2NHMEdzcWtrVFhnaVAwdjAtd0xMVEZmX0JfMFJQUUtuSVh1YnYzOGJ1cVp6Z2JHTnVZaE9DelBHTXl1ZEg1U1JkamNHNV9qZjlsZko0dGRtTXRPMGM4RTY2ejFXUkNwS2RrY0pMd3E4eHJRdE5JTEhrSTYtRWFzVkJ4T3lwLWMtd2RhWVhuVTVBTmZlS3Q4cTZzS1Fx?oc=5) - _Business Standard, 22 Oct 2026, 03:12 PM IST_
+- [A turbulent year at HDFC Bank: Controversies that kept India’s biggest private lender in the headlines](https://news.google.com/rss/articles/CBMilgJBVV95cUxNU2xmUWNaLW9wNVVscUgxVmlPVWtPQWMydDlnMVdqdldYRGpfLWR2MWwyenZrMXlxb1FVQm02djF3T0g5a3BxZGVkTGx2RDJjNFZOUUI1S05kRGg5NDNlbVVMRFNoZGZOUlBRLXlaUEtGRFR0QnNLS2RpMDFxWDRiSnlnc0d4U1gzQW9Yem9XU1hfd3MxTHJYaGI3THNCVmF1VGdHNmRiZ2lVWnlGNm1XVFF0Qjh5OEdaSWRfX0h5STRmamVpWDZyREhTMF9aY2hzSHh3N0YyZjFEaXJXMVVUUXdWd05YRzBzSjYxNGVQQ1NnZl9ROXVBQ2c1cXpId2xtUTVPYjBwcUh0bTFDR21TWllIajF0UdIBmwJBVV95cUxQU2J0T0tUNi1GSk1yMVJvaGhzc3plbWJOTFJiV1FFQllycEk2NV9pbmVQMVF0dVhRemZZamlkSEtGYTgwbTJsTzFybm5CZzZYSDVWSC1rUk5GcjFJakk3VFlaZEVrYmJlSWs1NG5TVDc4MExvU0xWb0l0azZKU1J5b21mdXVNdkZyS1N2ZmJDQzhuU2hyX3dKdXp0TjhEZ0JqNGZVWVVpRDZsd2VLdl9XSXpHUW8xaXFZcmNLVXlLUnFZV2RkZ0RTQ1BBV1N6YVJ6V2Y2NXViUkRZRG0yWVRyNDBzMmxpaGxvamUtWjdlaTB6X0RkOW1PdWxhLXJVQ0pmeGttbGxiNzRVLWpGSnVVbVo3UVFidVFhbzM0?oc=5) - _The Economic Times, 22 Oct 2026, 01:43 PM IST_
 
 </details>
 
@@ -139,7 +139,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,230.00 | +0.54% | ₹11,000.00 - ₹11,258.00 | 341,308 | 459,827 | 0.74x | 26.06% | ₹11,170.00 - ₹17,292.00 |
+| ₹11,230.00 | +0.54% | ₹11,000.00 - ₹11,258.00 | 333,219 | 459,827 | 0.72x | 26.06% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -154,11 +154,9 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Lupin, SRF, TMPV, Maruti, NTPC among 74 BSE 500 stocks hit 52-week lows](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnBlc2VVUzlzSWZ4RXJLQ09HcHVwV3lySEdKRXFDcXN0TmNaQmxQZ2pJUHJUaW9tYkxEVTZuYkJsUXQxUW0zZmJLRmI5Z3A3QldSMEZfRGhqOC1EYzQxM1dhalhGWjU4OXBpRERYY1RnODhqdjBFdWhkelVidnJXZV81ZHlfd2lVQ3NCbkJ3REdwd0t0UWktZFBVZ3FLQTh0aU83MUJjbkdGQnJoTDVvRWxqYnJLdDR3NDdxeTZLdlhDcGhCTTFNQm5qNVFhcWczTFJOUWljZjFIR0g1MkRv0gHkAUFVX3lxTE5ZSFBBWldIT0g5Sm05MkRNSjE0LUtwYWdxRzZjYlVjRUhBdGlfbnBLN3hCYUN1QUpTcG1jc0EyYWl4b2xoTEt0Nmt1MURDRXJMbllObDZENGhvcEJEVVljM1g3d2luX21najJSakRCMUREMVFPdkNrVVIzZS02TnlpMm5oVEcxelYxb1Z5QnBCT05DX1hsYTlJektsc0tSc1VfY05mdi1NRTEyZ3Vaa1l3bk8yZU1zQl9Mb2VhVjhMVk16N3dCU0pKOVJIWFJzZ0tCRGVEVUNFMEtHMXppZTA4NHRuNw?oc=5) - _Business Standard, 22 Oct 2026, 10:07 AM IST_
-- [Maruti Suzuki Expects Double-Digit Growth In Sales Amid Festive Season Boost](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzlkdjUyWUxVSGhSMnFucWswVEZTbkdpUWJCYTVIcHRCYXlJNEJOOGNubUtxaGt4VVZkY05LcEtkazdsTm51OHZtM1VyNlJ6a1V3dWQxZDJhVWVKU0RIWDBJWjRHNnNDSXUtRDNZbzc2dUotZHBXZ0YxZ0piQW1JOV9vSGx5QWFGQ1lFRU9xdE11MmVYVGJMU0ttUXpMWl9qVDNfdm1UMHpYSXJibEozedIBuAFBVV95cUxPZUR4Q2JPay1FSTJSTXd6d3E2OHhqbHhmTkRvV0RVZXR2ZkFDaDF6aFJMLWFiN0FSRHlqSUxtamczV0cxQmE2ZFVTOElKdENnMkJyR09RTW51NVkybVEwUXZkdUdXNmtVbGFDWUdiazJaUEJBTllCYUpoUHFTbUpCN1MyZXhOanN3bklhQ3ZIeHpzYlBnVW80MHdua1ZmUkFmTnpNbXVTOWpBRTFNVkg5ZE45ZDd1VDlJ?oc=5) - _NDTV Profit, 21 Oct 2026, 08:12 PM IST_
+- [Maruti Suzuki expects double-digit growth in festival season sales](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1LZFFGUmdwa2FCMU05SHZqRFcxM1ZYZ1FfLVpwZk5GNlNnVkIxMmZrVGktMmJqa2J0MFhBR3NMbm5VRUc1N3F5SGV3eEw1anpWN0tpZVlaUVh0cG81cUNWYkZVQXdhVDBWLUF1eXNQYVZ1YVZsbnQwbVRBNEdPNi0wVDNpQUF1QWJqTFhPRm5xa0RtM0xjWGM1SU9qVTVxaG40ekxtY0xSeWtaOWlXdkFiWQ?oc=5) - _Press Trust of India, 21 Oct 2026, 08:41 PM IST_
 - [Maruti Suzuki Ertiga gets costlier by up to ₹10,000: 16,911 units sold last month; check new variant-wise prices](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLTZNeENQY3U3bkZYRmdyWGE1NmpYZ0tYVDJOWGlCdkpBeGliSi1ZU3RLYUN6T1V0VDlmb3BVY2E3RjlhTENyQngxQXEwWWgwd1BOaC1hSkNYMXQ0dTJrZXVET0VuQkl4SmdRU2RXekZ6WGUtSk9wSFRuUVpldDg1aXNRU1VWRTV5cllETDQ5RzFhRXZYSFpad0dtcU9JRXVFTXNUZmhVaXhJS04xRkZqWTlFYmd0OF96c054WElDSE1pcG1WWUY0UUNTU0JiOVBJT3B4dWdtVkxHYzhOMVNoWHBfUzNsVFE4MEJUQk5TV3lsNG1ZcGJV0gH8AUFVX3lxTE9YOE1JaVJaRm9FR1JHTVZJdE43UklsUW5YWWFEcjdTZ1RwQWYwaG9mcFphOWwxTjAwelhEN1JzWGZwaG1fTTFHNHZ4N1diQ1RqVHBna1NhNHF6TzItZkV3RmxrMWFrRElTTjc5bHNoUlp4eDVDRko4T2VrNlRMZ2luTDVYTlRBSjZiOHg2U1hneEg0ZGVYdU1ZaVU4VE5nS2hEWnk5M0dLMGtnc0NnZEVjbUVNUkNuZWFPNzZvUzl1eGJpMUNldXlSYmpPNE9OeTRlTjJRdUtGVzlNN1IzT1dyWllBeFFwYTJMVmk1ZXNaLWRHOER2dE5TSVBJUg?oc=5) - _Livemint, 21 Oct 2026, 05:52 PM IST_
 - [Five Stocks To Buy Today: Maruti Suzuki, Karur Vysya Bank, Ratnaveer And More | October 21, 2026](https://news.google.com/rss/articles/CBMiggJBVV95cUxOckRrVmJRbWdHd2dOc0w2c3poVWpNQURDS1F5OWIyNG1vUEhaTlNTTVhfYzFiQnk0Nm43djZaOU9pVnl4OG1FbV9sZ19HUWZ0SDljMFphTjFiZnBhLUNaMjRxUnpKOG9KVUFPTGp6allzQUI1aDlGM1h6dkE4M3k0V1ZnVVJlb2hrQ3NaVTluVnhnWXprY2h0RVQxN2xfXzQwUEF3ZVNQakRCVVJJWUJ2UGpQWHNXYU85NWJ4YXBReEpYLVFRUWJNZ0RtMEpoR01rMkkxQkFKaXlhenA4UEQyb1NCZTA1U0JPWXUxcnZjWFhUTFhwdHNjZGl0RXRNazBUZXfSAYoCQVVfeXFMTkJxelY5b2VXcXNTUDd3VWt4M0wzb3VCQ1RFNXpDdUlvUWViX19velNsXzlJOU9lY0JUVk9XcHMtSW5sZmFnMmtGRjk4a296ajh6bXJJNHlMaHJlaDFiWjJRRnJGbDV1Y2pqSTMwOG5oSXhXbjBxNUFWUjZVOHVhNUtpN1F2SVpEaXdVU2lZelFTdXRDTm15OE9sTTYxbm9ldVF5ZDdlejYzbUZLaS14WEEyNUVjbEF6WDhZcnFOOHFGbXRIcVJhM1lmLWY3c29wX3FUaVpOemVFQ29vTHlKLUVQZ0dYSUk4UDFqWGJzbG1jSExER2tEVzBROHIwT0pYRkROTXA1SFhiQlE?oc=5) - _NDTV Profit, 21 Oct 2026, 06:52 AM IST_
-- [Maruti Suzuki Grand Vitara festive discount reaches ₹1.36 lakh; check offers on Fronx, Jimny, XL6](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU1hvNTkzOVFTaUNfQ3dDY1VVYU85YlNCaTR3azNhNE9GZmltQUwyd0F5aHFPaGJUZE4zZldieWo3Rk1yXy1jaDhyQUxVeFA2eTVSQm5NeUI3MUpwVEJoVC1tdXFrcjlXQzRfNlJhR2oyZE9rOWhMUGRKVWVQTDBrT20xalE2WjUzTGYxb0ZPWm0yeUx6RnE1UHJ6c1E2eVF5RUR3alAtbG9HeHY5cUdqX2RwSVFBSXhSUGk0SVNoaVBZUnlwTVJkZXdGTnlYaWh3cks2WVo2eTJ5TXNIZWEtMk1fQmNwZ9IB6wFBVV95cUxOc0hCeFc0RUF5U1AxcjRNRFc3cmtIM2JtUzVZbWdpSUR1ajdtZDZWSkpqZFhJbHo5Z3lweURaX05pN203UHZmRHRoNGh5alJXY3BPWUs3Z1l2a0cwQ3NzN0w0TlQyc19ReFhfNzBZSnBibURLWXFVR2k0b0ZMWWlJR2dSR3hkSTRMR0NVRy1jZjZJNmY0SmxrR1paTWNhaXJQZGlGVWY3UWhtRnA1ZmlLR005MmhXOEZJTWE3eDlyUG9zekkzV2VTYXJFRWd0dTNQaEktdlZQOXVzUXBXd0VCSEQyQ2xmQThBbFRj?oc=5) - _Livemint, 20 Oct 2026, 05:05 PM IST_
 
 </details>
 
@@ -172,7 +170,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹144.95 | -0.74% | ₹142.02 - ₹146.23 | 17,433,011 | 12,238,338 | 1.42x | 26.57% | ₹136.35 - ₹211.92 |
+| ₹144.95 | -0.74% | ₹142.02 - ₹146.23 | 17,229,041 | 12,238,338 | 1.41x | 26.57% | ₹136.35 - ₹211.92 |
 
 **Research reports**
 
@@ -201,7 +199,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,066.00 | -0.26% | ₹6,911.00 - ₹7,100.00 | 379,814 | 408,469 | 0.93x | 28.47% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,066.00 | -0.26% | ₹6,911.00 - ₹7,100.00 | 369,044 | 408,469 | 0.9x | 28.47% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -230,7 +228,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,723.50 | -3.00% | ₹5,662.00 - ₹5,900.00 | 28,453 | 18,359 | 1.55x | 26.51% | ₹5,695.50 - ₹7,847.50 |
+| ₹5,723.50 | -3.00% | ₹5,662.00 - ₹5,900.00 | 28,452 | 18,359 | 1.55x | 26.51% | ₹5,695.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -260,7 +258,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹89.67 | +17.35% | ₹75.81 - ₹91.69 | 357,832 | 41,666 | 8.59x | 87.28% | ₹76.41 - ₹130.64 |
+| ₹89.67 | +17.35% | ₹75.81 - ₹91.69 | 357,798 | 41,666 | 8.59x | 87.28% | ₹76.41 - ₹130.64 |
 
 **Research reports**
 
