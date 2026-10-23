@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 23 Oct 2026, 12:13 PM IST  |  **Market data as of:** 2026-10-23  |  **Start date:** 2026-10-16
+**Last updated:** 23 Oct 2026, 12:32 PM IST  |  **Market data as of:** 2026-10-23  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,13 +14,13 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,03,95,103** |
-| Total P&L | **-₹9,55,897 (-4.48%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹7,44,403 |
+| Current value | **₹2,04,35,117** |
+| Total P&L | **-₹9,15,883 (-4.29%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹7,04,389 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹2,11,493 |
-| Today's change | -₹2,79,588 (-1.35%) |
-| Nifty 50 since start (same money invested) | -2.35% |
-| Outperformance vs Nifty 50 | -2.13% |
+| Today's change | -₹2,39,574 (-1.16%) |
+| Nifty 50 since start (same money invested) | -2.45% |
+| Outperformance vs Nifty 50 | -1.84% |
 | Cash (uninvested) | ₹39,96,174 |
 | Virtual money put in | ₹2,13,51,000 |
 
@@ -32,14 +32,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹692.90 | - | ₹694.05 | -0.17% | ₹31,67,939 | 15.5% | -₹1,64,363 | -4.93% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,051.00 | - | ₹11,200.00 | -1.33% | ₹32,04,790 | 15.7% | -₹1,27,020 | -3.81% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹142.66 | - | ₹146.03 | -2.31% | ₹1,42,660 | 0.7% | -₹5,060 | -3.43% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹6,933.50 | - | ₹7,084.50 | -2.13% | ₹69,33,500 | 34.0% | -₹3,32,500 | -4.58% |
-| Linde India | 500 | ₹5,961.00 | ₹5,734.50 | - | ₹5,882.50 | -2.52% | ₹28,67,250 | 14.1% | -₹1,13,250 | -3.80% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹82.79 | - | ₹85.54 | -3.21% | ₹82,790 | 0.4% | -₹2,210 | -2.60% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹692.75 | - | ₹694.05 | -0.19% | ₹31,67,253 | 15.5% | -₹1,65,049 | -4.95% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,050.00 | - | ₹11,200.00 | -1.34% | ₹32,04,500 | 15.7% | -₹1,27,310 | -3.82% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹142.84 | - | ₹146.03 | -2.18% | ₹1,42,840 | 0.7% | -₹4,880 | -3.30% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹6,968.00 | - | ₹7,084.50 | -1.64% | ₹69,68,000 | 34.1% | -₹2,98,000 | -4.10% |
+| Linde India | 500 | ₹5,961.00 | ₹5,745.00 | - | ₹5,882.50 | -2.34% | ₹28,72,500 | 14.1% | -₹1,08,000 | -3.62% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹83.85 | - | ₹85.54 | -1.98% | ₹83,850 | 0.4% | -₹1,150 | -1.35% |
 
-**Best since buy:** Linc Ltd (-2.60%)  ·  **Worst since buy:** HDFC Bank (-4.93%)  ·  **Biggest mover today:** Linc Ltd (-3.21%)
+**Best since buy:** Linc Ltd (-1.35%)  ·  **Worst since buy:** HDFC Bank (-4.95%)  ·  **Biggest mover today:** Linde India (-2.34%)
 
 ## Allocation
 
@@ -47,11 +47,11 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,02,80,950 | 50.4% |
+| Automobiles | ₹1,03,15,340 | 50.5% |
 | Cash | ₹39,96,174 | 19.6% |
-| Financials | ₹31,67,939 | 15.5% |
-| Industrial Gases | ₹28,67,250 | 14.1% |
-| Stationery & Writing Instruments | ₹82,790 | 0.4% |
+| Financials | ₹31,67,253 | 15.5% |
+| Industrial Gases | ₹28,72,500 | 14.1% |
+| Stationery & Writing Instruments | ₹83,850 | 0.4% |
 
 ## Performance
 
@@ -105,7 +105,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹692.90 | -0.17% | ₹686.85 - ₹696.15 | 9,966,681 | 31,462,518 | 0.32x | 24.00% | ₹687.10 - ₹1,009.50 |
+| ₹692.75 | -0.19% | ₹686.85 - ₹696.15 | 10,829,412 | 31,462,518 | 0.34x | 24.00% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -138,7 +138,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,051.00 | -1.33% | ₹11,000.00 - ₹11,188.00 | 128,875 | 451,789 | 0.29x | 26.16% | ₹11,051.00 - ₹17,292.00 |
+| ₹11,050.00 | -1.34% | ₹11,000.00 - ₹11,188.00 | 142,426 | 451,789 | 0.32x | 26.16% | ₹11,050.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -154,10 +154,9 @@ _▲ buy · ▼ sell_
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Current Trading Status](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-23-oct-2026/liveblog/135132897.cms) - _Economic Times, 23 Oct 2026, 08:40 AM IST_
-- [Lupin, SRF, TMPV, Maruti, NTPC among 74 BSE 500 stocks hit 52-week lows](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnBlc2VVUzlzSWZ4RXJLQ09HcHVwV3lySEdKRXFDcXN0TmNaQmxQZ2pJUHJUaW9tYkxEVTZuYkJsUXQxUW0zZmJLRmI5Z3A3QldSMEZfRGhqOC1EYzQxM1dhalhGWjU4OXBpRERYY1RnODhqdjBFdWhkelVidnJXZV81ZHlfd2lVQ3NCbkJ3REdwd0t0UWktZFBVZ3FLQTh0aU83MUJjbkdGQnJoTDVvRWxqYnJLdDR3NDdxeTZLdlhDcGhCTTFNQm5qNVFhcWczTFJOUWljZjFIR0g1MkRv0gHkAUFVX3lxTE5ZSFBBWldIT0g5Sm05MkRNSjE0LUtwYWdxRzZjYlVjRUhBdGlfbnBLN3hCYUN1QUpTcG1jc0EyYWl4b2xoTEt0Nmt1MURDRXJMbllObDZENGhvcEJEVVljM1g3d2luX21najJSakRCMUREMVFPdkNrVVIzZS02TnlpMm5oVEcxelYxb1Z5QnBCT05DX1hsYTlJektsc0tSc1VfY05mdi1NRTEyZ3Vaa1l3bk8yZU1zQl9Mb2VhVjhMVk16N3dCU0pKOVJIWFJzZ0tCRGVEVUNFMEtHMXppZTA4NHRuNw?oc=5) - _Business Standard, 22 Oct 2026, 10:07 AM IST_
-- [Maruti Suzuki Expects Double-Digit Growth In Sales Amid Festive Season Boost](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzlkdjUyWUxVSGhSMnFucWswVEZTbkdpUWJCYTVIcHRCYXlJNEJOOGNubUtxaGt4VVZkY05LcEtkazdsTm51OHZtM1VyNlJ6a1V3dWQxZDJhVWVKU0RIWDBJWjRHNnNDSXUtRDNZbzc2dUotZHBXZ0YxZ0piQW1JOV9vSGx5QWFGQ1lFRU9xdE11MmVYVGJMU0ttUXpMWl9qVDNfdm1UMHpYSXJibEozedIBuAFBVV95cUxPZUR4Q2JPay1FSTJSTXd6d3E2OHhqbHhmTkRvV0RVZXR2ZkFDaDF6aFJMLWFiN0FSRHlqSUxtamczV0cxQmE2ZFVTOElKdENnMkJyR09RTW51NVkybVEwUXZkdUdXNmtVbGFDWUdiazJaUEJBTllCYUpoUHFTbUpCN1MyZXhOanN3bklhQ3ZIeHpzYlBnVW80MHdua1ZmUkFmTnpNbXVTOWpBRTFNVkg5ZE45ZDd1VDlJ?oc=5) - _NDTV Profit, 21 Oct 2026, 08:12 PM IST_
+- [Maruti Suzuki expects double-digit growth in festival season sales](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1LZFFGUmdwa2FCMU05SHZqRFcxM1ZYZ1FfLVpwZk5GNlNnVkIxMmZrVGktMmJqa2J0MFhBR3NMbm5VRUc1N3F5SGV3eEw1anpWN0tpZVlaUVh0cG81cUNWYkZVQXdhVDBWLUF1eXNQYVZ1YVZsbnQwbVRBNEdPNi0wVDNpQUF1QWJqTFhPRm5xa0RtM0xjWGM1SU9qVTVxaG40ekxtY0xSeWtaOWlXdkFiWQ?oc=5) - _Press Trust of India, 21 Oct 2026, 08:41 PM IST_
+- [Maruti Suzuki Ertiga gets costlier by up to ₹10,000: 16,911 units sold last month; check new variant-wise prices](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLTZNeENQY3U3bkZYRmdyWGE1NmpYZ0tYVDJOWGlCdkpBeGliSi1ZU3RLYUN6T1V0VDlmb3BVY2E3RjlhTENyQngxQXEwWWgwd1BOaC1hSkNYMXQ0dTJrZXVET0VuQkl4SmdRU2RXekZ6WGUtSk9wSFRuUVpldDg1aXNRU1VWRTV5cllETDQ5RzFhRXZYSFpad0dtcU9JRXVFTXNUZmhVaXhJS04xRkZqWTlFYmd0OF96c054WElDSE1pcG1WWUY0UUNTU0JiOVBJT3B4dWdtVkxHYzhOMVNoWHBfUzNsVFE4MEJUQk5TV3lsNG1ZcGJV0gH8AUFVX3lxTE9YOE1JaVJaRm9FR1JHTVZJdE43UklsUW5YWWFEcjdTZ1RwQWYwaG9mcFphOWwxTjAwelhEN1JzWGZwaG1fTTFHNHZ4N1diQ1RqVHBna1NhNHF6TzItZkV3RmxrMWFrRElTTjc5bHNoUlp4eDVDRko4T2VrNlRMZ2luTDVYTlRBSjZiOHg2U1hneEg0ZGVYdU1ZaVU4VE5nS2hEWnk5M0dLMGtnc0NnZEVjbUVNUkNuZWFPNzZvUzl1eGJpMUNldXlSYmpPNE9OeTRlTjJRdUtGVzlNN1IzT1dyWllBeFFwYTJMVmk1ZXNaLWRHOER2dE5TSVBJUg?oc=5) - _Livemint, 21 Oct 2026, 05:52 PM IST_
 - [Five Stocks To Buy Today: Maruti Suzuki, Karur Vysya Bank, Ratnaveer And More | October 21, 2026](https://news.google.com/rss/articles/CBMiggJBVV95cUxOckRrVmJRbWdHd2dOc0w2c3poVWpNQURDS1F5OWIyNG1vUEhaTlNTTVhfYzFiQnk0Nm43djZaOU9pVnl4OG1FbV9sZ19HUWZ0SDljMFphTjFiZnBhLUNaMjRxUnpKOG9KVUFPTGp6allzQUI1aDlGM1h6dkE4M3k0V1ZnVVJlb2hrQ3NaVTluVnhnWXprY2h0RVQxN2xfXzQwUEF3ZVNQakRCVVJJWUJ2UGpQWHNXYU85NWJ4YXBReEpYLVFRUWJNZ0RtMEpoR01rMkkxQkFKaXlhenA4UEQyb1NCZTA1U0JPWXUxcnZjWFhUTFhwdHNjZGl0RXRNazBUZXfSAYoCQVVfeXFMTkJxelY5b2VXcXNTUDd3VWt4M0wzb3VCQ1RFNXpDdUlvUWViX19velNsXzlJOU9lY0JUVk9XcHMtSW5sZmFnMmtGRjk4a296ajh6bXJJNHlMaHJlaDFiWjJRRnJGbDV1Y2pqSTMwOG5oSXhXbjBxNUFWUjZVOHVhNUtpN1F2SVpEaXdVU2lZelFTdXRDTm15OE9sTTYxbm9ldVF5ZDdlejYzbUZLaS14WEEyNUVjbEF6WDhZcnFOOHFGbXRIcVJhM1lmLWY3c29wX3FUaVpOemVFQ29vTHlKLUVQZ0dYSUk4UDFqWGJzbG1jSExER2tEVzBROHIwT0pYRkROTXA1SFhiQlE?oc=5) - _NDTV Profit, 21 Oct 2026, 06:52 AM IST_
-- [Maruti Suzuki Grand Vitara festive discount reaches ₹1.36 lakh; check offers on Fronx, Jimny, XL6](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU1hvNTkzOVFTaUNfQ3dDY1VVYU85YlNCaTR3azNhNE9GZmltQUwyd0F5aHFPaGJUZE4zZldieWo3Rk1yXy1jaDhyQUxVeFA2eTVSQm5NeUI3MUpwVEJoVC1tdXFrcjlXQzRfNlJhR2oyZE9rOWhMUGRKVWVQTDBrT20xalE2WjUzTGYxb0ZPWm0yeUx6RnE1UHJ6c1E2eVF5RUR3alAtbG9HeHY5cUdqX2RwSVFBSXhSUGk0SVNoaVBZUnlwTVJkZXdGTnlYaWh3cks2WVo2eTJ5TXNIZWEtMk1fQmNwZ9IB6wFBVV95cUxOc0hCeFc0RUF5U1AxcjRNRFc3cmtIM2JtUzVZbWdpSUR1ajdtZDZWSkpqZFhJbHo5Z3lweURaX05pN203UHZmRHRoNGh5alJXY3BPWUs3Z1l2a0cwQ3NzN0w0TlQyc19ReFhfNzBZSnBibURLWXFVR2k0b0ZMWWlJR2dSR3hkSTRMR0NVRy1jZjZJNmY0SmxrR1paTWNhaXJQZGlGVWY3UWhtRnA1ZmlLR005MmhXOEZJTWE3eDlyUG9zekkzV2VTYXJFRWd0dTNQaEktdlZQOXVzUXBXd0VCSEQyQ2xmQThBbFRj?oc=5) - _Livemint, 20 Oct 2026, 05:05 PM IST_
 
 </details>
 
@@ -171,7 +170,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹142.66 | -2.31% | ₹142.02 - ₹146.23 | 6,769,826 | 12,238,338 | 0.55x | 27.28% | ₹136.35 - ₹211.92 |
+| ₹142.84 | -2.18% | ₹142.02 - ₹146.23 | 7,027,895 | 12,238,338 | 0.57x | 27.19% | ₹136.35 - ₹211.92 |
 
 **Research reports**
 
@@ -200,7 +199,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,933.50 | -2.13% | ₹6,911.00 - ₹7,100.00 | 156,223 | 408,469 | 0.38x | 29.23% | ₹6,586.00 - ₹8,190.00 |
+| ₹6,968.00 | -1.64% | ₹6,911.00 - ₹7,100.00 | 176,419 | 408,469 | 0.43x | 28.89% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -230,7 +229,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,734.50 | -2.52% | ₹5,679.50 - ₹5,900.00 | 11,670 | 19,134 | 0.61x | 25.80% | ₹5,695.50 - ₹7,847.50 |
+| ₹5,745.00 | -2.34% | ₹5,679.50 - ₹5,900.00 | 11,889 | 19,134 | 0.62x | 25.62% | ₹5,695.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -259,7 +258,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹82.79 | -3.21% | ₹75.81 - ₹83.38 | 115,696 | 32,030 | 3.61x | 47.10% | ₹81.54 - ₹130.64 |
+| ₹83.85 | -1.98% | ₹75.81 - ₹84.30 | 131,479 | 32,030 | 4.1x | 46.35% | ₹81.54 - ₹130.64 |
 
 **Research reports**
 
