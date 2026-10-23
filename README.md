@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 23 Oct 2026, 08:46 AM IST  |  **Market data as of:** 2026-10-22  |  **Start date:** 2026-10-16
+**Last updated:** 23 Oct 2026, 09:32 AM IST  |  **Market data as of:** 2026-10-23  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -12,13 +14,13 @@
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,06,74,691** |
-| Total P&L | **-₹6,76,309 (-3.17%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹4,64,816 |
+| Current value | **₹2,05,23,370** |
+| Total P&L | **-₹8,27,630 (-3.88%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹6,16,137 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹2,11,493 |
-| Today's change | -₹1,79,470 (-0.86%) |
-| Nifty 50 since start (same money invested) | -1.25% |
-| Outperformance vs Nifty 50 | -1.92% |
+| Today's change | -₹1,51,321 (-0.73%) |
+| Nifty 50 since start (same money invested) | -1.18% |
+| Outperformance vs Nifty 50 | -2.70% |
 | Cash (uninvested) | ₹39,96,174 |
 | Virtual money put in | ₹2,13,51,000 |
 
@@ -30,14 +32,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹694.05 | ₹694.05 | ₹706.95 | -1.82% | ₹31,73,197 | 15.3% | -₹1,59,106 | -4.77% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,200.00 | ₹11,200.00 | ₹11,475.00 | -2.40% | ₹32,48,000 | 15.7% | -₹83,810 | -2.52% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹146.03 | ₹146.03 | ₹146.74 | -0.48% | ₹1,46,030 | 0.7% | -₹1,690 | -1.14% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,084.50 | ₹7,084.50 | ₹7,170.50 | -1.20% | ₹70,84,500 | 34.3% | -₹1,81,500 | -2.50% |
-| Linde India | 500 | ₹5,961.00 | ₹5,882.50 | ₹5,882.50 | ₹6,003.50 | -2.02% | ₹29,41,250 | 14.2% | -₹39,250 | -1.32% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹85.54 | ₹85.54 | ₹92.75 | -7.77% | ₹85,540 | 0.4% | ₹540 | +0.64% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹694.45 | - | ₹694.05 | +0.06% | ₹31,75,025 | 15.5% | -₹1,57,277 | -4.72% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,134.00 | - | ₹11,200.00 | -0.59% | ₹32,28,860 | 15.7% | -₹1,02,950 | -3.09% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹144.60 | - | ₹146.03 | -0.98% | ₹1,44,600 | 0.7% | -₹3,120 | -2.11% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹6,975.00 | - | ₹7,084.50 | -1.55% | ₹69,75,000 | 34.0% | -₹2,91,000 | -4.00% |
+| Linde India | 500 | ₹5,961.00 | ₹5,850.00 | - | ₹5,882.50 | -0.55% | ₹29,25,000 | 14.2% | -₹55,500 | -1.86% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹78.71 | - | ₹85.54 | -7.98% | ₹78,710 | 0.4% | -₹6,290 | -7.40% |
 
-**Best since buy:** Linc Ltd (+0.64%)  ·  **Worst since buy:** HDFC Bank (-4.77%)  ·  **Biggest mover today:** Linc Ltd (-7.77%)
+**Best since buy:** Linde India (-1.86%)  ·  **Worst since buy:** Linc Ltd (-7.40%)  ·  **Biggest mover today:** Linc Ltd (-7.98%)
 
 ## Allocation
 
@@ -45,11 +47,11 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,04,78,530 | 50.7% |
-| Cash | ₹39,96,174 | 19.3% |
-| Financials | ₹31,73,197 | 15.3% |
-| Industrial Gases | ₹29,41,250 | 14.2% |
-| Stationery & Writing Instruments | ₹85,540 | 0.4% |
+| Automobiles | ₹1,03,48,460 | 50.4% |
+| Cash | ₹39,96,174 | 19.5% |
+| Financials | ₹31,75,025 | 15.5% |
+| Industrial Gases | ₹29,25,000 | 14.2% |
+| Stationery & Writing Instruments | ₹78,710 | 0.4% |
 
 ## Performance
 
@@ -103,7 +105,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹694.05 | -1.82% | ₹689.10 - ₹703.35 | 60,280,576 | 30,222,673 | 1.99x | 24.00% | ₹687.10 - ₹1,009.50 |
+| ₹694.45 | +0.06% | ₹691.70 - ₹696.15 | 2,081,284 | 31,462,518 | 0.07x | 24.03% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -136,7 +138,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,200.00 | -2.40% | ₹11,152.00 - ₹11,555.00 | 393,314 | 451,789 | 0.87x | 26.09% | ₹11,178.00 - ₹17,292.00 |
+| ₹11,134.00 | -0.59% | ₹11,098.00 - ₹11,188.00 | 19,843 | 451,789 | 0.04x | 25.97% | ₹11,134.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -168,7 +170,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹146.03 | -0.48% | ₹143.04 - ₹147.29 | 9,616,781 | 12,205,493 | 0.79x | 27.40% | ₹136.35 - ₹211.92 |
+| ₹144.60 | -0.98% | ₹144.41 - ₹146.23 | 838,273 | 12,238,338 | 0.07x | 26.61% | ₹136.35 - ₹211.92 |
 
 **Research reports**
 
@@ -197,7 +199,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,084.50 | -1.20% | ₹7,022.00 - ₹7,230.00 | 406,738 | 404,953 | 1.0x | 28.62% | ₹6,586.00 - ₹8,190.00 |
+| ₹6,975.00 | -1.55% | ₹6,975.00 - ₹7,100.00 | 19,758 | 408,469 | 0.05x | 28.83% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -212,7 +214,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for](https://news.google.com/rss/articles/CBMizwFBVV95cUxOdW5ndWpjU0hZRUd3SThkbjVybER1THc1M1ZtMEFqWENsOWM5VFJSd2p5WUI3REVwMWkxWF9sdWVQeEE1d2N6alFhc3FtQ3U4dUNmeTlGT3AtUGVrWGZTLVR6VVMyREQxOTVwZlBNb2VPdEwwR1l3d2NrcGowR090dE84Mzg2RFVfY0tVR2VDWkxHZC1rWUZ6Z2E3WDcxRl96SFEzOUxJUWs2WWZoSzBxZEFRZ1NZZElPeUNHNHFkQzlUZld2OWJOUTZEd0NJenPSAdQBQVVfeXFMTTkwUlRnYktsTTVIWFY3c1ZOQm5hX1pNSG5acVA3cHJzYWxTNFRGakZPQ19fb21mMFJtaHRpX1Y4cmY3b29lWjhzQTVubFdUU0JBMGhIR29VLXNRLXhtRGtGSVR5Tl9TN2tfcmhsalFWMnFxOVdyZWZDTEtrbnY4MTRSZk9mOXRhd19vNUxxVENuaU91a2tFZVhBYjJLQ29wSmwzS0JBbUhsbjZoX185NWcxMlFnUmpMTnhxQVBHby1XTHBZSGMtSzJ3S1lzVXpfYkFrMTg?oc=5) - _Livemint, 21 Oct 2026, 05:27 PM IST_
+- [Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxONIB1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxOA?oc=5) - _Livemint, 21 Oct 2026, 05:27 PM IST_
 
 </details>
 
@@ -226,7 +228,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,882.50 | -2.02% | ₹5,875.00 - ₹5,998.50 | 14,341 | 19,134 | 0.75x | 24.93% | ₹5,695.50 - ₹7,847.50 |
+| ₹5,850.00 | -0.55% | ₹5,839.00 - ₹5,900.00 | 530 | 19,134 | 0.03x | 24.65% | ₹5,695.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -255,7 +257,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹85.54 | -7.77% | ₹81.90 - ₹93.28 | 49,381 | 32,030 | 1.54x | 46.20% | ₹81.54 - ₹130.64 |
+| ₹78.71 | -7.98% | ₹76.00 - ₹79.19 | 8,687 | 32,030 | 0.27x | 53.37% | ₹78.71 - ₹130.64 |
 
 **Research reports**
 

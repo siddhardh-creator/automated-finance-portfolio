@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "23 Oct 2026, 08:46 AM IST",
-  "as_of": "2026-10-22",
-  "snapshot_type": "End-of-day final snapshot",
+  "generated_at_ist": "23 Oct 2026, 09:32 AM IST",
+  "as_of": "2026-10-23",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 21351000.0,
     "initial_capital": 10000000,
     "invested": 17143332.09,
-    "holdings_value": 16678516.54,
+    "holdings_value": 16527195.47,
     "cash": 3996174.49,
-    "value": 20674691.03,
-    "pnl_inr": -676308.97,
-    "pnl_pct": -3.17,
-    "unrealised_pnl_inr": -464815.54,
+    "value": 20523369.95,
+    "pnl_inr": -827630.05,
+    "pnl_pct": -3.88,
+    "unrealised_pnl_inr": -616136.63,
     "realised_pnl_inr": -211493.42,
-    "day_pnl_inr": -179469.73,
-    "day_pnl_pct": -0.86,
+    "day_pnl_inr": -151321.08,
+    "day_pnl_pct": -0.73,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22687.65,
-    "return_pct": -1.25,
-    "day_change_pct": -0.54
+    "close": 22704.0,
+    "return_pct": -1.18,
+    "day_change_pct": 0.07
   },
   "stocks": [
     {
@@ -34,24 +34,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/HDFCBANK:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 694.05,
-        "prev_close": 706.95,
-        "day_change_pct": -1.82,
-        "open": 701.45,
-        "high": 703.35,
-        "low": 689.1,
-        "intraday_range_pct": 2.02,
-        "volume": 60280576,
-        "avg_volume_20d": 30222673,
-        "volume_vs_avg": 1.99,
-        "volatility_20d_annualised_pct": 24.0,
+        "close": 694.45,
+        "prev_close": 694.05,
+        "day_change_pct": 0.06,
+        "open": 692.55,
+        "high": 696.15,
+        "low": 691.7,
+        "intraday_range_pct": 0.64,
+        "volume": 2081284,
+        "avg_volume_20d": 31462518,
+        "volume_vs_avg": 0.07,
+        "volatility_20d_annualised_pct": 24.03,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3173196.54,
-        "pnl_inr": -159105.54,
-        "pnl_pct": -4.77
+        "market_value": 3175025.46,
+        "pnl_inr": -157276.63,
+        "pnl_pct": -4.72
       },
       "news": [
         {
@@ -86,7 +86,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.35
+      "weight_pct": 15.47
     },
     {
       "key": "maruti",
@@ -97,24 +97,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11200.0,
-        "prev_close": 11475.0,
-        "day_change_pct": -2.4,
-        "open": 11540.0,
-        "high": 11555.0,
-        "low": 11152.0,
-        "intraday_range_pct": 3.51,
-        "volume": 393314,
+        "close": 11134.0,
+        "prev_close": 11200.0,
+        "day_change_pct": -0.59,
+        "open": 11181.0,
+        "high": 11188.0,
+        "low": 11098.0,
+        "intraday_range_pct": 0.8,
+        "volume": 19843,
         "avg_volume_20d": 451789,
-        "volume_vs_avg": 0.87,
-        "volatility_20d_annualised_pct": 26.09,
+        "volume_vs_avg": 0.04,
+        "volatility_20d_annualised_pct": 25.97,
         "high_52w": 17292.0,
-        "low_52w": 11178.0,
+        "low_52w": 11134.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3248000.0,
-        "pnl_inr": -83810.0,
-        "pnl_pct": -2.52
+        "market_value": 3228860.0,
+        "pnl_inr": -102950.0,
+        "pnl_pct": -3.09
       },
       "news": [
         {
@@ -143,7 +143,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.71
+      "weight_pct": 15.73
     },
     {
       "key": "ashok",
@@ -154,28 +154,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 146.03,
-        "prev_close": 146.74,
-        "day_change_pct": -0.48,
-        "open": 144.95,
-        "high": 147.29,
-        "low": 143.04,
-        "intraday_range_pct": 2.9,
-        "volume": 9616781,
-        "avg_volume_20d": 12205493,
-        "volume_vs_avg": 0.79,
-        "volatility_20d_annualised_pct": 27.4,
+        "close": 144.6,
+        "prev_close": 146.03,
+        "day_change_pct": -0.98,
+        "open": 146.03,
+        "high": 146.23,
+        "low": 144.41,
+        "intraday_range_pct": 1.25,
+        "volume": 838273,
+        "avg_volume_20d": 12238338,
+        "volume_vs_avg": 0.07,
+        "volatility_20d_annualised_pct": 26.61,
         "high_52w": 211.92,
         "low_52w": 136.35,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 146030.0,
-        "pnl_inr": -1690.0,
-        "pnl_pct": -1.14
+        "market_value": 144600.01,
+        "pnl_inr": -3120.0,
+        "pnl_pct": -2.11
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.71
+      "weight_pct": 0.7
     },
     {
       "key": "eicher",
@@ -186,35 +186,35 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7084.5,
-        "prev_close": 7170.5,
-        "day_change_pct": -1.2,
-        "open": 7088.0,
-        "high": 7230.0,
-        "low": 7022.0,
-        "intraday_range_pct": 2.9,
-        "volume": 406738,
-        "avg_volume_20d": 404953,
-        "volume_vs_avg": 1.0,
-        "volatility_20d_annualised_pct": 28.62,
+        "close": 6975.0,
+        "prev_close": 7084.5,
+        "day_change_pct": -1.55,
+        "open": 7099.5,
+        "high": 7100.0,
+        "low": 6975.0,
+        "intraday_range_pct": 1.76,
+        "volume": 19758,
+        "avg_volume_20d": 408469,
+        "volume_vs_avg": 0.05,
+        "volatility_20d_annualised_pct": 28.83,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7084500.0,
-        "pnl_inr": -181500.0,
-        "pnl_pct": -2.5
+        "market_value": 6975000.0,
+        "pnl_inr": -291000.0,
+        "pnl_pct": -4.0
       },
       "news": [
         {
           "title": "Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for",
           "source": "Livemint",
           "published": "21 Oct 2026, 05:27 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdW5ndWpjU0hZRUd3SThkbjVybER1THc1M1ZtMEFqWENsOWM5VFJSd2p5WUI3REVwMWkxWF9sdWVQeEE1d2N6alFhc3FtQ3U4dUNmeTlGT3AtUGVrWGZTLVR6VVMyREQxOTVwZlBNb2VPdEwwR1l3d2NrcGowR090dE84Mzg2RFVfY0tVR2VDWkxHZC1rWUZ6Z2E3WDcxRl96SFEzOUxJUWs2WWZoSzBxZEFRZ1NZZElPeUNHNHFkQzlUZld2OWJOUTZEd0NJenPSAdQBQVVfeXFMTTkwUlRnYktsTTVIWFY3c1ZOQm5hX1pNSG5acVA3cHJzYWxTNFRGakZPQ19fb21mMFJtaHRpX1Y4cmY3b29lWjhzQTVubFdUU0JBMGhIR29VLXNRLXhtRGtGSVR5Tl9TN2tfcmhsalFWMnFxOVdyZWZDTEtrbnY4MTRSZk9mOXRhd19vNUxxVENuaU91a2tFZVhBYjJLQ29wSmwzS0JBbUhsbjZoX185NWcxMlFnUmpMTnhxQVBHby1XTHBZSGMtSzJ3S1lzVXpfYkFrMTg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxONIB1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxOA?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 34.27
+      "weight_pct": 33.99
     },
     {
       "key": "linde",
@@ -225,24 +225,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5882.5,
-        "prev_close": 6003.5,
-        "day_change_pct": -2.02,
-        "open": 5973.0,
-        "high": 5998.5,
-        "low": 5875.0,
-        "intraday_range_pct": 2.06,
-        "volume": 14341,
+        "close": 5850.0,
+        "prev_close": 5882.5,
+        "day_change_pct": -0.55,
+        "open": 5900.0,
+        "high": 5900.0,
+        "low": 5839.0,
+        "intraday_range_pct": 1.04,
+        "volume": 530,
         "avg_volume_20d": 19134,
-        "volume_vs_avg": 0.75,
-        "volatility_20d_annualised_pct": 24.93,
+        "volume_vs_avg": 0.03,
+        "volatility_20d_annualised_pct": 24.65,
         "high_52w": 7847.5,
         "low_52w": 5695.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2941250.0,
-        "pnl_inr": -39250.0,
-        "pnl_pct": -1.32
+        "market_value": 2925000.0,
+        "pnl_inr": -55500.0,
+        "pnl_pct": -1.86
       },
       "news": [
         {
@@ -259,7 +259,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 14.23
+      "weight_pct": 14.25
     },
     {
       "key": "linc",
@@ -270,96 +270,96 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 85.54,
-        "prev_close": 92.75,
-        "day_change_pct": -7.77,
-        "open": 92.75,
-        "high": 93.28,
-        "low": 81.9,
-        "intraday_range_pct": 12.27,
-        "volume": 49381,
+        "close": 78.71,
+        "prev_close": 85.54,
+        "day_change_pct": -7.98,
+        "open": 77.0,
+        "high": 79.19,
+        "low": 76.0,
+        "intraday_range_pct": 3.73,
+        "volume": 8687,
         "avg_volume_20d": 32030,
-        "volume_vs_avg": 1.54,
-        "volatility_20d_annualised_pct": 46.2,
+        "volume_vs_avg": 0.27,
+        "volatility_20d_annualised_pct": 53.37,
         "high_52w": 130.64,
-        "low_52w": 81.54,
+        "low_52w": 78.71,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 85540.0,
-        "pnl_inr": 540.0,
-        "pnl_pct": 0.64
+        "market_value": 78710.0,
+        "pnl_inr": -6290.0,
+        "pnl_pct": -7.4
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.41
+      "weight_pct": 0.38
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10478530.0,
-      "weight_pct": 50.68
+      "value": 10348460.01,
+      "weight_pct": 50.42
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.33
+      "weight_pct": 19.47
     },
     {
       "sector": "Financials",
-      "value": 3173196.54,
-      "weight_pct": 15.35
+      "value": 3175025.46,
+      "weight_pct": 15.47
     },
     {
       "sector": "Industrial Gases",
-      "value": 2941250.0,
-      "weight_pct": 14.23
+      "value": 2925000.0,
+      "weight_pct": 14.25
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 85540.0,
-      "weight_pct": 0.41
+      "value": 78710.0,
+      "weight_pct": 0.38
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10478530.0,
-      "weight_pct": 50.68
+      "value": 10348460.01,
+      "weight_pct": 50.42
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.33
+      "weight_pct": 19.47
     },
     {
       "sector": "Financials",
-      "value": 3173196.54,
-      "weight_pct": 15.35
+      "value": 3175025.46,
+      "weight_pct": 15.47
     },
     {
       "sector": "Industrial Gases",
-      "value": 2941250.0,
-      "weight_pct": 14.23
+      "value": 2925000.0,
+      "weight_pct": 14.25
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 85540.0,
-      "weight_pct": 0.41
+      "value": 78710.0,
+      "weight_pct": 0.38
     }
   ],
   "performers": {
     "best_since_buy": {
-      "name": "Linc Ltd",
-      "pct": 0.64
+      "name": "Linde India",
+      "pct": -1.86
     },
     "worst_since_buy": {
-      "name": "HDFC Bank",
-      "pct": -4.77
+      "name": "Linc Ltd",
+      "pct": -7.4
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": -7.77
+      "pct": -7.98
     }
   },
   "transactions": [
