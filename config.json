@@ -148,7 +148,7 @@
         "linde india",
         "linde"
       ],
-      "news_query": "\"Linde India\" OR \"Linde India\" gasworld",
+      "news_query": "Linde India",
       "sector": "Industrial Gases",
       "trade_news": {
         "url": "https://www.gasworld.com/regions/asia-pacific/",
