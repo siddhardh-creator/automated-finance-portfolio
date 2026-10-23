@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "23 Oct 2026, 02:38 PM IST",
+  "generated_at_ist": "23 Oct 2026, 03:35 PM IST",
   "as_of": "2026-10-23",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 21351000.0,
     "initial_capital": 10000000,
     "invested": 17143332.09,
-    "holdings_value": 16525547.09,
+    "holdings_value": 16586551.54,
     "cash": 3996174.49,
-    "value": 20521721.58,
-    "pnl_inr": -829278.42,
-    "pnl_pct": -3.88,
-    "unrealised_pnl_inr": -617785.0,
+    "value": 20582726.03,
+    "pnl_inr": -768273.97,
+    "pnl_pct": -3.6,
+    "unrealised_pnl_inr": -556780.54,
     "realised_pnl_inr": -211493.42,
-    "day_pnl_inr": -144139.45,
-    "day_pnl_pct": -0.7,
+    "day_pnl_inr": -83135.01,
+    "day_pnl_pct": -0.4,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22515.0,
-    "return_pct": -2.0,
-    "day_change_pct": -0.76
+    "close": 22600.0,
+    "return_pct": -1.63,
+    "day_change_pct": -0.39
   },
   "stocks": [
     {
@@ -34,24 +34,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/HDFCBANK:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 692.6,
+        "close": 692.8,
         "prev_close": 694.05,
-        "day_change_pct": -0.21,
+        "day_change_pct": -0.18,
         "open": 692.55,
         "high": 696.8,
         "low": 686.85,
         "intraday_range_pct": 1.43,
-        "volume": 16072819,
+        "volume": 19832844,
         "avg_volume_20d": 31462518,
-        "volume_vs_avg": 0.51,
+        "volume_vs_avg": 0.63,
         "volatility_20d_annualised_pct": 24.0,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3166567.09,
-        "pnl_inr": -165735.0,
-        "pnl_pct": -4.97
+        "market_value": 3167481.54,
+        "pnl_inr": -164820.54,
+        "pnl_pct": -4.95
       },
       "news": [
         {
@@ -86,7 +86,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.43
+      "weight_pct": 15.39
     },
     {
       "key": "maruti",
@@ -97,31 +97,37 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11214.0,
+        "close": 11230.0,
         "prev_close": 11170.0,
-        "day_change_pct": 0.39,
+        "day_change_pct": 0.54,
         "open": 11181.0,
-        "high": 11230.0,
+        "high": 11258.0,
         "low": 11000.0,
-        "intraday_range_pct": 2.06,
-        "volume": 245607,
+        "intraday_range_pct": 2.31,
+        "volume": 341308,
         "avg_volume_20d": 459827,
-        "volume_vs_avg": 0.53,
-        "volatility_20d_annualised_pct": 25.99,
+        "volume_vs_avg": 0.74,
+        "volatility_20d_annualised_pct": 26.06,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3252060.0,
-        "pnl_inr": -79750.0,
-        "pnl_pct": -2.39
+        "market_value": 3256700.0,
+        "pnl_inr": -75110.0,
+        "pnl_pct": -2.25
       },
       "news": [
         {
-          "title": "Maruti Suzuki expects double-digit growth in festival season sales",
-          "source": "Press Trust of India",
-          "published": "21 Oct 2026, 08:41 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1LZFFGUmdwa2FCMU05SHZqRFcxM1ZYZ1FfLVpwZk5GNlNnVkIxMmZrVGktMmJqa2J0MFhBR3NMbm5VRUc1N3F5SGV3eEw1anpWN0tpZVlaUVh0cG81cUNWYkZVQXdhVDBWLUF1eXNQYVZ1YVZsbnQwbVRBNEdPNi0wVDNpQUF1QWJqTFhPRm5xa0RtM0xjWGM1SU9qVTVxaG40ekxtY0xSeWtaOWlXdkFiWQ?oc=5"
+          "title": "Lupin, SRF, TMPV, Maruti, NTPC among 74 BSE 500 stocks hit 52-week lows",
+          "source": "Business Standard",
+          "published": "22 Oct 2026, 10:07 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnBlc2VVUzlzSWZ4RXJLQ09HcHVwV3lySEdKRXFDcXN0TmNaQmxQZ2pJUHJUaW9tYkxEVTZuYkJsUXQxUW0zZmJLRmI5Z3A3QldSMEZfRGhqOC1EYzQxM1dhalhGWjU4OXBpRERYY1RnODhqdjBFdWhkelVidnJXZV81ZHlfd2lVQ3NCbkJ3REdwd0t0UWktZFBVZ3FLQTh0aU83MUJjbkdGQnJoTDVvRWxqYnJLdDR3NDdxeTZLdlhDcGhCTTFNQm5qNVFhcWczTFJOUWljZjFIR0g1MkRv0gHkAUFVX3lxTE5ZSFBBWldIT0g5Sm05MkRNSjE0LUtwYWdxRzZjYlVjRUhBdGlfbnBLN3hCYUN1QUpTcG1jc0EyYWl4b2xoTEt0Nmt1MURDRXJMbllObDZENGhvcEJEVVljM1g3d2luX21najJSakRCMUREMVFPdkNrVVIzZS02TnlpMm5oVEcxelYxb1Z5QnBCT05DX1hsYTlJektsc0tSc1VfY05mdi1NRTEyZ3Vaa1l3bk8yZU1zQl9Mb2VhVjhMVk16N3dCU0pKOVJIWFJzZ0tCRGVEVUNFMEtHMXppZTA4NHRuNw?oc=5"
+        },
+        {
+          "title": "Maruti Suzuki Expects Double-Digit Growth In Sales Amid Festive Season Boost",
+          "source": "NDTV Profit",
+          "published": "21 Oct 2026, 08:12 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzlkdjUyWUxVSGhSMnFucWswVEZTbkdpUWJCYTVIcHRCYXlJNEJOOGNubUtxaGt4VVZkY05LcEtkazdsTm51OHZtM1VyNlJ6a1V3dWQxZDJhVWVKU0RIWDBJWjRHNnNDSXUtRDNZbzc2dUotZHBXZ0YxZ0piQW1JOV9vSGx5QWFGQ1lFRU9xdE11MmVYVGJMU0ttUXpMWl9qVDNfdm1UMHpYSXJibEozedIBuAFBVV95cUxPZUR4Q2JPay1FSTJSTXd6d3E2OHhqbHhmTkRvV0RVZXR2ZkFDaDF6aFJMLWFiN0FSRHlqSUxtamczV0cxQmE2ZFVTOElKdENnMkJyR09RTW51NVkybVEwUXZkdUdXNmtVbGFDWUdiazJaUEJBTllCYUpoUHFTbUpCN1MyZXhOanN3bklhQ3ZIeHpzYlBnVW80MHdua1ZmUkFmTnpNbXVTOWpBRTFNVkg5ZE45ZDd1VDlJ?oc=5"
         },
         {
           "title": "Maruti Suzuki Ertiga gets costlier by up to ₹10,000: 16,911 units sold last month; check new variant-wise prices",
@@ -134,10 +140,16 @@
           "source": "NDTV Profit",
           "published": "21 Oct 2026, 06:52 AM IST",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOckRrVmJRbWdHd2dOc0w2c3poVWpNQURDS1F5OWIyNG1vUEhaTlNTTVhfYzFiQnk0Nm43djZaOU9pVnl4OG1FbV9sZ19HUWZ0SDljMFphTjFiZnBhLUNaMjRxUnpKOG9KVUFPTGp6allzQUI1aDlGM1h6dkE4M3k0V1ZnVVJlb2hrQ3NaVTluVnhnWXprY2h0RVQxN2xfXzQwUEF3ZVNQakRCVVJJWUJ2UGpQWHNXYU85NWJ4YXBReEpYLVFRUWJNZ0RtMEpoR01rMkkxQkFKaXlhenA4UEQyb1NCZTA1U0JPWXUxcnZjWFhUTFhwdHNjZGl0RXRNazBUZXfSAYoCQVVfeXFMTkJxelY5b2VXcXNTUDd3VWt4M0wzb3VCQ1RFNXpDdUlvUWViX19velNsXzlJOU9lY0JUVk9XcHMtSW5sZmFnMmtGRjk4a296ajh6bXJJNHlMaHJlaDFiWjJRRnJGbDV1Y2pqSTMwOG5oSXhXbjBxNUFWUjZVOHVhNUtpN1F2SVpEaXdVU2lZelFTdXRDTm15OE9sTTYxbm9ldVF5ZDdlejYzbUZLaS14WEEyNUVjbEF6WDhZcnFOOHFGbXRIcVJhM1lmLWY3c29wX3FUaVpOemVFQ29vTHlKLUVQZ0dYSUk4UDFqWGJzbG1jSExER2tEVzBROHIwT0pYRkROTXA1SFhiQlE?oc=5"
+        },
+        {
+          "title": "Maruti Suzuki Grand Vitara festive discount reaches ₹1.36 lakh; check offers on Fronx, Jimny, XL6",
+          "source": "Livemint",
+          "published": "20 Oct 2026, 05:05 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU1hvNTkzOVFTaUNfQ3dDY1VVYU85YlNCaTR3azNhNE9GZmltQUwyd0F5aHFPaGJUZE4zZldieWo3Rk1yXy1jaDhyQUxVeFA2eTVSQm5NeUI3MUpwVEJoVC1tdXFrcjlXQzRfNlJhR2oyZE9rOWhMUGRKVWVQTDBrT20xalE2WjUzTGYxb0ZPWm0yeUx6RnE1UHJ6c1E2eVF5RUR3alAtbG9HeHY5cUdqX2RwSVFBSXhSUGk0SVNoaVBZUnlwTVJkZXdGTnlYaWh3cks2WVo2eTJ5TXNIZWEtMk1fQmNwZ9IB6wFBVV95cUxOc0hCeFc0RUF5U1AxcjRNRFc3cmtIM2JtUzVZbWdpSUR1ajdtZDZWSkpqZFhJbHo5Z3lweURaX05pN203UHZmRHRoNGh5alJXY3BPWUs3Z1l2a0cwQ3NzN0w0TlQyc19ReFhfNzBZSnBibURLWXFVR2k0b0ZMWWlJR2dSR3hkSTRMR0NVRy1jZjZJNmY0SmxrR1paTWNhaXJQZGlGVWY3UWhtRnA1ZmlLR005MmhXOEZJTWE3eDlyUG9zekkzV2VTYXJFRWd0dTNQaEktdlZQOXVzUXBXd0VCSEQyQ2xmQThBbFRj?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 15.85
+      "weight_pct": 15.82
     },
     {
       "key": "ashok",
@@ -148,28 +160,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 145.27,
+        "close": 144.95,
         "prev_close": 146.03,
-        "day_change_pct": -0.52,
+        "day_change_pct": -0.74,
         "open": 146.03,
         "high": 146.23,
         "low": 142.02,
         "intraday_range_pct": 2.88,
-        "volume": 13987314,
+        "volume": 17433011,
         "avg_volume_20d": 12238338,
-        "volume_vs_avg": 1.14,
+        "volume_vs_avg": 1.42,
         "volatility_20d_annualised_pct": 26.57,
         "high_52w": 211.92,
         "low_52w": 136.35,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 145270.0,
-        "pnl_inr": -2450.0,
-        "pnl_pct": -1.66
+        "market_value": 144950.0,
+        "pnl_inr": -2770.0,
+        "pnl_pct": -1.88
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.71
+      "weight_pct": 0.7
     },
     {
       "key": "eicher",
@@ -180,24 +192,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7004.5,
+        "close": 7066.0,
         "prev_close": 7084.5,
-        "day_change_pct": -1.13,
+        "day_change_pct": -0.26,
         "open": 7099.5,
         "high": 7100.0,
         "low": 6911.0,
         "intraday_range_pct": 2.67,
-        "volume": 301784,
+        "volume": 379814,
         "avg_volume_20d": 408469,
-        "volume_vs_avg": 0.74,
-        "volatility_20d_annualised_pct": 28.63,
+        "volume_vs_avg": 0.93,
+        "volatility_20d_annualised_pct": 28.47,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7004500.0,
-        "pnl_inr": -261500.0,
-        "pnl_pct": -3.6
+        "market_value": 7066000.0,
+        "pnl_inr": -200000.0,
+        "pnl_pct": -2.75
       },
       "news": [
         {
@@ -208,7 +220,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 34.13
+      "weight_pct": 34.33
     },
     {
       "key": "linde",
@@ -219,26 +231,32 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5742.5,
+        "close": 5723.5,
         "prev_close": 5900.5,
-        "day_change_pct": -2.68,
+        "day_change_pct": -3.0,
         "open": 5900.0,
         "high": 5900.0,
         "low": 5662.0,
         "intraday_range_pct": 4.03,
-        "volume": 25729,
+        "volume": 28453,
         "avg_volume_20d": 18359,
-        "volume_vs_avg": 1.4,
-        "volatility_20d_annualised_pct": 26.12,
+        "volume_vs_avg": 1.55,
+        "volatility_20d_annualised_pct": 26.51,
         "high_52w": 7847.5,
         "low_52w": 5695.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2871250.0,
-        "pnl_inr": -109250.0,
-        "pnl_pct": -3.67
+        "market_value": 2861750.0,
+        "pnl_inr": -118750.0,
+        "pnl_pct": -3.98
       },
       "news": [
+        {
+          "title": "LPG under recovery rises to ₹327/cylinder in November: HPCL",
+          "source": "BusinessLine",
+          "published": "23 Oct 2026, 02:43 PM IST",
+          "link": "https://www.thehindubusinessline.com/companies/lpg-under-recovery-rises-to-327cylinder-in-november-hpcl/article71615336.ece"
+        },
         {
           "title": "Linde doubles gas supply capacity for Tata Steel",
           "source": "gasworld",
@@ -253,7 +271,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 13.99
+      "weight_pct": 13.9
     },
     {
       "key": "linc",
@@ -264,96 +282,96 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 85.9,
+        "close": 89.67,
         "prev_close": 76.41,
-        "day_change_pct": 12.42,
+        "day_change_pct": 17.35,
         "open": 77.0,
-        "high": 86.83,
+        "high": 91.69,
         "low": 75.81,
-        "intraday_range_pct": 14.42,
-        "volume": 224856,
+        "intraday_range_pct": 20.78,
+        "volume": 357832,
         "avg_volume_20d": 41666,
-        "volume_vs_avg": 5.4,
-        "volatility_20d_annualised_pct": 75.11,
+        "volume_vs_avg": 8.59,
+        "volatility_20d_annualised_pct": 87.28,
         "high_52w": 130.64,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 85900.0,
-        "pnl_inr": 900.0,
-        "pnl_pct": 1.06
+        "market_value": 89670.0,
+        "pnl_inr": 4670.0,
+        "pnl_pct": 5.49
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.42
+      "weight_pct": 0.44
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10401830.0,
-      "weight_pct": 50.69
+      "value": 10467650.0,
+      "weight_pct": 50.86
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.47
+      "weight_pct": 19.42
     },
     {
       "sector": "Financials",
-      "value": 3166567.09,
-      "weight_pct": 15.43
+      "value": 3167481.54,
+      "weight_pct": 15.39
     },
     {
       "sector": "Industrial Gases",
-      "value": 2871250.0,
-      "weight_pct": 13.99
+      "value": 2861750.0,
+      "weight_pct": 13.9
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 85900.0,
-      "weight_pct": 0.42
+      "value": 89670.0,
+      "weight_pct": 0.44
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10401830.0,
-      "weight_pct": 50.69
+      "value": 10467650.0,
+      "weight_pct": 50.86
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.47
+      "weight_pct": 19.42
     },
     {
       "sector": "Financials",
-      "value": 3166567.09,
-      "weight_pct": 15.43
+      "value": 3167481.54,
+      "weight_pct": 15.39
     },
     {
       "sector": "Industrial Gases",
-      "value": 2871250.0,
-      "weight_pct": 13.99
+      "value": 2861750.0,
+      "weight_pct": 13.9
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 85900.0,
-      "weight_pct": 0.42
+      "value": 89670.0,
+      "weight_pct": 0.44
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linc Ltd",
-      "pct": 1.06
+      "pct": 5.49
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -4.97
+      "pct": -4.95
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": 12.42
+      "pct": 17.35
     }
   },
   "transactions": [
@@ -586,7 +604,9 @@
       "realised_pct": -5.01
     }
   ],
-  "data_quality": [],
+  "data_quality": [
+    "Linc Ltd: move of 17.35% is unusually large - verify with NSE before relying on it."
+  ],
   "sources": {
     "prices": "Yahoo Finance via yfinance (unofficial)",
     "news": "Google News RSS + publisher RSS, trusted-publisher whitelist, 72h window",
