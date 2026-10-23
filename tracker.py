@@ -255,6 +255,40 @@ def collect_official_news(stock):
     return out
 
 
+def collect_trade_news(stock):
+    """Trade-press listing page (gasworld). Config: stock["trade_news"] =
+    {"url", "source", "contains": [words], "max_age_days"}. A story is kept only if its headline
+    contains one of the words and its <time datetime> stamp is within max_age_days. Fails silently -> []."""
+    cfg = stock.get("trade_news")
+    if not cfg:
+        return []
+    cutoff = datetime.now(timezone.utc) - timedelta(days=cfg.get("max_age_days", 7))
+    try:
+        r = requests.get(cfg["url"], headers={**HEADERS, "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) Chrome/124.0 Safari/537.36"}, timeout=25)
+        r.raise_for_status()
+        page = r.text
+    except Exception as e:
+        log(f"  ! trade news failed {cfg['url']}: {e}")
+        return []
+    words = [w.lower() for w in cfg.get("contains", [])]
+    found = {}
+    for m in re.finditer(r'<a\b[^>]*?href=["\']([^"\']*?/story/[^"\']+)["\'][^>]*?title=["\']([^"\']+)["\']', page, re.S | re.I):
+        href = urljoin(cfg["url"], unescape(m.group(1)).strip())
+        title = re.sub(r"\s+", " ", unescape(m.group(2))).strip()
+        if len(title) < 15 or not any(w in title.lower() for w in words):
+            continue
+        t = re.search(r'<time[^>]*datetime=["\']([^"\']+)["\']', page[m.end():m.end() + 1500], re.S | re.I)
+        if not t:
+            continue
+        try:
+            when = datetime.fromisoformat(t.group(1)).astimezone(timezone.utc)
+        except ValueError:
+            continue
+        if when >= cutoff and href not in found:
+            found[href] = {"title": title, "source": cfg["source"], "published": when, "link": href}
+    return list(found.values())
+
+
 def collect_news(cfg, stock, publisher_cache):
     cutoff = datetime.now(timezone.utc) - timedelta(hours=cfg["news_max_age_hours"])
     trusted = cfg["trusted_sources"]
@@ -294,6 +328,7 @@ def collect_news(cfg, stock, publisher_cache):
 
     # 3) Official company newsroom (optional, per stock)
     items.extend(collect_official_news(stock))
+    items.extend(collect_trade_news(stock))
 
     # De-duplicate (near-identical headlines), newest first
     items.sort(key=lambda x: x["published"], reverse=True)
