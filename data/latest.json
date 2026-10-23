@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "23 Oct 2026, 05:26 PM IST",
+  "generated_at_ist": "23 Oct 2026, 07:51 PM IST",
   "as_of": "2026-10-23",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 21351000.0,
@@ -55,6 +55,12 @@
       },
       "news": [
         {
+          "title": "Tata Neu HDFC Bank credit card users: Claim your NeuCoins from November 25 to avoid losing rewards",
+          "source": "Moneycontrol.com",
+          "published": "23 Oct 2026, 05:43 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWFozRTJ6T3psdXgwajFTVEJjemNIbTctcElmc2RfenhFVkstbHVvZWhDbk4wRndNQ25qT0x4d0tUWFlaczJDdUVQLVRPZWdTQnZ4NnJ5X0hIVGFIdHI1ejFSRi1ELTR5NW50SnA2Y2VIbEY1Sm9nUWJiR08tblF0VngxYWZ0QWN6aVBMVkN5cUt2d2V3NFVnU21zLXhLVzBUb0t3OTVpaFZxQkZFVVF4UlgtTGhsNTNWYzRmaDk5ZXByQVZrRVRSSFpMZXlKa2ZYZWRGTklneTJlUUlnaEVDTVNKa0FEUUJpVlNzQTRRNmhJNEVtS2xKaHJzbHlWeFNp0gGGAkFVX3lxTE1EemZKSF9sV2t0cTFqdTYyVElNNk5FU2JyRkhCY04xOFdkSFd5NWtHMEVDbmU2RTBTRTBtTWFLUkJFM1A1Uzh3N1d4S3p5Njk1Q3M5eERudEtxTm5zbDFKM0VtOW84OWZCYlZHanhVQlVJTGQ0NkE5OTJ6b1RudTRvNmtkVXdaTGU5VXNxVk1oakx1ZzMzaVBOY1ZKU2hYZ1F1em9XQlJvOWtIaFNZWExONDhnZXdrZzFNVzlkSF9TSk9UdFBhR0FkR1VvTmlsTnFmZXN2cmpUa2tVd0xCS2xEZkxVYkFQOFBGNE9uaFlKT2ZqakJIbFRVVjNpWVRjNkYyckVYRnc?oc=5"
+        },
+        {
           "title": "HDFC Bank shares hover 52-week low ahead of CEO handover on Monday",
           "source": "BusinessLine",
           "published": "23 Oct 2026, 01:04 PM IST",
@@ -77,12 +83,6 @@
           "source": "Business Standard",
           "published": "22 Oct 2026, 03:12 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa21wZk1ZS1dXbmxPZ281ZS15djJyc2RPNldpYm9WTEFrQU5nS0lrdG5tSkNocHhQNF96WTVPRlJLbGFhRGZEc2V5WmdxODQ1OFZzY1N6d2x3UmFwYVV1S25vQW5SMXphZGVuUGRHUVdlX3h5YWkxV2xoSnVNVlJIZGlNU3F0SjNVV01ZUml3SVFPcUNhVFdLM1FMRzFNb2VRakJoanZoTzUzdE15MDRWR2xWNUtWMHM2UGJCcEduZkdrTjRzM1VBS0p5VldpTGlEbF9DOEduVdIB3AFBVV95cUxPenhtcUtSSEg1Z2hyRG55azZUV1hYc1BfQUFRRV8wVWJHMUpBQ2pFMER0UExiTzVma1BkQlk5Mm1udUxqVnJIQ2NHMEdzcWtrVFhnaVAwdjAtd0xMVEZmX0JfMFJQUUtuSVh1YnYzOGJ1cVp6Z2JHTnVZaE9DelBHTXl1ZEg1U1JkamNHNV9qZjlsZko0dGRtTXRPMGM4RTY2ejFXUkNwS2RrY0pMd3E4eHJRdE5JTEhrSTYtRWFzVkJ4T3lwLWMtd2RhWVhuVTVBTmZlS3Q4cTZzS1Fx?oc=5"
-        },
-        {
-          "title": "A turbulent year at HDFC Bank: Controversies that kept India’s biggest private lender in the headlines",
-          "source": "The Economic Times",
-          "published": "22 Oct 2026, 01:43 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU2xmUWNaLW9wNVVscUgxVmlPVWtPQWMydDlnMVdqdldYRGpfLWR2MWwyenZrMXlxb1FVQm02djF3T0g5a3BxZGVkTGx2RDJjNFZOUUI1S05kRGg5NDNlbVVMRFNoZGZOUlBRLXlaUEtGRFR0QnNLS2RpMDFxWDRiSnlnc0d4U1gzQW9Yem9XU1hfd3MxTHJYaGI3THNCVmF1VGdHNmRiZ2lVWnlGNm1XVFF0Qjh5OEdaSWRfX0h5STRmamVpWDZyREhTMF9aY2hzSHh3N0YyZjFEaXJXMVVUUXdWd05YRzBzSjYxNGVQQ1NnZl9ROXVBQ2c1cXpId2xtUTVPYjBwcUh0bTFDR21TWllIajF0UdIBmwJBVV95cUxQU2J0T0tUNi1GSk1yMVJvaGhzc3plbWJOTFJiV1FFQllycEk2NV9pbmVQMVF0dVhRemZZamlkSEtGYTgwbTJsTzFybm5CZzZYSDVWSC1rUk5GcjFJakk3VFlaZEVrYmJlSWs1NG5TVDc4MExvU0xWb0l0azZKU1J5b21mdXVNdkZyS1N2ZmJDQzhuU2hyX3dKdXp0TjhEZ0JqNGZVWVVpRDZsd2VLdl9XSXpHUW8xaXFZcmNLVXlLUnFZV2RkZ0RTQ1BBV1N6YVJ6V2Y2NXViUkRZRG0yWVRyNDBzMmxpaGxvamUtWjdlaTB6X0RkOW1PdWxhLXJVQ0pmeGttbGxiNzRVLWpGSnVVbVo3UVFidVFhbzM0?oc=5"
         }
       ],
       "announcements": [],
@@ -200,6 +200,12 @@
         "pnl_pct": -2.75
       },
       "news": [
+        {
+          "title": "Royal Enfield electric bike debut challenges convention",
+          "source": "BusinessLine",
+          "published": "23 Oct 2026, 05:36 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRzVzSm1VdUZZLTZFbG5iaWZUbDRtMTByeHNkX2F0ZzhXWmZnelJvY0d4QnRpaE5CSkFZQm8yOEJ1NTJXOXRhNE1xX2lob0NUc1JmTmY5cFdGYWh3ZTN1RFhtdVpoRjRSd1QxcFFRRFRJYi1aODZYcmRRWjZzd2FUQWtEeU41Y3lqdWJsQk00cDVsb1pWNEZud0U2M1ZhbEVQWFloUWRyX2oxbTBVTXNfWEpUb1pzVFF1RzJha3hZbjF3bm04NWRyUWV3UUPSAdMBQVVfeXFMUHJ3OEFJZG5GZXpyNXlTaUp0V0xDWi1SNVdfaS1oX1NoSHg3RWhqc3VFTzdMYlI0a0FJX3g0cVAzT2F0Y0ZaRWY1Q0ZHejJTYjNHWnJsUl9GeThISTB3OTNvZzV3RWgxazd5d0NKMTlYOGhSemdNRVVTUFh2ckNQNU9iNkQzSmpiS2k2dXNfOVR0M0RWaUZmb3dxcG5GVk9uTkdtWVo5QVZMUUtFakdrQTRXQ21kblNrV1pHOVdnQkFvRC1JdnVta3RRVW9EVUhrdUIzOA?oc=5"
+        },
         {
           "title": "Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for",
           "source": "Livemint",

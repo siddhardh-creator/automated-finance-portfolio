@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 23 Oct 2026, 05:26 PM IST  |  **Market data as of:** 2026-10-23  |  **Start date:** 2026-10-16
+**Last updated:** 23 Oct 2026, 07:51 PM IST  |  **Market data as of:** 2026-10-23  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 ### Data quality notes
 - Linc Ltd: move of 17.35% is unusually large - verify with NSE before relying on it.
@@ -33,12 +35,12 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹692.80 | ₹692.80 | ₹694.05 | -0.18% | ₹31,67,482 | 15.4% | -₹1,64,821 | -4.95% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,230.00 | ₹11,230.00 | ₹11,170.00 | +0.54% | ₹32,56,700 | 15.8% | -₹75,110 | -2.25% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹144.95 | ₹144.95 | ₹146.03 | -0.74% | ₹1,44,950 | 0.7% | -₹2,770 | -1.88% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,066.00 | ₹7,066.00 | ₹7,084.50 | -0.26% | ₹70,66,000 | 34.3% | -₹2,00,000 | -2.75% |
-| Linde India | 500 | ₹5,961.00 | ₹5,723.50 | ₹5,723.50 | ₹5,900.50 | -3.00% | ₹28,61,750 | 13.9% | -₹1,18,750 | -3.98% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹89.67 | ₹89.67 | ₹76.41 | +17.35% | ₹89,670 | 0.4% | ₹4,670 | +5.49% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹692.80 | - | ₹694.05 | -0.18% | ₹31,67,482 | 15.4% | -₹1,64,821 | -4.95% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,230.00 | - | ₹11,170.00 | +0.54% | ₹32,56,700 | 15.8% | -₹75,110 | -2.25% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹144.95 | - | ₹146.03 | -0.74% | ₹1,44,950 | 0.7% | -₹2,770 | -1.88% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,066.00 | - | ₹7,084.50 | -0.26% | ₹70,66,000 | 34.3% | -₹2,00,000 | -2.75% |
+| Linde India | 500 | ₹5,961.00 | ₹5,723.50 | - | ₹5,900.50 | -3.00% | ₹28,61,750 | 13.9% | -₹1,18,750 | -3.98% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹89.67 | - | ₹76.41 | +17.35% | ₹89,670 | 0.4% | ₹4,670 | +5.49% |
 
 **Best since buy:** Linc Ltd (+5.49%)  ·  **Worst since buy:** HDFC Bank (-4.95%)  ·  **Biggest mover today:** Linc Ltd (+17.35%)
 
@@ -121,11 +123,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Tata Neu HDFC Bank credit card users: Claim your NeuCoins from November 25 to avoid losing rewards](https://news.google.com/rss/articles/CBMigAJBVV95cUxQWFozRTJ6T3psdXgwajFTVEJjemNIbTctcElmc2RfenhFVkstbHVvZWhDbk4wRndNQ25qT0x4d0tUWFlaczJDdUVQLVRPZWdTQnZ4NnJ5X0hIVGFIdHI1ejFSRi1ELTR5NW50SnA2Y2VIbEY1Sm9nUWJiR08tblF0VngxYWZ0QWN6aVBMVkN5cUt2d2V3NFVnU21zLXhLVzBUb0t3OTVpaFZxQkZFVVF4UlgtTGhsNTNWYzRmaDk5ZXByQVZrRVRSSFpMZXlKa2ZYZWRGTklneTJlUUlnaEVDTVNKa0FEUUJpVlNzQTRRNmhJNEVtS2xKaHJzbHlWeFNp0gGGAkFVX3lxTE1EemZKSF9sV2t0cTFqdTYyVElNNk5FU2JyRkhCY04xOFdkSFd5NWtHMEVDbmU2RTBTRTBtTWFLUkJFM1A1Uzh3N1d4S3p5Njk1Q3M5eERudEtxTm5zbDFKM0VtOW84OWZCYlZHanhVQlVJTGQ0NkE5OTJ6b1RudTRvNmtkVXdaTGU5VXNxVk1oakx1ZzMzaVBOY1ZKU2hYZ1F1em9XQlJvOWtIaFNZWExONDhnZXdrZzFNVzlkSF9TSk9UdFBhR0FkR1VvTmlsTnFmZXN2cmpUa2tVd0xCS2xEZkxVYkFQOFBGNE9uaFlKT2ZqakJIbFRVVjNpWVRjNkYyckVYRnc?oc=5) - _Moneycontrol.com, 23 Oct 2026, 05:43 PM IST_
 - [HDFC Bank shares hover 52-week low ahead of CEO handover on Monday](https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-steadies-near-52-week-low-ahead-of-monday-ceo-handover/article71615025.ece) - _BusinessLine, 23 Oct 2026, 01:04 PM IST_
 - [Sonu Sood’s Mumbai property portfolio: How ₹3.52 crore Bokka Coffee rent is structured, how much he earns from HDFC Bank](https://news.google.com/rss/articles/CBMikAJBVV95cUxNZTlTbFhxbzhvTHNJSGtqd0pWWmt4c2VVOFNsZ1JlaWkyb3BHNFNBRzN2UmtwOWRaWU1MVkhDUW1CRVlRajhDZi1uVmVwLXlsNnR4bmxHVmtGUG1ibF9hcnlyVFQ4QXZOdnRBeHFIYnRaMU5XSDRtWU1KdUpQa0lOYWY4N3B3azlNSUZhNnBHNTk1ZGpoNU9MbzNjSFhFbWoxVl93RGowOUprbV9CQWh4eEE2RHIyc1ZwNVhSNldDQWtOWV9JcHdJMnRndzJDX3NmS0l3YTVvNUVtRmp5SjhMc2swQ0ZCaDZzWkxPNllsZlhHT3NLTHRXQ0Q0QzBPMHBsS2JTaGF6VGI5NE90anpLVdIBlgJBVV95cUxOYVluLTZ3bUtFb3JLOWR4S2lUUURaY0VVTVRlSVJpcUNGTFBZcm9GX0dzZDhvaE1qb3VKcTBjTmRhMWpjZWpUQ2Q2enFXNmZVamdVZndBN3BSbklHZEdrdWlqRmx3N2Q1S1ZnRkxmdWozNllxZFNSN2NDNUMyWlJzQzRnRDZmR0c3YnpEeXdrcXJpOGh4ZWh1ZDlBNjdZZTVVN3Z2ZHFQWDJWSTZPOVdCc3VnV3NhV01NS2otUHZsazlCbDl3ZV9fR0pqMUhYQmFxanBnTjZlN09EVzRCTkszZnBBcTlNSGZlZUd1TWs5eWlyY21jeEpaWmhuaFpKcjYwUmFPQjUyeTJVZjc1WlpxTEsxOXp3QQ?oc=5) - _Livemint, 23 Oct 2026, 11:36 AM IST_
 - [Internal review underway on potential violations: HDFC Bank](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3luTVQzYU9ZdlptYmtkakplUGdjNnNWODVVZ3BpV1JFUWsyMmFqYVJWRDV5TVlLQjVzbUxkVWpseHJkUmNuVk5BNV9rTXFzVTJxRVMtU2lJQmZFdFpVdGUxdGNGM2xRaXJhbTBUZ29kOVlkYnFZbW05NjhTaXV1bEs3d21nUnBjOTY3N2xtb1B2SHE0RVYxQUpVbDZQUUg3V3kxRS1ScVVXTm15VmxGNjNB0gG4AUFVX3lxTE5yTmdLbU5XR1VuSW91MnNOWGM1Z0RsNmRJSEEwbkRGRVhublpCTjE5ZEpWdWc4QWNUUnNBUWpCS0M2TTcxWEQ1UGJxTDlrakpRZWxxLVRWRVp2WDEyLU1VT3VQZTY4SnotU2lUX1Y4UVFTWlI2MEdaQ09uWGlHQmc5MDNwV1A4eEdnQW1sN0VIanNuZUVLc21wX3c1Tzh2UnJFc2dJUURJcmw0eDFRcnc1TWo3UWhub1E?oc=5) - _The Hindu, 22 Oct 2026, 10:05 PM IST_
 - [HDFC Bank stock dips 2% on huge volume; trades lower for third straight day](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa21wZk1ZS1dXbmxPZ281ZS15djJyc2RPNldpYm9WTEFrQU5nS0lrdG5tSkNocHhQNF96WTVPRlJLbGFhRGZEc2V5WmdxODQ1OFZzY1N6d2x3UmFwYVV1S25vQW5SMXphZGVuUGRHUVdlX3h5YWkxV2xoSnVNVlJIZGlNU3F0SjNVV01ZUml3SVFPcUNhVFdLM1FMRzFNb2VRakJoanZoTzUzdE15MDRWR2xWNUtWMHM2UGJCcEduZkdrTjRzM1VBS0p5VldpTGlEbF9DOEduVdIB3AFBVV95cUxPenhtcUtSSEg1Z2hyRG55azZUV1hYc1BfQUFRRV8wVWJHMUpBQ2pFMER0UExiTzVma1BkQlk5Mm1udUxqVnJIQ2NHMEdzcWtrVFhnaVAwdjAtd0xMVEZmX0JfMFJQUUtuSVh1YnYzOGJ1cVp6Z2JHTnVZaE9DelBHTXl1ZEg1U1JkamNHNV9qZjlsZko0dGRtTXRPMGM4RTY2ejFXUkNwS2RrY0pMd3E4eHJRdE5JTEhrSTYtRWFzVkJ4T3lwLWMtd2RhWVhuVTVBTmZlS3Q4cTZzS1Fx?oc=5) - _Business Standard, 22 Oct 2026, 03:12 PM IST_
-- [A turbulent year at HDFC Bank: Controversies that kept India’s biggest private lender in the headlines](https://news.google.com/rss/articles/CBMilgJBVV95cUxNU2xmUWNaLW9wNVVscUgxVmlPVWtPQWMydDlnMVdqdldYRGpfLWR2MWwyenZrMXlxb1FVQm02djF3T0g5a3BxZGVkTGx2RDJjNFZOUUI1S05kRGg5NDNlbVVMRFNoZGZOUlBRLXlaUEtGRFR0QnNLS2RpMDFxWDRiSnlnc0d4U1gzQW9Yem9XU1hfd3MxTHJYaGI3THNCVmF1VGdHNmRiZ2lVWnlGNm1XVFF0Qjh5OEdaSWRfX0h5STRmamVpWDZyREhTMF9aY2hzSHh3N0YyZjFEaXJXMVVUUXdWd05YRzBzSjYxNGVQQ1NnZl9ROXVBQ2c1cXpId2xtUTVPYjBwcUh0bTFDR21TWllIajF0UdIBmwJBVV95cUxQU2J0T0tUNi1GSk1yMVJvaGhzc3plbWJOTFJiV1FFQllycEk2NV9pbmVQMVF0dVhRemZZamlkSEtGYTgwbTJsTzFybm5CZzZYSDVWSC1rUk5GcjFJakk3VFlaZEVrYmJlSWs1NG5TVDc4MExvU0xWb0l0azZKU1J5b21mdXVNdkZyS1N2ZmJDQzhuU2hyX3dKdXp0TjhEZ0JqNGZVWVVpRDZsd2VLdl9XSXpHUW8xaXFZcmNLVXlLUnFZV2RkZ0RTQ1BBV1N6YVJ6V2Y2NXViUkRZRG0yWVRyNDBzMmxpaGxvamUtWjdlaTB6X0RkOW1PdWxhLXJVQ0pmeGttbGxiNzRVLWpGSnVVbVo3UVFidVFhbzM0?oc=5) - _The Economic Times, 22 Oct 2026, 01:43 PM IST_
 
 </details>
 
@@ -214,6 +216,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Royal Enfield electric bike debut challenges convention](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRzVzSm1VdUZZLTZFbG5iaWZUbDRtMTByeHNkX2F0ZzhXWmZnelJvY0d4QnRpaE5CSkFZQm8yOEJ1NTJXOXRhNE1xX2lob0NUc1JmTmY5cFdGYWh3ZTN1RFhtdVpoRjRSd1QxcFFRRFRJYi1aODZYcmRRWjZzd2FUQWtEeU41Y3lqdWJsQk00cDVsb1pWNEZud0U2M1ZhbEVQWFloUWRyX2oxbTBVTXNfWEpUb1pzVFF1RzJha3hZbjF3bm04NWRyUWV3UUPSAdMBQVVfeXFMUHJ3OEFJZG5GZXpyNXlTaUp0V0xDWi1SNVdfaS1oX1NoSHg3RWhqc3VFTzdMYlI0a0FJX3g0cVAzT2F0Y0ZaRWY1Q0ZHejJTYjNHWnJsUl9GeThISTB3OTNvZzV3RWgxazd5d0NKMTlYOGhSemdNRVVTUFh2ckNQNU9iNkQzSmpiS2k2dXNfOVR0M0RWaUZmb3dxcG5GVk9uTkdtWVo5QVZMUUtFakdrQTRXQ21kblNrV1pHOVdnQkFvRC1JdnVta3RRVW9EVUhrdUIzOA?oc=5) - _BusinessLine, 23 Oct 2026, 05:36 PM IST_
 - [Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxONIB1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxOA?oc=5) - _Livemint, 21 Oct 2026, 05:27 PM IST_
 
 </details>
