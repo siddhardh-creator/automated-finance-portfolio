@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "23 Oct 2026, 08:43 AM IST",
+  "generated_at_ist": "23 Oct 2026, 08:46 AM IST",
   "as_of": "2026-10-22",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -210,7 +210,7 @@
           "title": "Royal Enfield Himalayan 750 to Flying Flea S6: 5 upcoming bikes to watch out for",
           "source": "Livemint",
           "published": "21 Oct 2026, 05:27 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxONIB1AFBVV95cUxNOTBSVGdiS2xNNUhYVjdzVk5CbmFfWk1IblpxUDdwcnNhbFM0VEZqRk9DX19vbWYwUm1odGlfVjhyZjdvb2VaOHNBNW5sV1RTQkEwaEhHb1Utc1EteG1Ea0ZJVHlOX1M3a19yaGxqUVYycXE5V3JlZkNMS2tudjgxNFJmT2Y5dGF3X281THFUQ25pT3Vra0VlWEFiMktDb3BKbDNLQkFtSGxuNmhfXzk1ZzEyUWdSakxOeHFBUEdvLVdMcFlIYy1LMndLWXNVel9iQWsxOA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdW5ndWpjU0hZRUd3SThkbjVybER1THc1M1ZtMEFqWENsOWM5VFJSd2p5WUI3REVwMWkxWF9sdWVQeEE1d2N6alFhc3FtQ3U4dUNmeTlGT3AtUGVrWGZTLVR6VVMyREQxOTVwZlBNb2VPdEwwR1l3d2NrcGowR090dE84Mzg2RFVfY0tVR2VDWkxHZC1rWUZ6Z2E3WDcxRl96SFEzOUxJUWs2WWZoSzBxZEFRZ1NZZElPeUNHNHFkQzlUZld2OWJOUTZEd0NJenPSAdQBQVVfeXFMTTkwUlRnYktsTTVIWFY3c1ZOQm5hX1pNSG5acVA3cHJzYWxTNFRGakZPQ19fb21mMFJtaHRpX1Y4cmY3b29lWjhzQTVubFdUU0JBMGhIR29VLXNRLXhtRGtGSVR5Tl9TN2tfcmhsalFWMnFxOVdyZWZDTEtrbnY4MTRSZk9mOXRhd19vNUxxVENuaU91a2tFZVhBYjJLQ29wSmwzS0JBbUhsbjZoX185NWcxMlFnUmpMTnhxQVBHby1XTHBZSGMtSzJ3S1lzVXpfYkFrMTg?oc=5"
         }
       ],
       "announcements": [],
@@ -244,7 +244,20 @@
         "pnl_inr": -39250.0,
         "pnl_pct": -1.32
       },
-      "news": [],
+      "news": [
+        {
+          "title": "Linde doubles gas supply capacity for Tata Steel",
+          "source": "gasworld",
+          "published": "21 Oct 2026, 07:44 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDRNX2U3T18xaF9fRV9hMmFwVldQSmxCVmJzeTR5Rjl1RU8xVjZUMEhRdlZYUjRPVHd4M29vMlV6VUl5MXRGeUFVUllUOUI2LU1EY015b214aTA4bVN5UlhXUmUydG9ianBzWUt4dVp0cHJCeHNjR3piMWtzaklEZEp5eDNkcGJUdlVOZF9kdDdpOUd5a05NbmExa3U?oc=5"
+        },
+        {
+          "title": "Linde expands industrial gas supply to Tata Steel in India",
+          "source": "Investing.com India",
+          "published": "21 Oct 2026, 06:32 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemw3MUhLa054dU5DY0xMQ2hXUGQ3TVhyajJFUkVKVnpndjBCNFJocmNId1JCeENMalRKWnNGelg2cEpKc0NLQVpkZXdHQnduLXp4U0FXcmRzdVd2SWp1VVpjbG1fYzQ2VEJJX19EUERlVW1EQW1XdWR0a2RpSEVzclMwQWtWaUM3YmFPeHNGWkZEMElWQmR5N1VVN2c4WEMyTEVKTU50ZjlFaTBRVWNrUDEwZlFqTzkzdWhB?oc=5"
+        }
+      ],
       "announcements": [],
       "weight_pct": 14.23
     },
