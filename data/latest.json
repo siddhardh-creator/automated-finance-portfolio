@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "23 Oct 2026, 08:00 PM IST",
+  "generated_at_ist": "23 Oct 2026, 10:33 PM IST",
   "as_of": "2026-10-23",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 21351000.0,
@@ -117,6 +117,12 @@
         "pnl_pct": -2.25
       },
       "news": [
+        {
+          "title": "Lupin, SRF, TMPV, Maruti, NTPC among 74 BSE 500 stocks hit 52-week lows",
+          "source": "Business Standard",
+          "published": "22 Oct 2026, 10:07 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZzdENU1aVmlCanJnMVoyRE81bXJxZW9iT3lzTTliTlBDSFl5T0hnbmwwMzVpVERGNXg5ZW94LWgwWWZQN1JsbFdfZDVyTEcxNm5RRzRweUtDUWN0VjNvX2ZGclRTNHJ4eEJtdXE0THd4NzVyamllQ1Z6ZTkwNFlQN2JreXpWZHpGYWNzZVRmWDRYaDN3REpUbzUyUkswQ25iQkgwUkV3emtqOHkyWTFtcVAyOXNOQzhCWmRlaXRJbUNJMmQ2WmFmQWo3UGI1dmxsQlZ0Q3FTYmhxZ1BiR1h2NEtLTnRIdm9oNldWR3h2b9IB7wFBVV95cUxPZzdENU1aVmlCanJnMVoyRE81bXJxZW9iT3lzTTliTlBDSFl5T0hnbmwwMzVpVERGNXg5ZW94LWgwWWZQN1JsbFdfZDVyTEcxNm5RRzRweUtDUWN0VjNvX2ZGclRTNHJ4eEJtdXE0THd4NzVyamllQ1Z6ZTkwNFlQN2JreXpWZHpGYWNzZVRmWDRYaDN3REpUbzUyUkswQ25iQkgwUkV3emtqOHkyWTFtcVAyOXNOQzhCWmRlaXRJbUNJMmQ2WmFmQWo3UGI1dmxsQlZ0Q3FTYmhxZ1BiR1h2NEtLTnRIdm9oNldWR3h2bw?oc=5"
+        },
         {
           "title": "Maruti Suzuki expects double-digit growth in festival season sales",
           "source": "Press Trust of India",

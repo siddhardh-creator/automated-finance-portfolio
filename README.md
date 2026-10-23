@@ -2,11 +2,9 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 23 Oct 2026, 08:00 PM IST  |  **Market data as of:** 2026-10-23  |  **Start date:** 2026-10-16
+**Last updated:** 23 Oct 2026, 10:33 PM IST  |  **Market data as of:** 2026-10-23  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
+**Snapshot type:** End-of-day final snapshot
 
 ### Data quality notes
 - Linc Ltd: move of 17.35% is unusually large - verify with NSE before relying on it.
@@ -35,12 +33,12 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹692.80 | - | ₹694.05 | -0.18% | ₹31,67,482 | 15.4% | -₹1,64,821 | -4.95% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,230.00 | - | ₹11,170.00 | +0.54% | ₹32,56,700 | 15.8% | -₹75,110 | -2.25% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹144.95 | - | ₹146.03 | -0.74% | ₹1,44,950 | 0.7% | -₹2,770 | -1.88% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,066.00 | - | ₹7,084.50 | -0.26% | ₹70,66,000 | 34.3% | -₹2,00,000 | -2.75% |
-| Linde India | 500 | ₹5,961.00 | ₹5,723.50 | - | ₹5,900.50 | -3.00% | ₹28,61,750 | 13.9% | -₹1,18,750 | -3.98% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹89.67 | - | ₹76.41 | +17.35% | ₹89,670 | 0.4% | ₹4,670 | +5.49% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹692.80 | ₹692.80 | ₹694.05 | -0.18% | ₹31,67,482 | 15.4% | -₹1,64,821 | -4.95% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,230.00 | ₹11,230.00 | ₹11,170.00 | +0.54% | ₹32,56,700 | 15.8% | -₹75,110 | -2.25% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹144.95 | ₹144.95 | ₹146.03 | -0.74% | ₹1,44,950 | 0.7% | -₹2,770 | -1.88% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,066.00 | ₹7,066.00 | ₹7,084.50 | -0.26% | ₹70,66,000 | 34.3% | -₹2,00,000 | -2.75% |
+| Linde India | 500 | ₹5,961.00 | ₹5,723.50 | ₹5,723.50 | ₹5,900.50 | -3.00% | ₹28,61,750 | 13.9% | -₹1,18,750 | -3.98% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹89.67 | ₹89.67 | ₹76.41 | +17.35% | ₹89,670 | 0.4% | ₹4,670 | +5.49% |
 
 **Best since buy:** Linc Ltd (+5.49%)  ·  **Worst since buy:** HDFC Bank (-4.95%)  ·  **Biggest mover today:** Linc Ltd (+17.35%)
 
@@ -156,6 +154,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Lupin, SRF, TMPV, Maruti, NTPC among 74 BSE 500 stocks hit 52-week lows](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZzdENU1aVmlCanJnMVoyRE81bXJxZW9iT3lzTTliTlBDSFl5T0hnbmwwMzVpVERGNXg5ZW94LWgwWWZQN1JsbFdfZDVyTEcxNm5RRzRweUtDUWN0VjNvX2ZGclRTNHJ4eEJtdXE0THd4NzVyamllQ1Z6ZTkwNFlQN2JreXpWZHpGYWNzZVRmWDRYaDN3REpUbzUyUkswQ25iQkgwUkV3emtqOHkyWTFtcVAyOXNOQzhCWmRlaXRJbUNJMmQ2WmFmQWo3UGI1dmxsQlZ0Q3FTYmhxZ1BiR1h2NEtLTnRIdm9oNldWR3h2b9IB7wFBVV95cUxPZzdENU1aVmlCanJnMVoyRE81bXJxZW9iT3lzTTliTlBDSFl5T0hnbmwwMzVpVERGNXg5ZW94LWgwWWZQN1JsbFdfZDVyTEcxNm5RRzRweUtDUWN0VjNvX2ZGclRTNHJ4eEJtdXE0THd4NzVyamllQ1Z6ZTkwNFlQN2JreXpWZHpGYWNzZVRmWDRYaDN3REpUbzUyUkswQ25iQkgwUkV3emtqOHkyWTFtcVAyOXNOQzhCWmRlaXRJbUNJMmQ2WmFmQWo3UGI1dmxsQlZ0Q3FTYmhxZ1BiR1h2NEtLTnRIdm9oNldWR3h2bw?oc=5) - _Business Standard, 22 Oct 2026, 10:07 AM IST_
 - [Maruti Suzuki expects double-digit growth in festival season sales](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1LZFFGUmdwa2FCMU05SHZqRFcxM1ZYZ1FfLVpwZk5GNlNnVkIxMmZrVGktMmJqa2J0MFhBR3NMbm5VRUc1N3F5SGV3eEw1anpWN0tpZVlaUVh0cG81cUNWYkZVQXdhVDBWLUF1eXNQYVZ1YVZsbnQwbVRBNEdPNi0wVDNpQUF1QWJqTFhPRm5xa0RtM0xjWGM1SU9qVTVxaG40ekxtY0xSeWtaOWlXdkFiWQ?oc=5) - _Press Trust of India, 21 Oct 2026, 08:41 PM IST_
 - [Maruti Suzuki Ertiga gets costlier by up to ₹10,000: 16,911 units sold last month; check new variant-wise prices](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLTZNeENQY3U3bkZYRmdyWGE1NmpYZ0tYVDJOWGlCdkpBeGliSi1ZU3RLYUN6T1V0VDlmb3BVY2E3RjlhTENyQngxQXEwWWgwd1BOaC1hSkNYMXQ0dTJrZXVET0VuQkl4SmdRU2RXekZ6WGUtSk9wSFRuUVpldDg1aXNRU1VWRTV5cllETDQ5RzFhRXZYSFpad0dtcU9JRXVFTXNUZmhVaXhJS04xRkZqWTlFYmd0OF96c054WElDSE1pcG1WWUY0UUNTU0JiOVBJT3B4dWdtVkxHYzhOMVNoWHBfUzNsVFE4MEJUQk5TV3lsNG1ZcGJV0gH8AUFVX3lxTE9YOE1JaVJaRm9FR1JHTVZJdE43UklsUW5YWWFEcjdTZ1RwQWYwaG9mcFphOWwxTjAwelhEN1JzWGZwaG1fTTFHNHZ4N1diQ1RqVHBna1NhNHF6TzItZkV3RmxrMWFrRElTTjc5bHNoUlp4eDVDRko4T2VrNlRMZ2luTDVYTlRBSjZiOHg2U1hneEg0ZGVYdU1ZaVU4VE5nS2hEWnk5M0dLMGtnc0NnZEVjbUVNUkNuZWFPNzZvUzl1eGJpMUNldXlSYmpPNE9OeTRlTjJRdUtGVzlNN1IzT1dyWllBeFFwYTJMVmk1ZXNaLWRHOER2dE5TSVBJUg?oc=5) - _Livemint, 21 Oct 2026, 05:52 PM IST_
 - [Five Stocks To Buy Today: Maruti Suzuki, Karur Vysya Bank, Ratnaveer And More | October 21, 2026](https://news.google.com/rss/articles/CBMiggJBVV95cUxOckRrVmJRbWdHd2dOc0w2c3poVWpNQURDS1F5OWIyNG1vUEhaTlNTTVhfYzFiQnk0Nm43djZaOU9pVnl4OG1FbV9sZ19HUWZ0SDljMFphTjFiZnBhLUNaMjRxUnpKOG9KVUFPTGp6allzQUI1aDlGM1h6dkE4M3k0V1ZnVVJlb2hrQ3NaVTluVnhnWXprY2h0RVQxN2xfXzQwUEF3ZVNQakRCVVJJWUJ2UGpQWHNXYU85NWJ4YXBReEpYLVFRUWJNZ0RtMEpoR01rMkkxQkFKaXlhenA4UEQyb1NCZTA1U0JPWXUxcnZjWFhUTFhwdHNjZGl0RXRNazBUZXfSAYoCQVVfeXFMTkJxelY5b2VXcXNTUDd3VWt4M0wzb3VCQ1RFNXpDdUlvUWViX19velNsXzlJOU9lY0JUVk9XcHMtSW5sZmFnMmtGRjk4a296ajh6bXJJNHlMaHJlaDFiWjJRRnJGbDV1Y2pqSTMwOG5oSXhXbjBxNUFWUjZVOHVhNUtpN1F2SVpEaXdVU2lZelFTdXRDTm15OE9sTTYxbm9ldVF5ZDdlejYzbUZLaS14WEEyNUVjbEF6WDhZcnFOOHFGbXRIcVJhM1lmLWY3c29wX3FUaVpOemVFQ29vTHlKLUVQZ0dYSUk4UDFqWGJzbG1jSExER2tEVzBROHIwT0pYRkROTXA1SFhiQlE?oc=5) - _NDTV Profit, 21 Oct 2026, 06:52 AM IST_
