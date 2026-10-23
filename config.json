@@ -147,7 +147,7 @@
       "keywords": [
         "linde india"
       ],
-      "news_query": "\"Linde India\"",
+      "news_query": "\"Linde India\" OR \"Linde India\" gasworld",
       "sector": "Industrial Gases"
     },
     {
@@ -183,7 +183,8 @@
     "bq prime",
     "press trust of india",
     "pti",
-    "the indian express"
+    "the indian express",
+    "gasworld"
   ],
   "publisher_feeds": [
     {
