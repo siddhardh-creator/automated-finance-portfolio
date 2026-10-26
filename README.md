@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 26 Oct 2026, 03:36 PM IST  |  **Market data as of:** 2026-10-26  |  **Start date:** 2026-10-16
+**Last updated:** 26 Oct 2026, 05:35 PM IST  |  **Market data as of:** 2026-10-26  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -103,7 +103,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹688.05 | -0.69% | ₹684.00 - ₹693.80 | 24,009,974 | 31,252,108 | 0.77x | 23.85% | ₹687.10 - ₹1,009.50 |
+| ₹688.05 | -0.69% | ₹684.00 - ₹693.80 | 23,485,616 | 31,252,108 | 0.75x | 23.85% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -118,7 +118,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [HDFC Bank slips further as Bagchi takes charge amid leadership uncertainty](https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-slips-further-as-bagchi-takes-charge-amid-leadership-uncertainty/article71625913.ece) - _BusinessLine, 26 Oct 2026, 12:32 PM IST_
+- [HDFC Bank shares slips further as Bagchi takes charge amid leadership uncertainty](https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-slips-further-as-bagchi-takes-charge-amid-leadership-uncertainty/article71625913.ece) - _BusinessLine, 26 Oct 2026, 03:42 PM IST_
 - [HDFC Bank launches electric car loan with separate battery and vehicle repayment tenures – key features](https://news.google.com/rss/articles/CBMijwJBVV95cUxNYjMxSVJUWEMxQmIwcmdRM19UbWFKVmVqTnAtNjh5NGt5V2ZuSU40N1dmMFJNQzNVYUREMDNlWVhDZm5ieHktQjVXVXZ1bjc0bU43Tl9iZTNRQV9ZQTg4ay1CelBJQmtmODRRNHhJLVBqM1VIUEhxS2ZweEl5VnhGSlVaR284QjlINDI5anpYZU9CdF9tbUN3S0NMZHBDeFFHT3NWYlUtNWQzUHZ2dmFWQmRkLXIzNFo5eW9VU0lpVlFlUVB4MllRNjcyWFJOMmdoZHU0ZWl2S09lY0cycEV2NVYtTHJFZGxOeHVnUDUwZ3VWYzR6Rk5rd1luaGtoSkdmMHUxSUk1S1RhZDRiaFBj0gGUAkFVX3lxTFBDeFYwMU1DbzZ3UVdLVTBXMDdJdV9ubmx2RTFMYzBQdTNNaFdVUi1YN1o0dkpTMjJTcDVSNmQtU3YtRnF2YXIzanc3R29DN01DT04weHBNVWlYS2RRVm5LM05LS2VnVDhxRXdZU1FkcW9VM1pHT1h6dmpYcDFESy1rVDVKbnk4ZE1qY0pGRGE3RjV6YUsyVXo1WkJkTXRxX05wMzh0OGhqcjgtLUlHYUM2QnVKQ3B5Z25TN2ppU09kQ2tpVFl4UTdTODlnYTBjbXRveVIyMmw2ZUJDcjJkMXkxTkhrVDVRMGtpVmxUX3p6a2xhMUgtVWRfV0xlSm1YRnVRTm1ycWhrSTB4aHNnNnlCYzlRbQ?oc=5) - _Livemint, 26 Oct 2026, 11:19 AM IST_
 - [Nifty risks 21,500, HDFC Bank eyes ₹640, IT rally shows fatigue: Anand James](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSThnRHhOWVQxTXJPeVlYQjFGbjJMT1BDTkM4Mmp5cGJnTTJJVm1zbEl2T3YtUTFpTThSaG5oQ2k4Z25mUk8xVFFPUXRJZXkxeVRvOVphc2lqRnlmQ1hISl96RTZRTktEWDk0WXJmbi1Yc3pGN2Y3dXNHNmE4RUZGYzlqa3FHeFV4d3RxVXNpUkYybWFsdEdDc2VrWk53c2s5bGRoTHluOGpuRHlRLS1JcXROVFFEVjNTODAtcE5SdU9CcGpYRFhtamFsNm9SeEd4aWFYMmRyZTlnMm9wR3fSAeMBQVVfeXFMT0FoQ0oydmhUTjZkaUExTG1GTk5Dcm9JWVVUd1NLclRHLVMxaDVVd2hqLXAxN2Nfc3Q5Ul95b05sQk1oOHppWVBXbEt4QnExVE5NUUVkR1VNRy1xMkxZY25ZTUVZNFJOQVdwaHFtaFF3WVJaRzVXTzc5WjVQWjBnM3hrSWVXV1BLb2x5Qjl5RVRRX1gxY2l4TGtsRDFQTnpxNXlLakxfUnptOURueUxIbHdkWDk2UlRsS3kzS25UVW91VEdrVjhjYlI1LVl0ai05YkI1Q1BZY2NKTWRycmdha0FPbjA?oc=5) - _The Economic Times, 26 Oct 2026, 08:26 AM IST_
 - [HDFC Bank launches flexible EV car loan with longer battery repayment](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORzRfNnplY3AyWllFcmZuVGR2akxRNVlNa0ctcWQ0NlBLSDgwYnhEZkhkYkk0ZWJBODFtOWVBcENTejlGUGczU1RmeE1nOHJqTWU1eG1ySTRGcldzUUFmVTRvbWJrZFlFaXRQRDEtNFZMWURSWEJNMTF6aGNtTlQ0bEMydzBjUHExcVRVeDl4NkRxUGtUbWpQT1FRMmE1bzJqMllWTlp1YmNVcVVhLWprM1VXR3NqSzMxMEQ1TTIyTm9tSkkzeXYyMktpMDdRU0pTT0tQdNIB2gFBVV95cUxPbk9NX2M1WTI1aHVXWjlGSnZ1NXMyOGt3emdHN2NDWmxHb3BjYlY1V0R0Y2ZzRUVqWUhSdUs3NUZadzNhRUhodUUwRjFESzE5RlZmVUtsbHNOZHVpbUdvbGE4WVhpRFpOaWZsbjluaTJtZEJRTlBPakxUbjdSZkpvVkJWX3JCN2VRaFBWM0xlbFkxRkd0cEh5LXJsYXc5S25YcGNRQ2JuaURyT29OTEUxRFZoNlc1dlVQNFVabXV3ZmJ2R0FjYUpEdml0eGZLc1E1Q1lMeVVtX1MzQQ?oc=5) - _Business Standard, 25 Oct 2026, 04:26 PM IST_
@@ -136,7 +136,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,220.00 | -0.09% | ₹11,102.00 - ₹11,299.00 | 494,745 | 465,466 | 1.06x | 25.42% | ₹11,170.00 - ₹17,292.00 |
+| ₹11,220.00 | -0.09% | ₹11,102.00 - ₹11,299.00 | 489,181 | 465,466 | 1.05x | 25.42% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -169,7 +169,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹141.90 | -2.10% | ₹140.01 - ₹144.90 | 19,598,004 | 12,899,491 | 1.52x | 25.05% | ₹138.58 - ₹211.92 |
+| ₹141.90 | -2.10% | ₹140.01 - ₹144.90 | 19,445,796 | 12,899,491 | 1.51x | 25.05% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -198,7 +198,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,099.50 | +0.47% | ₹6,931.50 - ₹7,102.00 | 338,877 | 416,172 | 0.81x | 28.01% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,099.50 | +0.47% | ₹6,931.50 - ₹7,102.00 | 331,591 | 416,172 | 0.8x | 28.01% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -228,7 +228,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,632.50 | -1.59% | ₹5,614.50 - ₹5,800.00 | 25,092 | 19,127 | 1.31x | 26.60% | ₹5,632.50 - ₹7,847.50 |
+| ₹5,632.50 | -1.59% | ₹5,614.50 - ₹5,800.00 | 25,075 | 19,127 | 1.31x | 26.60% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -256,7 +256,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹84.51 | -5.75% | ₹81.24 - ₹90.00 | 111,183 | 58,576 | 1.9x | 89.43% | ₹76.41 - ₹130.64 |
+| ₹84.51 | -5.75% | ₹81.24 - ₹90.00 | 111,135 | 58,576 | 1.9x | 89.43% | ₹76.41 - ₹130.64 |
 
 **Research reports**
 
