@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "26 Oct 2026, 03:17 PM IST",
+  "generated_at_ist": "26 Oct 2026, 03:36 PM IST",
   "as_of": "2026-10-26",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 21351000.0,
     "initial_capital": 10000000,
     "invested": 17143332.09,
-    "holdings_value": 16544068.46,
+    "holdings_value": 16541724.53,
     "cash": 3996174.49,
-    "value": 20540242.94,
-    "pnl_inr": -810757.06,
-    "pnl_pct": -3.8,
-    "unrealised_pnl_inr": -599263.63,
+    "value": 20537899.03,
+    "pnl_inr": -813100.97,
+    "pnl_pct": -3.81,
+    "unrealised_pnl_inr": -601607.55,
     "realised_pnl_inr": -211493.42,
-    "day_pnl_inr": -42483.08,
-    "day_pnl_pct": -0.21,
+    "day_pnl_inr": -44827.0,
+    "day_pnl_pct": -0.22,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22717.05,
-    "return_pct": -1.12,
-    "day_change_pct": 0.52
+    "close": 22753.2,
+    "return_pct": -0.96,
+    "day_change_pct": 0.68
   },
   "stocks": [
     {
@@ -34,24 +34,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/HDFCBANK:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 687.2,
+        "close": 688.05,
         "prev_close": 692.8,
-        "day_change_pct": -0.81,
+        "day_change_pct": -0.69,
         "open": 692.1,
         "high": 693.8,
         "low": 684.0,
         "intraday_range_pct": 1.41,
-        "volume": 22961259,
+        "volume": 24009974,
         "avg_volume_20d": 31252108,
-        "volume_vs_avg": 0.73,
-        "volatility_20d_annualised_pct": 23.88,
+        "volume_vs_avg": 0.77,
+        "volatility_20d_annualised_pct": 23.85,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3141878.46,
-        "pnl_inr": -190423.63,
-        "pnl_pct": -5.71
+        "market_value": 3145764.54,
+        "pnl_inr": -186537.54,
+        "pnl_pct": -5.6
       },
       "news": [
         {
@@ -86,7 +86,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.3
+      "weight_pct": 15.32
     },
     {
       "key": "maruti",
@@ -97,24 +97,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11237.0,
+        "close": 11220.0,
         "prev_close": 11230.0,
-        "day_change_pct": 0.06,
+        "day_change_pct": -0.09,
         "open": 11250.0,
         "high": 11299.0,
         "low": 11102.0,
         "intraday_range_pct": 1.75,
-        "volume": 483618,
+        "volume": 494745,
         "avg_volume_20d": 465466,
-        "volume_vs_avg": 1.04,
-        "volatility_20d_annualised_pct": 25.44,
+        "volume_vs_avg": 1.06,
+        "volatility_20d_annualised_pct": 25.42,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3258730.0,
-        "pnl_inr": -73080.0,
-        "pnl_pct": -2.19
+        "market_value": 3253800.0,
+        "pnl_inr": -78010.0,
+        "pnl_pct": -2.34
       },
       "news": [
         {
@@ -130,6 +130,12 @@
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcUkwODZPVUxXMzJSM0VfdndJX3F2NzZibE5RcHh6UXJVVXlod3I2dlB6MlFhYzg5Q3JrdjlqbXVZUTBXRlZQSWJKbEd2Nnpfck56elVaYnVHaXZ0TVNlSVMybkxHTkdhd2tuaHhBdXAzTzJTWjRzalIyMDZPanNvNDR3cXhEdUpicUJ0VlFVcVg0aEhCNzN0cjVPcExobFgzNnRWZ1hINkYyLS1oQXpKM1JNUHVXZTJ2UXBFSHpsVkRpOHVUUGpzZmw3eThsMTYwUlVsY1NlbHRUWEF3d3JTX1VYWVEtX2JVenp0Tk1qczN3aWpjREHSAfsBQVVfeXFMT0JxU2pDRU1fOUtud05UVHgyVjFsX2p4TkQyc0lEakhqVk1paFBHNU5hdkJMb1JPcHd0YktnVlUzZzBFNkRGX1hXcUJCSHllMFRZYlpSdEpUT2VpZzFQd0JLZjVYcXVKZXFKSTZBajlaa3VQVlhTWHRvaHJQanU2T0k0QU1RRG54UWRBS09OODZDVG9iWnZDT0NPLWp2amxSU3hjSExIYS1pNVdmcVFuUjBvNktVaXMxYjlNUTZ5cC1IOG8tVW1qZVNLeWJoVjNSRW1nX3ZrQ2w1NlBsbndTeWRrdlZWU1RzbXlveTRtS0FoVmdNTmFueWN2T1k?oc=5"
         },
         {
+          "title": "Nexa set to rebounce after quiet quarters: Maruti Suzuki plans major launch push",
+          "source": "The Financial Express",
+          "published": "24 Oct 2026, 10:46 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3pRZWNOQV9fTmF2R2t6X21pYS16cmFVVzY2OWNNMWlBV25hNWVwRC1NQ1ZSWUoyRFhDY25CQWlRVVM4MEo0QVdzSXFTZU42aW1IU25yUGNjeERCc2VfVVlRTndGbnZ3b0pqUXZrZndTOVRMNmdfYTlyVlBIWnhCaUxldkxQWGc4SFdRYkNNczBFSTkwWWxpTkYwLXotd0xlQkNYUTZVZlJhSGRhMV9OZVJHTFY4NXBfWkd2bTlFSVE2alp4eU9GN2NVUdIB5gFBVV95cUxQVlhIdzN5YmI2VWdOa3dEc0wzZHI4dEpnV2FPU0NveDRKNnBzZ2w2SUx4Q2l3N243Um9qblVBU1VnWWQxNG00NWhNTkZaUlktN0Flb3lfc2NGM1l5Wl9kX3hXVS12OUtHWjJyM01qZmxudEhPQndsWUNmTnJCX2VtNWlaNzVhT0tvOVdEU25zOHQ5QWcwVjZyTGxfcnR3dUlobzRiWktSaS1ZdjhkMzNFMDQ0X3JBb0NWN3N0Y3lWTWp2U1hRRE1peGVRX3F0aXJKYmpJVF9CUGhRNUdBT1BYaVQ5TWdwZw?oc=5"
+        },
+        {
           "title": "Maruti Victoris crosses 1.5 lakh sales as Aurum Edition arrives at ₹22,990",
           "source": "Livemint",
           "published": "24 Oct 2026, 12:27 PM IST",
@@ -143,7 +149,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.87
+      "weight_pct": 15.84
     },
     {
       "key": "ashok",
@@ -154,24 +160,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 142.2,
+        "close": 141.9,
         "prev_close": 144.95,
-        "day_change_pct": -1.9,
+        "day_change_pct": -2.1,
         "open": 144.7,
         "high": 144.9,
         "low": 140.01,
         "intraday_range_pct": 3.37,
-        "volume": 19293892,
+        "volume": 19598004,
         "avg_volume_20d": 12899491,
-        "volume_vs_avg": 1.5,
-        "volatility_20d_annualised_pct": 24.89,
+        "volume_vs_avg": 1.52,
+        "volatility_20d_annualised_pct": 25.05,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 142200.0,
-        "pnl_inr": -5520.0,
-        "pnl_pct": -3.74
+        "market_value": 141899.99,
+        "pnl_inr": -5820.01,
+        "pnl_pct": -3.94
       },
       "news": [],
       "announcements": [],
@@ -186,24 +192,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7100.0,
+        "close": 7099.5,
         "prev_close": 7066.0,
-        "day_change_pct": 0.48,
+        "day_change_pct": 0.47,
         "open": 7002.0,
         "high": 7102.0,
         "low": 6931.5,
         "intraday_range_pct": 2.41,
-        "volume": 324308,
+        "volume": 338877,
         "avg_volume_20d": 416172,
-        "volume_vs_avg": 0.78,
+        "volume_vs_avg": 0.81,
         "volatility_20d_annualised_pct": 28.01,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7100000.0,
-        "pnl_inr": -166000.0,
-        "pnl_pct": -2.28
+        "market_value": 7099500.0,
+        "pnl_inr": -166500.0,
+        "pnl_pct": -2.29
       },
       "news": [
         {
@@ -238,9 +244,9 @@
         "high": 5800.0,
         "low": 5614.5,
         "intraday_range_pct": 3.24,
-        "volume": 22987,
+        "volume": 25092,
         "avg_volume_20d": 19127,
-        "volume_vs_avg": 1.2,
+        "volume_vs_avg": 1.31,
         "volatility_20d_annualised_pct": 26.6,
         "high_52w": 7847.5,
         "low_52w": 5632.5,
@@ -263,24 +269,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 85.01,
+        "close": 84.51,
         "prev_close": 89.67,
-        "day_change_pct": -5.2,
+        "day_change_pct": -5.75,
         "open": 89.0,
         "high": 90.0,
         "low": 81.24,
         "intraday_range_pct": 9.77,
-        "volume": 103229,
+        "volume": 111183,
         "avg_volume_20d": 58576,
-        "volume_vs_avg": 1.76,
-        "volatility_20d_annualised_pct": 89.0,
+        "volume_vs_avg": 1.9,
+        "volatility_20d_annualised_pct": 89.43,
         "high_52w": 130.64,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 85010.0,
-        "pnl_inr": 10.0,
-        "pnl_pct": 0.01
+        "market_value": 84510.0,
+        "pnl_inr": -490.0,
+        "pnl_pct": -0.58
       },
       "news": [],
       "announcements": [],
@@ -290,8 +296,8 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10500930.0,
-      "weight_pct": 51.12
+      "value": 10495199.99,
+      "weight_pct": 51.1
     },
     {
       "sector": "Cash",
@@ -300,8 +306,8 @@
     },
     {
       "sector": "Financials",
-      "value": 3141878.46,
-      "weight_pct": 15.3
+      "value": 3145764.54,
+      "weight_pct": 15.32
     },
     {
       "sector": "Industrial Gases",
@@ -310,15 +316,15 @@
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 85010.0,
+      "value": 84510.0,
       "weight_pct": 0.41
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10500930.0,
-      "weight_pct": 51.12
+      "value": 10495199.99,
+      "weight_pct": 51.1
     },
     {
       "sector": "Cash",
@@ -327,8 +333,8 @@
     },
     {
       "sector": "Financials",
-      "value": 3141878.46,
-      "weight_pct": 15.3
+      "value": 3145764.54,
+      "weight_pct": 15.32
     },
     {
       "sector": "Industrial Gases",
@@ -337,22 +343,22 @@
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 85010.0,
+      "value": 84510.0,
       "weight_pct": 0.41
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linc Ltd",
-      "pct": 0.01
+      "pct": -0.58
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -5.71
+      "pct": -5.6
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": -5.2
+      "pct": -5.75
     }
   },
   "transactions": [
