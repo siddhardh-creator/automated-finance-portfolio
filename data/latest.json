@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "26 Oct 2026, 10:33 AM IST",
+  "generated_at_ist": "26 Oct 2026, 11:32 AM IST",
   "as_of": "2026-10-26",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 21351000.0,
     "initial_capital": 10000000,
     "invested": 17143332.09,
-    "holdings_value": 16591685.55,
+    "holdings_value": 16447452.99,
     "cash": 3996174.49,
-    "value": 20587860.04,
-    "pnl_inr": -763139.96,
-    "pnl_pct": -3.57,
-    "unrealised_pnl_inr": -551646.53,
+    "value": 20443627.48,
+    "pnl_inr": -907372.52,
+    "pnl_pct": -4.25,
+    "unrealised_pnl_inr": -695879.1,
     "realised_pnl_inr": -211493.42,
-    "day_pnl_inr": 5134.01,
-    "day_pnl_pct": 0.02,
+    "day_pnl_inr": -139098.55,
+    "day_pnl_pct": -0.68,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22667.1,
-    "return_pct": -1.34,
-    "day_change_pct": 0.3
+    "close": 22566.8,
+    "return_pct": -1.77,
+    "day_change_pct": -0.15
   },
   "stocks": [
     {
@@ -34,37 +34,37 @@
       "google_finance_url": "https://www.google.com/finance/quote/HDFCBANK:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 692.3,
+        "close": 687.75,
         "prev_close": 692.8,
-        "day_change_pct": -0.07,
+        "day_change_pct": -0.73,
         "open": 692.1,
         "high": 693.8,
-        "low": 687.35,
-        "intraday_range_pct": 0.93,
-        "volume": 6096636,
+        "low": 686.7,
+        "intraday_range_pct": 1.02,
+        "volume": 9161258,
         "avg_volume_20d": 31252108,
-        "volume_vs_avg": 0.2,
-        "volatility_20d_annualised_pct": 23.81,
+        "volume_vs_avg": 0.29,
+        "volatility_20d_annualised_pct": 23.86,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3165195.54,
-        "pnl_inr": -167106.54,
-        "pnl_pct": -5.01
+        "market_value": 3144393.0,
+        "pnl_inr": -187909.09,
+        "pnl_pct": -5.64
       },
       "news": [
+        {
+          "title": "HDFC Bank launches electric car loan with separate battery and vehicle repayment tenures – key features",
+          "source": "Livemint",
+          "published": "26 Oct 2026, 11:19 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYjMxSVJUWEMxQmIwcmdRM19UbWFKVmVqTnAtNjh5NGt5V2ZuSU40N1dmMFJNQzNVYUREMDNlWVhDZm5ieHktQjVXVXZ1bjc0bU43Tl9iZTNRQV9ZQTg4ay1CelBJQmtmODRRNHhJLVBqM1VIUEhxS2ZweEl5VnhGSlVaR284QjlINDI5anpYZU9CdF9tbUN3S0NMZHBDeFFHT3NWYlUtNWQzUHZ2dmFWQmRkLXIzNFo5eW9VU0lpVlFlUVB4MllRNjcyWFJOMmdoZHU0ZWl2S09lY0cycEV2NVYtTHJFZGxOeHVnUDUwZ3VWYzR6Rk5rd1luaGtoSkdmMHUxSUk1S1RhZDRiaFBj0gGUAkFVX3lxTFBDeFYwMU1DbzZ3UVdLVTBXMDdJdV9ubmx2RTFMYzBQdTNNaFdVUi1YN1o0dkpTMjJTcDVSNmQtU3YtRnF2YXIzanc3R29DN01DT04weHBNVWlYS2RRVm5LM05LS2VnVDhxRXdZU1FkcW9VM1pHT1h6dmpYcDFESy1rVDVKbnk4ZE1qY0pGRGE3RjV6YUsyVXo1WkJkTXRxX05wMzh0OGhqcjgtLUlHYUM2QnVKQ3B5Z25TN2ppU09kQ2tpVFl4UTdTODlnYTBjbXRveVIyMmw2ZUJDcjJkMXkxTkhrVDVRMGtpVmxUX3p6a2xhMUgtVWRfV0xlSm1YRnVRTm1ycWhrSTB4aHNnNnlCYzlRbQ?oc=5"
+        },
         {
           "title": "Nifty risks 21,500, HDFC Bank eyes ₹640, IT rally shows fatigue: Anand James",
           "source": "The Economic Times",
           "published": "26 Oct 2026, 08:26 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSThnRHhOWVQxTXJPeVlYQjFGbjJMT1BDTkM4Mmp5cGJnTTJJVm1zbEl2T3YtUTFpTThSaG5oQ2k4Z25mUk8xVFFPUXRJZXkxeVRvOVphc2lqRnlmQ1hISl96RTZRTktEWDk0WXJmbi1Yc3pGN2Y3dXNHNmE4RUZGYzlqa3FHeFV4d3RxVXNpUkYybWFsdEdDc2VrWk53c2s5bGRoTHluOGpuRHlRLS1JcXROVFFEVjNTODAtcE5SdU9CcGpYRFhtamFsNm9SeEd4aWFYMmRyZTlnMm9wR3fSAeMBQVVfeXFMT0FoQ0oydmhUTjZkaUExTG1GTk5Dcm9JWVVUd1NLclRHLVMxaDVVd2hqLXAxN2Nfc3Q5Ul95b05sQk1oOHppWVBXbEt4QnExVE5NUUVkR1VNRy1xMkxZY25ZTUVZNFJOQVdwaHFtaFF3WVJaRzVXTzc5WjVQWjBnM3hrSWVXV1BLb2x5Qjl5RVRRX1gxY2l4TGtsRDFQTnpxNXlLakxfUnptOURueUxIbHdkWDk2UlRsS3kzS25UVW91VEdrVjhjYlI1LVl0ai05YkI1Q1BZY2NKTWRycmdha0FPbjA?oc=5"
-        },
-        {
-          "title": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Overview",
-          "source": "Economic Times",
-          "published": "26 Oct 2026, 08:00 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-updates-26-oct-2026/liveblog/135201026.cms"
         },
         {
           "title": "HDFC Bank launches flexible EV car loan with longer battery repayment",
@@ -86,7 +86,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.37
+      "weight_pct": 15.38
     },
     {
       "key": "maruti",
@@ -97,24 +97,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11197.0,
+        "close": 11158.0,
         "prev_close": 11230.0,
-        "day_change_pct": -0.29,
+        "day_change_pct": -0.64,
         "open": 11250.0,
         "high": 11269.0,
         "low": 11102.0,
         "intraday_range_pct": 1.49,
-        "volume": 99850,
+        "volume": 187064,
         "avg_volume_20d": 465466,
-        "volume_vs_avg": 0.21,
-        "volatility_20d_annualised_pct": 25.41,
+        "volume_vs_avg": 0.4,
+        "volatility_20d_annualised_pct": 25.43,
         "high_52w": 17292.0,
-        "low_52w": 11170.0,
+        "low_52w": 11158.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3247130.0,
-        "pnl_inr": -84680.0,
-        "pnl_pct": -2.54
+        "market_value": 3235820.0,
+        "pnl_inr": -95990.0,
+        "pnl_pct": -2.88
       },
       "news": [
         {
@@ -137,7 +137,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.77
+      "weight_pct": 15.83
     },
     {
       "key": "ashok",
@@ -148,28 +148,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 143.71,
+        "close": 141.93,
         "prev_close": 144.95,
-        "day_change_pct": -0.86,
+        "day_change_pct": -2.08,
         "open": 144.7,
         "high": 144.9,
         "low": 141.5,
         "intraday_range_pct": 2.35,
-        "volume": 4064074,
+        "volume": 6443227,
         "avg_volume_20d": 12899491,
-        "volume_vs_avg": 0.32,
-        "volatility_20d_annualised_pct": 24.37,
+        "volume_vs_avg": 0.5,
+        "volatility_20d_annualised_pct": 25.03,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 143710.01,
-        "pnl_inr": -4009.99,
-        "pnl_pct": -2.71
+        "market_value": 141929.99,
+        "pnl_inr": -5790.01,
+        "pnl_pct": -3.92
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.7
+      "weight_pct": 0.69
     },
     {
       "key": "eicher",
@@ -180,24 +180,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7066.5,
+        "close": 7013.0,
         "prev_close": 7066.0,
-        "day_change_pct": 0.01,
+        "day_change_pct": -0.75,
         "open": 7002.0,
         "high": 7097.5,
         "low": 6931.5,
         "intraday_range_pct": 2.35,
-        "volume": 85539,
+        "volume": 113349,
         "avg_volume_20d": 416172,
-        "volume_vs_avg": 0.21,
-        "volatility_20d_annualised_pct": 27.92,
+        "volume_vs_avg": 0.27,
+        "volatility_20d_annualised_pct": 27.98,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7066500.0,
-        "pnl_inr": -199500.0,
-        "pnl_pct": -2.75
+        "market_value": 7013000.0,
+        "pnl_inr": -253000.0,
+        "pnl_pct": -3.48
       },
       "news": [
         {
@@ -214,7 +214,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 34.32
+      "weight_pct": 34.3
     },
     {
       "key": "linde",
@@ -225,24 +225,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5769.0,
+        "close": 5657.5,
         "prev_close": 5723.5,
-        "day_change_pct": 0.79,
+        "day_change_pct": -1.15,
         "open": 5700.0,
         "high": 5800.0,
-        "low": 5675.0,
-        "intraday_range_pct": 2.18,
-        "volume": 3275,
+        "low": 5657.5,
+        "intraday_range_pct": 2.49,
+        "volume": 5236,
         "avg_volume_20d": 19127,
-        "volume_vs_avg": 0.17,
-        "volatility_20d_annualised_pct": 26.6,
+        "volume_vs_avg": 0.27,
+        "volatility_20d_annualised_pct": 26.4,
         "high_52w": 7847.5,
-        "low_52w": 5695.5,
+        "low_52w": 5657.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2884500.0,
-        "pnl_inr": -96000.0,
-        "pnl_pct": -3.22
+        "market_value": 2828750.0,
+        "pnl_inr": -151750.0,
+        "pnl_pct": -5.09
       },
       "news": [
         {
@@ -253,7 +253,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 14.01
+      "weight_pct": 13.84
     },
     {
       "key": "linc",
@@ -264,24 +264,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 84.65,
+        "close": 83.56,
         "prev_close": 89.67,
-        "day_change_pct": -5.6,
+        "day_change_pct": -6.81,
         "open": 89.0,
         "high": 90.0,
-        "low": 83.22,
-        "intraday_range_pct": 7.56,
-        "volume": 71213,
+        "low": 83.0,
+        "intraday_range_pct": 7.81,
+        "volume": 81346,
         "avg_volume_20d": 58576,
-        "volume_vs_avg": 1.22,
-        "volatility_20d_annualised_pct": 89.3,
+        "volume_vs_avg": 1.39,
+        "volatility_20d_annualised_pct": 90.36,
         "high_52w": 130.64,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 84650.0,
-        "pnl_inr": -350.0,
-        "pnl_pct": -0.41
+        "market_value": 83560.0,
+        "pnl_inr": -1440.0,
+        "pnl_pct": -1.69
       },
       "news": [],
       "announcements": [],
@@ -291,69 +291,69 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10457340.01,
-      "weight_pct": 50.79
+      "value": 10390749.99,
+      "weight_pct": 50.83
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.41
+      "weight_pct": 19.55
     },
     {
       "sector": "Financials",
-      "value": 3165195.54,
-      "weight_pct": 15.37
+      "value": 3144393.0,
+      "weight_pct": 15.38
     },
     {
       "sector": "Industrial Gases",
-      "value": 2884500.0,
-      "weight_pct": 14.01
+      "value": 2828750.0,
+      "weight_pct": 13.84
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 84650.0,
+      "value": 83560.0,
       "weight_pct": 0.41
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10457340.01,
-      "weight_pct": 50.79
+      "value": 10390749.99,
+      "weight_pct": 50.83
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.41
+      "weight_pct": 19.55
     },
     {
       "sector": "Financials",
-      "value": 3165195.54,
-      "weight_pct": 15.37
+      "value": 3144393.0,
+      "weight_pct": 15.38
     },
     {
       "sector": "Industrial Gases",
-      "value": 2884500.0,
-      "weight_pct": 14.01
+      "value": 2828750.0,
+      "weight_pct": 13.84
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 84650.0,
+      "value": 83560.0,
       "weight_pct": 0.41
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linc Ltd",
-      "pct": -0.41
+      "pct": -1.69
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -5.01
+      "pct": -5.64
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": -5.6
+      "pct": -6.81
     }
   },
   "transactions": [
