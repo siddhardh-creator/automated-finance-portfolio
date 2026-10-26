@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 26 Oct 2026, 09:32 AM IST  |  **Market data as of:** 2026-10-26  |  **Start date:** 2026-10-16
+**Last updated:** 26 Oct 2026, 10:33 AM IST  |  **Market data as of:** 2026-10-26  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,13 +14,13 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,04,24,704** |
-| Total P&L | **-₹9,26,296 (-4.34%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹7,14,803 |
+| Current value | **₹2,05,87,860** |
+| Total P&L | **-₹7,63,140 (-3.57%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹5,51,647 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹2,11,493 |
-| Today's change | -₹1,58,022 (-0.77%) |
-| Nifty 50 since start (same money invested) | -2.22% |
-| Outperformance vs Nifty 50 | -2.12% |
+| Today's change | ₹5,134 (+0.02%) |
+| Nifty 50 since start (same money invested) | -1.34% |
+| Outperformance vs Nifty 50 | -2.23% |
 | Cash (uninvested) | ₹39,96,174 |
 | Virtual money put in | ₹2,13,51,000 |
 
@@ -32,14 +32,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹688.95 | - | ₹692.80 | -0.56% | ₹31,49,879 | 15.4% | -₹1,82,423 | -5.47% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,191.00 | - | ₹11,230.00 | -0.35% | ₹32,45,390 | 15.9% | -₹86,420 | -2.59% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹142.26 | - | ₹144.95 | -1.86% | ₹1,42,260 | 0.7% | -₹5,460 | -3.70% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹6,962.50 | - | ₹7,066.00 | -1.46% | ₹69,62,500 | 34.1% | -₹3,03,500 | -4.18% |
-| Linde India | 500 | ₹5,961.00 | ₹5,687.50 | - | ₹5,723.50 | -0.63% | ₹28,43,750 | 13.9% | -₹1,36,750 | -4.59% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹84.75 | - | ₹89.67 | -5.49% | ₹84,750 | 0.4% | -₹250 | -0.29% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹692.30 | - | ₹692.80 | -0.07% | ₹31,65,196 | 15.4% | -₹1,67,107 | -5.01% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,197.00 | - | ₹11,230.00 | -0.29% | ₹32,47,130 | 15.8% | -₹84,680 | -2.54% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹143.71 | - | ₹144.95 | -0.86% | ₹1,43,710 | 0.7% | -₹4,010 | -2.71% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,066.50 | - | ₹7,066.00 | +0.01% | ₹70,66,500 | 34.3% | -₹1,99,500 | -2.75% |
+| Linde India | 500 | ₹5,961.00 | ₹5,769.00 | - | ₹5,723.50 | +0.79% | ₹28,84,500 | 14.0% | -₹96,000 | -3.22% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹84.65 | - | ₹89.67 | -5.60% | ₹84,650 | 0.4% | -₹350 | -0.41% |
 
-**Best since buy:** Linc Ltd (-0.29%)  ·  **Worst since buy:** HDFC Bank (-5.47%)  ·  **Biggest mover today:** Linc Ltd (-5.49%)
+**Best since buy:** Linc Ltd (-0.41%)  ·  **Worst since buy:** HDFC Bank (-5.01%)  ·  **Biggest mover today:** Linc Ltd (-5.60%)
 
 ## Allocation
 
@@ -47,11 +47,11 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,03,50,150 | 50.7% |
-| Cash | ₹39,96,174 | 19.6% |
-| Financials | ₹31,49,879 | 15.4% |
-| Industrial Gases | ₹28,43,750 | 13.9% |
-| Stationery & Writing Instruments | ₹84,750 | 0.4% |
+| Automobiles | ₹1,04,57,340 | 50.8% |
+| Cash | ₹39,96,174 | 19.4% |
+| Financials | ₹31,65,196 | 15.4% |
+| Industrial Gases | ₹28,84,500 | 14.0% |
+| Stationery & Writing Instruments | ₹84,650 | 0.4% |
 
 ## Performance
 
@@ -105,7 +105,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹688.95 | -0.56% | ₹687.65 - ₹692.10 | 2,518,125 | 31,252,108 | 0.08x | 23.82% | ₹687.10 - ₹1,009.50 |
+| ₹692.30 | -0.07% | ₹687.35 - ₹693.80 | 6,096,636 | 31,252,108 | 0.2x | 23.81% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -121,10 +121,10 @@ _▲ buy · ▼ sell_
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Nifty risks 21,500, HDFC Bank eyes ₹640, IT rally shows fatigue: Anand James](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSThnRHhOWVQxTXJPeVlYQjFGbjJMT1BDTkM4Mmp5cGJnTTJJVm1zbEl2T3YtUTFpTThSaG5oQ2k4Z25mUk8xVFFPUXRJZXkxeVRvOVphc2lqRnlmQ1hISl96RTZRTktEWDk0WXJmbi1Yc3pGN2Y3dXNHNmE4RUZGYzlqa3FHeFV4d3RxVXNpUkYybWFsdEdDc2VrWk53c2s5bGRoTHluOGpuRHlRLS1JcXROVFFEVjNTODAtcE5SdU9CcGpYRFhtamFsNm9SeEd4aWFYMmRyZTlnMm9wR3fSAeMBQVVfeXFMT0FoQ0oydmhUTjZkaUExTG1GTk5Dcm9JWVVUd1NLclRHLVMxaDVVd2hqLXAxN2Nfc3Q5Ul95b05sQk1oOHppWVBXbEt4QnExVE5NUUVkR1VNRy1xMkxZY25ZTUVZNFJOQVdwaHFtaFF3WVJaRzVXTzc5WjVQWjBnM3hrSWVXV1BLb2x5Qjl5RVRRX1gxY2l4TGtsRDFQTnpxNXlLakxfUnptOURueUxIbHdkWDk2UlRsS3kzS25UVW91VEdrVjhjYlI1LVl0ai05YkI1Q1BZY2NKTWRycmdha0FPbjA?oc=5) - _The Economic Times, 26 Oct 2026, 08:26 AM IST_
+- [HDFC Bank Share Price Live Updates: HDFC Bank's Performance Overview](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-updates-26-oct-2026/liveblog/135201026.cms) - _Economic Times, 26 Oct 2026, 08:00 AM IST_
 - [HDFC Bank launches flexible EV car loan with longer battery repayment](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORzRfNnplY3AyWllFcmZuVGR2akxRNVlNa0ctcWQ0NlBLSDgwYnhEZkhkYkk0ZWJBODFtOWVBcENTejlGUGczU1RmeE1nOHJqTWU1eG1ySTRGcldzUUFmVTRvbWJrZFlFaXRQRDEtNFZMWURSWEJNMTF6aGNtTlQ0bEMydzBjUHExcVRVeDl4NkRxUGtUbWpQT1FRMmE1bzJqMllWTlp1YmNVcVVhLWprM1VXR3NqSzMxMEQ1TTIyTm9tSkkzeXYyMktpMDdRU0pTT0tQdNIB2gFBVV95cUxPbk9NX2M1WTI1aHVXWjlGSnZ1NXMyOGt3emdHN2NDWmxHb3BjYlY1V0R0Y2ZzRUVqWUhSdUs3NUZadzNhRUhodUUwRjFESzE5RlZmVUtsbHNOZHVpbUdvbGE4WVhpRFpOaWZsbjluaTJtZEJRTlBPakxUbjdSZkpvVkJWX3JCN2VRaFBWM0xlbFkxRkd0cEh5LXJsYXc5S25YcGNRQ2JuaURyT29OTEUxRFZoNlc1dlVQNFVabXV3ZmJ2R0FjYUpEdml0eGZLc1E1Q1lMeVVtX1MzQQ?oc=5) - _Business Standard, 25 Oct 2026, 04:26 PM IST_
 - [Mcap of eight of the top-10 firms erodes by ₹1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards](https://www.thehindubusinessline.com/markets/mcap-of-eight-of-the-top-10-firms-erodes-by-155-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/article71622878.ece) - _BusinessLine, 25 Oct 2026, 02:41 PM IST_
 - [Top 10 firms lose ₹1.55  trillion in mcap as HDFC Bank, Bajaj Finance fall](https://www.business-standard.com/markets/news/top-10-firms-lose-1-55-trillion-in-mcap-as-hdfc-bank-bajaj-finance-fall-126102500268_1.html) - _Business Standard, 25 Oct 2026, 02:23 PM IST_
-- [HDFC Bank launches flexi (green) electric car loan, offering differential loan proportions for the body and battery of EV](https://news.google.com/rss/articles/CBMikwJBVV95cUxPTUFjZnhIb3hHcDkzY0ZNWlVDbE1pOEp1aWdmTUVSXzdqb1RiaWZXZzRkRmExNXp4MUhqcHkxdC1KRVVoNTc2eGVTYlZJSmp3RXJBOVBBMk9lME94WGVoaFdiQTY2enA0M3p1M21hUkVnTDBNdTd0YXZoaThtMFg1amhZX0hvemlNV0JGLXV5YTV5MUVSNko2Tkc3SmJMMmw2d0NRTFUzS3cyNFFlYXJoOW02MHRKQTltNzFTNDdwOXlMeXU4MnVlbWliVkNoazdtdWloRkpfbDJsTTdUcTFsZ21UYUc1T0xCWUQwdTBTaWowNVBUeWY5dWJTOGpyUXpzaWJKVGRBY1ZCRmZfYmp2Ym02ONIBmgJBVV95cUxQYk1PNFZRbmtMdTkwSUhRSUdFRXA4N2R1MnlkalVWVHJ1aW9KVTk5NHI5QnczY2VvYlA0N2RGdXd3QVdmM25raE1SSE53djNzSXJ5TmczN1lyRENNcVllMFY4c2FtVkoxYXZGMnpsUWR6WDZPWmRUeWprbWNKdjl0MXFZcndtTUNyaUQ4QUlsVWRyVHNJUW9oai1iNjZlSm5PaFo0RGhaM3ZzUU16OU4taWJzcmFjZkMxeTQ0NVFwS3VhS3hDQTJ4MTFjRnRxQnMyaXFvVk9nekJ4VHJzX09WYXdHWjNaRGsycldOLWtpNWZvelVqaTI4MDktZ2RrSl9JWnpLVUo0UTR6T0xacWNlY0NwWjkwbHZEUVE?oc=5) - _BusinessLine, 25 Oct 2026, 01:56 PM IST_
 
 </details>
 
@@ -138,7 +138,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,191.00 | -0.35% | ₹11,131.00 - ₹11,269.00 | 23,570 | 465,466 | 0.05x | 25.41% | ₹11,170.00 - ₹17,292.00 |
+| ₹11,197.00 | -0.29% | ₹11,102.00 - ₹11,269.00 | 99,850 | 465,466 | 0.21x | 25.41% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -169,7 +169,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹142.26 | -1.86% | ₹141.50 - ₹144.90 | 1,446,543 | 12,899,491 | 0.11x | 24.85% | ₹138.58 - ₹211.92 |
+| ₹143.71 | -0.86% | ₹141.50 - ₹144.90 | 4,064,074 | 12,899,491 | 0.32x | 24.37% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -198,7 +198,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,962.50 | -1.46% | ₹6,940.50 - ₹7,023.50 | 20,843 | 416,172 | 0.05x | 28.28% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,066.50 | +0.01% | ₹6,931.50 - ₹7,097.50 | 85,539 | 416,172 | 0.21x | 27.92% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -228,7 +228,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,687.50 | -0.63% | ₹5,675.00 - ₹5,744.50 | 1,334 | 19,127 | 0.07x | 26.27% | ₹5,687.50 - ₹7,847.50 |
+| ₹5,769.00 | +0.79% | ₹5,675.00 - ₹5,800.00 | 3,275 | 19,127 | 0.17x | 26.60% | ₹5,695.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -256,7 +256,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹84.75 | -5.49% | ₹84.62 - ₹90.00 | 47,294 | 58,576 | 0.81x | 89.22% | ₹76.41 - ₹130.64 |
+| ₹84.65 | -5.60% | ₹83.22 - ₹90.00 | 71,213 | 58,576 | 1.22x | 89.30% | ₹76.41 - ₹130.64 |
 
 **Research reports**
 
