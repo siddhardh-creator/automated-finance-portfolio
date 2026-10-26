@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "26 Oct 2026, 12:37 PM IST",
+  "generated_at_ist": "26 Oct 2026, 01:33 PM IST",
   "as_of": "2026-10-26",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 21351000.0,
     "initial_capital": 10000000,
     "invested": 17143332.09,
-    "holdings_value": 16520214.91,
+    "holdings_value": 16515730.91,
     "cash": 3996174.49,
-    "value": 20516389.4,
-    "pnl_inr": -834610.6,
-    "pnl_pct": -3.91,
-    "unrealised_pnl_inr": -623117.18,
+    "value": 20511905.39,
+    "pnl_inr": -839094.61,
+    "pnl_pct": -3.93,
+    "unrealised_pnl_inr": -627601.18,
     "realised_pnl_inr": -211493.42,
-    "day_pnl_inr": -66336.63,
-    "day_pnl_pct": -0.32,
+    "day_pnl_inr": -70820.63,
+    "day_pnl_pct": -0.34,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22622.9,
-    "return_pct": -1.53,
-    "day_change_pct": 0.1
+    "close": 22649.1,
+    "return_pct": -1.41,
+    "day_change_pct": 0.22
   },
   "stocks": [
     {
@@ -34,24 +34,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/HDFCBANK:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 688.4,
+        "close": 688.9,
         "prev_close": 692.8,
-        "day_change_pct": -0.64,
+        "day_change_pct": -0.56,
         "open": 692.1,
         "high": 693.8,
         "low": 686.1,
         "intraday_range_pct": 1.11,
-        "volume": 12910698,
+        "volume": 15771458,
         "avg_volume_20d": 31252108,
-        "volume_vs_avg": 0.41,
-        "volatility_20d_annualised_pct": 23.84,
+        "volume_vs_avg": 0.5,
+        "volatility_20d_annualised_pct": 23.83,
         "high_52w": 1009.5,
         "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3147364.91,
-        "pnl_inr": -184937.18,
-        "pnl_pct": -5.55
+        "market_value": 3149650.91,
+        "pnl_inr": -182651.18,
+        "pnl_pct": -5.48
       },
       "news": [
         {
@@ -61,32 +61,20 @@
           "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-slips-further-as-bagchi-takes-charge-amid-leadership-uncertainty/article71625913.ece"
         },
         {
-          "title": "HDFC Bank launches electric car loan with separate battery and vehicle repayment tenures – key features",
-          "source": "Livemint",
-          "published": "26 Oct 2026, 11:19 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYjMxSVJUWEMxQmIwcmdRM19UbWFKVmVqTnAtNjh5NGt5V2ZuSU40N1dmMFJNQzNVYUREMDNlWVhDZm5ieHktQjVXVXZ1bjc0bU43Tl9iZTNRQV9ZQTg4ay1CelBJQmtmODRRNHhJLVBqM1VIUEhxS2ZweEl5VnhGSlVaR284QjlINDI5anpYZU9CdF9tbUN3S0NMZHBDeFFHT3NWYlUtNWQzUHZ2dmFWQmRkLXIzNFo5eW9VU0lpVlFlUVB4MllRNjcyWFJOMmdoZHU0ZWl2S09lY0cycEV2NVYtTHJFZGxOeHVnUDUwZ3VWYzR6Rk5rd1luaGtoSkdmMHUxSUk1S1RhZDRiaFBj?oc=5"
-        },
-        {
-          "title": "Nifty risks 21,500, HDFC Bank eyes ₹640, IT rally shows fatigue: Anand James",
-          "source": "The Economic Times",
-          "published": "26 Oct 2026, 08:26 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSThnRHhOWVQxTXJPeVlYQjFGbjJMT1BDTkM4Mmp5cGJnTTJJVm1zbEl2T3YtUTFpTThSaG5oQ2k4Z25mUk8xVFFPUXRJZXkxeVRvOVphc2lqRnlmQ1hISl96RTZRTktEWDk0WXJmbi1Yc3pGN2Y3dXNHNmE4RUZGYzlqa3FHeFV4d3RxVXNpUkYybWFsdEdDc2VrWk53c2s5bGRoTHluOGpuRHlRLS1JcXROVFFEVjNTODAtcE5SdU9CcGpYRFhtamFsNm9SeEd4aWFYMmRyZTlnMm9wR3fSAeMBQVVfeXFMT0FoQ0oydmhUTjZkaUExTG1GTk5Dcm9JWVVUd1NLclRHLVMxaDVVd2hqLXAxN2Nfc3Q5Ul95b05sQk1oOHppWVBXbEt4QnExVE5NUUVkR1VNRy1xMkxZY25ZTUVZNFJOQVdwaHFtaFF3WVJaRzVXTzc5WjVQWjBnM3hrSWVXV1BLb2x5Qjl5RVRRX1gxY2l4TGtsRDFQTnpxNXlLakxfUnptOURueUxIbHdkWDk2UlRsS3kzS25UVW91VEdrVjhjYlI1LVl0ai05YkI1Q1BZY2NKTWRycmdha0FPbjA?oc=5"
-        },
-        {
-          "title": "HDFC Bank launches flexible EV car loan with longer battery repayment",
-          "source": "Business Standard",
-          "published": "25 Oct 2026, 04:26 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORzRfNnplY3AyWllFcmZuVGR2akxRNVlNa0ctcWQ0NlBLSDgwYnhEZkhkYkk0ZWJBODFtOWVBcENTejlGUGczU1RmeE1nOHJqTWU1eG1ySTRGcldzUUFmVTRvbWJrZFlFaXRQRDEtNFZMWURSWEJNMTF6aGNtTlQ0bEMydzBjUHExcVRVeDl4NkRxUGtUbWpQT1FRMmE1bzJqMllWTlp1YmNVcVVhLWprM1VXR3NqSzMxMEQ1TTIyTm9tSkkzeXYyMktpMDdRU0pTT0tQdNIB2gFBVV95cUxPbk9NX2M1WTI1aHVXWjlGSnZ1NXMyOGt3emdHN2NDWmxHb3BjYlY1V0R0Y2ZzRUVqWUhSdUs3NUZadzNhRUhodUUwRjFESzE5RlZmVUtsbHNOZHVpbUdvbGE4WVhpRFpOaWZsbjluaTJtZEJRTlBPakxUbjdSZkpvVkJWX3JCN2VRaFBWM0xlbFkxRkd0cEh5LXJsYXc5S25YcGNRQ2JuaURyT29OTEUxRFZoNlc1dlVQNFVabXV3ZmJ2R0FjYUpEdml0eGZLc1E1Q1lMeVVtX1MzQQ?oc=5"
-        },
-        {
           "title": "Mcap of eight of the top-10 firms erodes by ₹1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards",
           "source": "BusinessLine",
           "published": "25 Oct 2026, 02:41 PM IST",
           "link": "https://www.thehindubusinessline.com/markets/mcap-of-eight-of-the-top-10-firms-erodes-by-155-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/article71622878.ece"
+        },
+        {
+          "title": "Top 10 firms lose ₹1.55  trillion in mcap as HDFC Bank, Bajaj Finance fall",
+          "source": "Business Standard",
+          "published": "25 Oct 2026, 02:23 PM IST",
+          "link": "https://www.business-standard.com/markets/news/top-10-firms-lose-1-55-trillion-in-mcap-as-hdfc-bank-bajaj-finance-fall-126102500268_1.html"
         }
       ],
       "announcements": [],
-      "weight_pct": 15.34
+      "weight_pct": 15.36
     },
     {
       "key": "maruti",
@@ -97,53 +85,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11213.0,
+        "close": 11199.0,
         "prev_close": 11230.0,
-        "day_change_pct": -0.15,
+        "day_change_pct": -0.28,
         "open": 11250.0,
         "high": 11269.0,
         "low": 11102.0,
         "intraday_range_pct": 1.49,
-        "volume": 291765,
+        "volume": 345369,
         "avg_volume_20d": 465466,
-        "volume_vs_avg": 0.63,
+        "volume_vs_avg": 0.74,
         "volatility_20d_annualised_pct": 25.41,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3251770.0,
-        "pnl_inr": -80040.0,
-        "pnl_pct": -2.4
+        "market_value": 3247710.0,
+        "pnl_inr": -84100.0,
+        "pnl_pct": -2.52
       },
-      "news": [
-        {
-          "title": "Maruti, Tata gain ground as car market competition intensifies",
-          "source": "The Financial Express",
-          "published": "26 Oct 2026, 05:44 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNejB2R3VfVUFVNzhGd0VLRmhEN1BUelVmTTRrQVgtNUllNVBvWEI2b0tUNllEVDF6a1dYT2FoSjJEdUhJZ3UzX1gtVW1uV0JGaVFCU0RmNVdJanFQT3FuM2pvbUdLdWNPUmFBd21IajN3bzU5WEJZT2l6NVR4eURLZC1GelpQWFBfaFprai1kZ3hiLXR1Nm9ibnlkazVpMFlqYWV0R3B2RTg1SUVVU3VmMWx3VGpfVFRx0gG_AUFVX3lxTFBtZHFlaWJud21YcXBDNVRDYWlVOWNUalFkUXk5MndVRXVsZU8wNmJMdkJRUWZFbWtLcWhsbGlNX2ZkUEdVRFkyMXRwLXExaVZiZHJueG5hbkFrRy1GaHNHSVRNSzRtQ2Z5N1FPWURLZFVYdHYyM1JXNllla2pyNVFoRGxqRkQzTnB5bTBqVmU3WjlUUW5sR1dKUzRJbEVqWmRpR1lsLVZIdTBVTUxYZ2p5VWV0S21lU3FGV3MzUThJ?oc=5"
-        },
-        {
-          "title": "Maruti Suzuki Victoris Aurum Edition: ₹22,990 kit brings premium looks, cabin upgrades; check price, top features",
-          "source": "Livemint",
-          "published": "24 Oct 2026, 11:58 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcUkwODZPVUxXMzJSM0VfdndJX3F2NzZibE5RcHh6UXJVVXlod3I2dlB6MlFhYzg5Q3JrdjlqbXVZUTBXRlZQSWJKbEd2Nnpfck56elVaYnVHaXZ0TVNlSVMybkxHTkdhd2tuaHhBdXAzTzJTWjRzalIyMDZPanNvNDR3cXhEdUpicUJ0VlFVcVg0aEhCNzN0cjVPcExobFgzNnRWZ1hINkYyLS1oQXpKM1JNUHVXZTJ2UXBFSHpsVkRpOHVUUGpzZmw3eThsMTYwUlVsY1NlbHRUWEF3d3JTX1VYWVEtX2JVenp0Tk1qczN3aWpjREHSAfsBQVVfeXFMT0JxU2pDRU1fOUtud05UVHgyVjFsX2p4TkQyc0lEakhqVk1paFBHNU5hdkJMb1JPcHd0YktnVlUzZzBFNkRGX1hXcUJCSHllMFRZYlpSdEpUT2VpZzFQd0JLZjVYcXVKZXFKSTZBajlaa3VQVlhTWHRvaHJQanU2T0k0QU1RRG54UWRBS09OODZDVG9iWnZDT0NPLWp2amxSU3hjSExIYS1pNVdmcVFuUjBvNktVaXMxYjlNUTZ5cC1IOG8tVW1qZVNLeWJoVjNSRW1nX3ZrQ2w1NlBsbndTeWRrdlZWU1RzbXlveTRtS0FoVmdNTmFueWN2T1k?oc=5"
-        },
-        {
-          "title": "Maruti Victoris crosses 1.5 lakh sales as Aurum Edition arrives at ₹22,990",
-          "source": "Livemint",
-          "published": "24 Oct 2026, 12:27 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHZIandENlRac3BuZzA0LV8wSDJwclA3SEpRNU9WUDcwSUxJNjlobGNrQy1kaGxCdUNzSDVpMldEUGJ4Ui14SkJ1ejFkemZOb1JKOEJtbzBSRFh1N1FiNkZUbUZVcnp2cVhtS3NfM0ZoU2hqblFSYXpEYjZwd3V6REk3X0t4UVoxMG9LRkhJSUtTVFk4MGM5Q0V6UXIzUmtIT3kyRTRZTm1HN1pBazhMc2VPeHNZemNRSk04RHhRVEhhaHR4ZTJSejN30gHPAUFVX3lxTE9JUUZnVDBLSHVPb2F1dmp2cGpTYzByUXh4UVRnQlpYMHFhZUU1VTRTdUp1Y2pienVpZlo1LUhvSWFIYlpzYm5EQzBmckdOMzhUV2VaaDd1WlhmUHdaeGlMbGdELVlhRGJhNHMzY0x1a2NPWEt3ZGJjdURKNEU1aXQ3LVJwRWtkdm8tbVRxMlBsWUVWU2NfMnhFSk9iQkVnMENfTENETUVrMzhpY05pbnpmU0ZndFhqcnRQZkl4WlZzdENHeTRKVFhJM2FjZEtzRQ?oc=5"
-        },
-        {
-          "title": "Top 3 stocks to buy: Eternal, Apollo Hospitals, Maruti Suzuki by Sumeet Bagadia | Target price, stoploss, market outlook",
-          "source": "Livemint",
-          "published": "24 Oct 2026, 06:30 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdno1X2ZuS05mRl9ycExqbXZPcHdscXRmR3REQmZjSmNUYWFnTDNiTng4WmItMG1aVE15OGV3aEpKbF9zMDhNam1HXzRWbUNTZTNURnFXR1ctVGRYZjN4Snl3aWtIQks0RnBjdFZHeVI0NVpKTTZxeUhXbDc1TUdhLW40NDk5czBzMEUyMWpudUZiMWJraVJZQzNaZlZHS3lTMTNhTnlfcVg4UXVDRHdnZW1ZY0hmc2dKUFJtOW5heFI0RXV3STJFV1VBVTE0dmJuOFdoY3pRNmVlVnFmZm5Rc0pqSXkzblBBcVMxaDktQThJaHNlTmxvSWlpaVlndnRJcGVWbGE2b1E3ZWtVT2gwadIBlgJBVV95cUxNVjhZM241ZC1oSU9RS2hlcDJiOHpMcm9sOUpad0NjdzA1VWRoQlBBY1RDNzFnZmh1T2VCNVZNQWZsOGl3ekhqbTJnbHRDZnQ5TTgyVmtueHRtNWJsMTVHdGRrVFJFTlZ6QVFyX2Y5eTJiTmF5aXcyTHF4dzlsbkQwQmZOaFhJVDNZS29tMUxvTFpIX2ZGVVZlaTA4RElEcWM1YzNQY21iNk1MUHNlWEVzVVVWcm5GRWw5QlpsYi13Sk9xa2lRWW5JQk02Qjg4YlNPYTNhTVRQbmQ2RzFvajUzQ3pONG5wNWJCd09ZdW1FUGlMbWRjcS02eUNNYXoyMUVOZnNzVnphVTMzR2dHb2ZmR1MyVWU5dw?oc=5"
-        }
-      ],
+      "news": [],
       "announcements": [],
-      "weight_pct": 15.85
+      "weight_pct": 15.83
     },
     {
       "key": "ashok",
@@ -154,24 +117,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 141.88,
+        "close": 141.31,
         "prev_close": 144.95,
-        "day_change_pct": -2.12,
+        "day_change_pct": -2.51,
         "open": 144.7,
         "high": 144.9,
-        "low": 141.27,
-        "intraday_range_pct": 2.5,
-        "volume": 9168208,
+        "low": 140.01,
+        "intraday_range_pct": 3.37,
+        "volume": 12648923,
         "avg_volume_20d": 12899491,
-        "volume_vs_avg": 0.71,
-        "volatility_20d_annualised_pct": 25.06,
+        "volume_vs_avg": 0.98,
+        "volatility_20d_annualised_pct": 25.43,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 141880.0,
-        "pnl_inr": -5840.0,
-        "pnl_pct": -3.95
+        "market_value": 141310.0,
+        "pnl_inr": -6410.0,
+        "pnl_pct": -4.34
       },
       "news": [],
       "announcements": [],
@@ -186,41 +149,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7065.5,
+        "close": 7059.5,
         "prev_close": 7066.0,
-        "day_change_pct": -0.01,
+        "day_change_pct": -0.09,
         "open": 7002.0,
         "high": 7097.5,
         "low": 6931.5,
         "intraday_range_pct": 2.35,
-        "volume": 177768,
+        "volume": 224818,
         "avg_volume_20d": 416172,
-        "volume_vs_avg": 0.43,
-        "volatility_20d_annualised_pct": 27.92,
+        "volume_vs_avg": 0.54,
+        "volatility_20d_annualised_pct": 27.91,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7065500.0,
-        "pnl_inr": -200500.0,
-        "pnl_pct": -2.76
+        "market_value": 7059500.0,
+        "pnl_inr": -206500.0,
+        "pnl_pct": -2.84
       },
-      "news": [
-        {
-          "title": "Best auto stocks to buy ahead of Diwali 2026: Nuvama bets big on Eicher Motors, Hyundai and Tata Motors PV - Here's why",
-          "source": "Livemint",
-          "published": "25 Oct 2026, 02:05 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORkx3TGZVSDA4OTZFRWppT29tdVl0aXRhV0NoeEgwLW10LU9ZLU5rX042V3llT1dOR1JSUW9JbkVPbE5tQnpPN1JQWnU0X0Q5Snd1dWhkRlN0YmRJWG50d21IZHpmcnI4MTdYOEhCVWFzX1pCUlFteTlhcnlZQnpNV3l0dDNGOUw3Ujd1QS1mQlRRM1BTLVJMRHZsdmVLRllRZFY4WE56dEFkTVRqajRvYXB1ZzJqaDFEanpySmVrNUZjUkJpS0FKaUkyUndxc0wwUFZEQ1pvR25DOUZ5anM5S2FNSVV1aFZMcGhQMGVSQ3BJUENDY1RGVDY2VXFnSDE3R3ZQZmdlS05jTFgyV0Y3VU9B0gGXAkFVX3lxTE9VUWxQdkZKVW9PNWFLcTVYYlZha2VhSzJOVk5Ydms5cVlGSlRiUHlJOWpPMERHWmxfdUJ3MzNlZ3cyREpyaHBwTDl6R3hEWVJZWC1GMXZFVDIwQkJaMEVuSGYyNHhua1JWM0Y2VXRYbmpQMXpzU0czNjlNWWE4Ty1iSUlSWENQQWhXZkRvMXp5TTNxME9PRnV2SnhOa3BvOExWb1pxR2dHR3RlWkZ0Yk0wZDZWQkFRcjVQaFJQTThYc3BZdE5JZ1FYeDJOZVRjWVNhbjFSOXFKUWN0SF9EcThyV01Ya0ZpTm4ySS1ZZ05DbS1PckNIZVJESURMY3F5TEdqRTNIbWhEMENXRTd2aWJBc0gyU2pObw?oc=5"
-        },
-        {
-          "title": "Royal Enfield electric bike debut challenges convention",
-          "source": "BusinessLine",
-          "published": "23 Oct 2026, 05:36 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRzVzSm1VdUZZLTZFbG5iaWZUbDRtMTByeHNkX2F0ZzhXWmZnelJvY0d4QnRpaE5CSkFZQm8yOEJ1NTJXOXRhNE1xX2lob0NUc1JmTmY5cFdGYWh3ZTN1RFhtdVpoRjRSd1QxcFFRRFRJYi1aODZYcmRRWjZzd2FUQWtEeU41Y3lqdWJsQk00cDVsb1pWNEZud0U2M1ZhbEVQWFloUWRyX2oxbTBVTXNfWEpUb1pzVFF1RzJha3hZbjF3bm04NWRyUWV3UUPSAdMBQVVfeXFMUHJ3OEFJZG5GZXpyNXlTaUp0V0xDWi1SNVdfaS1oX1NoSHg3RWhqc3VFTzdMYlI0a0FJX3g0cVAzT2F0Y0ZaRWY1Q0ZHejJTYjNHWnJsUl9GeThISTB3OTNvZzV3RWgxazd5d0NKMTlYOGhSemdNRVVTUFh2ckNQNU9iNkQzSmpiS2k2dXNfOVR0M0RWaUZmb3dxcG5GVk9uTkdtWVo5QVZMUUtFakdrQTRXQ21kblNrV1pHOVdnQkFvRC1JdnVta3RRVW9EVUhrdUIzOA?oc=5"
-        }
-      ],
+      "news": [],
       "announcements": [],
-      "weight_pct": 34.44
+      "weight_pct": 34.42
     },
     {
       "key": "linde",
@@ -231,28 +181,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5661.0,
+        "close": 5669.0,
         "prev_close": 5723.5,
-        "day_change_pct": -1.09,
+        "day_change_pct": -0.95,
         "open": 5700.0,
         "high": 5800.0,
-        "low": 5625.5,
-        "intraday_range_pct": 3.05,
-        "volume": 8993,
+        "low": 5623.0,
+        "intraday_range_pct": 3.09,
+        "volume": 13112,
         "avg_volume_20d": 19127,
-        "volume_vs_avg": 0.47,
-        "volatility_20d_annualised_pct": 26.37,
+        "volume_vs_avg": 0.69,
+        "volatility_20d_annualised_pct": 26.33,
         "high_52w": 7847.5,
-        "low_52w": 5661.0,
+        "low_52w": 5669.0,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2830500.0,
-        "pnl_inr": -150000.0,
-        "pnl_pct": -5.03
+        "market_value": 2834500.0,
+        "pnl_inr": -146000.0,
+        "pnl_pct": -4.9
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 13.8
+      "weight_pct": 13.82
     },
     {
       "key": "linc",
@@ -263,35 +213,35 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 83.2,
+        "close": 83.06,
         "prev_close": 89.67,
-        "day_change_pct": -7.22,
+        "day_change_pct": -7.37,
         "open": 89.0,
         "high": 90.0,
         "low": 83.0,
         "intraday_range_pct": 7.81,
-        "volume": 83848,
+        "volume": 87717,
         "avg_volume_20d": 58576,
-        "volume_vs_avg": 1.43,
-        "volatility_20d_annualised_pct": 90.75,
+        "volume_vs_avg": 1.5,
+        "volatility_20d_annualised_pct": 90.91,
         "high_52w": 130.64,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 83200.0,
-        "pnl_inr": -1800.0,
-        "pnl_pct": -2.12
+        "market_value": 83060.0,
+        "pnl_inr": -1940.0,
+        "pnl_pct": -2.28
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.41
+      "weight_pct": 0.4
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10459150.0,
-      "weight_pct": 50.98
+      "value": 10448520.0,
+      "weight_pct": 50.94
     },
     {
       "sector": "Cash",
@@ -300,25 +250,25 @@
     },
     {
       "sector": "Financials",
-      "value": 3147364.91,
-      "weight_pct": 15.34
+      "value": 3149650.91,
+      "weight_pct": 15.36
     },
     {
       "sector": "Industrial Gases",
-      "value": 2830500.0,
-      "weight_pct": 13.8
+      "value": 2834500.0,
+      "weight_pct": 13.82
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 83200.0,
-      "weight_pct": 0.41
+      "value": 83060.0,
+      "weight_pct": 0.4
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10459150.0,
-      "weight_pct": 50.98
+      "value": 10448520.0,
+      "weight_pct": 50.94
     },
     {
       "sector": "Cash",
@@ -327,32 +277,32 @@
     },
     {
       "sector": "Financials",
-      "value": 3147364.91,
-      "weight_pct": 15.34
+      "value": 3149650.91,
+      "weight_pct": 15.36
     },
     {
       "sector": "Industrial Gases",
-      "value": 2830500.0,
-      "weight_pct": 13.8
+      "value": 2834500.0,
+      "weight_pct": 13.82
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 83200.0,
-      "weight_pct": 0.41
+      "value": 83060.0,
+      "weight_pct": 0.4
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linc Ltd",
-      "pct": -2.12
+      "pct": -2.28
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -5.55
+      "pct": -5.48
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": -7.22
+      "pct": -7.37
     }
   },
   "transactions": [
