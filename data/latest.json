@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "27 Oct 2026, 09:32 AM IST",
+  "generated_at_ist": "27 Oct 2026, 10:32 AM IST",
   "as_of": "2026-10-27",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 21351000.0,
     "initial_capital": 10000000,
     "invested": 17143332.09,
-    "holdings_value": 16630806.09,
+    "holdings_value": 16602112.08,
     "cash": 3996174.49,
-    "value": 20626980.58,
-    "pnl_inr": -724019.42,
-    "pnl_pct": -3.39,
-    "unrealised_pnl_inr": -512526.0,
+    "value": 20598286.57,
+    "pnl_inr": -752713.43,
+    "pnl_pct": -3.53,
+    "unrealised_pnl_inr": -541220.01,
     "realised_pnl_inr": -211493.42,
-    "day_pnl_inr": 69021.56,
-    "day_pnl_pct": 0.34,
+    "day_pnl_inr": 40327.54,
+    "day_pnl_pct": 0.2,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22736.65,
-    "return_pct": -1.03,
-    "day_change_pct": -0.07
+    "close": 22725.3,
+    "return_pct": -1.08,
+    "day_change_pct": -0.12
   },
   "stocks": [
     {
@@ -34,26 +34,38 @@
       "google_finance_url": "https://www.google.com/finance/quote/HDFCBANK:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 688.35,
+        "close": 686.35,
         "prev_close": 688.05,
-        "day_change_pct": 0.04,
+        "day_change_pct": -0.25,
         "open": 689.7,
         "high": 690.25,
         "low": 683.6,
         "intraday_range_pct": 0.97,
-        "volume": 3953066,
+        "volume": 8026800,
         "avg_volume_20d": 30947836,
-        "volume_vs_avg": 0.13,
-        "volatility_20d_annualised_pct": 23.47,
+        "volume_vs_avg": 0.26,
+        "volatility_20d_annualised_pct": 23.43,
         "high_52w": 1009.5,
-        "low_52w": 687.1,
+        "low_52w": 686.35,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3147136.09,
-        "pnl_inr": -185166.0,
-        "pnl_pct": -5.56
+        "market_value": 3137992.09,
+        "pnl_inr": -194310.0,
+        "pnl_pct": -5.83
       },
       "news": [
+        {
+          "title": "Why are HDFC Bank shares steady as Bagchi officially takes charge as MD & CEO",
+          "source": "BusinessLine",
+          "published": "27 Oct 2026, 10:28 AM IST",
+          "link": "https://www.thehindubusinessline.com/markets/stock-markets/why-are-hdfc-bank-shares-steady-as-bagchi-officially-takes-charge-as-md-ceo/article71629819.ece"
+        },
+        {
+          "title": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
+          "source": "The Economic Times",
+          "published": "27 Oct 2026, 09:41 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPclZFdGVQbHp1bTE1c2piSG43SDBCMjFpck1HLXVDcnVNakVhdWF4NnlHb3Z5MlpVeHM3a2FybmR6LUNIUFVnX1RUekw1RnpCSXlnM3h3ek1ZRnI3X2dTSUM0UkFWUjZ5LXNZRlg2dVhxN3pjMXljdnczNTdnYnJxempRb0VaalJaa0hSMVpQOUlFV1dkZGVMb0tjanRESVlsSkVpV2FSUGZZWTJGRWFRR2FrMWVFel8wc1VCVjVzZFJnUExybU1yNmNFLVI5bmFKbXlWTWlHbkdTc0HSAeABQVVfeXFMTXV5SEl6ZFJBSWVfWEQtZkdJc3lzaUZWY0xzNDYtamM4dXBCWGFOOUZ1bjhOWHFPRExjbmI4VklDOEFUZUQ2WkJZVDNrNVluaS1wWktvQkRtVmNDODBLUnRianZlVEp2VXJjMGlHTmhURENRbE9vUnp1dmYwVEtpSlNZanVDbGR6ZTR4bk9ib1VIRGV5Y1VFOU1lQ2FZTGZ3a0F2NmV5OWlQM0dHTHZuWWV4RzM0cF9qMW1mY3M3SnNnT2VCSHI1ZFFKemtYM3BHTFpoUmQ1VUhCT0t4azVlcUQ?oc=5"
+        },
         {
           "title": "HDFC Bank CEO Transition: Sashidhar Jagdishan Exits As Anup Bagchi Takes Charge",
           "source": "NDTV Profit",
@@ -71,22 +83,10 @@
           "source": "Livemint",
           "published": "27 Oct 2026, 06:00 AM IST",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa1hYSkw1OFpHTzZQNDQ0cE5rQTI5UmtHcVNtQjNjWHRnM3pqQUQ1U3AtUDVPMGU1UVNKcDQ2RnU5VHJ6V3RFbGNyVlYyUkdJczJaTWlQemhfV0VlSVZYU1FfbHNkS01CRTU5OVBLR1NlQ2JfRVdVMXE2b1RzQ1FsY1ZiV0x4ZTZxY2ZaQjlQS0NoMGF4WVN3U202QzduaDk4NU1PTtIBqgFBVV95cUxNdkRGMmZsd2duY3ZES2hlTS12amxiODVUNVlWb3ZWNWEyWktvamhrYTZlWDdiek51QVRxbHVrQ2g3djVKOVdsVzBwYVRfc1lnTUN2dk9vVC1QTWhlZVdKc2psRDM2dDNJOHhWNVhNVVhRSzhCZzFSOWFkT2p4VEZnd3o0Q2szd3EtU1lVODl1c0VObjlNYzlZa3hpaFRiQXI2TEFVc2tSUXY2QQ?oc=5"
-        },
-        {
-          "title": "HDFC Bank ADR breaks down in Bear Flag: Live levels By Investing.com",
-          "source": "Investing.com India",
-          "published": "27 Oct 2026, 01:52 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0hYbWhnNmN1bG40eXA3NEJlemZPX21iRzdVTXluendiLUZDZC04U0VpdTN4dmN4SXRhb3NncFlvcldxVTNxQms4SXRxeTVOckU5YVB2STJGMC1kVXBPaVV5cWtRbHcwVXhZYmFwaDFMYzNxRmdxR2N6S1BtZHluREVZWm10VHJxRXVHZGhmZ202QnFKUUxRZTgzUlIxSEx1bU9Lci1DbEZKdkNYOE42aS0yNEwxT2ljTWRWeEtGUQ?oc=5"
-        },
-        {
-          "title": "Latest FD interest rates after recent rate changes: ICICI Bank, Indian Bank, SBI and HDFC Bank",
-          "source": "The Economic Times",
-          "published": "26 Oct 2026, 06:00 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNY1JvbEc0NHZMV2NVdzBmN0hHTVdEOW4zNjMxYmJoOXhEMWtRZnl6a2dsRUFNVWNOZnF0d1p5bmR4OHlEdzE5c1BCWk40TXcwSkxIR1U4eGNWbjUyakZteG5FQjVvLVJoUDZsajRhRll5Rk4zODNYZkJjTXJYZy1VSnd2RUx1OWxSeWVldVBuY1VQN2huZ2t6c25RaTZiTkxWUHhLZkExS3pNaFZTekp2M2V5djJFUFItaUVOWHBIYzN4VjRMcjI3VndYS0NKWVBrVEpVaEczMFFfczhpQXVvNEM5THAzUlF3MU9jZ19FREvSAfYBQVVfeXFMTTVoZEVsWmE1clYzSXZ4aU1jdmpnUThJZWROQ1hTN0xNdWdNRkRZR1JXaFNMOFNjNnVtZXJnajBLWlZJcy0xaGUyNFV2X2NyeW56MDZ1MUx1WWpZV0tnWjFvVEtYY2swXzZtSmxmRVEzM3BSa3IyOHR6NHlUT0VvaG9DNUNyTXhSdTk4bTRRbnNybjBmb3hqbVh5LWRweTdvSFVYOW1qZDR6SDRNOEdOMUlCbG83TjdYeGlXUmhMalFUYlIybFFZV2JNZVp5dTJxQVJyYmVRVW4wSFV0bGFUVV9GWWJhX2Q5NXF4bURydjFxbzhTdEh3?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 15.26
+      "weight_pct": 15.23
     },
     {
       "key": "maruti",
@@ -97,37 +97,37 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11325.0,
+        "close": 11403.0,
         "prev_close": 11230.0,
-        "day_change_pct": 0.85,
+        "day_change_pct": 1.54,
         "open": 11220.0,
-        "high": 11347.0,
+        "high": 11410.0,
         "low": 11190.0,
-        "intraday_range_pct": 1.4,
-        "volume": 56686,
+        "intraday_range_pct": 1.96,
+        "volume": 109146,
         "avg_volume_20d": 465466,
-        "volume_vs_avg": 0.12,
-        "volatility_20d_annualised_pct": 25.75,
+        "volume_vs_avg": 0.23,
+        "volatility_20d_annualised_pct": 26.26,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3284250.0,
-        "pnl_inr": -47560.0,
-        "pnl_pct": -1.43
+        "market_value": 3306870.0,
+        "pnl_inr": -24940.0,
+        "pnl_pct": -0.75
       },
       "news": [
         {
-          "title": "Q2 Results Today Live: L&T, Maruti Suzuki, Bajaj Auto, Tata Steel, Cipla, Vedanta Iron, Waaree Energies, Mazagon Dock, ACC, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results, Tata Consumer surge, Paytm flat, Sona BLW, ITC Hotels, BOM, KFin Tech, Ather gain after Q2 results, Dalmia, Sumitomo, Aequs shares tank",
+          "title": "Q2 Results Today Live: Onesource Specialty Q2 profit rises, L&T, Maruti Suzuki, Bajaj Auto, Tata Steel, Cipla, Vedanta Iron, Waaree Energies, Mazagon Dock, ACC, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results, Tata Consumer surge, Paytm flat, Sona BLW, ITC Hotels, BOM, KFin Tech, Ather gain after Q2 results, Dalmia, Sumitomo, Aequs shares tank",
           "source": "BusinessLine",
-          "published": "27 Oct 2026, 09:24 AM IST",
+          "published": "27 Oct 2026, 10:14 AM IST",
           "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece"
         },
         {
           "title": "Q2 results: L&T, Bajaj Auto, Maruti Suzuki, Cipla among 110 firms on Oct 27",
           "source": "Business Standard",
           "published": "27 Oct 2026, 09:12 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQckJySUdiVVVybkRhaEdkYkN6bV90bngzLVJGZzVLZ2ZSWTNVQmRqV1ZtYTJCbEMwRHd2LVlzMkNNZ2RueF9NR1Y2ektLNzJrZWJscTYwVHR6d2VGdF9WTHRCRHJ1X1ZZcnZfNF9hZjBSdFVZLUNhVU1ELWZQa0RKbWZ2LWxRRGNNVVlZWVoycVlwMUF4SFNGYXl2WURQN1kyMjZsMXlqTThSelRFanFMSmtCRVVDZ2Zkb2h5UUFZbTA3QUdudUlTX2FIbDdua2xXZkhEZHJfVlBzNkFDajY4ZFZvRlVldVpT0gHuAUFVX3lxTE5JZzdmSk9UTENGSlBkU0hSQXY5VVg4YTNCWFNqQmdHc0puNXhNb2xET3JBekdBVnYwZ1A5QzFBSktyU1lLSHo3bmhJbnpRbklZM2lSTzBuRDJDOFd3NXlLSENnRDVfWnRlS2c5WjBTZGVhMG9maFdtanRlRXJnbFBGT1U3N2E2ZGZiWkpvcGUtN01qTVI0U0ZwXzJNTTNZSnljTXpsLWNoY3dqTlNQNm1mbVZuX2dlb2dYNVVieVdtV0tDT1NULUtrMnhFWnQySzMzVXBjVnNGbllob2RuRFJwUGpHOE13bXdvbnFtRXc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQckJySUdiVVVybkRhaEdkYkN6bV90bngzLVJGZzVLZ2ZSWTNVQmRqV1ZtYTJCbEMwRHd2LVlzMkNNZ2RueF9NR1Y2ektLNzJrZWJscTYwVHR6d2VGdF9WTHRCRHJ1X1ZZcnZfNF9hZjBSdFVZLUNhVU1ELWZQa0RKbWZ2LWxRRGNNVVlZWVoycVlwMUF4SFNGYXl2WURQN1kyMjZsMXlqTThSelRFanFMSmtCRVVDZ2Zkb2h5UUFZbTA3QUdudUlTX2FIbDdua2xXZkhEZHJfVlBzNkFDajY4ZFZvRlVldVpT?oc=5"
         },
         {
           "title": "Q2 results 2026 today, schedule: L&T, Maruti Suzuki - 100 more firms to declare quarterly earnings; Oct 27 Tue list",
@@ -136,20 +136,20 @@
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdm5KQk45ZVplUW9VdXRLV1RxcG9VUm1YcWFpbkZjMU9NMDVrRU9QcFdoWXI5VXgxZk1LLVVUWVJYbDNZRHAtdUxVYzVvdmx6U0JEWERfWVhOVElodjM3MGZmZTZCUlVJaC11OW1GLV9fUUNDRk1IOTEyOV9TWW5GMjRWMV9NQlZabkIzTExUNC12Zm1GNFFlWWZLYVFFcGlTTDB3Njd6TUprb0VXSkczSE5HQnh5YXp2NjMxeW1KUHRyeV9UVWM2ZnZMZDZta1VZUjA1QmJDWjdIY01fTzF5V2IzUnA1UWZEXzdaZzN0WWhRZGJqZm5yTmNMbllsSXBuaGotNE52b2lwSUFzb0HSAZMCQVVfeXFMUFB6NjBucFBoWldzUGFTTWdhTEZFWE9ReTB4MTQ0MmJCTkpUbDQ3U2hmdWdCbWp2RVl0OUxvQ3ZVdGpLZjZqWG1qQlhabXYtd256QnJUU0dZRjVEUzQtbTNxeDZGQndYQ0tRbndpV0QwR1lpRnhlZ3JHZkpfRUZPM2dTOG4teVp6dzJjYjFFV1lyMlktOThLODRrTkVIeHg0cE1vRTBxMlNaV0hLOVVvdnBpbHB2VHY3N2Nfa3pRRzdRSTd4WWU4WG55b1d6NWJObmdLWFdYY292cTRfbUJrR25uX0dSLXFMbmdSQVptNkZ4STBNMUI4YXd2VEx5bVQwX1Z6SU1lTXByYUFGeWtRb3NNb1E?oc=5"
         },
         {
+          "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Current Trading Status",
+          "source": "Economic Times",
+          "published": "27 Oct 2026, 08:11 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-27-oct-2026/liveblog/135223066.cms"
+        },
+        {
           "title": "Stocks to watch: Tata group stocks, Paytm, Ather Energy, L&T, Maruti Suzuki",
           "source": "Business Standard",
           "published": "27 Oct 2026, 07:54 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbC13YkZOcUl2T1NzVEItcGstdEpVamVDamtoTTc4VHVkXy1aUUVDbDE3bVJXX2x1Z1BfOXBSRnRnODdQb0Y3TXo0aXB3cG5aTHZGY1Q0OU1HdGJtcTBIUjYwTjFveVhkcDE3WXRSTnA5OEJDQ2RfeEU5VnBMMDVfTkZCZHZWWF84emZESi1sdWdWVmRsYW1CcHVOaThGUUFBVmNvcVlFdkl2Ykc5OXpYNklFVUtYSFVWb0NjOV96T0dsTWdETFZUS3hrOFNaUGRfdkpqbVBJOEc0UDBFRDFOTVdn0gHnAUFVX3lxTFBOYklrU29Ud3ljYTdiMHZMNkdOa0dhalN1UkdsekJKdG9DUkUwTjkyTDFPMTd5UEp0VjBKZTRQaTd1bDl2WFFQN2RnaGtMalI3YmxMVTU3Mjh6bkNHVUFyN3lDTURDTGlTUTU3c28tcFdLZWZEVnZ4cjJsZjBpbEpHaUdJaUtYdTJiV0EzaDYtX0JTWHA3OGtzTW5PNU1IUnNMeUhuTjJVa3EwR25YU1JSX3k1RVlLM191ZVBfS3ptc2tUTExES2thSHQwRVlCY3BZMmRlV3Q5LVppcmhPeU01cEhEQ2twUQ?oc=5"
-        },
-        {
-          "title": "Top stocks to watch today:  L&amp;T, Maruti Suzuki, Paytm, REC shares in focus on Tuesday, 27 Oct | Full list",
-          "source": "Mint",
-          "published": "27 Oct 2026, 07:29 AM IST",
-          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-l-t-maruti-suzuki-paytm-rec-shares-in-focus-on-tuesday-27-oct-full-list-11793064919143.html"
         }
       ],
       "announcements": [],
-      "weight_pct": 15.92
+      "weight_pct": 16.05
     },
     {
       "key": "ashok",
@@ -160,24 +160,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 143.66,
+        "close": 144.15,
         "prev_close": 141.9,
-        "day_change_pct": 1.24,
+        "day_change_pct": 1.59,
         "open": 142.89,
-        "high": 144.14,
+        "high": 144.45,
         "low": 142.02,
-        "intraday_range_pct": 1.49,
-        "volume": 1594506,
+        "intraday_range_pct": 1.71,
+        "volume": 3099846,
         "avg_volume_20d": 13465003,
-        "volume_vs_avg": 0.12,
-        "volatility_20d_annualised_pct": 25.15,
+        "volume_vs_avg": 0.23,
+        "volatility_20d_annualised_pct": 25.49,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 143660.0,
-        "pnl_inr": -4060.0,
-        "pnl_pct": -2.75
+        "market_value": 144149.99,
+        "pnl_inr": -3570.01,
+        "pnl_pct": -2.42
       },
       "news": [
         {
@@ -199,26 +199,32 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7134.0,
+        "close": 7095.0,
         "prev_close": 7066.0,
-        "day_change_pct": 0.96,
+        "day_change_pct": 0.41,
         "open": 7069.5,
         "high": 7160.0,
         "low": 7067.5,
         "intraday_range_pct": 1.31,
-        "volume": 17621,
+        "volume": 47667,
         "avg_volume_20d": 416172,
-        "volume_vs_avg": 0.04,
-        "volatility_20d_annualised_pct": 28.21,
+        "volume_vs_avg": 0.11,
+        "volatility_20d_annualised_pct": 27.99,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7134000.0,
-        "pnl_inr": -132000.0,
-        "pnl_pct": -1.82
+        "market_value": 7095000.0,
+        "pnl_inr": -171000.0,
+        "pnl_pct": -2.35
       },
       "news": [
+        {
+          "title": "Eicher Motors Share Price Live Updates: Eicher Motors Stock Update",
+          "source": "Economic Times",
+          "published": "27 Oct 2026, 08:30 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-27-oct-2026/liveblog/135223306.cms"
+        },
         {
           "title": "Best auto stocks to buy ahead of Diwali 2026: Nuvama bets big on Eicher Motors, Hyundai and Tata Motors PV - Here's why",
           "source": "Livemint",
@@ -227,7 +233,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 34.59
+      "weight_pct": 34.44
     },
     {
       "key": "linde",
@@ -238,24 +244,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5670.0,
+        "close": 5662.0,
         "prev_close": 5723.5,
-        "day_change_pct": -0.93,
+        "day_change_pct": -1.07,
         "open": 5694.0,
         "high": 5694.0,
         "low": 5633.0,
         "intraday_range_pct": 1.07,
-        "volume": 648,
+        "volume": 1908,
         "avg_volume_20d": 19127,
-        "volume_vs_avg": 0.03,
-        "volatility_20d_annualised_pct": 26.33,
+        "volume_vs_avg": 0.1,
+        "volatility_20d_annualised_pct": 26.37,
         "high_52w": 7847.5,
-        "low_52w": 5670.0,
+        "low_52w": 5662.0,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2835000.0,
-        "pnl_inr": -145500.0,
-        "pnl_pct": -4.88
+        "market_value": 2831000.0,
+        "pnl_inr": -149500.0,
+        "pnl_pct": -5.02
       },
       "news": [],
       "announcements": [],
@@ -270,24 +276,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 86.76,
+        "close": 87.1,
         "prev_close": 89.67,
-        "day_change_pct": -3.25,
+        "day_change_pct": -2.87,
         "open": 87.49,
         "high": 90.0,
         "low": 86.15,
         "intraday_range_pct": 4.29,
-        "volume": 6496,
+        "volume": 11578,
         "avg_volume_20d": 58576,
-        "volume_vs_avg": 0.11,
-        "volatility_20d_annualised_pct": 87.82,
+        "volume_vs_avg": 0.2,
+        "volatility_20d_annualised_pct": 87.66,
         "high_52w": 130.64,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 86760.0,
-        "pnl_inr": 1760.0,
-        "pnl_pct": 2.07
+        "market_value": 87100.0,
+        "pnl_inr": 2100.0,
+        "pnl_pct": 2.47
       },
       "news": [],
       "announcements": [],
@@ -297,69 +303,69 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10561910.0,
+      "value": 10546019.99,
       "weight_pct": 51.2
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.37
+      "weight_pct": 19.4
     },
     {
       "sector": "Financials",
-      "value": 3147136.09,
-      "weight_pct": 15.26
+      "value": 3137992.09,
+      "weight_pct": 15.23
     },
     {
       "sector": "Industrial Gases",
-      "value": 2835000.0,
+      "value": 2831000.0,
       "weight_pct": 13.74
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 86760.0,
+      "value": 87100.0,
       "weight_pct": 0.42
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10561910.0,
+      "value": 10546019.99,
       "weight_pct": 51.2
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.37
+      "weight_pct": 19.4
     },
     {
       "sector": "Financials",
-      "value": 3147136.09,
-      "weight_pct": 15.26
+      "value": 3137992.09,
+      "weight_pct": 15.23
     },
     {
       "sector": "Industrial Gases",
-      "value": 2835000.0,
+      "value": 2831000.0,
       "weight_pct": 13.74
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 86760.0,
+      "value": 87100.0,
       "weight_pct": 0.42
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linc Ltd",
-      "pct": 2.07
+      "pct": 2.47
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -5.56
+      "pct": -5.83
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": -3.25
+      "pct": -2.87
     }
   },
   "transactions": [
