@@ -16,3 +16,6 @@ date,stock,type,shares,amount,price,note
 2026-10-22,zomato,SELL,ALL,,309.00,Sold 22-Oct-26 at live NSE price 309.00 (12:30:26 PM IST; source NSE_CMDATA)
 2026-10-22,,DEPOSIT,,85000,,Fresh virtual money to fund Linc Ltd
 2026-10-22,linc,BUY,1000,,85.00,Bought 22-Oct-26 at live NSE price 85.00 (12:30:26 PM IST; source NSE_CMDATA)
+2026-10-27,hdfc,SELL,ALL,,687.95,Sold 27-Oct-26 at 687.95 (12:08 PM IST per Business Standard quote)
+2026-10-27,,DEPOSIT,,1677200,,Fresh virtual money to fund Ather Energy
+2026-10-27,ather,BUY,1000,,1677.20,Bought 27-Oct-26 at 1677.20 (12:37 PM IST per Upstox quote)

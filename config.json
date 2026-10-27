@@ -21,10 +21,6 @@
         "hdfc bank"
       ],
       "news_query": "\"HDFC Bank\"",
-      "reports": {
-        "one_pager": "analysis/HDFC_Bank_OnePager.pdf",
-        "detailed": "analysis/HDFC_Bank_Detailed.pdf"
-      },
       "sector": "Financials"
     },
     {
@@ -172,6 +168,21 @@
       ],
       "news_query": "\"Linc Ltd\" OR \"Linc Pen\"",
       "sector": "Stationery & Writing Instruments"
+    },
+    {
+      "key": "ather",
+      "name": "Ather Energy",
+      "tickers": [
+        "ATHERENERG.NS"
+      ],
+      "weight": 0,
+      "bse_code": "544397",
+      "keywords": [
+        "ather energy",
+        "ather"
+      ],
+      "news_query": "\"Ather Energy\"",
+      "sector": "Automobiles"
     }
   ],
   "trusted_sources": [
