@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "27 Oct 2026, 10:32 AM IST",
+  "generated_at_ist": "27 Oct 2026, 11:33 AM IST",
   "as_of": "2026-10-27",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 21351000.0,
     "initial_capital": 10000000,
     "invested": 17143332.09,
-    "holdings_value": 16602112.08,
+    "holdings_value": 16645774.09,
     "cash": 3996174.49,
-    "value": 20598286.57,
-    "pnl_inr": -752713.43,
-    "pnl_pct": -3.53,
-    "unrealised_pnl_inr": -541220.01,
+    "value": 20641948.57,
+    "pnl_inr": -709051.43,
+    "pnl_pct": -3.32,
+    "unrealised_pnl_inr": -497558.0,
     "realised_pnl_inr": -211493.42,
-    "day_pnl_inr": 40327.54,
-    "day_pnl_pct": 0.2,
+    "day_pnl_inr": 83989.55,
+    "day_pnl_pct": 0.41,
     "open_positions": 6
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22725.3,
-    "return_pct": -1.08,
-    "day_change_pct": -0.12
+    "close": 22755.8,
+    "return_pct": -0.95,
+    "day_change_pct": 0.01
   },
   "stocks": [
     {
@@ -34,30 +34,36 @@
       "google_finance_url": "https://www.google.com/finance/quote/HDFCBANK:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 686.35,
+        "close": 687.35,
         "prev_close": 688.05,
-        "day_change_pct": -0.25,
+        "day_change_pct": -0.1,
         "open": 689.7,
         "high": 690.25,
         "low": 683.6,
         "intraday_range_pct": 0.97,
-        "volume": 8026800,
+        "volume": 11378402,
         "avg_volume_20d": 30947836,
-        "volume_vs_avg": 0.26,
-        "volatility_20d_annualised_pct": 23.43,
+        "volume_vs_avg": 0.37,
+        "volatility_20d_annualised_pct": 23.44,
         "high_52w": 1009.5,
-        "low_52w": 686.35,
+        "low_52w": 687.1,
         "shares": 4572,
         "base_price": 728.85,
-        "market_value": 3137992.09,
-        "pnl_inr": -194310.0,
-        "pnl_pct": -5.83
+        "market_value": 3142564.09,
+        "pnl_inr": -189738.0,
+        "pnl_pct": -5.69
       },
       "news": [
         {
-          "title": "Why are HDFC Bank shares steady as Bagchi officially takes charge as MD & CEO",
+          "title": "Anup Bagchi Takes Charge As HDFC Bank CEO: Top Challenges As Stock Nears Fresh 52-Week Low",
+          "source": "NDTV Profit",
+          "published": "27 Oct 2026, 10:56 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRkZkTFQyOThoaE5pZjEzNUdhcTF5WDZVbllQWnhVZVc4QU9jcEhCbTRwUGRwcEVTdnNtVnQtbnBoeVBmQWE2eWNUNlg0VTF5ZnEzN1Z1UVhyNGtlREdXMS1hb2VGTmc2N2ptYnM2ZW5KTXdSYVlnOVZSYTJZZ1dzYWF2a3BOdUhueVBPX3Z4VEdxZjhfbmJGc3NBMHFMek5VX0JuQ2h1Vks1OTRxSF9DZmVfbUx0bGJQZ0hrLUtFdm02d1VPaWV5RUIwRVVWMXkwRWNmNlFOdUJKTlFuX1JxbHJ30gHqAUFVX3lxTE5LOVp5S2dhb0ZON1NoZC1MMThpMUx5OXJSMUV3RzFXRE1Gd3UwVzVDUGFKRzZRSTh6N3ZXaHdCQ29XZnd5UFo4OWpBZ1A0T1pUeHV6dE5PVXU0WGt2VkJxS3Vwem9mTkJRWXRacThZZWgwaGU4cXpvck1hazFIVHN4WTNneEtkNW4wb0Q1Q2pFWFlVbGV2NExsVnZhS1EySGVObkxLa3RlX1pwamEzSEgtV19sSk10OElXZXVWbDRsUWIzUzdXSG5LQmc5VmpzT2I3ejhIc1l2S0I0VzJFYVdyNnc5cEFVRmluQQ?oc=5"
+        },
+        {
+          "title": "HDFC Bank shares steady as Bagchi takes charge as MD & CEO",
           "source": "BusinessLine",
-          "published": "27 Oct 2026, 10:28 AM IST",
+          "published": "27 Oct 2026, 10:42 AM IST",
           "link": "https://www.thehindubusinessline.com/markets/stock-markets/why-are-hdfc-bank-shares-steady-as-bagchi-officially-takes-charge-as-md-ceo/article71629819.ece"
         },
         {
@@ -73,12 +79,6 @@
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdHVvQ0E5Q0dxZTlKM3VfeVhjQ1JRdWF5bW5QS3otZGVOS2g1cDdmTG8wRENlWU9EWW0xMGNDVERVUHhKcWNUWEhLcy01SVF3V3BOTDBmcDc3Nzd3dXBJMG41OVl5aU9YQUtYNDFoa0t0NEhISlZ3VUpIajlhbldqWTZ5ekdIUXVMZmpXQXptSjNFd0RvMjdCTE1yTnU3enFqRnNqZXdiaEVJcm9rSWV0aE5GX2xVVEZjWUkyakdYZ2NvNE1GYVpfbUlsTlo1LU11MS1FUlZYZDJfOEJIbjdQddIB6AFBVV95cUxPTDM5WnVUaVNOTWlQd0VOSzdLUEZrS2dhUWZOcnBKNmNRaHEzMmpiSHFZXzlDT2Y0b2ZZaG1qb0g0QjliM3hBcEs2MkZuTVRZX3VGQXNnamNWWm5tQm9maWd1X2JrY3dPSnIxQUw1WG5oVUIzWUM0bVF1YkJKaXI0QVY4TXFCT3dQc3VDVWRMUVhnaDRYYnEwYkYtZTluelIxZkVPU1ZOUDVqVFEtNkRZd2ZfNjl0MmNyMlg0ZW1SRmpERVdJSXpEejZJcWZZQ0RpZlZ5WTNHbTNDWWVScUdhdEVab3VJVFdn?oc=5"
         },
         {
-          "title": "HDFC Bank Share Price Live Updates: HDFC Bank's Weekly Returns Dip",
-          "source": "Economic Times",
-          "published": "27 Oct 2026, 08:06 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-ltd-stock-price-today-live-27-oct-2026/liveblog/135222980.cms"
-        },
-        {
           "title": "Three challenges facing HDFC Bank’s new CEO",
           "source": "Livemint",
           "published": "27 Oct 2026, 06:00 AM IST",
@@ -86,7 +86,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.23
+      "weight_pct": 15.22
     },
     {
       "key": "maruti",
@@ -97,31 +97,37 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11403.0,
+        "close": 11385.0,
         "prev_close": 11230.0,
-        "day_change_pct": 1.54,
+        "day_change_pct": 1.38,
         "open": 11220.0,
-        "high": 11410.0,
+        "high": 11436.0,
         "low": 11190.0,
-        "intraday_range_pct": 1.96,
-        "volume": 109146,
+        "intraday_range_pct": 2.19,
+        "volume": 177195,
         "avg_volume_20d": 465466,
-        "volume_vs_avg": 0.23,
-        "volatility_20d_annualised_pct": 26.26,
+        "volume_vs_avg": 0.38,
+        "volatility_20d_annualised_pct": 26.12,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3306870.0,
-        "pnl_inr": -24940.0,
-        "pnl_pct": -0.75
+        "market_value": 3301650.0,
+        "pnl_inr": -30160.0,
+        "pnl_pct": -0.91
       },
       "news": [
         {
-          "title": "Q2 Results Today Live: Onesource Specialty Q2 profit rises, L&T, Maruti Suzuki, Bajaj Auto, Tata Steel, Cipla, Vedanta Iron, Waaree Energies, Mazagon Dock, ACC, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results, Tata Consumer surge, Paytm flat, Sona BLW, ITC Hotels, BOM, KFin Tech, Ather gain after Q2 results, Dalmia, Sumitomo, Aequs shares tank",
+          "title": "Q2 Results Today Live: Onesource Specialty Q2 profit rises, L&T, Maruti Suzuki, Bajaj Auto, Cipla, Vedanta Iron, Waaree Energies, Mazagon Dock, ACC, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results",
           "source": "BusinessLine",
-          "published": "27 Oct 2026, 10:14 AM IST",
+          "published": "27 Oct 2026, 11:29 AM IST",
           "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece"
+        },
+        {
+          "title": "Q2 Results Live: L&T, Maruti Suzuki, Tata Steel, Cipla, SBI Life, Bajaj Auto, Indus Towers, Waaree Energies In Focus",
+          "source": "NDTV Profit",
+          "published": "27 Oct 2026, 10:51 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPeVhySllSWDNyenJMVWRyTHJZcEhsakJ5NTJONWVveXFsekhSZ0VOUEpON09WU3NFVHJ4ajFFWkgtX3Q3R0VodDdNYVljNDBJU3pvbzdoeXp2NWZyaXZRVW5jXzFjOVUzcy11T3JQVmFJNndJNFppbUp2Q3hhbkdQakNQeEZPNWdiSVJRLW16QTE1RlVrRXpJVFZiSU5zVHZ5QWwyT2tvRnRoajY3NzA4YkZhTzVZcW92NDM4YjJWM2RtQWR0Q3U1bGdZdldiZmQ4OGNGaUdVTXRJWG5zNEFaLVZXQXp4Wk01cGJNcGtiQ2R6aU95WlhlUVhQeWZCX1JRZDFGeDJ0RGd5Uk5YVFV2WFJ6MXNFSkNOUVp5bmItZ9IBpwJBVV95cUxNOTRpRkZFdlliWmRCdUpHSjhNLVE1TkQxTk1DT3k5QmdyM1hybmZzRnFFSnMzMWx1dG1wSjlBWTFOS3I4Vm9ReUtuUDFyaTRIc1RIQnN5aEt0MHhPWkUxak1Kb1Q4eUJpbGNZdFBBY2d2ZUpQR2xzM2hrX2htcjNjSTYtV25pZDBZWTN0SWxUNUZzMXVnSHh3NXdLTDNJTnZGdk1qaUpLay0wM3RCMlJ4NGFwckVfclFUOHFyTTVnRDFEaDhKQkU1U1ZYRmJseWtWeklwUmJTcmRTcHQtUXVJZV9iLVN5MFZTTjNKUWFDTV85LVRPNU54MXNzMTNvRWppRktQZmY5NlRmeTJZRUFiVFBTWU8tODBIdWUzZ29LeFZkQi1UODFF?oc=5"
         },
         {
           "title": "Q2 results: L&T, Bajaj Auto, Maruti Suzuki, Cipla among 110 firms on Oct 27",
@@ -136,12 +142,6 @@
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdm5KQk45ZVplUW9VdXRLV1RxcG9VUm1YcWFpbkZjMU9NMDVrRU9QcFdoWXI5VXgxZk1LLVVUWVJYbDNZRHAtdUxVYzVvdmx6U0JEWERfWVhOVElodjM3MGZmZTZCUlVJaC11OW1GLV9fUUNDRk1IOTEyOV9TWW5GMjRWMV9NQlZabkIzTExUNC12Zm1GNFFlWWZLYVFFcGlTTDB3Njd6TUprb0VXSkczSE5HQnh5YXp2NjMxeW1KUHRyeV9UVWM2ZnZMZDZta1VZUjA1QmJDWjdIY01fTzF5V2IzUnA1UWZEXzdaZzN0WWhRZGJqZm5yTmNMbllsSXBuaGotNE52b2lwSUFzb0HSAZMCQVVfeXFMUFB6NjBucFBoWldzUGFTTWdhTEZFWE9ReTB4MTQ0MmJCTkpUbDQ3U2hmdWdCbWp2RVl0OUxvQ3ZVdGpLZjZqWG1qQlhabXYtd256QnJUU0dZRjVEUzQtbTNxeDZGQndYQ0tRbndpV0QwR1lpRnhlZ3JHZkpfRUZPM2dTOG4teVp6dzJjYjFFV1lyMlktOThLODRrTkVIeHg0cE1vRTBxMlNaV0hLOVVvdnBpbHB2VHY3N2Nfa3pRRzdRSTd4WWU4WG55b1d6NWJObmdLWFdYY292cTRfbUJrR25uX0dSLXFMbmdSQVptNkZ4STBNMUI4YXd2VEx5bVQwX1Z6SU1lTXByYUFGeWtRb3NNb1E?oc=5"
         },
         {
-          "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Current Trading Status",
-          "source": "Economic Times",
-          "published": "27 Oct 2026, 08:11 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-27-oct-2026/liveblog/135223066.cms"
-        },
-        {
           "title": "Stocks to watch: Tata group stocks, Paytm, Ather Energy, L&T, Maruti Suzuki",
           "source": "Business Standard",
           "published": "27 Oct 2026, 07:54 AM IST",
@@ -149,7 +149,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 16.05
+      "weight_pct": 15.99
     },
     {
       "key": "ashok",
@@ -160,24 +160,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 144.15,
+        "close": 144.56,
         "prev_close": 141.9,
-        "day_change_pct": 1.59,
+        "day_change_pct": 1.87,
         "open": 142.89,
-        "high": 144.45,
+        "high": 145.0,
         "low": 142.02,
-        "intraday_range_pct": 1.71,
-        "volume": 3099846,
+        "intraday_range_pct": 2.1,
+        "volume": 5979750,
         "avg_volume_20d": 13465003,
-        "volume_vs_avg": 0.23,
-        "volatility_20d_annualised_pct": 25.49,
+        "volume_vs_avg": 0.44,
+        "volatility_20d_annualised_pct": 25.82,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 144149.99,
-        "pnl_inr": -3570.01,
-        "pnl_pct": -2.42
+        "market_value": 144560.0,
+        "pnl_inr": -3160.0,
+        "pnl_pct": -2.14
       },
       "news": [
         {
@@ -199,24 +199,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7095.0,
+        "close": 7138.0,
         "prev_close": 7066.0,
-        "day_change_pct": 0.41,
+        "day_change_pct": 1.02,
         "open": 7069.5,
         "high": 7160.0,
         "low": 7067.5,
         "intraday_range_pct": 1.31,
-        "volume": 47667,
+        "volume": 77936,
         "avg_volume_20d": 416172,
-        "volume_vs_avg": 0.11,
-        "volatility_20d_annualised_pct": 27.99,
+        "volume_vs_avg": 0.19,
+        "volatility_20d_annualised_pct": 28.24,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7095000.0,
-        "pnl_inr": -171000.0,
-        "pnl_pct": -2.35
+        "market_value": 7138000.0,
+        "pnl_inr": -128000.0,
+        "pnl_pct": -1.76
       },
       "news": [
         {
@@ -233,7 +233,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 34.44
+      "weight_pct": 34.58
     },
     {
       "key": "linde",
@@ -244,28 +244,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5662.0,
+        "close": 5664.5,
         "prev_close": 5723.5,
-        "day_change_pct": -1.07,
+        "day_change_pct": -1.03,
         "open": 5694.0,
         "high": 5694.0,
         "low": 5633.0,
         "intraday_range_pct": 1.07,
-        "volume": 1908,
+        "volume": 3031,
         "avg_volume_20d": 19127,
-        "volume_vs_avg": 0.1,
-        "volatility_20d_annualised_pct": 26.37,
+        "volume_vs_avg": 0.16,
+        "volatility_20d_annualised_pct": 26.36,
         "high_52w": 7847.5,
-        "low_52w": 5662.0,
+        "low_52w": 5664.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2831000.0,
-        "pnl_inr": -149500.0,
-        "pnl_pct": -5.02
+        "market_value": 2832250.0,
+        "pnl_inr": -148250.0,
+        "pnl_pct": -4.97
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 13.74
+      "weight_pct": 13.72
     },
     {
       "key": "linc",
@@ -276,24 +276,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 87.1,
+        "close": 86.75,
         "prev_close": 89.67,
-        "day_change_pct": -2.87,
+        "day_change_pct": -3.26,
         "open": 87.49,
         "high": 90.0,
         "low": 86.15,
         "intraday_range_pct": 4.29,
-        "volume": 11578,
+        "volume": 12450,
         "avg_volume_20d": 58576,
-        "volume_vs_avg": 0.2,
-        "volatility_20d_annualised_pct": 87.66,
+        "volume_vs_avg": 0.21,
+        "volatility_20d_annualised_pct": 87.83,
         "high_52w": 130.64,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 87100.0,
-        "pnl_inr": 2100.0,
-        "pnl_pct": 2.47
+        "market_value": 86750.0,
+        "pnl_inr": 1750.0,
+        "pnl_pct": 2.06
       },
       "news": [],
       "announcements": [],
@@ -303,69 +303,69 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 10546019.99,
-      "weight_pct": 51.2
+      "value": 10584210.0,
+      "weight_pct": 51.28
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.4
+      "weight_pct": 19.36
     },
     {
       "sector": "Financials",
-      "value": 3137992.09,
-      "weight_pct": 15.23
+      "value": 3142564.09,
+      "weight_pct": 15.22
     },
     {
       "sector": "Industrial Gases",
-      "value": 2831000.0,
-      "weight_pct": 13.74
+      "value": 2832250.0,
+      "weight_pct": 13.72
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 87100.0,
+      "value": 86750.0,
       "weight_pct": 0.42
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 10546019.99,
-      "weight_pct": 51.2
+      "value": 10584210.0,
+      "weight_pct": 51.28
     },
     {
       "sector": "Cash",
       "value": 3996174.49,
-      "weight_pct": 19.4
+      "weight_pct": 19.36
     },
     {
       "sector": "Financials",
-      "value": 3137992.09,
-      "weight_pct": 15.23
+      "value": 3142564.09,
+      "weight_pct": 15.22
     },
     {
       "sector": "Industrial Gases",
-      "value": 2831000.0,
-      "weight_pct": 13.74
+      "value": 2832250.0,
+      "weight_pct": 13.72
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 87100.0,
+      "value": 86750.0,
       "weight_pct": 0.42
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linc Ltd",
-      "pct": 2.47
+      "pct": 2.06
     },
     "worst_since_buy": {
       "name": "HDFC Bank",
-      "pct": -5.83
+      "pct": -5.69
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": -2.87
+      "pct": -3.26
     }
   },
   "transactions": [
