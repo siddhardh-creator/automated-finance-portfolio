@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "27 Oct 2026, 09:06 PM IST",
+  "generated_at_ist": "27 Oct 2026, 11:28 PM IST",
   "as_of": "2026-10-27",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 23159530.0,
@@ -55,10 +55,22 @@
       },
       "news": [
         {
-          "title": "Q2 Results Today Live: Bajaj Auto Q2 PAT up 35%, Maruti Suzuki & Cipla profit down, ACC, Mazagon Dock PAT tumbles, Honeywell Automation PAT up, L&T, Vedanta Iron, Waaree Energies, SAIL, SBI Life, Tata Capital, Star Health, ABDL to announce Q2 results",
+          "title": "Maruti Q2 profit declines 26% YoY, hit by global tensions, adverse forex movement",
           "source": "BusinessLine",
-          "published": "27 Oct 2026, 08:52 PM IST",
-          "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece"
+          "published": "27 Oct 2026, 09:13 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWkxnSjRiaC13YVVaUDRTRW9XX3VydWp3dWtzWTNjU0o3UFFuUUVwQ0RVNnFPQlJ1R1F4aWpFU2U0ZzFoUTk4bF91dHZ1Wm9ubU9YNmIyNkJ4aS1BSW1jS1A5b1FxSWxleWRFT3oweEx4RUZtQWpYVEI1YUxTV0Frb1Z4aEdtaC0tSnpzYUt5YmxfeHNKSTFYbmJQa2MxZzhPbGo1ZWt6N01iWkx6cUVJbWIzU3hOX3FhWlpxRC0zd25tZDEwSWIwbFBPRHNET2RIbEQzSkZJR25Dc1lhcnfSAeQBQVVfeXFMUFBOZ3B3V1BpUTFMcS02SWtmUzRucFpFMWNPTEJOTW9vVjdSNF9zNnpGem1IOFZ5YmVWTWtWd252eEhoT1NVUk8tczNHdDZyVk5tdlJLSmp6czkyODlDWUpYQWMzU1Rvb25JYzljQnQ2VmlGRDU3RmtMOEtUUmFaSjVyRmREU2I2a0RIb1BkaE5CdnRMWnNkRDVsNkJtVERUdzhNbURxdGxLM1pCaFV4MVhMR3d5VFVvTDBuZGhOeXdUdWRaTjJHMlZpWTNGSXdEQmh0QjczcTlVSjFmbkJFZVZhSlJ6?oc=5"
+        },
+        {
+          "title": "Small cars are far from dead, India isn't just an SUV market: Maruti Suzuki Chairman R C Bhargava",
+          "source": "Moneycontrol.com",
+          "published": "27 Oct 2026, 09:04 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1NxNVdpS0ZZS0xsTEVrZmdkZmFiTkdxVEw1RkpuMGpSUF8wV0pVbE93bDFkOE5PaDQtTkRTdndjY2lmemlLQWN6NVdmTlZfVU1sdEtXRUpCZXY0cDFlZGtJc0JpYmZOWWVCUU5sQk10Y1dhR0o5Z2RHWXhtSWRsenlHYWNBcndad1pKeDdUR3N3VW1kS2NBN2NCVDJLVVVGTVZ5TWQ3Vkh0bllKSDZXeVNDVnl3WDMtZXoydGxIa3JzcUY2LUZOdGNuaENrdWlhbno4ZXVtaDdqNWZ2aWtMTFduZVNST0dIbWtPSUln0gHzAUFVX3lxTE54bzk1Q2t0UmxDQzUyMmJoNzdoQ0Rwa2tyUDhRMFhSMldGUkZMNmNWcTN0S012LTNYUFNIREJaQ3FreTBObjJ6NE13cVozNDJqc0RnME9fbTZfS2tLWmVsc3FyemZSbkt5cjZyN3dJTDhRdjV1eUFHeWlFQ2w3N1dxNGh1UUJyb3FSZ1dDbC1nbTZ4Q0kyN1BHUFlIZXFtVmlNOFJaUGNaU1ZSbXBYZmRjMG40SkcySzlzSXZZbGVGdW1CU2JpNzQ1ZlVVMDZ6VWNVXzI1Z1JpU25fUGFfWkJrT3lGWVBoaVQ2Qy1nWTdvVFpmTQ?oc=5"
+        },
+        {
+          "title": "Q2 Results Today Highlgihts: Bajaj Auto Q2 PAT up 35%, Maruti Suzuki & Cipla profit down, ACC, Mazagon Dock PAT tumbles, Honeywell Automation PAT up, L&T, Vedanta Iron, Waaree Energies, SAIL, SBI Life, Tata Capital, Star Health, ABDL to announce Q2 results",
+          "source": "BusinessLine",
+          "published": "27 Oct 2026, 08:58 PM IST",
+          "link": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece"
         },
         {
           "title": "Maruti Suzuki flags rural demand risks as Q2 profit falls 26%",
@@ -70,19 +82,7 @@
           "title": "Maruti Q2 profit falls 27% on West Asia headwinds; sales surge 26.5%",
           "source": "The Hindu",
           "published": "27 Oct 2026, 08:06 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaEpMeGpBc1NXQzExcmxIZnk5T1AtVGxyZEJ4OHhFNzctcElpMjZtaHJ5WEZqVTI0SnBrZ3BqMmdMRl9za2N0eXYwYmppZ2hxNmxfakZrYTJTMzFFSlJDZzFXYVJyZ2szM2daN3l6VVc1VldTNkVJbHowcWJxT2tBY3k2X042SjlVeFZfVjNjM21VRGEtMWVFUzFnZ0pMeXZDUk9tZzNvTHBpREFvd3Fhdm5mbW1GWjAta2RXYm1jbW55LVFYX1E?oc=5"
-        },
-        {
-          "title": "Aligned with industry body to delay BS-VII rules: Maruti Suzuki MD",
-          "source": "BusinessLine",
-          "published": "27 Oct 2026, 07:26 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0t5b2JYeUlVZkF2b3JmQVNHNTJib0luSjJ3VFlFRFlWdEVNYXBXQ3dPWmRuMTJDaFF5Ym80VGJBNVdFU3h3X2QzYmRxZm5SREkzMUFWaHMzT2NGcjk4R1NwY0g0RTJjdi1hMGNpQnBveUxBN18tOVlBZGFlc28tclZNci1sRHhQQUFhY0FsVUN5NEFYTnoxMWJtT3VFZ3lDNkVwaC1aUGhDelFER3g1d3JjTkZnTTZZRS1jT3ZHdkZadGRsQ04zaW5BWUPSAdMBQVVfeXFMTXZ4dEMzeGJUemdPZDlXaU5CUHNFYjFOek1IOFNYaDRPOFBsY1Utak1fMlRic25zMmFQQ3JTcTJqYWdfeEVLM0V2OEkzaFI1dHRYamY1ZDV3Nnp5a0kzckpXV1UyTk9vWVRKdkpROEhSRjZDWlE4T0hGZGk1MUxfVDVLTGlfV0QxUFdhQzI2U2RpSEd1SFdaMWZnVVI2VXZkRW5MM2hfM29GWGJHQlhab1ZIN3VLZmFYeDk4T1JjM2MycFRUdml0ZFBVdmo4MUJNak5Vcw?oc=5"
-        },
-        {
-          "title": "Earnings call transcript: Maruti Suzuki posts record sales in Q2 2027",
-          "source": "Investing.com India",
-          "published": "27 Oct 2026, 06:52 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelg3czliVkZILXhqZlppeFRtcEhGQlJlVFljd1JlOGNDUFpDQ2ZYWDdGTkNBS2MxZFpuZTNwMkwxbXUtRVNidmpWaUpYLTluTS1IeTl6end5NmwtS1VjcW4xTG9wM2w0d09GVHFhSk1TZmM1Z1NEM2ZaSFZNTjhvRy1mVnI3NFBlM1NDeF8zNVJZX3ZsTF9yeVJQaU81YzZ4RHRfek1KZV9uak1HLUcwdzhCeVhFeVA2c3o3MXhMMU9yVWUtUWoxSg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaEpMeGpBc1NXQzExcmxIZnk5T1AtVGxyZEJ4OHhFNzctcElpMjZtaHJ5WEZqVTI0SnBrZ3BqMmdMRl9za2N0eXYwYmppZ2hxNmxfakZrYTJTMzFFSlJDZzFXYVJyZ2szM2daN3l6VVc1VldTNkVJbHowcWJxT2tBY3k2X042SjlVeFZfVjNjM21VRGEtMWVFUzFnZ0pMeXZDUk9tZzNvTHBpREFvd3Fhdm5mbW1GWjAta2RXYm1jbW55LVFYX1HSAcwBQVVfeXFMUFliczNmd3RvRWtQOTFBeUxNV1A4S2Ezd2E3ekpnbE0xZXNqYWdrcDJmX0FoQncySEhiVUlnN3dGNEc0OGlVbTFZbVZBU0VVV2Nfam9kdkswR3RMR1hsVGZmN2dwMEhvNkhBeF9FZU5sU2N2c3hSaVpISjVnYUZuMmI0b3lFWVNoZWZJVlpEX1NaTlU3MmQ5ak52dzdUMEZraWpnNHBtSXJlYktDNHdmMHZuaDBJNDhodUQzLXZQVTkxb2p6ZldqaFhObExX?oc=5"
         }
       ],
       "announcements": [],
@@ -335,22 +335,22 @@
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1l0Y09RN2x2NTNuaU1LbU5IZU1WN0dHQnV2ZlZfYU5qejZtRy1vMzVMcEhoeHVheUVRSlhaUEp4VE5TYWstNjVDLW53OU9XR2k4MzB3TUJUOTdiejNWcmRtTjhFaFBFaURvb0l0MzVnQU9BQnN4YWNhTWUwSmhMaDBlRlpxTzl0YkFORGpkdWl3LVEwbFZyNk5lZlZZUmFOVC05Qnd2WHprOGZKMDdxNVdxQV9FZUUtN1FrZnZOVnZfWV9TZTFTWEh3bHMxc2RXOFJWRXpKcTF0SnQtSXfSAeMBQVVfeXFMUDJsOHRNcDIwRlNJRGs0MWlLRWg1Mi1CTXRqbk4ycWdLRGtPbGtQWTZjbTkyc0pobmpleXFSZUlrc0JXYWQ5bHY0QXc1WGdGYmxWUGhLZWdFUWg4cFYtLWtiVVUzcmxkamZNX3pCbVhNNDhMMFNRck16UFJtM0s5eHg0U2d2ZXQwdVdiNGdjQnJEa0JuSGVmRjlVZ0pEcDJ1ZVFqODFOaGRsOUVBbkJRMXkyUGFUa1RVOGRwN3M0QzVHUVB3Y3dXZzhjQnptQnFGTldfR0lsYUJzNUpfN2pXMklVTlk?oc=5"
         },
         {
+          "title": "Bank Of India - Mankind Pharma among 5 F&O stocks with a sharp rise in futures open interest",
+          "source": "The Economic Times",
+          "published": "27 Oct 2026, 12:44 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTDRCS0dsdG4zalUzY2tSSDZoZHc1Y00wWWxZYmxjeWMyYk45dURHNlhTWE1kWF9Hd1A2VExDSUxMQ1kya0c2cDN4M1ppbHZMQkJzUGJ2RmJpWHNZUFF2NHFXZjdkUTBfWkN1dXFiRmJ3QTlSLXM0M1BYTnpPZW82YmNoMlJIVksxSmxWY1NYOHl3ckhZSVFGX3huczZka1hYekZYU1BkS2JndjFuQXlMbDFNMU83UnJ4V09rVm9iamw0VHZQdWozbS01ZUZrN1haQU1pa3pEXzdac3VvSGtyT3kzbFpja1RLRmJhZWRMQ05fZHNjUEJV?oc=5"
+        },
+        {
           "title": "Bank of India shares fall up to 5.5% post-Q2 results as global NIM falls to 2.47% QoQ",
           "source": "Moneycontrol.com",
           "published": "26 Oct 2026, 01:46 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGlUaU9kcW5meXRzWmVpdGh3OGszdEVONkJqc0c3SGhyeXJZMGdaZ3VhS2dhYVR1bGhDRHVyWXkwQ0FSbDU4ZzhjSVNKb2xLMTM1SzhCYlFqYUJ0N3ExRThHa29nQWJNNkR6RTMwNmhzZ2E2N2Q4SGhHRk5mdkhnVjlXc1dxb1BJUERUaGxMTzhkWGMtUnVSMGVnYXJlcmM4b2NkSUpCSUR0UVQ1Z2wwYXNfck5VUUdDX0RIYUgxeGlRUHROdDhqYURiRzZKdlFOdWIwaDNEdnY2LW9rQVF2LXFn0gHnAUFVX3lxTFBEY01jUnRqVHd1dHpOdzlUN0t3dm5jQmhUVGlDakFubTVGTDF3RTZhenZCbDJGVXJDcDhORGNxMFlFQUw4cGV4am5sMWpELWh1dUQzS1FkbkNOUW96X05xVmRsRl91ODV0bDE3U2Z4RlFzMnNxbmpmQkJzcXZYWVgwSGlJUHlFV2VVOEdCOGJZOUxqbWlxM05TMVJ3X1I5VFlYOFRsZ1RTaFZzQl8tNjNyclRMT2JMRmZYaWpIaXU2TVdlZFBzRWJkdlhrV0VSVGhkY202eDh2NDNKM3VfSF93YWFha1U5Zw?oc=5"
         },
         {
-          "title": "Central Bank of India resumes RTGS services; no customer impact due to tech glitch",
-          "source": "BusinessLine",
-          "published": "26 Oct 2026, 07:20 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbndfS29uMkxmQXhIMjRDeVhVREFHempVd0ZwUEpoQXFrUGRoY1pjbk8ycjg0NnhHbGxkV05XYzhGanFUT3RXZmlBcTZTdTN3SUdCR0tvaUl3MlM5MFpnMkhoVnZlWGxDNWYzaUpSR3QtY1c1TDM4U3RxWF9pMnRRM29yajQ0cEREZks1ZkZQX0FqandMZGxGamVfNXlmZVlBTW1CV29USUo3N1YwajNmcjk0WGQ0azdLT2dZLWtFZGNSbW1lRFg1bGNIZ3hxemVZLXI4bXg2R196anZESzg0TW96MjBSSEh5UllkOdIB8wFBVV95cUxQUGNOUUJXT1hKNlZWS2dHbHJIVmxibGdralRjRHlXaGIwbHVVMG1qQ1QySXF2ZGlTQkNfaEhaNlhkakJMOXB3Y2VXTXlrSmxqazNwMWNzUk1qeHNPYm1wWmVIZEVHallGa1NkZ1VqQVd4YUZNSEMtcHphT0p3YzRsVTAyQ0R1blp2N1pPM0hObUtVbXltWEo1MzhPSjNpZGUzdTh2T2ZqNGU3cElIMjE3S1NXU0NSTk9TcWgxaUw1MkFHbVNCU1dUN2plN3BvSzNMd1hGdUtfMEk2UGlRWHdaSWM2RG9IX3JTMlJtbmJsUF92ZGs?oc=5"
-        },
-        {
-          "title": "Stocks to Watch Today: Infosys, Kotak Bank, Lupin, KEC International, Bank of India, Coforge, Bharat...",
-          "source": "Moneycontrol.com",
-          "published": "26 Oct 2026, 01:19 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcUdENFh1VUFFYXlqZVBvYUlIQXE1aEZuOHNoZjFnN0Z4TzExOXJLbkk1Qy0zSUpja3lBM2J4Tk8xSHNlVm80cE1MandLWU81dkVvdkhZVy1jWWN5elpXT3pUVS1ZaGVFbGpjbFFnR0RLZWxNSURzOHhzblllWnkzQmVkZ0FOZjlCOGRzWTlIdWJCRVpWQzk0S2FMU19TcnRjQlM1V09vQVNEbDlqMVlmWXpYT3JiMjFQYkVCUlFIOERPX3BuUWtwRVV5bmpremItc1FMaTRuN09LM1E3Ul9sM0FoOHN2N2ZHeTU4cG9NOWZ0NEFucGxyQWxJSXNqODI3SExPYlVXdlZfZENXbVgzLWV4QkRvaEhfc0k5U1FnT0VsYzkwdTIwRzdIMUxvZlBhQXkxUUp0bEVBVl9wRHY5d1AyWi3SAcoCQVVfeXFMUGhWdUNoOU9jT2s3VlM2OFRwNEkxVXo2X2tXbjdWbzM4TXpEZHctbUlFYzlOYmVGcGtJUklKcm8wMVV2Y3d5MGtlYWVPdGZDcFpfZVZ6OU41alFnNGxabjA0UGE3eTRzUmlnY2dBZGFFYkJOS2FCb2wzSnE1cDdNLVd3ck10UVhLblIzUnpndnZxVkFDOV9YcWpQTmNkWEhZMk4wMWo1NlpZaXJCTXBpWHhNMzFrU01OcmxFbDAzMlluWGVONG9sVzRDMDNZQlZEbk9BNXhhbmVZQ1JlSnhWVm15Q2dQNXB3MGQ1MnJocF9kV0h0Q1Y3UnNNX3d3Z1ZMVWpMeUpCbjNlUEZWQ2VtY2M2aTA0a2NDVGJGRzlBRkdyeGlSMVhsZmJQN1lpQVN5eUxtR3FBaXVIR0hOWlZiTzhWanZCQ09pb2NB?oc=5"
+          "title": "Central Bank of India clarifies all accounts are safe after reports of 187 unauthorised transactions worth",
+          "source": "The Economic Times",
+          "published": "26 Oct 2026, 01:40 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbklYZFp4aWF3MDI0SzNETV91UGtieTl6b0VvOWNEWlRmbUR0ZTRqMW1weTVoQlMtTlUwb0xSQ0VYMENEaEFMZnZMVXlYNGhDZ1FXZHFraDF6UERXM1M2bnh2NWlPOFNLNlhOanoteklSRUJERmt4TDFCRnJSTHlrakthYWJnemFfVTdoU0xucml4ek5fdFMwMW9MZndHTVViMWJmbE5zVXNZdmU1ejNQUkxfU3VacEpwaGQ3cTlhbkR2dDAzcHktd09wbDA5LU5yY2NRTkVpeEhKREpkVW1tdy1jSFlQWnpRcnF2ek5uSENCYU9sTjk4cFhOaHZqUG9fUy11b01LalZubzhfQkRyV2d2SGZzZ9IBmwJBVV95cUxPT0ZhbUo0aTdQOXlWa2RhenY2V2pmX3dQaktXMmhodXR2R0VuYVhXRllnSm4waVdtY05iSjNrNExleXlKREJsRjg5elNVYzhVRl8zeWpvQ01PZVA5bEMyOXJvN25ZMGtIelhWcG5WZTNjbl9Od2MyZGJfTGZPU1VwZGNNajBrdVNMbUEtR2w2a1g4OGwwb0lJMWtVaG9GeUt6dUkwTFF1WHkyRXBwSzFFbElrV2FpbENmRXk3NUZkMnlIWi1sZVRPZU1pUXBNVGQzRWFSZGFRYUF1S1ZJVm53Q0pTakVDY2p0YmlySVFiWmhqZGtpdUo3bmRBa2F0b2FFTjZVem9kWFRSVHk3eTlsbUtlZks4bUJsNjZv?oc=5"
         }
       ],
       "announcements": [],
