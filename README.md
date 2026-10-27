@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 26 Oct 2026, 09:50 PM IST  |  **Market data as of:** 2026-10-26  |  **Start date:** 2026-10-16
+**Last updated:** 27 Oct 2026, 09:32 AM IST  |  **Market data as of:** 2026-10-27  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,13 +14,13 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,05,37,899** |
-| Total P&L | **-₹8,13,101 (-3.81%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹6,01,608 |
+| Current value | **₹2,06,26,981** |
+| Total P&L | **-₹7,24,019 (-3.39%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹5,12,526 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹2,11,493 |
-| Today's change | -₹44,827 (-0.22%) |
-| Nifty 50 since start (same money invested) | -0.96% |
-| Outperformance vs Nifty 50 | -2.85% |
+| Today's change | ₹69,022 (+0.34%) |
+| Nifty 50 since start (same money invested) | -1.03% |
+| Outperformance vs Nifty 50 | -2.36% |
 | Cash (uninvested) | ₹39,96,174 |
 | Virtual money put in | ₹2,13,51,000 |
 
@@ -32,14 +32,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| HDFC Bank | 4,572 | ₹728.85 | ₹688.05 | - | ₹692.80 | -0.69% | ₹31,45,765 | 15.3% | -₹1,86,538 | -5.60% |
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,220.00 | - | ₹11,230.00 | -0.09% | ₹32,53,800 | 15.8% | -₹78,010 | -2.34% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹141.90 | - | ₹144.95 | -2.10% | ₹1,41,900 | 0.7% | -₹5,820 | -3.94% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,099.50 | - | ₹7,066.00 | +0.47% | ₹70,99,500 | 34.6% | -₹1,66,500 | -2.29% |
-| Linde India | 500 | ₹5,961.00 | ₹5,632.50 | - | ₹5,723.50 | -1.59% | ₹28,16,250 | 13.7% | -₹1,64,250 | -5.51% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹84.51 | - | ₹89.67 | -5.75% | ₹84,510 | 0.4% | -₹490 | -0.58% |
+| HDFC Bank | 4,572 | ₹728.85 | ₹688.35 | - | ₹688.05 | +0.04% | ₹31,47,136 | 15.3% | -₹1,85,166 | -5.56% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,325.00 | - | ₹11,230.00 | +0.85% | ₹32,84,250 | 15.9% | -₹47,560 | -1.43% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹143.66 | - | ₹141.90 | +1.24% | ₹1,43,660 | 0.7% | -₹4,060 | -2.75% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,134.00 | - | ₹7,066.00 | +0.96% | ₹71,34,000 | 34.6% | -₹1,32,000 | -1.82% |
+| Linde India | 500 | ₹5,961.00 | ₹5,670.00 | - | ₹5,723.50 | -0.93% | ₹28,35,000 | 13.7% | -₹1,45,500 | -4.88% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹86.76 | - | ₹89.67 | -3.25% | ₹86,760 | 0.4% | ₹1,760 | +2.07% |
 
-**Best since buy:** Linc Ltd (-0.58%)  ·  **Worst since buy:** HDFC Bank (-5.60%)  ·  **Biggest mover today:** Linc Ltd (-5.75%)
+**Best since buy:** Linc Ltd (+2.07%)  ·  **Worst since buy:** HDFC Bank (-5.56%)  ·  **Biggest mover today:** Linc Ltd (-3.25%)
 
 ## Allocation
 
@@ -47,11 +47,11 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,04,95,200 | 51.1% |
-| Cash | ₹39,96,174 | 19.5% |
-| Financials | ₹31,45,765 | 15.3% |
-| Industrial Gases | ₹28,16,250 | 13.7% |
-| Stationery & Writing Instruments | ₹84,510 | 0.4% |
+| Automobiles | ₹1,05,61,910 | 51.2% |
+| Cash | ₹39,96,174 | 19.4% |
+| Financials | ₹31,47,136 | 15.3% |
+| Industrial Gases | ₹28,35,000 | 13.7% |
+| Stationery & Writing Instruments | ₹86,760 | 0.4% |
 
 ## Performance
 
@@ -105,7 +105,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹688.05 | -0.69% | ₹684.00 - ₹693.80 | 23,485,616 | 31,252,108 | 0.75x | 23.85% | ₹687.10 - ₹1,009.50 |
+| ₹688.35 | +0.04% | ₹683.60 - ₹690.25 | 3,953,066 | 30,947,836 | 0.13x | 23.47% | ₹687.10 - ₹1,009.50 |
 
 **Research reports**
 
@@ -120,11 +120,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [HDFC Bank ADR nears key $21.71 support in downtrend: Live levels By Investing.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0hYbWhnNmN1bG40eXA3NEJlemZPX21iRzdVTXluendiLUZDZC04U0VpdTN4dmN4SXRhb3NncFlvcldxVTNxQms4SXRxeTVOckU5YVB2STJGMC1kVXBPaVV5cWtRbHcwVXhZYmFwaDFMYzNxRmdxR2N6S1BtZHluREVZWm10VHJxRXVHZGhmZ202QnFKUUxRZTgzUlIxSEx1bU9Lci1DbEZKdkNYOE42aS0yNEwxT2ljTWRWeEtGUQ?oc=5) - _Investing.com India, 26 Oct 2026, 07:55 PM IST_
+- [HDFC Bank CEO Transition: Sashidhar Jagdishan Exits As Anup Bagchi Takes Charge](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdHVvQ0E5Q0dxZTlKM3VfeVhjQ1JRdWF5bW5QS3otZGVOS2g1cDdmTG8wRENlWU9EWW0xMGNDVERVUHhKcWNUWEhLcy01SVF3V3BOTDBmcDc3Nzd3dXBJMG41OVl5aU9YQUtYNDFoa0t0NEhISlZ3VUpIajlhbldqWTZ5ekdIUXVMZmpXQXptSjNFd0RvMjdCTE1yTnU3enFqRnNqZXdiaEVJcm9rSWV0aE5GX2xVVEZjWUkyakdYZ2NvNE1GYVpfbUlsTlo1LU11MS1FUlZYZDJfOEJIbjdQddIB6AFBVV95cUxPTDM5WnVUaVNOTWlQd0VOSzdLUEZrS2dhUWZOcnBKNmNRaHEzMmpiSHFZXzlDT2Y0b2ZZaG1qb0g0QjliM3hBcEs2MkZuTVRZX3VGQXNnamNWWm5tQm9maWd1X2JrY3dPSnIxQUw1WG5oVUIzWUM0bVF1YkJKaXI0QVY4TXFCT3dQc3VDVWRMUVhnaDRYYnEwYkYtZTluelIxZkVPU1ZOUDVqVFEtNkRZd2ZfNjl0MmNyMlg0ZW1SRmpERVdJSXpEejZJcWZZQ0RpZlZ5WTNHbTNDWWVScUdhdEVab3VJVFdn?oc=5) - _NDTV Profit, 27 Oct 2026, 08:47 AM IST_
+- [HDFC Bank Share Price Live Updates: HDFC Bank's Weekly Returns Dip](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-ltd-stock-price-today-live-27-oct-2026/liveblog/135222980.cms) - _Economic Times, 27 Oct 2026, 08:06 AM IST_
+- [Three challenges facing HDFC Bank’s new CEO](https://news.google.com/rss/articles/CBMipAFBVV95cUxOa1hYSkw1OFpHTzZQNDQ0cE5rQTI5UmtHcVNtQjNjWHRnM3pqQUQ1U3AtUDVPMGU1UVNKcDQ2RnU5VHJ6V3RFbGNyVlYyUkdJczJaTWlQemhfV0VlSVZYU1FfbHNkS01CRTU5OVBLR1NlQ2JfRVdVMXE2b1RzQ1FsY1ZiV0x4ZTZxY2ZaQjlQS0NoMGF4WVN3U202QzduaDk4NU1PTtIBqgFBVV95cUxNdkRGMmZsd2duY3ZES2hlTS12amxiODVUNVlWb3ZWNWEyWktvamhrYTZlWDdiek51QVRxbHVrQ2g3djVKOVdsVzBwYVRfc1lnTUN2dk9vVC1QTWhlZVdKc2psRDM2dDNJOHhWNVhNVVhRSzhCZzFSOWFkT2p4VEZnd3o0Q2szd3EtU1lVODl1c0VObjlNYzlZa3hpaFRiQXI2TEFVc2tSUXY2QQ?oc=5) - _Livemint, 27 Oct 2026, 06:00 AM IST_
+- [HDFC Bank ADR breaks down in Bear Flag: Live levels By Investing.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0hYbWhnNmN1bG40eXA3NEJlemZPX21iRzdVTXluendiLUZDZC04U0VpdTN4dmN4SXRhb3NncFlvcldxVTNxQms4SXRxeTVOckU5YVB2STJGMC1kVXBPaVV5cWtRbHcwVXhZYmFwaDFMYzNxRmdxR2N6S1BtZHluREVZWm10VHJxRXVHZGhmZ202QnFKUUxRZTgzUlIxSEx1bU9Lci1DbEZKdkNYOE42aS0yNEwxT2ljTWRWeEtGUQ?oc=5) - _Investing.com India, 27 Oct 2026, 01:52 AM IST_
 - [Latest FD interest rates after recent rate changes: ICICI Bank, Indian Bank, SBI and HDFC Bank](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNY1JvbEc0NHZMV2NVdzBmN0hHTVdEOW4zNjMxYmJoOXhEMWtRZnl6a2dsRUFNVWNOZnF0d1p5bmR4OHlEdzE5c1BCWk40TXcwSkxIR1U4eGNWbjUyakZteG5FQjVvLVJoUDZsajRhRll5Rk4zODNYZkJjTXJYZy1VSnd2RUx1OWxSeWVldVBuY1VQN2huZ2t6c25RaTZiTkxWUHhLZkExS3pNaFZTekp2M2V5djJFUFItaUVOWHBIYzN4VjRMcjI3VndYS0NKWVBrVEpVaEczMFFfczhpQXVvNEM5THAzUlF3MU9jZ19FREvSAfYBQVVfeXFMTTVoZEVsWmE1clYzSXZ4aU1jdmpnUThJZWROQ1hTN0xNdWdNRkRZR1JXaFNMOFNjNnVtZXJnajBLWlZJcy0xaGUyNFV2X2NyeW56MDZ1MUx1WWpZV0tnWjFvVEtYY2swXzZtSmxmRVEzM3BSa3IyOHR6NHlUT0VvaG9DNUNyTXhSdTk4bTRRbnNybjBmb3hqbVh5LWRweTdvSFVYOW1qZDR6SDRNOEdOMUlCbG83TjdYeGlXUmhMalFUYlIybFFZV2JNZVp5dTJxQVJyYmVRVW4wSFV0bGFUVV9GWWJhX2Q5NXF4bURydjFxbzhTdEh3?oc=5) - _The Economic Times, 26 Oct 2026, 06:00 PM IST_
-- [HDFC Bank shares slips further as Bagchi takes charge amid leadership uncertainty](https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-slips-further-as-bagchi-takes-charge-amid-leadership-uncertainty/article71625913.ece) - _BusinessLine, 26 Oct 2026, 03:42 PM IST_
-- [HDFC Bank launches electric car loan with separate battery and vehicle repayment tenures – key features](https://news.google.com/rss/articles/CBMijwJBVV95cUxNYjMxSVJUWEMxQmIwcmdRM19UbWFKVmVqTnAtNjh5NGt5V2ZuSU40N1dmMFJNQzNVYUREMDNlWVhDZm5ieHktQjVXVXZ1bjc0bU43Tl9iZTNRQV9ZQTg4ay1CelBJQmtmODRRNHhJLVBqM1VIUEhxS2ZweEl5VnhGSlVaR284QjlINDI5anpYZU9CdF9tbUN3S0NMZHBDeFFHT3NWYlUtNWQzUHZ2dmFWQmRkLXIzNFo5eW9VU0lpVlFlUVB4MllRNjcyWFJOMmdoZHU0ZWl2S09lY0cycEV2NVYtTHJFZGxOeHVnUDUwZ3VWYzR6Rk5rd1luaGtoSkdmMHUxSUk1S1RhZDRiaFBj0gGUAkFVX3lxTFBDeFYwMU1DbzZ3UVdLVTBXMDdJdV9ubmx2RTFMYzBQdTNNaFdVUi1YN1o0dkpTMjJTcDVSNmQtU3YtRnF2YXIzanc3R29DN01DT04weHBNVWlYS2RRVm5LM05LS2VnVDhxRXdZU1FkcW9VM1pHT1h6dmpYcDFESy1rVDVKbnk4ZE1qY0pGRGE3RjV6YUsyVXo1WkJkTXRxX05wMzh0OGhqcjgtLUlHYUM2QnVKQ3B5Z25TN2ppU09kQ2tpVFl4UTdTODlnYTBjbXRveVIyMmw2ZUJDcjJkMXkxTkhrVDVRMGtpVmxUX3p6a2xhMUgtVWRfV0xlSm1YRnVRTm1ycWhrSTB4aHNnNnlCYzlRbQ?oc=5) - _Livemint, 26 Oct 2026, 11:19 AM IST_
-- [Nifty risks 21,500, HDFC Bank eyes ₹640, IT rally shows fatigue: Anand James](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSThnRHhOWVQxTXJPeVlYQjFGbjJMT1BDTkM4Mmp5cGJnTTJJVm1zbEl2T3YtUTFpTThSaG5oQ2k4Z25mUk8xVFFPUXRJZXkxeVRvOVphc2lqRnlmQ1hISl96RTZRTktEWDk0WXJmbi1Yc3pGN2Y3dXNHNmE4RUZGYzlqa3FHeFV4d3RxVXNpUkYybWFsdEdDc2VrWk53c2s5bGRoTHluOGpuRHlRLS1JcXROVFFEVjNTODAtcE5SdU9CcGpYRFhtamFsNm9SeEd4aWFYMmRyZTlnMm9wR3fSAeMBQVVfeXFMT0FoQ0oydmhUTjZkaUExTG1GTk5Dcm9JWVVUd1NLclRHLVMxaDVVd2hqLXAxN2Nfc3Q5Ul95b05sQk1oOHppWVBXbEt4QnExVE5NUUVkR1VNRy1xMkxZY25ZTUVZNFJOQVdwaHFtaFF3WVJaRzVXTzc5WjVQWjBnM3hrSWVXV1BLb2x5Qjl5RVRRX1gxY2l4TGtsRDFQTnpxNXlLakxfUnptOURueUxIbHdkWDk2UlRsS3kzS25UVW91VEdrVjhjYlI1LVl0ai05YkI1Q1BZY2NKTWRycmdha0FPbjA?oc=5) - _The Economic Times, 26 Oct 2026, 08:26 AM IST_
 
 </details>
 
@@ -138,7 +138,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,220.00 | -0.09% | ₹11,102.00 - ₹11,299.00 | 489,181 | 465,466 | 1.05x | 25.42% | ₹11,170.00 - ₹17,292.00 |
+| ₹11,325.00 | +0.85% | ₹11,190.00 - ₹11,347.00 | 56,686 | 465,466 | 0.12x | 25.75% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -153,9 +153,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Maruti Suzuki Victoris Aurum Edition: ₹22,990 kit brings premium looks, cabin upgrades; check price, top features](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcUkwODZPVUxXMzJSM0VfdndJX3F2NzZibE5RcHh6UXJVVXlod3I2dlB6MlFhYzg5Q3JrdjlqbXVZUTBXRlZQSWJKbEd2Nnpfck56elVaYnVHaXZ0TVNlSVMybkxHTkdhd2tuaHhBdXAzTzJTWjRzalIyMDZPanNvNDR3cXhEdUpicUJ0VlFVcVg0aEhCNzN0cjVPcExobFgzNnRWZ1hINkYyLS1oQXpKM1JNUHVXZTJ2UXBFSHpsVkRpOHVUUGpzZmw3eThsMTYwUlVsY1NlbHRUWEF3d3JTX1VYWVEtX2JVenp0Tk1qczN3aWpjREHSAfsBQVVfeXFMT0JxU2pDRU1fOUtud05UVHgyVjFsX2p4TkQyc0lEakhqVk1paFBHNU5hdkJMb1JPcHd0YktnVlUzZzBFNkRGX1hXcUJCSHllMFRZYlpSdEpUT2VpZzFQd0JLZjVYcXVKZXFKSTZBajlaa3VQVlhTWHRvaHJQanU2T0k0QU1RRG54UWRBS09OODZDVG9iWnZDT0NPLWp2amxSU3hjSExIYS1pNVdmcVFuUjBvNktVaXMxYjlNUTZ5cC1IOG8tVW1qZVNLeWJoVjNSRW1nX3ZrQ2w1NlBsbndTeWRrdlZWU1RzbXlveTRtS0FoVmdNTmFueWN2T1k?oc=5) - _Livemint, 24 Oct 2026, 11:58 PM IST_
-- [Maruti Victoris crosses 1.5 lakh sales as Aurum Edition arrives at ₹22,990](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHZIandENlRac3BuZzA0LV8wSDJwclA3SEpRNU9WUDcwSUxJNjlobGNrQy1kaGxCdUNzSDVpMldEUGJ4Ui14SkJ1ejFkemZOb1JKOEJtbzBSRFh1N1FiNkZUbUZVcnp2cVhtS3NfM0ZoU2hqblFSYXpEYjZwd3V6REk3X0t4UVoxMG9LRkhJSUtTVFk4MGM5Q0V6UXIzUmtIT3kyRTRZTm1HN1pBazhMc2VPeHNZemNRSk04RHhRVEhhaHR4ZTJSejN30gHPAUFVX3lxTE9JUUZnVDBLSHVPb2F1dmp2cGpTYzByUXh4UVRnQlpYMHFhZUU1VTRTdUp1Y2pienVpZlo1LUhvSWFIYlpzYm5EQzBmckdOMzhUV2VaaDd1WlhmUHdaeGlMbGdELVlhRGJhNHMzY0x1a2NPWEt3ZGJjdURKNEU1aXQ3LVJwRWtkdm8tbVRxMlBsWUVWU2NfMnhFSk9iQkVnMENfTENETUVrMzhpY05pbnpmU0ZndFhqcnRQZkl4WlZzdENHeTRKVFhJM2FjZEtzRQ?oc=5) - _Livemint, 24 Oct 2026, 12:27 PM IST_
-- [Top 3 stocks to buy: Eternal, Apollo Hospitals, Maruti Suzuki by Sumeet Bagadia | Target price, stoploss, market outlook](https://news.google.com/rss/articles/CBMikAJBVV95cUxOdno1X2ZuS05mRl9ycExqbXZPcHdscXRmR3REQmZjSmNUYWFnTDNiTng4WmItMG1aVE15OGV3aEpKbF9zMDhNam1HXzRWbUNTZTNURnFXR1ctVGRYZjN4Snl3aWtIQks0RnBjdFZHeVI0NVpKTTZxeUhXbDc1TUdhLW40NDk5czBzMEUyMWpudUZiMWJraVJZQzNaZlZHS3lTMTNhTnlfcVg4UXVDRHdnZW1ZY0hmc2dKUFJtOW5heFI0RXV3STJFV1VBVTE0dmJuOFdoY3pRNmVlVnFmZm5Rc0pqSXkzblBBcVMxaDktQThJaHNlTmxvSWlpaVlndnRJcGVWbGE2b1E3ZWtVT2gwadIBlgJBVV95cUxNVjhZM241ZC1oSU9RS2hlcDJiOHpMcm9sOUpad0NjdzA1VWRoQlBBY1RDNzFnZmh1T2VCNVZNQWZsOGl3ekhqbTJnbHRDZnQ5TTgyVmtueHRtNWJsMTVHdGRrVFJFTlZ6QVFyX2Y5eTJiTmF5aXcyTHF4dzlsbkQwQmZOaFhJVDNZS29tMUxvTFpIX2ZGVVZlaTA4RElEcWM1YzNQY21iNk1MUHNlWEVzVVVWcm5GRWw5QlpsYi13Sk9xa2lRWW5JQk02Qjg4YlNPYTNhTVRQbmQ2RzFvajUzQ3pONG5wNWJCd09ZdW1FUGlMbWRjcS02eUNNYXoyMUVOZnNzVnphVTMzR2dHb2ZmR1MyVWU5dw?oc=5) - _Livemint, 24 Oct 2026, 06:30 AM IST_
+- [Q2 Results Today Live: L&T, Maruti Suzuki, Bajaj Auto, Tata Steel, Cipla, Vedanta Iron, Waaree Energies, Mazagon Dock, ACC, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results, Tata Consumer surge, Paytm flat, Sona BLW, ITC Hotels, BOM, KFin Tech, Ather gain after Q2 results, Dalmia, Sumitomo, Aequs shares tank](https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece) - _BusinessLine, 27 Oct 2026, 09:24 AM IST_
+- [Q2 results: L&T, Bajaj Auto, Maruti Suzuki, Cipla among 110 firms on Oct 27](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQckJySUdiVVVybkRhaEdkYkN6bV90bngzLVJGZzVLZ2ZSWTNVQmRqV1ZtYTJCbEMwRHd2LVlzMkNNZ2RueF9NR1Y2ektLNzJrZWJscTYwVHR6d2VGdF9WTHRCRHJ1X1ZZcnZfNF9hZjBSdFVZLUNhVU1ELWZQa0RKbWZ2LWxRRGNNVVlZWVoycVlwMUF4SFNGYXl2WURQN1kyMjZsMXlqTThSelRFanFMSmtCRVVDZ2Zkb2h5UUFZbTA3QUdudUlTX2FIbDdua2xXZkhEZHJfVlBzNkFDajY4ZFZvRlVldVpT0gHuAUFVX3lxTE5JZzdmSk9UTENGSlBkU0hSQXY5VVg4YTNCWFNqQmdHc0puNXhNb2xET3JBekdBVnYwZ1A5QzFBSktyU1lLSHo3bmhJbnpRbklZM2lSTzBuRDJDOFd3NXlLSENnRDVfWnRlS2c5WjBTZGVhMG9maFdtanRlRXJnbFBGT1U3N2E2ZGZiWkpvcGUtN01qTVI0U0ZwXzJNTTNZSnljTXpsLWNoY3dqTlNQNm1mbVZuX2dlb2dYNVVieVdtV0tDT1NULUtrMnhFWnQySzMzVXBjVnNGbllob2RuRFJwUGpHOE13bXdvbnFtRXc?oc=5) - _Business Standard, 27 Oct 2026, 09:12 AM IST_
+- [Q2 results 2026 today, schedule: L&T, Maruti Suzuki - 100 more firms to declare quarterly earnings; Oct 27 Tue list](https://news.google.com/rss/articles/CBMijgJBVV95cUxPdm5KQk45ZVplUW9VdXRLV1RxcG9VUm1YcWFpbkZjMU9NMDVrRU9QcFdoWXI5VXgxZk1LLVVUWVJYbDNZRHAtdUxVYzVvdmx6U0JEWERfWVhOVElodjM3MGZmZTZCUlVJaC11OW1GLV9fUUNDRk1IOTEyOV9TWW5GMjRWMV9NQlZabkIzTExUNC12Zm1GNFFlWWZLYVFFcGlTTDB3Njd6TUprb0VXSkczSE5HQnh5YXp2NjMxeW1KUHRyeV9UVWM2ZnZMZDZta1VZUjA1QmJDWjdIY01fTzF5V2IzUnA1UWZEXzdaZzN0WWhRZGJqZm5yTmNMbllsSXBuaGotNE52b2lwSUFzb0HSAZMCQVVfeXFMUFB6NjBucFBoWldzUGFTTWdhTEZFWE9ReTB4MTQ0MmJCTkpUbDQ3U2hmdWdCbWp2RVl0OUxvQ3ZVdGpLZjZqWG1qQlhabXYtd256QnJUU0dZRjVEUzQtbTNxeDZGQndYQ0tRbndpV0QwR1lpRnhlZ3JHZkpfRUZPM2dTOG4teVp6dzJjYjFFV1lyMlktOThLODRrTkVIeHg0cE1vRTBxMlNaV0hLOVVvdnBpbHB2VHY3N2Nfa3pRRzdRSTd4WWU4WG55b1d6NWJObmdLWFdYY292cTRfbUJrR25uX0dSLXFMbmdSQVptNkZ4STBNMUI4YXd2VEx5bVQwX1Z6SU1lTXByYUFGeWtRb3NNb1E?oc=5) - _Livemint, 27 Oct 2026, 08:35 AM IST_
+- [Stocks to watch: Tata group stocks, Paytm, Ather Energy, L&T, Maruti Suzuki](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbC13YkZOcUl2T1NzVEItcGstdEpVamVDamtoTTc4VHVkXy1aUUVDbDE3bVJXX2x1Z1BfOXBSRnRnODdQb0Y3TXo0aXB3cG5aTHZGY1Q0OU1HdGJtcTBIUjYwTjFveVhkcDE3WXRSTnA5OEJDQ2RfeEU5VnBMMDVfTkZCZHZWWF84emZESi1sdWdWVmRsYW1CcHVOaThGUUFBVmNvcVlFdkl2Ykc5OXpYNklFVUtYSFVWb0NjOV96T0dsTWdETFZUS3hrOFNaUGRfdkpqbVBJOEc0UDBFRDFOTVdn0gHnAUFVX3lxTFBOYklrU29Ud3ljYTdiMHZMNkdOa0dhalN1UkdsekJKdG9DUkUwTjkyTDFPMTd5UEp0VjBKZTRQaTd1bDl2WFFQN2RnaGtMalI3YmxMVTU3Mjh6bkNHVUFyN3lDTURDTGlTUTU3c28tcFdLZWZEVnZ4cjJsZjBpbEpHaUdJaUtYdTJiV0EzaDYtX0JTWHA3OGtzTW5PNU1IUnNMeUhuTjJVa3EwR25YU1JSX3k1RVlLM191ZVBfS3ptc2tUTExES2thSHQwRVlCY3BZMmRlV3Q5LVppcmhPeU01cEhEQ2twUQ?oc=5) - _Business Standard, 27 Oct 2026, 07:54 AM IST_
+- [Top stocks to watch today:  L&amp;T, Maruti Suzuki, Paytm, REC shares in focus on Tuesday, 27 Oct | Full list](https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-l-t-maruti-suzuki-paytm-rec-shares-in-focus-on-tuesday-27-oct-full-list-11793064919143.html) - _Mint, 27 Oct 2026, 07:29 AM IST_
 
 </details>
 
@@ -169,7 +171,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹141.90 | -2.10% | ₹140.01 - ₹144.90 | 19,445,796 | 12,899,491 | 1.51x | 25.05% | ₹138.58 - ₹211.92 |
+| ₹143.66 | +1.24% | ₹142.02 - ₹144.14 | 1,594,506 | 13,465,003 | 0.12x | 25.15% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -184,7 +186,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- No fresh headlines from trusted sources in the last few days.
+- [Diwali Muhurat Stock Picks 2026: Ashok Leyland, Eternal Among Axis Direct's Top Bets For Samvat 2083](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb0hnWElCUG5KT2s2bTFaS2VoMUJ0dGNlUXdwZ1RHcG1vQUstWW5faGpROHFYeHozOEw5UW9PZEIxUWlpcUd3MzhvRkt4VDJEcjhwbDI3cWtKZzZrVnNmTXk5a2tCN2xrVm9PYWNSMmZqRUN2RmRRMU1pc2lCX0RzVW5yLTB1SjFXbzB1ZTFfWTRBWUZOd0ZOZHFsYWthSWdwX0piWkg0RnFTX2xuNTQtUlRiZTZSTEl5Y3FIUEFUVEJ0T2pDenpJVXkzNnFOVmpGUF92SUZGMmjSAeABQVVfeXFMTTYtdGVjak4yVFJrMlp4bXFIVDVhdHN1X3dtSllZSEZNOHF6OGEwZzNaOS1LS1lHR19hWDYtdTYwS1BmX1dORFBnMFNFRm9zY2l3VDNGallkUTFlNWFIaWxfLWZFOFNtYndLcEc5REk3b2tOelVZUk9NdDM4UGI4RVVLNkdmSVVBdFFkZ2h6anBEUHozZHFnVHd1ckx0Uy1COE94ek9XN1VGY2xzWExUVGxGaVlKTG4xWjVmOC1CMFJGRUQ2WGVvbWkxQ201V192REp6djV5Vmg0U0NDSDN1Q2I?oc=5) - _NDTV Profit, 27 Oct 2026, 07:00 AM IST_
 
 </details>
 
@@ -198,7 +200,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,099.50 | +0.47% | ₹6,931.50 - ₹7,102.00 | 331,591 | 416,172 | 0.8x | 28.01% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,134.00 | +0.96% | ₹7,067.50 - ₹7,160.00 | 17,621 | 416,172 | 0.04x | 28.21% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -227,7 +229,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,632.50 | -1.59% | ₹5,614.50 - ₹5,800.00 | 25,075 | 19,127 | 1.31x | 26.60% | ₹5,632.50 - ₹7,847.50 |
+| ₹5,670.00 | -0.93% | ₹5,633.00 - ₹5,694.00 | 648 | 19,127 | 0.03x | 26.33% | ₹5,670.00 - ₹7,847.50 |
 
 **Research reports**
 
@@ -241,7 +243,7 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Linde declares quarterly dividend of $1.60 per share By Investing.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNTNTaHZRNllvX2FaNzVLaldIczBtS2hfVWtBNGtleDdyOU43NDFTT1EtaC02SGJleU9rVDFGbmxQUC1qLW1lT0pPZTNNLXFaMlJQeUt1aEdwODJ6WmNqMkYxekd2ZGpSWFhSVjdYNFNINWFyVUwydnhCQXZaSDRNTkJOMzFFc0pqTU8waDR2MDJkemNvWGJ0XzVWNE5FYmpwM0JraWtCTWotN0hxZTE5dQ?oc=5) - _Investing.com India, 26 Oct 2026, 07:59 PM IST_
+- No fresh headlines from trusted sources in the last few days.
 
 </details>
 
@@ -255,7 +257,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹84.51 | -5.75% | ₹81.24 - ₹90.00 | 111,135 | 58,576 | 1.9x | 89.43% | ₹76.41 - ₹130.64 |
+| ₹86.76 | -3.25% | ₹86.15 - ₹90.00 | 6,496 | 58,576 | 0.11x | 87.82% | ₹76.41 - ₹130.64 |
 
 **Research reports**
 
