@@ -183,6 +183,20 @@
       ],
       "news_query": "\"Ather Energy\"",
       "sector": "Automobiles"
+    },
+    {
+      "key": "boi",
+      "name": "Bank of India",
+      "tickers": [
+        "BANKINDIA.NS"
+      ],
+      "weight": 0,
+      "bse_code": "532149",
+      "keywords": [
+        "bank of india"
+      ],
+      "news_query": "\"Bank of India\"",
+      "sector": "Financials"
     }
   ],
   "trusted_sources": [
