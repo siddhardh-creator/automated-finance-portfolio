@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "27 Oct 2026, 12:55 PM IST",
+  "generated_at_ist": "27 Oct 2026, 12:58 PM IST",
   "as_of": "2026-10-27",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 23159530.0,
     "initial_capital": 10000000,
     "invested": 15619560.0,
-    "holdings_value": 15336070.0,
+    "holdings_value": 15340430.0,
     "cash": 7141481.89,
-    "value": 22477551.88,
-    "pnl_inr": -681978.12,
-    "pnl_pct": -2.94,
-    "unrealised_pnl_inr": -283490.0,
+    "value": 22481911.89,
+    "pnl_inr": -677618.11,
+    "pnl_pct": -2.93,
+    "unrealised_pnl_inr": -279130.0,
     "realised_pnl_inr": -398488.11,
-    "day_pnl_inr": 111062.86,
-    "day_pnl_pct": 0.54,
+    "day_pnl_inr": 115422.86,
+    "day_pnl_pct": 0.56,
     "open_positions": 7
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22783.35,
-    "return_pct": -0.77,
-    "day_change_pct": 0.13
+    "close": 22779.95,
+    "return_pct": -0.78,
+    "day_change_pct": 0.12
   },
   "stocks": [
     {
@@ -34,30 +34,30 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11445.0,
+        "close": 11441.0,
         "prev_close": 11230.0,
-        "day_change_pct": 1.91,
+        "day_change_pct": 1.88,
         "open": 11220.0,
         "high": 11450.0,
         "low": 11190.0,
         "intraday_range_pct": 2.32,
-        "volume": 269774,
+        "volume": 274064,
         "avg_volume_20d": 465466,
-        "volume_vs_avg": 0.58,
-        "volatility_20d_annualised_pct": 26.63,
+        "volume_vs_avg": 0.59,
+        "volatility_20d_annualised_pct": 26.59,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3319050.0,
-        "pnl_inr": -12760.0,
-        "pnl_pct": -0.38
+        "market_value": 3317890.0,
+        "pnl_inr": -13920.0,
+        "pnl_pct": -0.42
       },
       "news": [
         {
           "title": "Q2 Results Today Live: L&T, Maruti Suzuki, Bajaj Auto, Cipla, Vedanta Iron, Waaree Energies, Mazagon Dock, ACC, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results, Aequs stock crashes 19% after Q2",
           "source": "BusinessLine",
-          "published": "27 Oct 2026, 12:22 PM IST",
+          "published": "27 Oct 2026, 12:38 PM IST",
           "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece"
         },
         {
@@ -65,6 +65,12 @@
           "source": "Livemint",
           "published": "27 Oct 2026, 12:13 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc3VzckE4LW92ZGd5V2hpeElxdUFZckF2MmxZOEdKN3dwdmpWUThmWWFWVnhDZWhYbFl2OElob19mQU5mLUstVWJ2amtqOGdtdFo0RW1MUWdYa1ZBaGVSeXJFa21ibnluYjRBcjlWdWRycGhkSVJVSm9ZMUtPLWNBOWFmckpRRlltTWhzeGM2VUpYSnBITVZJR01NYVBteFBDSm1QUUU5aU9kRHVBbVdsdDRUQjQtdzBnUlIxa1o5ekd2dXlPWEk0cGpPLUJLWUR1Z0FEbVNGU0VVaEtZcXFQekllb3YwbW9lZWg1X3VwTXF5M2c?oc=5"
+        },
+        {
+          "title": "Q2 Results Live: L&T, Maruti Suzuki, Tata Steel, Cipla, SBI Life, Bajaj Auto, Indus Towers, Waaree Energies In Focus",
+          "source": "NDTV Profit",
+          "published": "27 Oct 2026, 10:51 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNOTRpRkZFdlliWmRCdUpHSjhNLVE1TkQxTk1DT3k5QmdyM1hybmZzRnFFSnMzMWx1dG1wSjlBWTFOS3I4Vm9ReUtuUDFyaTRIc1RIQnN5aEt0MHhPWkUxak1Kb1Q4eUJpbGNZdFBBY2d2ZUpQR2xzM2hrX2htcjNjSTYtV25pZDBZWTN0SWxUNUZzMXVnSHh3NXdLTDNJTnZGdk1qaUpLay0wM3RCMlJ4NGFwckVfclFUOHFyTTVnRDFEaDhKQkU1U1ZYRmJseWtWeklwUmJTcmRTcHQtUXVJZV9iLVN5MFZTTjNKUWFDTV85LVRPNU54MXNzMTNvRWppRktQZmY5NlRmeTJZRUFiVFBTWU8tODBIdWUzZ29LeFZkQi1UODFF0gGnAkFVX3lxTE05NGlGRkV2WWJaZEJ1SkdKOE0tUTVORDFOTUNPeTlCZ3IzWHJuZnNGcUVKczMxbHV0bXBKOUFZMU5LcjhWb1F5S25QMXJpNEhzVEhCc3loS3QweE9aRTFqTUpvVDh5QmlsY1l0UEFjZ3ZlSlBHbHMzaGtfaG1yM2NJNi1XbmlkMFlZM3RJbFQ1RnMxdWdIeHc1d0tMM0lOdkZ2TWppSktrLTAzdEIyUng0YXByRV9yUVQ4cXJNNWdEMURoOEpCRTVTVlhGYmx5a1Z6SXBSYlNyZFNwdC1RdUllX2ItU3kwVlNOM0pRYUNNXzktVE81Tngxc3MxM29FamlGS1BmZjk2VGZ5MllFQWJUUFNZTy04MEh1ZTNnb0t4VmRCLVQ4MUU?oc=5"
         },
         {
           "title": "Q2 results: L&T, Bajaj Auto, Maruti Suzuki, Cipla among 110 firms on Oct 27",
@@ -77,16 +83,10 @@
           "source": "Livemint",
           "published": "27 Oct 2026, 08:35 AM IST",
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdm5KQk45ZVplUW9VdXRLV1RxcG9VUm1YcWFpbkZjMU9NMDVrRU9QcFdoWXI5VXgxZk1LLVVUWVJYbDNZRHAtdUxVYzVvdmx6U0JEWERfWVhOVElodjM3MGZmZTZCUlVJaC11OW1GLV9fUUNDRk1IOTEyOV9TWW5GMjRWMV9NQlZabkIzTExUNC12Zm1GNFFlWWZLYVFFcGlTTDB3Njd6TUprb0VXSkczSE5HQnh5YXp2NjMxeW1KUHRyeV9UVWM2ZnZMZDZta1VZUjA1QmJDWjdIY01fTzF5V2IzUnA1UWZEXzdaZzN0WWhRZGJqZm5yTmNMbllsSXBuaGotNE52b2lwSUFzb0HSAZMCQVVfeXFMUFB6NjBucFBoWldzUGFTTWdhTEZFWE9ReTB4MTQ0MmJCTkpUbDQ3U2hmdWdCbWp2RVl0OUxvQ3ZVdGpLZjZqWG1qQlhabXYtd256QnJUU0dZRjVEUzQtbTNxeDZGQndYQ0tRbndpV0QwR1lpRnhlZ3JHZkpfRUZPM2dTOG4teVp6dzJjYjFFV1lyMlktOThLODRrTkVIeHg0cE1vRTBxMlNaV0hLOVVvdnBpbHB2VHY3N2Nfa3pRRzdRSTd4WWU4WG55b1d6NWJObmdLWFdYY292cTRfbUJrR25uX0dSLXFMbmdSQVptNkZ4STBNMUI4YXd2VEx5bVQwX1Z6SU1lTXByYUFGeWtRb3NNb1E?oc=5"
-        },
-        {
-          "title": "Stocks to watch: Tata group stocks, Paytm, Ather Energy, L&T, Maruti Suzuki",
-          "source": "Business Standard",
-          "published": "27 Oct 2026, 07:54 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbC13YkZOcUl2T1NzVEItcGstdEpVamVDamtoTTc4VHVkXy1aUUVDbDE3bVJXX2x1Z1BfOXBSRnRnODdQb0Y3TXo0aXB3cG5aTHZGY1Q0OU1HdGJtcTBIUjYwTjFveVhkcDE3WXRSTnA5OEJDQ2RfeEU5VnBMMDVfTkZCZHZWWF84emZESi1sdWdWVmRsYW1CcHVOaThGUUFBVmNvcVlFdkl2Ykc5OXpYNklFVUtYSFVWb0NjOV96T0dsTWdETFZUS3hrOFNaUGRfdkpqbVBJOEc0UDBFRDFOTVdn0gHnAUFVX3lxTFBOYklrU29Ud3ljYTdiMHZMNkdOa0dhalN1UkdsekJKdG9DUkUwTjkyTDFPMTd5UEp0VjBKZTRQaTd1bDl2WFFQN2RnaGtMalI3YmxMVTU3Mjh6bkNHVUFyN3lDTURDTGlTUTU3c28tcFdLZWZEVnZ4cjJsZjBpbEpHaUdJaUtYdTJiV0EzaDYtX0JTWHA3OGtzTW5PNU1IUnNMeUhuTjJVa3EwR25YU1JSX3k1RVlLM191ZVBfS3ptc2tUTExES2thSHQwRVlCY3BZMmRlV3Q5LVppcmhPeU01cEhEQ2twUQ?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 14.77
+      "weight_pct": 14.76
     },
     {
       "key": "ashok",
@@ -97,24 +97,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 144.84,
+        "close": 144.83,
         "prev_close": 141.9,
-        "day_change_pct": 2.07,
+        "day_change_pct": 2.06,
         "open": 142.89,
         "high": 145.27,
         "low": 142.02,
         "intraday_range_pct": 2.29,
-        "volume": 7937301,
+        "volume": 7982433,
         "avg_volume_20d": 13465003,
         "volume_vs_avg": 0.59,
-        "volatility_20d_annualised_pct": 26.07,
+        "volatility_20d_annualised_pct": 26.06,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 144840.0,
-        "pnl_inr": -2880.0,
-        "pnl_pct": -1.95
+        "market_value": 144830.0,
+        "pnl_inr": -2890.0,
+        "pnl_pct": -1.96
       },
       "news": [
         {
@@ -143,7 +143,7 @@
         "high": 7160.0,
         "low": 7067.5,
         "intraday_range_pct": 1.31,
-        "volume": 108588,
+        "volume": 109713,
         "avg_volume_20d": 416172,
         "volume_vs_avg": 0.26,
         "volatility_20d_annualised_pct": 28.33,
@@ -164,7 +164,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 31.81
+      "weight_pct": 31.8
     },
     {
       "key": "linde",
@@ -175,28 +175,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5666.5,
+        "close": 5671.0,
         "prev_close": 5723.5,
-        "day_change_pct": -1.0,
+        "day_change_pct": -0.92,
         "open": 5694.0,
         "high": 5694.0,
         "low": 5633.0,
         "intraday_range_pct": 1.07,
-        "volume": 4947,
+        "volume": 4955,
         "avg_volume_20d": 19127,
         "volume_vs_avg": 0.26,
-        "volatility_20d_annualised_pct": 26.35,
+        "volatility_20d_annualised_pct": 26.32,
         "high_52w": 7847.5,
-        "low_52w": 5666.5,
+        "low_52w": 5671.0,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2833250.0,
-        "pnl_inr": -147250.0,
-        "pnl_pct": -4.94
+        "market_value": 2835500.0,
+        "pnl_inr": -145000.0,
+        "pnl_pct": -4.86
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 12.6
+      "weight_pct": 12.61
     },
     {
       "key": "linc",
@@ -239,31 +239,31 @@
       "google_finance_url": "https://www.google.com/finance/quote/ATHERENERG:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 1671.0,
+        "close": 1674.0,
         "prev_close": 1575.0,
-        "day_change_pct": 6.1,
+        "day_change_pct": 6.29,
         "open": 1607.0,
         "high": 1702.0,
         "low": 1607.0,
         "intraday_range_pct": 6.03,
-        "volume": 10987483,
+        "volume": 11050225,
         "avg_volume_20d": 3249712,
-        "volume_vs_avg": 3.38,
-        "volatility_20d_annualised_pct": 65.18,
+        "volume_vs_avg": 3.4,
+        "volatility_20d_annualised_pct": 65.4,
         "high_52w": 1725.6,
         "low_52w": 601.35,
         "shares": 1000,
         "base_price": 1677.2,
-        "market_value": 1671000.0,
-        "pnl_inr": -6200.0,
-        "pnl_pct": -0.37
+        "market_value": 1674000.0,
+        "pnl_inr": -3200.0,
+        "pnl_pct": -0.19
       },
       "news": [
         {
           "title": "Ather achieves profitability milestone, supply ramp-up to pave the road ahead",
-          "source": "Mint",
+          "source": "Livemint",
           "published": "27 Oct 2026, 12:52 PM IST",
-          "link": "https://www.livemint.com/market/mark-to-market/ather-energy-q2-results-net-profit-revenue-growth-11793081766549.html"
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ0FwaW1Kb0VkTF9QY0NxU25nNThybDZmRVpTa2dtRWgtSmkwZWJFOXJHNEE5MVl3emN2Wk9ZNm1lWFJVZWJ5X0hHTGpFTHlLNU1RRl9lYlRYcWVuMlUydU0tUUtROWZTWEJ6akxQVlVOU0g3Vmh1WExyem1YbmRyS0sxSkx2MXFzaTd3NmpQNFdRNFRpd2VtOHpQTzVsYV8xa3Z5NXppM1pWSTk5bUtCOENWa1pOc3c?oc=5"
         },
         {
           "title": "Ather Energy shares jump 5%, extend rally to 20% in two days after Q2 results. Can the run continue?",
@@ -291,7 +291,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 7.43
+      "weight_pct": 7.45
     },
     {
       "key": "boi",
@@ -302,24 +302,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/BANKINDIA:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 131.22,
+        "close": 131.5,
         "prev_close": 126.32,
-        "day_change_pct": 3.88,
+        "day_change_pct": 4.1,
         "open": 127.0,
         "high": 131.65,
         "low": 126.9,
         "intraday_range_pct": 3.76,
-        "volume": 9626145,
+        "volume": 9737226,
         "avg_volume_20d": 8482522,
-        "volume_vs_avg": 1.13,
-        "volatility_20d_annualised_pct": 39.3,
+        "volume_vs_avg": 1.15,
+        "volatility_20d_annualised_pct": 39.62,
         "high_52w": 177.2,
         "low_52w": 126.32,
         "shares": 1000,
         "base_price": 131.33,
-        "market_value": 131220.0,
-        "pnl_inr": -110.0,
-        "pnl_pct": -0.08
+        "market_value": 131500.0,
+        "pnl_inr": 170.0,
+        "pnl_pct": 0.13
       },
       "news": [
         {
@@ -360,7 +360,7 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 12284890.0,
+      "value": 12286720.0,
       "weight_pct": 54.65
     },
     {
@@ -370,12 +370,12 @@
     },
     {
       "sector": "Industrial Gases",
-      "value": 2833250.0,
-      "weight_pct": 12.6
+      "value": 2835500.0,
+      "weight_pct": 12.61
     },
     {
       "sector": "Financials",
-      "value": 131220.0,
+      "value": 131500.0,
       "weight_pct": 0.58
     },
     {
@@ -387,7 +387,7 @@
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 12284890.0,
+      "value": 12286720.0,
       "weight_pct": 54.65
     },
     {
@@ -397,12 +397,12 @@
     },
     {
       "sector": "Industrial Gases",
-      "value": 2833250.0,
-      "weight_pct": 12.6
+      "value": 2835500.0,
+      "weight_pct": 12.61
     },
     {
       "sector": "Financials",
-      "value": 131220.0,
+      "value": 131500.0,
       "weight_pct": 0.58
     },
     {
@@ -418,11 +418,11 @@
     },
     "worst_since_buy": {
       "name": "Linde India",
-      "pct": -4.94
+      "pct": -4.86
     },
     "top_mover_today": {
       "name": "Ather Energy",
-      "pct": 6.1
+      "pct": 6.29
     }
   },
   "transactions": [
