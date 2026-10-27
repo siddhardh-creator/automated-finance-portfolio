@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 27 Oct 2026, 03:33 PM IST  |  **Market data as of:** 2026-10-27  |  **Start date:** 2026-10-16
+**Last updated:** 27 Oct 2026, 05:27 PM IST  |  **Market data as of:** 2026-10-27  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -110,7 +110,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,450.00 | +2.05% | ₹11,190.00 - ₹11,460.00 | 447,146 | 470,244 | 0.95x | 26.60% | ₹11,170.00 - ₹17,292.00 |
+| ₹11,450.00 | +2.05% | ₹11,190.00 - ₹11,460.00 | 426,626 | 470,244 | 0.91x | 26.60% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -125,11 +125,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Q2 Results Today Live: ACC, Mazagon Dock Q2 profit tumbles, Bharat Bijlee & Bharat Seats rally, Cipla profit declines 35%, L&T, Maruti Suzuki, Bajaj Auto, Vedanta Iron, Waaree Energies, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results](https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece) - _BusinessLine, 27 Oct 2026, 03:24 PM IST_
-- [Maruti Suzuki vs Bajaj Auto: Which auto stock to buy ahead of Q2 results 2026? Experts decode](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc3VzckE4LW92ZGd5V2hpeElxdUFZckF2MmxZOEdKN3dwdmpWUThmWWFWVnhDZWhYbFl2OElob19mQU5mLUstVWJ2amtqOGdtdFo0RW1MUWdYa1ZBaGVSeXJFa21ibnluYjRBcjlWdWRycGhkSVJVSm9ZMUtPLWNBOWFmckpRRlltTWhzeGM2VUpYSnBITVZJR01NYVBteFBDSm1QUUU5aU9kRHVBbVdsdDRUQjQtdzBnUlIxa1o5ekd2dXlPWEk0cGpPLUJLWUR1Z0FEbVNGU0VVaEtZcXFQekllb3YwbW9lZWg1X3VwTXF5M2c?oc=5) - _Livemint, 27 Oct 2026, 12:13 PM IST_
-- [Q2 results: L&T, Bajaj Auto, Maruti Suzuki, Cipla among 110 firms on Oct 27](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQckJySUdiVVVybkRhaEdkYkN6bV90bngzLVJGZzVLZ2ZSWTNVQmRqV1ZtYTJCbEMwRHd2LVlzMkNNZ2RueF9NR1Y2ektLNzJrZWJscTYwVHR6d2VGdF9WTHRCRHJ1X1ZZcnZfNF9hZjBSdFVZLUNhVU1ELWZQa0RKbWZ2LWxRRGNNVVlZWVoycVlwMUF4SFNGYXl2WURQN1kyMjZsMXlqTThSelRFanFMSmtCRVVDZ2Zkb2h5UUFZbTA3QUdudUlTX2FIbDdua2xXZkhEZHJfVlBzNkFDajY4ZFZvRlVldVpT0gHuAUFVX3lxTE5JZzdmSk9UTENGSlBkU0hSQXY5VVg4YTNCWFNqQmdHc0puNXhNb2xET3JBekdBVnYwZ1A5QzFBSktyU1lLSHo3bmhJbnpRbklZM2lSTzBuRDJDOFd3NXlLSENnRDVfWnRlS2c5WjBTZGVhMG9maFdtanRlRXJnbFBGT1U3N2E2ZGZiWkpvcGUtN01qTVI0U0ZwXzJNTTNZSnljTXpsLWNoY3dqTlNQNm1mbVZuX2dlb2dYNVVieVdtV0tDT1NULUtrMnhFWnQySzMzVXBjVnNGbllob2RuRFJwUGpHOE13bXdvbnFtRXc?oc=5) - _Business Standard, 27 Oct 2026, 09:12 AM IST_
-- [Q2 results 2026 today, schedule: L&T, Maruti Suzuki - 100 more firms to declare quarterly earnings; Oct 27 Tue list](https://news.google.com/rss/articles/CBMijgJBVV95cUxPdm5KQk45ZVplUW9VdXRLV1RxcG9VUm1YcWFpbkZjMU9NMDVrRU9QcFdoWXI5VXgxZk1LLVVUWVJYbDNZRHAtdUxVYzVvdmx6U0JEWERfWVhOVElodjM3MGZmZTZCUlVJaC11OW1GLV9fUUNDRk1IOTEyOV9TWW5GMjRWMV9NQlZabkIzTExUNC12Zm1GNFFlWWZLYVFFcGlTTDB3Njd6TUprb0VXSkczSE5HQnh5YXp2NjMxeW1KUHRyeV9UVWM2ZnZMZDZta1VZUjA1QmJDWjdIY01fTzF5V2IzUnA1UWZEXzdaZzN0WWhRZGJqZm5yTmNMbllsSXBuaGotNE52b2lwSUFzb0HSAZMCQVVfeXFMUFB6NjBucFBoWldzUGFTTWdhTEZFWE9ReTB4MTQ0MmJCTkpUbDQ3U2hmdWdCbWp2RVl0OUxvQ3ZVdGpLZjZqWG1qQlhabXYtd256QnJUU0dZRjVEUzQtbTNxeDZGQndYQ0tRbndpV0QwR1lpRnhlZ3JHZkpfRUZPM2dTOG4teVp6dzJjYjFFV1lyMlktOThLODRrTkVIeHg0cE1vRTBxMlNaV0hLOVVvdnBpbHB2VHY3N2Nfa3pRRzdRSTd4WWU4WG55b1d6NWJObmdLWFdYY292cTRfbUJrR25uX0dSLXFMbmdSQVptNkZ4STBNMUI4YXd2VEx5bVQwX1Z6SU1lTXByYUFGeWtRb3NNb1E?oc=5) - _Livemint, 27 Oct 2026, 08:35 AM IST_
-- [Stocks to watch: Tata group stocks, Paytm, Ather Energy, L&T, Maruti Suzuki](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbC13YkZOcUl2T1NzVEItcGstdEpVamVDamtoTTc4VHVkXy1aUUVDbDE3bVJXX2x1Z1BfOXBSRnRnODdQb0Y3TXo0aXB3cG5aTHZGY1Q0OU1HdGJtcTBIUjYwTjFveVhkcDE3WXRSTnA5OEJDQ2RfeEU5VnBMMDVfTkZCZHZWWF84emZESi1sdWdWVmRsYW1CcHVOaThGUUFBVmNvcVlFdkl2Ykc5OXpYNklFVUtYSFVWb0NjOV96T0dsTWdETFZUS3hrOFNaUGRfdkpqbVBJOEc0UDBFRDFOTVdn0gHnAUFVX3lxTFBOYklrU29Ud3ljYTdiMHZMNkdOa0dhalN1UkdsekJKdG9DUkUwTjkyTDFPMTd5UEp0VjBKZTRQaTd1bDl2WFFQN2RnaGtMalI3YmxMVTU3Mjh6bkNHVUFyN3lDTURDTGlTUTU3c28tcFdLZWZEVnZ4cjJsZjBpbEpHaUdJaUtYdTJiV0EzaDYtX0JTWHA3OGtzTW5PNU1IUnNMeUhuTjJVa3EwR25YU1JSX3k1RVlLM191ZVBfS3ptc2tUTExES2thSHQwRVlCY3BZMmRlV3Q5LVppcmhPeU01cEhEQ2twUQ?oc=5) - _Business Standard, 27 Oct 2026, 07:54 AM IST_
+- [Q2 Results Today Live: Bajaj Auto Q2 PAT up 35%, Maruti Suzuki & Cipla profit down, ACC, Mazagon Dock PAT tumbles, Honeywell Automation PAT up, L&T, Vedanta Iron, Waaree Energies, SAIL, SBI Life, Tata Capital, Star Health, ABDL to announce Q2 results](https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece) - _BusinessLine, 27 Oct 2026, 05:12 PM IST_
+- [Maruti Q2FY27 results: Net profit declines 26.36% to ₹2,466.1 crore](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFBhNFdUVFp2MENqUkJNRnhvcWVFMTE1N1MyRmhhYVdpSzFFWDJkNUx1aUNGaWdtM0NVVzFKYlM1RVN5SUFscW94Smc2am5XSzFfNEk2NHlYNXlnVmR6OVhCQXlvSTgwS0R5bkRkVmtqaU80N0p5WnlfamhLOEVRZ2ZHVTNIZEF2dENTTGw3R0QyaWZIbUtQcjNQWEdENm1jMGdOV2NUN3lpT0JXWUIzbEVlc1U5eUFfNFZUVGxiR1lzbExDYWxfWUw2NDJiazdISXpRV2Z2dkdwd1dxcU5B0gHkAUFVX3lxTE9PLW1ybWtkblZZdkhfbHp4WWV0Y2FxVjRGTHFQbmQxVEtxOUxLRmZwY1U2ZnVoN3lNMXB0cEVTXzVORzNOTHVHU0tsVlVTVU1DLXd6MTNqbEZpd3FwU3hBSjRMbHNEbEV6bU84RGFzUnIyQVhWdlo2VUdRSGFyOFZqNTdrY19INmpMaU1kOUR3MF9lWDVTYmRBNEhsTXZrcklOdkVPakZEbkNKcnpqc1FjMGVXXzhVZ2dGYXA2R1hKQjRTd3VpcTdiOEM2VVlYeGZWQnUzUUxrRFM0Nk9BRm5pVExHNg?oc=5) - _Business Standard, 27 Oct 2026, 04:15 PM IST_
+- [Maruti Suzuki Q2: Profit declined 26%, revenue at Rs 5.34 lk crore](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFo1a05HWWEyZU5oQ2lyRjVQSC1PVzR2TDlhZlhvTDdBdzdNRFBLQVJ1bWFQdVBpdXk0TlZwMlRrZ2FCcEJXLUdHd2s2R3JfTXhIMEhyZEtXUVNVeGNhQU1wc0RhTWo1cXU2X3VoNG5xMDBOc1dQczR4Q1FSel9lZmJLdU5tbjlYbTdrMEczNWlnTm5NSk9RM3gwWWN1a0RxbkZYcWpTb1NJZUtCRTdBSW5SVHJDVTJNVGs4RVhWdVfSAccBQVVfeXFMTjRERVNRLXBHMjdSUEoxcjZjWGlpZFNhX2czMDV3b01UNjFiaVVLTjZZY1JYQ2ZTb1VNUS1sT092SjJqRURoc2VaMy10RlBtaVpMOEpiQWEtRkFJREFKaGhCc0dWVnB5c2RYdUpWN3FVMXdvbl8tRk9LTVdTaWpvUFlLR19jN0xYWU9GUnRVc09iS0lfN211bllDV3luNGIySXVnXzh1OWlWLWFwNUxucjV0TzlMQnIySTF1UGZqYUdGcjlhMjR0RQ?oc=5) - _The Financial Express, 27 Oct 2026, 03:56 PM IST_
+- [Maruti Suzuki revenue rises 26% in Q2, but higher expenses hit profit](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakRUVWxoWm1USkx3SXp2Q1lBZ1FiSmxiZERac1pSc1hTMmdKRXl2bnpGRGtpejhfZ0VvbkY3Yk96Tnc0VW5KdjJlVVhWcGp4NmRfZXBPTFVXYUM4LXp5dDlWMzkxTjRBY3doVElTU0JzSzhMa0djUDBDbXkyM0ZkVEJveUV1aU5YcnlUc2tuV29YSG1uMmMtUzBreDA5dU13ZF8wbG54S2Z0QW02OXYxVGZjRVVKaEpuYnVOMDVWb3J3TEdodk5QR2xfLXZQQVhDbjEzMUZwTVfSAd8BQVVfeXFMTzc2czNfbjJDNFc2UTNYMmpPeER0T2xnSGFHTXJFejUwNVVBam5lazZKMWtQbFNFT0NnRkJ2Z0VpQzczLXF6a2FlTElGWmpFY0R2Wkx1aUJQalFFdEl5ckRaZWlzTldnd1VTd3FGV0ZGUjlhMEUtVE9BVlZUTGQ4OVBFc04tWTdNMjNnRjdyNHp1VlhFM3Z6WkQ4Z29qdU5MWERPRE5HNzdfN2ROZHRfOXkwRTJpR1l2NkR5SjdENXUyeVBib2hBbElieWdvMk12aFFUUDhhYW5uRDhFbnZPNA?oc=5) - _BusinessLine, 27 Oct 2026, 03:56 PM IST_
+- [India's Maruti Suzuki misses quarterly profit estimates as costs outpace revenue](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkdmQXhYRjJ4M1ZrczRkX1dtQU9jR3Y3MWd6NkNoTWJQWEp2MXA4eWVQYXZoZU4ya3NDRVpKSjBhUVpiMVBvU0xJTVBPU2dBeDA3Zm5qSXNjQmZyeDRhS1VfZVJfdlBiZUV4N3N6N21tSlJqUjhvMmtLaEFCclZvNFk4UzhDRjFwVGFEUTJpVUliQWRBQnJWSVNFUlg5di1LNkswLXN1RnhMNUpHY0FFYmNBekc4UjhlZlhQYVBlYUE?oc=5) - _Reuters, 27 Oct 2026, 03:45 PM IST_
 
 </details>
 
@@ -143,7 +143,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹142.00 | +0.07% | ₹141.71 - ₹145.27 | 20,862,723 | 13,465,003 | 1.55x | 24.41% | ₹138.58 - ₹211.92 |
+| ₹142.00 | +0.07% | ₹141.71 - ₹145.27 | 20,310,435 | 13,465,003 | 1.51x | 24.41% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -172,7 +172,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,165.00 | +0.92% | ₹7,067.50 - ₹7,170.00 | 358,921 | 419,843 | 0.85x | 28.23% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,165.00 | +0.92% | ₹7,067.50 - ₹7,170.00 | 333,194 | 419,843 | 0.79x | 28.23% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -202,7 +202,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,638.50 | +0.11% | ₹5,617.00 - ₹5,694.00 | 18,095 | 19,798 | 0.91x | 26.62% | ₹5,632.50 - ₹7,847.50 |
+| ₹5,638.50 | +0.11% | ₹5,617.00 - ₹5,694.00 | 18,094 | 19,798 | 0.91x | 26.62% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -230,7 +230,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹96.16 | +13.79% | ₹86.15 - ₹99.00 | 120,601 | 62,153 | 1.94x | 102.44% | ₹76.41 - ₹130.64 |
+| ₹96.16 | +13.79% | ₹86.15 - ₹99.00 | 120,458 | 62,153 | 1.94x | 102.44% | ₹76.41 - ₹130.64 |
 
 **Research reports**
 
@@ -258,7 +258,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,674.00 | +6.29% | ₹1,607.00 - ₹1,702.00 | 13,067,570 | 3,249,712 | 4.02x | 65.40% | ₹601.35 - ₹1,725.60 |
+| ₹1,674.00 | +6.29% | ₹1,607.00 - ₹1,702.00 | 13,018,271 | 3,249,712 | 4.01x | 65.40% | ₹601.35 - ₹1,725.60 |
 
 **Research reports**
 
@@ -276,7 +276,7 @@ _Research report coming soon._
 - [Ather achieves profitability milestone, supply ramp-up to pave the road ahead](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ0FwaW1Kb0VkTF9QY0NxU25nNThybDZmRVpTa2dtRWgtSmkwZWJFOXJHNEE5MVl3emN2Wk9ZNm1lWFJVZWJ5X0hHTGpFTHlLNU1RRl9lYlRYcWVuMlUydU0tUUtROWZTWEJ6akxQVlVOU0g3Vmh1WExyem1YbmRyS0sxSkx2MXFzaTd3NmpQNFdRNFRpd2VtOHpQTzVsYV8xa3Z5NXppM1pWSTk5bUtCOENWa1pOc3fSAbwBQVVfeXFMTjUxR3A4a1N4dENMMEVySDFlU2tGaHNsZVMxM09PU2o1TUt5enZiYnNUenphWm0yT2hERjlvbEtNcU11dWJUVlluVDhERGl0Z01wZjJvcmNTblhqX1NSY0xCRVZscElxZ04yUGFRQ3RUbW5wdmFTaTNycjFGeGlyLXR0ZlFzRXUxNm5VUzlWb1phRzdUYnlIenFpRmRuZTZsdjROM0l0RjlCVm5Nc0l5ZG1idV9oVVdXMGN0a3Q?oc=5) - _Livemint, 27 Oct 2026, 12:52 PM IST_
 - [Ather Energy shares jump 5%, extend rally to 20% in two days after Q2 results. Can the run continue?](https://news.google.com/rss/articles/CBMiigJBVV95cUxNOVJESC0yNlZwMHlWQ3I5VVdXckVCRy1vLW5vTkxzX1B4Mm45VjB5ZU5paHhNbGJhT0xKcEFISEliUElaY0RvWHpLcC1wQk40S0tTVWtEdzNCbElzbE54UktXSkJyUFhDYlpPR09jdzRaM0xQLTRsWTctOUlTWEpxVzlVdG5yTW1HRmg4WU5wNGxsUU53bk5CM1VTSE1NcG9VQzQ5OGZHN1lORThhT0htZkE2bzdjaDFTMGQ0dXpCbFEtN1VYaVZ1OWpXbkNnd2ZXZGRsUUEtbmp2dHhMTEVmYmtyTEZFbnBZdDNDQlp4Q3NWbGtFUmpXSFRfM3AzWHRKak4yZlhFc1RPQdIBgwJBVV95cUxQSUtSVzRpdWhFNVk1eHVoSHVwQVo0UGFydjh3ei1qZ3N5LTZiWXR0eTZ2NGpSa3hNZjl4OWFSVGs0VWZvY25JdGlNVmR6LUVpVi1XdkRoaDZwekVRM2g3cW5qZldScjhMdlRrVFRMNV94YWlVSEJXN2xZc3V6NnJoSkk2cHgwQ0YzQVJtYzhHSlNUVTF2blhUNm9jTjA1S3NRQnB4dXJDR24wT3I0WVYwbHI3RHBqWl95U2pVMEttNl9JWS1YUzRKS2FsdEVZRkpsQnFiZTJRUXY2aUY0OE5QSDhWbWYzcWl4aUpMR0p2di1GelQtTDdqOE1wNFotcEktRmVz?oc=5) - _The Economic Times, 27 Oct 2026, 10:39 AM IST_
 - [Ather Energy extends rally, EV stock surges 20% in 2 days; here's why](https://news.google.com/rss/articles/CBMizgFBVV95cUxQR2c2Mnh1bnNBN2JMTDVzX3JQNUEzd1QxemdvMWlNY0RSR0RPMHRkMTBPcmk1MTRsWF9YeGVUOWU1TDdtU0NlUFZiaHYyOUwyeFZTUUtPSzJZZjh5N0NWS1ZrZE8xV3JiZXJONUI2elN1YUJsenpBUDJKV1lVT2huRXluZkF0MmJTTDhOUmZVR3p6MURSb3VoWkc5WVpZV0czUGxZenVyNzRXbmJ6TXYxY19aWXpKellsNE93UmU4bW9nNUJhWWxMRndlNzMzd9IB0wFBVV95cUxONHZfeWMwSV9tXzB6c0VKTWlNSDBzN3BKM0hDUmtVSGFsZmdNc3NYVElBMlFKRHJQZjZUT0VVbTNlbU04TEVCcGRXN2FXN2RvNmo1QVlFdkpoYl9LSnRyQjRFSm5OdUl2S2dSZGRWX2tFS0dYeDNORTV2Z0NWbkJ0VGl4X3cyMWZmUU84Zm9wRTRuclJEQlEyWkZqMnJfS0NCLWo5Zk5hdjUza2NHc3VuaUZmYXVTU1FCLVN3bXFkR3VFaHRKTTR5ZHZnOTFPeVJBazg4?oc=5) - _Business Standard, 27 Oct 2026, 10:32 AM IST_
-- [Ather Energy shares already up 126% in 2026 and jump 5% to extend post Q2 rally today - Should you buy famous EV stock?](https://www.livemint.com/market/stock-market-news/ather-energy-shares-already-up-126-in-2026-and-jump-5-to-extend-post-q2-rally-today-should-you-buy-famous-ev-stock-11793073186622.html) - _Mint, 27 Oct 2026, 10:08 AM IST_
+- [Ather Energy: Scaling up for the next growth phase](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTEpBTVYtcmFGQW9WQ2IxVVYzcmozeWNRUTUxeEVHNF95a21ra1pvZkwxazNwUjNLOXZJSDR0eTJFZUMydmI3R1J2alRQUjZmTHFLeHVXMXpMcWVYLXI5cXh2SWlfT1p0NjBrVk5Dam9VMy12cmRSNHRMOWhVUHZMU2M3TU5BXzBCbGViaEVmaTFSSE5oS3FyeDF2ejh2MGJRZWJXY2pQS0F1ZjBfRmgzTFpDX3BmY0JUdUt3YkFzOWwtdHFVejk00gHMAUFVX3lxTFBDTTY4R1BsalBraklTbXU5TmlULWZaYnZ3X1UxVDVFbXlLQUN1WjNYNTl4WWxhWTZFZUN5Slc5dkZMUXpNd2pnVUhUeThjMy01bzE0SGVzcTlzaVk3VG00SjFDTUNyXzN0aVA1cEJTSXJUYTdvUmQ1VDFMTFF3ZGx0a3V1QTVLSW9OaE5vaWVKV0pUeGFYVDBmQ0VvOUh1OHBIQzMtdUpUZ1NOYVVnQkh4VjZVc2NESFp3NmtYa0tSa2tBWW14Y2NEOTZneA?oc=5) - _Moneycontrol.com, 27 Oct 2026, 09:45 AM IST_
 
 </details>
 
@@ -290,7 +290,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹132.02 | +4.51% | ₹126.90 - ₹132.02 | 15,505,539 | 8,482,522 | 1.83x | 40.23% | ₹126.32 - ₹177.20 |
+| ₹132.02 | +4.51% | ₹126.90 - ₹132.02 | 15,009,769 | 8,482,522 | 1.77x | 40.23% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -304,11 +304,11 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Central Bank of India RTGS glitch: What to know about your deposits](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1l0Y09RN2x2NTNuaU1LbU5IZU1WN0dHQnV2ZlZfYU5qejZtRy1vMzVMcEhoeHVheUVRSlhaUEp4VE5TYWstNjVDLW53OU9XR2k4MzB3TUJUOTdiejNWcmRtTjhFaFBFaURvb0l0MzVnQU9BQnN4YWNhTWUwSmhMaDBlRlpxTzl0YkFORGpkdWl3LVEwbFZyNk5lZlZZUmFOVC05Qnd2WHprOGZKMDdxNVdxQV9FZUUtN1FrZnZOVnZfWV9TZTFTWEh3bHMxc2RXOFJWRXpKcTF0SnQtSXfSAeMBQVVfeXFMUDJsOHRNcDIwRlNJRGs0MWlLRWg1Mi1CTXRqbk4ycWdLRGtPbGtQWTZjbTkyc0pobmpleXFSZUlrc0JXYWQ5bHY0QXc1WGdGYmxWUGhLZWdFUWg4cFYtLWtiVVUzcmxkamZNX3pCbVhNNDhMMFNRck16UFJtM0s5eHg0U2d2ZXQwdVdiNGdjQnJEa0JuSGVmRjlVZ0pEcDJ1ZVFqODFOaGRsOUVBbkJRMXkyUGFUa1RVOGRwN3M0QzVHUVB3Y3dXZzhjQnptQnFGTldfR0lsYUJzNUpfN2pXMklVTlk?oc=5) - _Business Standard, 27 Oct 2026, 04:49 PM IST_
 - [Bank Of India - Mankind Pharma among 5 F&O stocks with a sharp rise in futures open interest](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTDRCS0dsdG4zalUzY2tSSDZoZHc1Y00wWWxZYmxjeWMyYk45dURHNlhTWE1kWF9Hd1A2VExDSUxMQ1kya0c2cDN4M1ppbHZMQkJzUGJ2RmJpWHNZUFF2NHFXZjdkUTBfWkN1dXFiRmJ3QTlSLXM0M1BYTnpPZW82YmNoMlJIVksxSmxWY1NYOHl3ckhZSVFGX3huczZka1hYekZYU1BkS2JndjFuQXlMbDFNMU83UnJ4V09rVm9iamw0VHZQdWozbS01ZUZrN1haQU1pa3pEXzdac3VvSGtyT3kzbFpja1RLRmJhZWRMQ05fZHNjUEJV?oc=5) - _The Economic Times, 27 Oct 2026, 12:44 PM IST_
 - [Bank of India shares fall up to 5.5% post-Q2 results as global NIM falls to 2.47% QoQ](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGlUaU9kcW5meXRzWmVpdGh3OGszdEVONkJqc0c3SGhyeXJZMGdaZ3VhS2dhYVR1bGhDRHVyWXkwQ0FSbDU4ZzhjSVNKb2xLMTM1SzhCYlFqYUJ0N3ExRThHa29nQWJNNkR6RTMwNmhzZ2E2N2Q4SGhHRk5mdkhnVjlXc1dxb1BJUERUaGxMTzhkWGMtUnVSMGVnYXJlcmM4b2NkSUpCSUR0UVQ1Z2wwYXNfck5VUUdDX0RIYUgxeGlRUHROdDhqYURiRzZKdlFOdWIwaDNEdnY2LW9rQVF2LXFn0gHnAUFVX3lxTFBEY01jUnRqVHd1dHpOdzlUN0t3dm5jQmhUVGlDakFubTVGTDF3RTZhenZCbDJGVXJDcDhORGNxMFlFQUw4cGV4am5sMWpELWh1dUQzS1FkbkNOUW96X05xVmRsRl91ODV0bDE3U2Z4RlFzMnNxbmpmQkJzcXZYWVgwSGlJUHlFV2VVOEdCOGJZOUxqbWlxM05TMVJ3X1I5VFlYOFRsZ1RTaFZzQl8tNjNyclRMT2JMRmZYaWpIaXU2TVdlZFBzRWJkdlhrV0VSVGhkY202eDh2NDNKM3VfSF93YWFha1U5Zw?oc=5) - _Moneycontrol.com, 26 Oct 2026, 01:46 PM IST_
 - [Central Bank of India clarifies all accounts are safe after reports of 187 unauthorised transactions worth](https://news.google.com/rss/articles/CBMilgJBVV95cUxNbklYZFp4aWF3MDI0SzNETV91UGtieTl6b0VvOWNEWlRmbUR0ZTRqMW1weTVoQlMtTlUwb0xSQ0VYMENEaEFMZnZMVXlYNGhDZ1FXZHFraDF6UERXM1M2bnh2NWlPOFNLNlhOanoteklSRUJERmt4TDFCRnJSTHlrakthYWJnemFfVTdoU0xucml4ek5fdFMwMW9MZndHTVViMWJmbE5zVXNZdmU1ejNQUkxfU3VacEpwaGQ3cTlhbkR2dDAzcHktd09wbDA5LU5yY2NRTkVpeEhKREpkVW1tdy1jSFlQWnpRcnF2ek5uSENCYU9sTjk4cFhOaHZqUG9fUy11b01LalZubzhfQkRyV2d2SGZzZ9IBmwJBVV95cUxPT0ZhbUo0aTdQOXlWa2RhenY2V2pmX3dQaktXMmhodXR2R0VuYVhXRllnSm4waVdtY05iSjNrNExleXlKREJsRjg5elNVYzhVRl8zeWpvQ01PZVA5bEMyOXJvN25ZMGtIelhWcG5WZTNjbl9Od2MyZGJfTGZPU1VwZGNNajBrdVNMbUEtR2w2a1g4OGwwb0lJMWtVaG9GeUt6dUkwTFF1WHkyRXBwSzFFbElrV2FpbENmRXk3NUZkMnlIWi1sZVRPZU1pUXBNVGQzRWFSZGFRYUF1S1ZJVm53Q0pTakVDY2p0YmlySVFiWmhqZGtpdUo3bmRBa2F0b2FFTjZVem9kWFRSVHk3eTlsbUtlZks4bUJsNjZv?oc=5) - _The Economic Times, 26 Oct 2026, 01:40 PM IST_
 - [Central Bank of India resumes RTGS services; no customer impact due to tech glitch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbndfS29uMkxmQXhIMjRDeVhVREFHempVd0ZwUEpoQXFrUGRoY1pjbk8ycjg0NnhHbGxkV05XYzhGanFUT3RXZmlBcTZTdTN3SUdCR0tvaUl3MlM5MFpnMkhoVnZlWGxDNWYzaUpSR3QtY1c1TDM4U3RxWF9pMnRRM29yajQ0cEREZks1ZkZQX0FqandMZGxGamVfNXlmZVlBTW1CV29USUo3N1YwajNmcjk0WGQ0azdLT2dZLWtFZGNSbW1lRFg1bGNIZ3hxemVZLXI4bXg2R196anZESzg0TW96MjBSSEh5UllkOdIB8wFBVV95cUxQUGNOUUJXT1hKNlZWS2dHbHJIVmxibGdralRjRHlXaGIwbHVVMG1qQ1QySXF2ZGlTQkNfaEhaNlhkakJMOXB3Y2VXTXlrSmxqazNwMWNzUk1qeHNPYm1wWmVIZEVHallGa1NkZ1VqQVd4YUZNSEMtcHphT0p3YzRsVTAyQ0R1blp2N1pPM0hObUtVbXltWEo1MzhPSjNpZGUzdTh2T2ZqNGU3cElIMjE3S1NXU0NSTk9TcWgxaUw1MkFHbVNCU1dUN2plN3BvSzNMd1hGdUtfMEk2UGlRWHdaSWM2RG9IX3JTMlJtbmJsUF92ZGs?oc=5) - _BusinessLine, 26 Oct 2026, 07:20 AM IST_
-- [Stocks to Watch Today: Infosys, Kotak Bank, Lupin, KEC International, Bank of India, Coforge, Bharat...](https://news.google.com/rss/articles/CBMixAJBVV95cUxOcUdENFh1VUFFYXlqZVBvYUlIQXE1aEZuOHNoZjFnN0Z4TzExOXJLbkk1Qy0zSUpja3lBM2J4Tk8xSHNlVm80cE1MandLWU81dkVvdkhZVy1jWWN5elpXT3pUVS1ZaGVFbGpjbFFnR0RLZWxNSURzOHhzblllWnkzQmVkZ0FOZjlCOGRzWTlIdWJCRVpWQzk0S2FMU19TcnRjQlM1V09vQVNEbDlqMVlmWXpYT3JiMjFQYkVCUlFIOERPX3BuUWtwRVV5bmpremItc1FMaTRuN09LM1E3Ul9sM0FoOHN2N2ZHeTU4cG9NOWZ0NEFucGxyQWxJSXNqODI3SExPYlVXdlZfZENXbVgzLWV4QkRvaEhfc0k5U1FnT0VsYzkwdTIwRzdIMUxvZlBhQXkxUUp0bEVBVl9wRHY5d1AyWi3SAcoCQVVfeXFMUGhWdUNoOU9jT2s3VlM2OFRwNEkxVXo2X2tXbjdWbzM4TXpEZHctbUlFYzlOYmVGcGtJUklKcm8wMVV2Y3d5MGtlYWVPdGZDcFpfZVZ6OU41alFnNGxabjA0UGE3eTRzUmlnY2dBZGFFYkJOS2FCb2wzSnE1cDdNLVd3ck10UVhLblIzUnpndnZxVkFDOV9YcWpQTmNkWEhZMk4wMWo1NlpZaXJCTXBpWHhNMzFrU01OcmxFbDAzMlluWGVONG9sVzRDMDNZQlZEbk9BNXhhbmVZQ1JlSnhWVm15Q2dQNXB3MGQ1MnJocF9kV0h0Q1Y3UnNNX3d3Z1ZMVWpMeUpCbjNlUEZWQ2VtY2M2aTA0a2NDVGJGRzlBRkdyeGlSMVhsZmJQN1lpQVN5eUxtR3FBaXVIR0hOWlZiTzhWanZCQ09pb2NB?oc=5) - _Moneycontrol.com, 26 Oct 2026, 01:19 AM IST_
 
 </details>
 

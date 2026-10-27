@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "27 Oct 2026, 03:33 PM IST",
+  "generated_at_ist": "27 Oct 2026, 05:27 PM IST",
   "as_of": "2026-10-27",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -41,9 +41,9 @@
         "high": 11460.0,
         "low": 11190.0,
         "intraday_range_pct": 2.41,
-        "volume": 447146,
+        "volume": 426626,
         "avg_volume_20d": 470244,
-        "volume_vs_avg": 0.95,
+        "volume_vs_avg": 0.91,
         "volatility_20d_annualised_pct": 26.6,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
@@ -55,34 +55,34 @@
       },
       "news": [
         {
-          "title": "Q2 Results Today Live: ACC, Mazagon Dock Q2 profit tumbles, Bharat Bijlee & Bharat Seats rally, Cipla profit declines 35%, L&T, Maruti Suzuki, Bajaj Auto, Vedanta Iron, Waaree Energies, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results",
+          "title": "Q2 Results Today Live: Bajaj Auto Q2 PAT up 35%, Maruti Suzuki & Cipla profit down, ACC, Mazagon Dock PAT tumbles, Honeywell Automation PAT up, L&T, Vedanta Iron, Waaree Energies, SAIL, SBI Life, Tata Capital, Star Health, ABDL to announce Q2 results",
           "source": "BusinessLine",
-          "published": "27 Oct 2026, 03:24 PM IST",
+          "published": "27 Oct 2026, 05:12 PM IST",
           "link": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece"
         },
         {
-          "title": "Maruti Suzuki vs Bajaj Auto: Which auto stock to buy ahead of Q2 results 2026? Experts decode",
-          "source": "Livemint",
-          "published": "27 Oct 2026, 12:13 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc3VzckE4LW92ZGd5V2hpeElxdUFZckF2MmxZOEdKN3dwdmpWUThmWWFWVnhDZWhYbFl2OElob19mQU5mLUstVWJ2amtqOGdtdFo0RW1MUWdYa1ZBaGVSeXJFa21ibnluYjRBcjlWdWRycGhkSVJVSm9ZMUtPLWNBOWFmckpRRlltTWhzeGM2VUpYSnBITVZJR01NYVBteFBDSm1QUUU5aU9kRHVBbVdsdDRUQjQtdzBnUlIxa1o5ekd2dXlPWEk0cGpPLUJLWUR1Z0FEbVNGU0VVaEtZcXFQekllb3YwbW9lZWg1X3VwTXF5M2c?oc=5"
-        },
-        {
-          "title": "Q2 results: L&T, Bajaj Auto, Maruti Suzuki, Cipla among 110 firms on Oct 27",
+          "title": "Maruti Q2FY27 results: Net profit declines 26.36% to ₹2,466.1 crore",
           "source": "Business Standard",
-          "published": "27 Oct 2026, 09:12 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQckJySUdiVVVybkRhaEdkYkN6bV90bngzLVJGZzVLZ2ZSWTNVQmRqV1ZtYTJCbEMwRHd2LVlzMkNNZ2RueF9NR1Y2ektLNzJrZWJscTYwVHR6d2VGdF9WTHRCRHJ1X1ZZcnZfNF9hZjBSdFVZLUNhVU1ELWZQa0RKbWZ2LWxRRGNNVVlZWVoycVlwMUF4SFNGYXl2WURQN1kyMjZsMXlqTThSelRFanFMSmtCRVVDZ2Zkb2h5UUFZbTA3QUdudUlTX2FIbDdua2xXZkhEZHJfVlBzNkFDajY4ZFZvRlVldVpT0gHuAUFVX3lxTE5JZzdmSk9UTENGSlBkU0hSQXY5VVg4YTNCWFNqQmdHc0puNXhNb2xET3JBekdBVnYwZ1A5QzFBSktyU1lLSHo3bmhJbnpRbklZM2lSTzBuRDJDOFd3NXlLSENnRDVfWnRlS2c5WjBTZGVhMG9maFdtanRlRXJnbFBGT1U3N2E2ZGZiWkpvcGUtN01qTVI0U0ZwXzJNTTNZSnljTXpsLWNoY3dqTlNQNm1mbVZuX2dlb2dYNVVieVdtV0tDT1NULUtrMnhFWnQySzMzVXBjVnNGbllob2RuRFJwUGpHOE13bXdvbnFtRXc?oc=5"
+          "published": "27 Oct 2026, 04:15 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFBhNFdUVFp2MENqUkJNRnhvcWVFMTE1N1MyRmhhYVdpSzFFWDJkNUx1aUNGaWdtM0NVVzFKYlM1RVN5SUFscW94Smc2am5XSzFfNEk2NHlYNXlnVmR6OVhCQXlvSTgwS0R5bkRkVmtqaU80N0p5WnlfamhLOEVRZ2ZHVTNIZEF2dENTTGw3R0QyaWZIbUtQcjNQWEdENm1jMGdOV2NUN3lpT0JXWUIzbEVlc1U5eUFfNFZUVGxiR1lzbExDYWxfWUw2NDJiazdISXpRV2Z2dkdwd1dxcU5B0gHkAUFVX3lxTE9PLW1ybWtkblZZdkhfbHp4WWV0Y2FxVjRGTHFQbmQxVEtxOUxLRmZwY1U2ZnVoN3lNMXB0cEVTXzVORzNOTHVHU0tsVlVTVU1DLXd6MTNqbEZpd3FwU3hBSjRMbHNEbEV6bU84RGFzUnIyQVhWdlo2VUdRSGFyOFZqNTdrY19INmpMaU1kOUR3MF9lWDVTYmRBNEhsTXZrcklOdkVPakZEbkNKcnpqc1FjMGVXXzhVZ2dGYXA2R1hKQjRTd3VpcTdiOEM2VVlYeGZWQnUzUUxrRFM0Nk9BRm5pVExHNg?oc=5"
         },
         {
-          "title": "Q2 results 2026 today, schedule: L&T, Maruti Suzuki - 100 more firms to declare quarterly earnings; Oct 27 Tue list",
-          "source": "Livemint",
-          "published": "27 Oct 2026, 08:35 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdm5KQk45ZVplUW9VdXRLV1RxcG9VUm1YcWFpbkZjMU9NMDVrRU9QcFdoWXI5VXgxZk1LLVVUWVJYbDNZRHAtdUxVYzVvdmx6U0JEWERfWVhOVElodjM3MGZmZTZCUlVJaC11OW1GLV9fUUNDRk1IOTEyOV9TWW5GMjRWMV9NQlZabkIzTExUNC12Zm1GNFFlWWZLYVFFcGlTTDB3Njd6TUprb0VXSkczSE5HQnh5YXp2NjMxeW1KUHRyeV9UVWM2ZnZMZDZta1VZUjA1QmJDWjdIY01fTzF5V2IzUnA1UWZEXzdaZzN0WWhRZGJqZm5yTmNMbllsSXBuaGotNE52b2lwSUFzb0HSAZMCQVVfeXFMUFB6NjBucFBoWldzUGFTTWdhTEZFWE9ReTB4MTQ0MmJCTkpUbDQ3U2hmdWdCbWp2RVl0OUxvQ3ZVdGpLZjZqWG1qQlhabXYtd256QnJUU0dZRjVEUzQtbTNxeDZGQndYQ0tRbndpV0QwR1lpRnhlZ3JHZkpfRUZPM2dTOG4teVp6dzJjYjFFV1lyMlktOThLODRrTkVIeHg0cE1vRTBxMlNaV0hLOVVvdnBpbHB2VHY3N2Nfa3pRRzdRSTd4WWU4WG55b1d6NWJObmdLWFdYY292cTRfbUJrR25uX0dSLXFMbmdSQVptNkZ4STBNMUI4YXd2VEx5bVQwX1Z6SU1lTXByYUFGeWtRb3NNb1E?oc=5"
+          "title": "Maruti Suzuki Q2: Profit declined 26%, revenue at Rs 5.34 lk crore",
+          "source": "The Financial Express",
+          "published": "27 Oct 2026, 03:56 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFo1a05HWWEyZU5oQ2lyRjVQSC1PVzR2TDlhZlhvTDdBdzdNRFBLQVJ1bWFQdVBpdXk0TlZwMlRrZ2FCcEJXLUdHd2s2R3JfTXhIMEhyZEtXUVNVeGNhQU1wc0RhTWo1cXU2X3VoNG5xMDBOc1dQczR4Q1FSel9lZmJLdU5tbjlYbTdrMEczNWlnTm5NSk9RM3gwWWN1a0RxbkZYcWpTb1NJZUtCRTdBSW5SVHJDVTJNVGs4RVhWdVfSAccBQVVfeXFMTjRERVNRLXBHMjdSUEoxcjZjWGlpZFNhX2czMDV3b01UNjFiaVVLTjZZY1JYQ2ZTb1VNUS1sT092SjJqRURoc2VaMy10RlBtaVpMOEpiQWEtRkFJREFKaGhCc0dWVnB5c2RYdUpWN3FVMXdvbl8tRk9LTVdTaWpvUFlLR19jN0xYWU9GUnRVc09iS0lfN211bllDV3luNGIySXVnXzh1OWlWLWFwNUxucjV0TzlMQnIySTF1UGZqYUdGcjlhMjR0RQ?oc=5"
         },
         {
-          "title": "Stocks to watch: Tata group stocks, Paytm, Ather Energy, L&T, Maruti Suzuki",
-          "source": "Business Standard",
-          "published": "27 Oct 2026, 07:54 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbC13YkZOcUl2T1NzVEItcGstdEpVamVDamtoTTc4VHVkXy1aUUVDbDE3bVJXX2x1Z1BfOXBSRnRnODdQb0Y3TXo0aXB3cG5aTHZGY1Q0OU1HdGJtcTBIUjYwTjFveVhkcDE3WXRSTnA5OEJDQ2RfeEU5VnBMMDVfTkZCZHZWWF84emZESi1sdWdWVmRsYW1CcHVOaThGUUFBVmNvcVlFdkl2Ykc5OXpYNklFVUtYSFVWb0NjOV96T0dsTWdETFZUS3hrOFNaUGRfdkpqbVBJOEc0UDBFRDFOTVdn0gHnAUFVX3lxTFBOYklrU29Ud3ljYTdiMHZMNkdOa0dhalN1UkdsekJKdG9DUkUwTjkyTDFPMTd5UEp0VjBKZTRQaTd1bDl2WFFQN2RnaGtMalI3YmxMVTU3Mjh6bkNHVUFyN3lDTURDTGlTUTU3c28tcFdLZWZEVnZ4cjJsZjBpbEpHaUdJaUtYdTJiV0EzaDYtX0JTWHA3OGtzTW5PNU1IUnNMeUhuTjJVa3EwR25YU1JSX3k1RVlLM191ZVBfS3ptc2tUTExES2thSHQwRVlCY3BZMmRlV3Q5LVppcmhPeU01cEhEQ2twUQ?oc=5"
+          "title": "Maruti Suzuki revenue rises 26% in Q2, but higher expenses hit profit",
+          "source": "BusinessLine",
+          "published": "27 Oct 2026, 03:56 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakRUVWxoWm1USkx3SXp2Q1lBZ1FiSmxiZERac1pSc1hTMmdKRXl2bnpGRGtpejhfZ0VvbkY3Yk96Tnc0VW5KdjJlVVhWcGp4NmRfZXBPTFVXYUM4LXp5dDlWMzkxTjRBY3doVElTU0JzSzhMa0djUDBDbXkyM0ZkVEJveUV1aU5YcnlUc2tuV29YSG1uMmMtUzBreDA5dU13ZF8wbG54S2Z0QW02OXYxVGZjRVVKaEpuYnVOMDVWb3J3TEdodk5QR2xfLXZQQVhDbjEzMUZwTVfSAd8BQVVfeXFMTzc2czNfbjJDNFc2UTNYMmpPeER0T2xnSGFHTXJFejUwNVVBam5lazZKMWtQbFNFT0NnRkJ2Z0VpQzczLXF6a2FlTElGWmpFY0R2Wkx1aUJQalFFdEl5ckRaZWlzTldnd1VTd3FGV0ZGUjlhMEUtVE9BVlZUTGQ4OVBFc04tWTdNMjNnRjdyNHp1VlhFM3Z6WkQ4Z29qdU5MWERPRE5HNzdfN2ROZHRfOXkwRTJpR1l2NkR5SjdENXUyeVBib2hBbElieWdvMk12aFFUUDhhYW5uRDhFbnZPNA?oc=5"
+        },
+        {
+          "title": "India's Maruti Suzuki misses quarterly profit estimates as costs outpace revenue",
+          "source": "Reuters",
+          "published": "27 Oct 2026, 03:45 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkdmQXhYRjJ4M1ZrczRkX1dtQU9jR3Y3MWd6NkNoTWJQWEp2MXA4eWVQYXZoZU4ya3NDRVpKSjBhUVpiMVBvU0xJTVBPU2dBeDA3Zm5qSXNjQmZyeDRhS1VfZVJfdlBiZUV4N3N6N21tSlJqUjhvMmtLaEFCclZvNFk4UzhDRjFwVGFEUTJpVUliQWRBQnJWSVNFUlg5di1LNkswLXN1RnhMNUpHY0FFYmNBekc4UjhlZlhQYVBlYUE?oc=5"
         }
       ],
       "announcements": [],
@@ -104,9 +104,9 @@
         "high": 145.27,
         "low": 141.71,
         "intraday_range_pct": 2.51,
-        "volume": 20862723,
+        "volume": 20310435,
         "avg_volume_20d": 13465003,
-        "volume_vs_avg": 1.55,
+        "volume_vs_avg": 1.51,
         "volatility_20d_annualised_pct": 24.41,
         "high_52w": 211.92,
         "low_52w": 138.58,
@@ -143,9 +143,9 @@
         "high": 7170.0,
         "low": 7067.5,
         "intraday_range_pct": 1.44,
-        "volume": 358921,
+        "volume": 333194,
         "avg_volume_20d": 419843,
-        "volume_vs_avg": 0.85,
+        "volume_vs_avg": 0.79,
         "volatility_20d_annualised_pct": 28.23,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
@@ -188,7 +188,7 @@
         "high": 5694.0,
         "low": 5617.0,
         "intraday_range_pct": 1.37,
-        "volume": 18095,
+        "volume": 18094,
         "avg_volume_20d": 19798,
         "volume_vs_avg": 0.91,
         "volatility_20d_annualised_pct": 26.62,
@@ -220,7 +220,7 @@
         "high": 99.0,
         "low": 86.15,
         "intraday_range_pct": 15.21,
-        "volume": 120601,
+        "volume": 120458,
         "avg_volume_20d": 62153,
         "volume_vs_avg": 1.94,
         "volatility_20d_annualised_pct": 102.44,
@@ -252,9 +252,9 @@
         "high": 1702.0,
         "low": 1607.0,
         "intraday_range_pct": 6.03,
-        "volume": 13067570,
+        "volume": 13018271,
         "avg_volume_20d": 3249712,
-        "volume_vs_avg": 4.02,
+        "volume_vs_avg": 4.01,
         "volatility_20d_annualised_pct": 65.4,
         "high_52w": 1725.6,
         "low_52w": 601.35,
@@ -290,10 +290,10 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR2c2Mnh1bnNBN2JMTDVzX3JQNUEzd1QxemdvMWlNY0RSR0RPMHRkMTBPcmk1MTRsWF9YeGVUOWU1TDdtU0NlUFZiaHYyOUwyeFZTUUtPSzJZZjh5N0NWS1ZrZE8xV3JiZXJONUI2elN1YUJsenpBUDJKV1lVT2huRXluZkF0MmJTTDhOUmZVR3p6MURSb3VoWkc5WVpZV0czUGxZenVyNzRXbmJ6TXYxY19aWXpKellsNE93UmU4bW9nNUJhWWxMRndlNzMzd9IB0wFBVV95cUxONHZfeWMwSV9tXzB6c0VKTWlNSDBzN3BKM0hDUmtVSGFsZmdNc3NYVElBMlFKRHJQZjZUT0VVbTNlbU04TEVCcGRXN2FXN2RvNmo1QVlFdkpoYl9LSnRyQjRFSm5OdUl2S2dSZGRWX2tFS0dYeDNORTV2Z0NWbkJ0VGl4X3cyMWZmUU84Zm9wRTRuclJEQlEyWkZqMnJfS0NCLWo5Zk5hdjUza2NHc3VuaUZmYXVTU1FCLVN3bXFkR3VFaHRKTTR5ZHZnOTFPeVJBazg4?oc=5"
         },
         {
-          "title": "Ather Energy shares already up 126% in 2026 and jump 5% to extend post Q2 rally today - Should you buy famous EV stock?",
-          "source": "Mint",
-          "published": "27 Oct 2026, 10:08 AM IST",
-          "link": "https://www.livemint.com/market/stock-market-news/ather-energy-shares-already-up-126-in-2026-and-jump-5-to-extend-post-q2-rally-today-should-you-buy-famous-ev-stock-11793073186622.html"
+          "title": "Ather Energy: Scaling up for the next growth phase",
+          "source": "Moneycontrol.com",
+          "published": "27 Oct 2026, 09:45 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTEpBTVYtcmFGQW9WQ2IxVVYzcmozeWNRUTUxeEVHNF95a21ra1pvZkwxazNwUjNLOXZJSDR0eTJFZUMydmI3R1J2alRQUjZmTHFLeHVXMXpMcWVYLXI5cXh2SWlfT1p0NjBrVk5Dam9VMy12cmRSNHRMOWhVUHZMU2M3TU5BXzBCbGViaEVmaTFSSE5oS3FyeDF2ejh2MGJRZWJXY2pQS0F1ZjBfRmgzTFpDX3BmY0JUdUt3YkFzOWwtdHFVejk00gHMAUFVX3lxTFBDTTY4R1BsalBraklTbXU5TmlULWZaYnZ3X1UxVDVFbXlLQUN1WjNYNTl4WWxhWTZFZUN5Slc5dkZMUXpNd2pnVUhUeThjMy01bzE0SGVzcTlzaVk3VG00SjFDTUNyXzN0aVA1cEJTSXJUYTdvUmQ1VDFMTFF3ZGx0a3V1QTVLSW9OaE5vaWVKV0pUeGFYVDBmQ0VvOUh1OHBIQzMtdUpUZ1NOYVVnQkh4VjZVc2NESFp3NmtYa0tSa2tBWW14Y2NEOTZneA?oc=5"
         }
       ],
       "announcements": [],
@@ -315,9 +315,9 @@
         "high": 132.02,
         "low": 126.9,
         "intraday_range_pct": 4.05,
-        "volume": 15505539,
+        "volume": 15009769,
         "avg_volume_20d": 8482522,
-        "volume_vs_avg": 1.83,
+        "volume_vs_avg": 1.77,
         "volatility_20d_annualised_pct": 40.23,
         "high_52w": 177.2,
         "low_52w": 126.32,
@@ -328,6 +328,12 @@
         "pnl_pct": 0.53
       },
       "news": [
+        {
+          "title": "Central Bank of India RTGS glitch: What to know about your deposits",
+          "source": "Business Standard",
+          "published": "27 Oct 2026, 04:49 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1l0Y09RN2x2NTNuaU1LbU5IZU1WN0dHQnV2ZlZfYU5qejZtRy1vMzVMcEhoeHVheUVRSlhaUEp4VE5TYWstNjVDLW53OU9XR2k4MzB3TUJUOTdiejNWcmRtTjhFaFBFaURvb0l0MzVnQU9BQnN4YWNhTWUwSmhMaDBlRlpxTzl0YkFORGpkdWl3LVEwbFZyNk5lZlZZUmFOVC05Qnd2WHprOGZKMDdxNVdxQV9FZUUtN1FrZnZOVnZfWV9TZTFTWEh3bHMxc2RXOFJWRXpKcTF0SnQtSXfSAeMBQVVfeXFMUDJsOHRNcDIwRlNJRGs0MWlLRWg1Mi1CTXRqbk4ycWdLRGtPbGtQWTZjbTkyc0pobmpleXFSZUlrc0JXYWQ5bHY0QXc1WGdGYmxWUGhLZWdFUWg4cFYtLWtiVVUzcmxkamZNX3pCbVhNNDhMMFNRck16UFJtM0s5eHg0U2d2ZXQwdVdiNGdjQnJEa0JuSGVmRjlVZ0pEcDJ1ZVFqODFOaGRsOUVBbkJRMXkyUGFUa1RVOGRwN3M0QzVHUVB3Y3dXZzhjQnptQnFGTldfR0lsYUJzNUpfN2pXMklVTlk?oc=5"
+        },
         {
           "title": "Bank Of India - Mankind Pharma among 5 F&O stocks with a sharp rise in futures open interest",
           "source": "The Economic Times",
@@ -351,12 +357,6 @@
           "source": "BusinessLine",
           "published": "26 Oct 2026, 07:20 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbndfS29uMkxmQXhIMjRDeVhVREFHempVd0ZwUEpoQXFrUGRoY1pjbk8ycjg0NnhHbGxkV05XYzhGanFUT3RXZmlBcTZTdTN3SUdCR0tvaUl3MlM5MFpnMkhoVnZlWGxDNWYzaUpSR3QtY1c1TDM4U3RxWF9pMnRRM29yajQ0cEREZks1ZkZQX0FqandMZGxGamVfNXlmZVlBTW1CV29USUo3N1YwajNmcjk0WGQ0azdLT2dZLWtFZGNSbW1lRFg1bGNIZ3hxemVZLXI4bXg2R196anZESzg0TW96MjBSSEh5UllkOdIB8wFBVV95cUxQUGNOUUJXT1hKNlZWS2dHbHJIVmxibGdralRjRHlXaGIwbHVVMG1qQ1QySXF2ZGlTQkNfaEhaNlhkakJMOXB3Y2VXTXlrSmxqazNwMWNzUk1qeHNPYm1wWmVIZEVHallGa1NkZ1VqQVd4YUZNSEMtcHphT0p3YzRsVTAyQ0R1blp2N1pPM0hObUtVbXltWEo1MzhPSjNpZGUzdTh2T2ZqNGU3cElIMjE3S1NXU0NSTk9TcWgxaUw1MkFHbVNCU1dUN2plN3BvSzNMd1hGdUtfMEk2UGlRWHdaSWM2RG9IX3JTMlJtbmJsUF92ZGs?oc=5"
-        },
-        {
-          "title": "Stocks to Watch Today: Infosys, Kotak Bank, Lupin, KEC International, Bank of India, Coforge, Bharat...",
-          "source": "Moneycontrol.com",
-          "published": "26 Oct 2026, 01:19 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcUdENFh1VUFFYXlqZVBvYUlIQXE1aEZuOHNoZjFnN0Z4TzExOXJLbkk1Qy0zSUpja3lBM2J4Tk8xSHNlVm80cE1MandLWU81dkVvdkhZVy1jWWN5elpXT3pUVS1ZaGVFbGpjbFFnR0RLZWxNSURzOHhzblllWnkzQmVkZ0FOZjlCOGRzWTlIdWJCRVpWQzk0S2FMU19TcnRjQlM1V09vQVNEbDlqMVlmWXpYT3JiMjFQYkVCUlFIOERPX3BuUWtwRVV5bmpremItc1FMaTRuN09LM1E3Ul9sM0FoOHN2N2ZHeTU4cG9NOWZ0NEFucGxyQWxJSXNqODI3SExPYlVXdlZfZENXbVgzLWV4QkRvaEhfc0k5U1FnT0VsYzkwdTIwRzdIMUxvZlBhQXkxUUp0bEVBVl9wRHY5d1AyWi3SAcoCQVVfeXFMUGhWdUNoOU9jT2s3VlM2OFRwNEkxVXo2X2tXbjdWbzM4TXpEZHctbUlFYzlOYmVGcGtJUklKcm8wMVV2Y3d5MGtlYWVPdGZDcFpfZVZ6OU41alFnNGxabjA0UGE3eTRzUmlnY2dBZGFFYkJOS2FCb2wzSnE1cDdNLVd3ck10UVhLblIzUnpndnZxVkFDOV9YcWpQTmNkWEhZMk4wMWo1NlpZaXJCTXBpWHhNMzFrU01OcmxFbDAzMlluWGVONG9sVzRDMDNZQlZEbk9BNXhhbmVZQ1JlSnhWVm15Q2dQNXB3MGQ1MnJocF9kV0h0Q1Y3UnNNX3d3Z1ZMVWpMeUpCbjNlUEZWQ2VtY2M2aTA0a2NDVGJGRzlBRkdyeGlSMVhsZmJQN1lpQVN5eUxtR3FBaXVIR0hOWlZiTzhWanZCQ09pb2NB?oc=5"
         }
       ],
       "announcements": [],
