@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 27 Oct 2026, 11:28 PM IST  |  **Market data as of:** 2026-10-27  |  **Start date:** 2026-10-16
+**Last updated:** 28 Oct 2026, 09:32 AM IST  |  **Market data as of:** 2026-10-28  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -12,13 +14,13 @@
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,24,90,412** |
-| Total P&L | **-₹6,69,118 (-2.89%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹2,70,630 |
+| Current value | **₹2,24,81,432** |
+| Total P&L | **-₹6,78,098 (-2.93%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹2,79,610 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
-| Today's change | ₹1,43,983 (+0.70%) |
-| Nifty 50 since start (same money invested) | -0.90% |
-| Outperformance vs Nifty 50 | -1.99% |
+| Today's change | ₹71,170 (+0.32%) |
+| Nifty 50 since start (same money invested) | -1.74% |
+| Outperformance vs Nifty 50 | -1.19% |
 | Cash (uninvested) | ₹71,41,482 |
 | Virtual money put in | ₹2,31,59,530 |
 
@@ -30,15 +32,15 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,450.00 | ₹11,450.00 | ₹11,220.00 | +2.05% | ₹33,20,500 | 14.8% | -₹11,310 | -0.34% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹142.00 | ₹142.00 | ₹141.90 | +0.07% | ₹1,42,000 | 0.6% | -₹5,720 | -3.87% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,165.00 | ₹7,165.00 | ₹7,099.50 | +0.92% | ₹71,65,000 | 31.9% | -₹1,01,000 | -1.39% |
-| Linde India | 500 | ₹5,961.00 | ₹5,638.50 | ₹5,638.50 | ₹5,632.50 | +0.11% | ₹28,19,250 | 12.5% | -₹1,61,250 | -5.41% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹96.16 | ₹96.16 | ₹84.51 | +13.79% | ₹96,160 | 0.4% | ₹11,160 | +13.13% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,674.00 | ₹1,674.00 | ₹1,575.00 | +6.29% | ₹16,74,000 | 7.4% | -₹3,200 | -0.19% |
-| Bank of India | 1,000 | ₹131.33 | ₹132.02 | ₹132.02 | ₹126.32 | +4.51% | ₹1,32,020 | 0.6% | ₹690 | +0.53% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,449.00 | - | ₹11,450.00 | -0.01% | ₹33,20,210 | 14.8% | -₹11,600 | -0.35% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹142.17 | - | ₹142.00 | +0.12% | ₹1,42,170 | 0.6% | -₹5,550 | -3.76% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,163.00 | - | ₹7,099.50 | +0.89% | ₹71,63,000 | 31.9% | -₹1,03,000 | -1.42% |
+| Linde India | 500 | ₹5,961.00 | ₹5,667.50 | - | ₹5,632.50 | +0.62% | ₹28,33,750 | 12.6% | -₹1,46,750 | -4.92% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹92.70 | - | ₹84.51 | +9.69% | ₹92,700 | 0.4% | ₹7,700 | +9.06% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,657.50 | - | ₹1,674.00 | -0.99% | ₹16,57,500 | 7.4% | -₹19,700 | -1.17% |
+| Bank of India | 1,000 | ₹131.33 | ₹130.62 | - | ₹132.02 | -1.06% | ₹1,30,620 | 0.6% | -₹710 | -0.54% |
 
-**Best since buy:** Linc Ltd (+13.13%)  ·  **Worst since buy:** Linde India (-5.41%)  ·  **Biggest mover today:** Linc Ltd (+13.79%)
+**Best since buy:** Linc Ltd (+9.06%)  ·  **Worst since buy:** Linde India (-4.92%)  ·  **Biggest mover today:** Linc Ltd (+9.69%)
 
 ## Allocation
 
@@ -46,11 +48,11 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,23,01,500 | 54.7% |
+| Automobiles | ₹1,22,82,880 | 54.6% |
 | Cash | ₹71,41,482 | 31.8% |
-| Industrial Gases | ₹28,19,250 | 12.5% |
-| Financials | ₹1,32,020 | 0.6% |
-| Stationery & Writing Instruments | ₹96,160 | 0.4% |
+| Industrial Gases | ₹28,33,750 | 12.6% |
+| Financials | ₹1,30,620 | 0.6% |
+| Stationery & Writing Instruments | ₹92,700 | 0.4% |
 
 ## Performance
 
@@ -110,7 +112,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,450.00 | +2.05% | ₹11,190.00 - ₹11,460.00 | 426,626 | 470,244 | 0.91x | 26.60% | ₹11,170.00 - ₹17,292.00 |
+| ₹11,449.00 | -0.01% | ₹11,332.00 - ₹11,590.00 | 116,784 | 477,407 | 0.24x | 26.60% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -125,11 +127,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Maruti Q2 profit declines 26% YoY, hit by global tensions, adverse forex movement](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWkxnSjRiaC13YVVaUDRTRW9XX3VydWp3dWtzWTNjU0o3UFFuUUVwQ0RVNnFPQlJ1R1F4aWpFU2U0ZzFoUTk4bF91dHZ1Wm9ubU9YNmIyNkJ4aS1BSW1jS1A5b1FxSWxleWRFT3oweEx4RUZtQWpYVEI1YUxTV0Frb1Z4aEdtaC0tSnpzYUt5YmxfeHNKSTFYbmJQa2MxZzhPbGo1ZWt6N01iWkx6cUVJbWIzU3hOX3FhWlpxRC0zd25tZDEwSWIwbFBPRHNET2RIbEQzSkZJR25Dc1lhcnfSAeQBQVVfeXFMUFBOZ3B3V1BpUTFMcS02SWtmUzRucFpFMWNPTEJOTW9vVjdSNF9zNnpGem1IOFZ5YmVWTWtWd252eEhoT1NVUk8tczNHdDZyVk5tdlJLSmp6czkyODlDWUpYQWMzU1Rvb25JYzljQnQ2VmlGRDU3RmtMOEtUUmFaSjVyRmREU2I2a0RIb1BkaE5CdnRMWnNkRDVsNkJtVERUdzhNbURxdGxLM1pCaFV4MVhMR3d5VFVvTDBuZGhOeXdUdWRaTjJHMlZpWTNGSXdEQmh0QjczcTlVSjFmbkJFZVZhSlJ6?oc=5) - _BusinessLine, 27 Oct 2026, 09:13 PM IST_
-- [Small cars are far from dead, India isn't just an SUV market: Maruti Suzuki Chairman R C Bhargava](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1NxNVdpS0ZZS0xsTEVrZmdkZmFiTkdxVEw1RkpuMGpSUF8wV0pVbE93bDFkOE5PaDQtTkRTdndjY2lmemlLQWN6NVdmTlZfVU1sdEtXRUpCZXY0cDFlZGtJc0JpYmZOWWVCUU5sQk10Y1dhR0o5Z2RHWXhtSWRsenlHYWNBcndad1pKeDdUR3N3VW1kS2NBN2NCVDJLVVVGTVZ5TWQ3Vkh0bllKSDZXeVNDVnl3WDMtZXoydGxIa3JzcUY2LUZOdGNuaENrdWlhbno4ZXVtaDdqNWZ2aWtMTFduZVNST0dIbWtPSUln0gHzAUFVX3lxTE54bzk1Q2t0UmxDQzUyMmJoNzdoQ0Rwa2tyUDhRMFhSMldGUkZMNmNWcTN0S012LTNYUFNIREJaQ3FreTBObjJ6NE13cVozNDJqc0RnME9fbTZfS2tLWmVsc3FyemZSbkt5cjZyN3dJTDhRdjV1eUFHeWlFQ2w3N1dxNGh1UUJyb3FSZ1dDbC1nbTZ4Q0kyN1BHUFlIZXFtVmlNOFJaUGNaU1ZSbXBYZmRjMG40SkcySzlzSXZZbGVGdW1CU2JpNzQ1ZlVVMDZ6VWNVXzI1Z1JpU25fUGFfWkJrT3lGWVBoaVQ2Qy1nWTdvVFpmTQ?oc=5) - _Moneycontrol.com, 27 Oct 2026, 09:04 PM IST_
-- [Q2 Results Today Highlgihts: Bajaj Auto Q2 PAT up 35%, Maruti Suzuki & Cipla profit down, ACC, Mazagon Dock PAT tumbles, Honeywell Automation PAT up, L&T, Vedanta Iron, Waaree Energies, SAIL, SBI Life, Tata Capital, Star Health, ABDL to announce Q2 results](https://www.thehindubusinessline.com/markets/q2-results-today-highlights-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece) - _BusinessLine, 27 Oct 2026, 08:58 PM IST_
-- [Maruti Suzuki flags rural demand risks as Q2 profit falls 26%](https://news.google.com/rss/articles/CBMiywFBVV95cUxPN2szSUpSakx3YnFmeHIwTGQ4d3p6VmdyZDhvWFU2NGJoUEJUSHh3SXlDMlNndVQ3X2J5QzJmZXJTS0FqRlZDVklPekM1QkJpaHBiZG83YzFvWXI2SWZaa0tNRFhVVWVsaTVJc3c3djVzOFNCNl9qN2FkWC1OS1k1R1RZc1VkQ0dLRm9wYUxrRVJZZXotdWFhY3hJNTdpODBBM2hIb1BPNDgxUlB4QjFuTXFNSmVranpHM05yYkVrbXExVGFZM3pqVmtmNNIB0AFBVV95cUxNUk9WSzhsbm5GMzBzVGM3UmgwV2h4OXdaYVhhNzNFaEM4NF9heThjcDR0NnJkNFFkTkRmdkJiaEFmblRScFV3UGk0cXFta0RCMkdqY3laek41YWFTWmgyMUVyeG5zdWZORlp5OF9vSXlnSkVlYzZZclIwY0tNdDctVEw3MnI2WU41alpnbnBDanAzQzgxTjYyY0hPRV9CWWpQeHl0SXRpRE13dUZVQTQ3UmFLUk00c1FoWm9QMFUzTDF0d2RuT2I2TEpOcWRZaEFh?oc=5) - _Livemint, 27 Oct 2026, 08:11 PM IST_
-- [Maruti Q2 profit falls 27% on West Asia headwinds; sales surge 26.5%](https://news.google.com/rss/articles/CBMixgFBVV95cUxOaEpMeGpBc1NXQzExcmxIZnk5T1AtVGxyZEJ4OHhFNzctcElpMjZtaHJ5WEZqVTI0SnBrZ3BqMmdMRl9za2N0eXYwYmppZ2hxNmxfakZrYTJTMzFFSlJDZzFXYVJyZ2szM2daN3l6VVc1VldTNkVJbHowcWJxT2tBY3k2X042SjlVeFZfVjNjM21VRGEtMWVFUzFnZ0pMeXZDUk9tZzNvTHBpREFvd3Fhdm5mbW1GWjAta2RXYm1jbW55LVFYX1HSAcwBQVVfeXFMUFliczNmd3RvRWtQOTFBeUxNV1A4S2Ezd2E3ekpnbE0xZXNqYWdrcDJmX0FoQncySEhiVUlnN3dGNEc0OGlVbTFZbVZBU0VVV2Nfam9kdkswR3RMR1hsVGZmN2dwMEhvNkhBeF9FZU5sU2N2c3hSaVpISjVnYUZuMmI0b3lFWVNoZWZJVlpEX1NaTlU3MmQ5ak52dzdUMEZraWpnNHBtSXJlYktDNHdmMHZuaDBJNDhodUQzLXZQVTkxb2p6ZldqaFhObExX?oc=5) - _The Hindu, 27 Oct 2026, 08:06 PM IST_
+- [Q2 Results Today Live: Adani Enterprises, Adani Ports, TVS Motor, Hyundai, Pidilite, Cholamandalam, Hero MotoCorp, Meesho, United Spirits, Vedanta, JSW Energy share to announce Q2 results, L&T, Bajaj Auto, Maruti, SBI Life, Piramal Pharma, UBL, PG Electro shares surge after Q2 results, LT Foods and Waaree decline](https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-adani-enterprises-adani-ports-tvs-motor-hyundai-pidilite-cholamandalam-hero-motocorp-meesho-united-spirits-vedanta-jsw-energy-results-28-october-2026/article71630853.ece) - _BusinessLine, 28 Oct 2026, 09:24 AM IST_
+- [Maruti Suzuki Q2 Review: Growth Outlook Remains Positive; Check MOFSL's Target Price, Potential Upside](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcVl0Z2c2RU9Ba2dHQ3NyNHYtYU1lODdab1ZIUVZIVEdTTHo2NTFjTlUzVUpLcjI3T1ZTMU9TaHVMNXJXb0JfTk1LTkZBeS1OVUw5UXR0LTZNLTBhdU5Eblh1RWpzOGNsM0pSTjhuYXRkWV9idTFNREZoWE9RUko3b2ZPRjhmT2dXNmNRMG5qVEJKcmhJTFRFNE9kQUx6X25JenlOVVlLOWhwOVUzSUVPeXZsb1lzaE80SDZjRmpsV21Wd2U1cjFDQm1lN0p6aDNlSGRjVWx4MUlwZVE2dWVsTXRlX3dKQ1VpaUp4dm5tLXhvdw?oc=5) - _NDTV Profit, 28 Oct 2026, 08:28 AM IST_
+- [Stocks to watch: Jio Platforms, HUL, Adani Enterprises, Maruti Suzuki, L&T](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGRweGExNkRwVTcwTTRNRzM3SHRHbDZtUjYxMVBycEpQMENIU2p6Y0RBeUVLWWtfaXVuSnhOUXplM2xxbGhadnNXRzJVQzhMOTc2aFcwWFpTZnhwOVVjTVQ3ZzRLcjNmZk5MTEplcXZ3S2lxUFFjT0o1SkY3eFVOUmViTHpKY0VBRUF4MDl3WVJHUWdnNnF0eGhHSUltandHY2gtNTJwc3ZybHJfbjFFQ1dOQ00yRGtHeS1XNzBUNEx2cjh5aWpEd1RCa3Z4MnVaMXpObXBmUGVzRVlqTG9hYdIB5gFBVV95cUxPWW9LaDdRRHRfT1NxVklCYndMcTJ4dmxEZHJGeGVPRTFXZVpOakJyYmVaYnEzV3AxY1AwR3k2TUwyVl9TeWp0eUY4ZEg0OHBvSkxzUXdtd3pJSXNZY2o2bVpuMHFHeDVaa0R0NVIxQ1FVLW1ad0JsUUh2WUdJRG82dU1ORGp6Y2N4SWZoVjNya0kwb1NScmdoYnlLS3o4VVhhNFY0d2M4RmRBVWdOSGFtckJWcGlkMXN3QjRtZTFhV3ltS2xtRk5BVXI4LTVQSHRMQmdEOHplVTBpdXhKY3c1QnVNVUxjQQ?oc=5) - _Business Standard, 28 Oct 2026, 07:56 AM IST_
+- [Maruti Q2 net misses street view despite record quarterly sales](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbUdPMmNNOGFNaS1vSDZlMlRhRDY1NktCaFFNZld4RXdwM2NCTm9WdjJNXzhreTZpMzdrLTJPWFpsSlhGS0lMQjNkUmlMMklYUGphT3hyRkZ5ZUdaSDRncXVET0FCNVBzQ2l1VEtROUE0cWJsdWdRSUNaaGlyVXVHNzFzR2Fta3lORjdxamVyR1FFMVRfakZ6SjV0M2I0NUV0Q2lMU2NVSGJsUzVOMDZWenZBRXJXajJBb0xzbWlVSXJBU0RhVlozLS00MkdOVjBVMVF2dTJER2PSAd4BQVVfeXFMTmMtVHEtU2RmYVFjTllmY29aMDloT3VFTTZaenRnbEJCNkdyMFpyNGVVM0NleEIxbkp3TG5tNnNZaHJaRHBTeXNFTTZUcWdaeDlyWklrNFQ1c20td1E1LVNpalRsX04xMjR2UFFkQVAySWc2Q1BnbW03cF9mZjZob1drV1BXSzVHTkpVLU1xaTJmYV9sUXZuVWdFMUQxN2dwVHV5aU1pNW9EM2pHV01ObFdOSG9UUXhLckV1ZGhKX2ItRXhhM0MtLS1oZEdqWWl2UUJrdWsyUnZ1bGgwUXBR?oc=5) - _The Economic Times, 28 Oct 2026, 07:55 AM IST_
+- [Stocks to Watch Today: Jio Platforms, Paras Healthcare, Maruti Suzuki, Gandhar Oil, Home First, Capri...](https://news.google.com/rss/articles/CBMiywJBVV95cUxPczNVUFhzMkpXaHZiZ2Y5UzNQMEpwcXlMQU5PZHBFSUVRSjdkR1FfTEdwVnRYY0RkMkZGR0lHc0RoWnpHcURoSS1ZeEJsT3ZkUmVYaXZPdzhMOGlEYU05YU5tX3h5Y0hubnZjc1ZNUmZCSVAwWE00SjIwUkpLeWlxNno1YzhiUUVJeHhrNG9TWEw0VmpxcGRRbjdieEk5MUlRU25MZTJBR2p6Q2x4RlFTUWNaQ09ETkt3SkdJR1dJd0wtajdUR3BRZkppRVI0M2RiekZmbUpmeDRPdXlnZUwwTFRlOVBZM2hNN2FYdEJhWVZvcTluX3JTYTZBV0Jvd3Z1VHNMODdOZ2NlcVhZRUk2OHhrcmFJQ0tGMHdqOTFBVHhLYkQ2M1lyNTZ0UE12S0lTdnBzTWE2UlhZRHBiZmlyWHVEOHE3UUNOZzJz0gHQAkFVX3lxTE9CZ0hpZnZvVjBuUzhrWndsMDFkdGljbnFXY2NMR1EtcmNXQTdDbmRNaVhieVFoN0VYN2kxaE9sYy16R2FsWTY2ejRRX1JEN3FvWXZUaHM3cHFxYW02U2dma3M5SkxBYjBUVW94aFhMblZicDNManRfQW5tMnE0eFQ5SmowUkpyWXRGRTItWVFJbi1LZ0VHSUk5NFNxY182LTN5eGl6eWtHaVUxSVhFZHJlZ0JnZE9FMUhRbEllZnJmZ2ZUcklMZURZLVdJTkRaM256Ym9wTzFWbG1LcGRCZW9Ib2xRb19zTVBWZGJxWHhnSk9PQUg3WDVaZGFSM0NaSFhmbEdZYUpZZDBvemlWUWRQQTIxZlJyMDJfbUowUldrRlhwaXNMWlZFT1JackFUT1pPTXY4Z1VnUV9wS2xMLUo3dmRxdkxZZ2owNDYxUndCRA?oc=5) - _Moneycontrol.com, 28 Oct 2026, 06:55 AM IST_
 
 </details>
 
@@ -143,7 +145,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹142.00 | +0.07% | ₹141.71 - ₹145.27 | 20,310,435 | 13,465,003 | 1.51x | 24.41% | ₹138.58 - ₹211.92 |
+| ₹142.17 | +0.12% | ₹141.04 - ₹142.69 | 778,095 | 13,966,952 | 0.06x | 23.47% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -172,7 +174,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,165.00 | +0.92% | ₹7,067.50 - ₹7,170.00 | 333,194 | 419,843 | 0.79x | 28.23% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,163.00 | +0.89% | ₹7,137.50 - ₹7,203.00 | 33,442 | 419,843 | 0.08x | 28.22% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -188,6 +190,7 @@ _▲ buy · ▼ sell_
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Fardeen Khan Gets His First Royal Enfield, Shares Why He Chose The Guerrilla 450 Apex](https://news.google.com/rss/articles/CBMizwFBVV95cUxQcHU3S1paSnFhdzk5ZlpIajJNek1HWE5jNlc4aXByOEJ1TktPa1djWGEzdFJBTnlYenJhVjlsRFBJTFRNaWxsakExRDF0VFZEX2h2N0dxaDFXUU5GSHhXWUVZTy1ORG8tc1k1R0lFTDIyNE1RdEk5RG5xNHQ2bDZCLUlXd1BfTk04cGg3a3k3enZaLTNxVERhaUl5eldUTGRxS0tRLWxrd1E3NlZ3MUpCV2xmcmFQaWUyTUJBYnAtNWhrOTRSQXh5bjBLdVVsNGvSAdcBQVVfeXFMUG1qd2hNOU41Y3V6cFlDcl8ybGVfNDZKQ0ZQbDZLblEydkhBNDhabzZDSHJDajh0QkI2ajIyNUdvRmRXdnAtMU1xanAzYnNOUmVMMXV1a2JBSVFUekZHNDg2VnZseDFTRnowaU9ObF8zcm12TERya2dNcDc0TTlidktrZWZkV3h2U2NWTWtYdWtPQjZFTm5uYnAxc3ltakJjSGYzbTBaaFN2MEVnQkxyNU1TOEFhc1hNNjBKS2FGdU1FREhwNU9jREg5VWRGdDRjd0JwSE43R1E?oc=5) - _NDTV Profit, 27 Oct 2026, 02:26 PM IST_
+- [Best auto stocks to buy ahead of Diwali 2026: Nuvama bets big on Eicher Motors, Hyundai and Tata Motors PV - Here's why](https://news.google.com/rss/articles/CBMikgJBVV95cUxORkx3TGZVSDA4OTZFRWppT29tdVl0aXRhV0NoeEgwLW10LU9ZLU5rX042V3llT1dOR1JSUW9JbkVPbE5tQnpPN1JQWnU0X0Q5Snd1dWhkRlN0YmRJWG50d21IZHpmcnI4MTdYOEhCVWFzX1pCUlFteTlhcnlZQnpNV3l0dDNGOUw3Ujd1QS1mQlRRM1BTLVJMRHZsdmVLRllRZFY4WE56dEFkTVRqajRvYXB1ZzJqaDFEanpySmVrNUZjUkJpS0FKaUkyUndxc0wwUFZEQ1pvR25DOUZ5anM5S2FNSVV1aFZMcGhQMGVSQ3BJUENDY1RGVDY2VXFnSDE3R3ZQZmdlS05jTFgyV0Y3VU9B0gGXAkFVX3lxTE9VUWxQdkZKVW9PNWFLcTVYYlZha2VhSzJOVk5Ydms5cVlGSlRiUHlJOWpPMERHWmxfdUJ3MzNlZ3cyREpyaHBwTDl6R3hEWVJZWC1GMXZFVDIwQkJaMEVuSGYyNHhua1JWM0Y2VXRYbmpQMXpzU0czNjlNWWE4Ty1iSUlSWENQQWhXZkRvMXp5TTNxME9PRnV2SnhOa3BvOExWb1pxR2dHR3RlWkZ0Yk0wZDZWQkFRcjVQaFJQTThYc3BZdE5JZ1FYeDJOZVRjWVNhbjFSOXFKUWN0SF9EcThyV01Ya0ZpTm4ySS1ZZ05DbS1PckNIZVJESURMY3F5TEdqRTNIbWhEMENXRTd2aWJBc0gyU2pObw?oc=5) - _Livemint, 25 Oct 2026, 02:05 PM IST_
 
 </details>
 
@@ -201,7 +204,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,638.50 | +0.11% | ₹5,617.00 - ₹5,694.00 | 18,094 | 19,798 | 0.91x | 26.62% | ₹5,632.50 - ₹7,847.50 |
+| ₹5,667.50 | +0.62% | ₹5,630.00 - ₹5,687.00 | 942 | 19,798 | 0.05x | 26.82% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -229,7 +232,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹96.16 | +13.79% | ₹86.15 - ₹99.00 | 120,458 | 62,153 | 1.94x | 102.44% | ₹76.41 - ₹130.64 |
+| ₹92.70 | +9.69% | ₹91.21 - ₹93.71 | 7,205 | 62,153 | 0.12x | 96.15% | ₹76.41 - ₹130.64 |
 
 **Research reports**
 
@@ -257,7 +260,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,674.00 | +6.29% | ₹1,607.00 - ₹1,702.00 | 13,018,271 | 3,249,712 | 4.01x | 65.40% | ₹601.35 - ₹1,725.60 |
+| ₹1,657.50 | -0.99% | ₹1,636.30 - ₹1,679.90 | 612,197 | 3,805,983 | 0.16x | 64.43% | ₹601.35 - ₹1,725.60 |
 
 **Research reports**
 
@@ -271,11 +274,11 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Ather Energy Q2 Review: Nomura, HSBC Raise Target Prices After Q2 Surprise, See Up To 24% Upside; Should You Buy?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHpDVGJDWGVHamY2elQxcmxIRjNyNXY5dGtKLTktQ3NtdXpHaG9HYl8yQUhhRUMxT2hEajF6UVdQR1dNT2lhaV9GLWgtbVRxUXFVUXdsWXA1Wl9KUWhhNGs4NmIyVUFKV1h5NEd1ZnNjWUduTmR4OGhnNy1YQWFUbTNMMkZ0bUdWcW96Z0ZoZ1pSZVRWRndnZVFmc2pWSVVwZWY1em1PbTRrVkpZdDZ6czVXcUZtRVRRVkhvT21RYS1UX1gtR2tEeld4aXNYQzFB0gHYAUFVX3lxTFBSdkJuZUk2NjRpTm1DRXNEZDNtRnhwYUtyMVdOMTRZdkZYdVlObXd1ZVVVbmVVUDdTTWJPLXdFN0VneElnYWd0MVdrblhzSHotb0hJWkxERldKdnA1dVBIRm1aOWtzajgxLUVTbjlDQTZhRmdpaERvalRDZHZFZVFWNy1wRVVQN0tVSEVud1F6RTZrNHpKNVNubEEtd29sRFJ2Ui1EOURuZWh2RUVqNWlUeTNOb3duYVdhbk85dFJZRXZBcktySmhXeHRPQUhseE54Y1N1YzVMRw?oc=5) - _NDTV Profit, 28 Oct 2026, 07:56 AM IST_
+- [Cognizant eyes Sarvam stake; Ather aims for higher market share](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMUlzbzFXY1VSa1JoYS1ORmNXR3RTdEdkZk5ucVVRSTRVQnR1WHlmQjRJUThhbmtaeXVUMVJEcFN6RmVhaERnbm1KODdIWEVybmxwc0ZtN1BYRU85WlJIQUN2ZmVVR3FuelAtZVRIS2pCa0VkOXYtOXBlcjBPU1dicFdFNlNwVFkzZWtuQmd6VXBlT1VoM2dXdVZzVUJ4VkNBX052VFVzM1F1TUU3MEtYb2dGLUlJWnIxZ1BrRUoxend4VGZ4djE1S0FmeW1yMUQtTVR3d0xJTWpjcml4dGdnV3pSVjTSAeoBQVVfeXFMTXA1dm82WGxZTGgtcDJFV2p6SlhuR1FUeVc3MzVKQ3Zwa29LWmx0QWU1Vmg5RGU4TUttcG5OZjB6Q0IwbnJTMzExYVdfSEVCcnF2dXVoZVpiS25xTXFfSHhFdmlRNkNFdl9mTTdXWG14NWlXTFBpcE9PMXR3a1B1NDI4STFnR0RzeGd4QWticWh6cmhmUWNQVS1DSlgyMmVlRERFN2YwakVmZE5pV1FSUTAtekU5ekZ0Mk12dUVkd0pKbkRrS1FINVpWcm14NDZ1SnBPM2tGN1pBU2NjSHFtbFNJdmJoUU5aOTBn?oc=5) - _The Economic Times, 28 Oct 2026, 07:25 AM IST_
+- [Stock to buy today: Ather Energy (₹1,671) – BUY](https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzlLcWpwcTVBbkFfQm00WFNiZkVMMXR5VjZCRTY0ay16VkFDNkc3dXlHZmNkcGRPNmZMTmZqbEFHazdBeHNKU3lTaXJTN3U5TXp2YXhmU0ZDYWZVcDdiak90SzQyeEtxUkNScWlhanZOQTlRVXdjcWJpVFlZSnJnSk81dzJUUW9hbE5CZ3pkZnUyOUkyTVBXeTVKYWk0NFpzZnd4Njhwb01sVnNPZ0lIa0JLZ281RW9rNXJGa050bkJyYm1u0gHLAUFVX3lxTE04NkdOT2s1X0g2QnhpNkVjcnJ4TWpjVl9sSkpudWxac1NNbkZCQTFVaFZwZk5DblkweHkwc19sQmQ3Y1JWaDM5TC03SGtrYjdYbTBiUldDNi1nUTZWTXdqQU1JV21MLUtXQzNhakdWWDROTmRiYmZ2S3Rib1dVV2VqNmExSGJXY3dqUGRjZEwzeGlpSWFQNzZNM0RmMzZSQzZZSkRrMlByMDRBUGl0bzlhU1Vkakw2eUl5OXZlVVFmS1loR3BfT1lPeVhV?oc=5) - _BusinessLine, 28 Oct 2026, 06:30 AM IST_
+- [Ather targets over 20% market share as capacity expansion, store additions resume](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNTZLaFpIZmFLTmZ2Q0pPNTUzcl9YN1UxcEhDT1ctcF9zOThDSjNaT0EycTVfNkdHSzJiU1I5UHFBN3I2enF3ajlVMkVSWlcyWk94bEVfRk04aWNIYXdNX3lVVFZFNmdhSFVOSEoyZUVUOUZyZ09vdi0wbGJOME1FUDhPVjBMSzBMb3h3VUtzLUxMaHR4S2lOYTgwWnNiWXNwd3Z4ZnNaTDNwUTk3bzhxVGo0aVp1ZC00aFh4dklRUnpPNGxlbVNPRE9YMTFBMVc1TllubVUxaElZSmFvR1J2NG9qTzE3MWVPQTJqctIB5gFBVV95cUxPQ2J3Wjk5ODVZZDlRZFhPRU9UZFl3aWJiYUpjRHV3RzhjcUZfSzhib3pDa2RwUUl5eVktRl9KSW1FMENjRTVGREQzckwzNUhUNmdTVXpubnNsdHN4dnZTZ25RUTRSRXVRNTEtVlFHSU15WWhaSzdhSlQ0T1N4NmVIaGR0MmJKZXhlV08zXzhwRkppVnBOSXV0QUxhblVhSGNlcDk2ZHI2bXgzaG9tMHFVRTRWQWx2czVKQWdkSEdYLVNOalBSOXdJZkFtRDNFbUVhZHlfZmFnelNjOVZiWTJBYUJRd1RZZw?oc=5) - _The Economic Times, 28 Oct 2026, 06:00 AM IST_
 - [El Nino ramping up into a ‘very strong' weather event as index surges to 18-year high](https://www.thehindubusinessline.com/economy/agri-business/el-nino-ramping-up-into-a-very-strong-weather-event-as-index-surges-to-18-year-high/article71630196.ece) - _BusinessLine, 27 Oct 2026, 06:18 PM IST_
-- [Ather Energy Q2 numbers enthuse investors: Can anything spoil the party?](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUljTlhGajZmY3dMemFHSGppemZybk9pMXdraGd0bXkzTlJWU2pIalRxSGs0WS1QQnVaVWRzQUpjc0dDS1NlWWc4X3dLUzI0OHA4RE1YcHExdFN1WXZDTmJ2RmUyVWV6bTNtM1R4Q2NOZDhWLVliNVNITFJZcU03YTFHN0dKRXExTGRGdkVfOTFRTnhwcndHeWdBQW9aRll0VEFja2V2cEhFYkpPVEZGQy02Tl9fdUZWeGtZRlowNA?oc=5) - _Livemint, 27 Oct 2026, 05:38 PM IST_
-- [Ather Energy shares: 125% YTD returns! Experts give 'portfolio stock' tag after Q2 results 2026 | Target, stop-loss](https://news.google.com/rss/articles/CBMihwJBVV95cUxQcjRKZWJ6bXJaNTRhOUpwQVY1RjZYcWJMaW5vVlI5R3ZwbEM1UmVYVDN1b2YzRTJfYXZuVEFKQU9pRnVDZ0J2RDFzcDVMa2V6NTIxZ01CVnRlcHlmUnlzdkI5eWlza0xueEJLZzd4aUZWUEN1S0h5U0R0M2phOXlybUM0YS1TMGg1c0FLNFVFemNsQ2ZyeXpSd3lZeDI3QThLbGs4MWtmMXYya3ktUjBvNEtlZEdWWFhpX2I3d2RFUXdxaWVLTlJIamNhU0RyWUpJZEQtNjRIY1pxWF9OWF81dGd0N0tPejNaUks3ajdIQ3JqczZmeVpQLXJZdHpDODBiYlZzcnQwWdIBjAJBVV95cUxNR01XWnVKN0haR3c1bF8ySkx3Mkg1UjZiT0lzMTVQQzZ0QW55YjZfZ2FlZzZxMXRsS0tQMXdnOWxjckY3OGp0d1k3anQ5LUJyNHYzZklzSE1ZLUxrMXctbmtSaGt4MVBJTjRWVGhJMjF6T1FmYmpWNV9FMGdpeERqSTNJS0FEeTNvbFVaSkROQ052ZGRPRE1jZEpQLVUyVzVWZXprd1pZaDY4S1Uzb2praFc4R2E1ekhJaFNBa2RJdy1BRzhRc0l2SWd4UGxod240ZVhjZzVRcWJvVXlPUmlHSEZLZllNTWFHMEpkZExna290S0ZRZ0hfZktjeTljMldhMks3UnRLa040c2g4?oc=5) - _Livemint, 27 Oct 2026, 02:09 PM IST_
-- [Ather achieves profitability milestone, supply ramp-up to pave the road ahead](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ0FwaW1Kb0VkTF9QY0NxU25nNThybDZmRVpTa2dtRWgtSmkwZWJFOXJHNEE5MVl3emN2Wk9ZNm1lWFJVZWJ5X0hHTGpFTHlLNU1RRl9lYlRYcWVuMlUydU0tUUtROWZTWEJ6akxQVlVOU0g3Vmh1WExyem1YbmRyS0sxSkx2MXFzaTd3NmpQNFdRNFRpd2VtOHpQTzVsYV8xa3Z5NXppM1pWSTk5bUtCOENWa1pOc3fSAbwBQVVfeXFMTjUxR3A4a1N4dENMMEVySDFlU2tGaHNsZVMxM09PU2o1TUt5enZiYnNUenphWm0yT2hERjlvbEtNcU11dWJUVlluVDhERGl0Z01wZjJvcmNTblhqX1NSY0xCRVZscElxZ04yUGFRQ3RUbW5wdmFTaTNycjFGeGlyLXR0ZlFzRXUxNm5VUzlWb1phRzdUYnlIenFpRmRuZTZsdjROM0l0RjlCVm5Nc0l5ZG1idV9oVVdXMGN0a3Q?oc=5) - _Livemint, 27 Oct 2026, 12:52 PM IST_
-- [Ather Energy shares jump 5%, extend rally to 20% in two days after Q2 results. Can the run continue?](https://news.google.com/rss/articles/CBMiigJBVV95cUxNOVJESC0yNlZwMHlWQ3I5VVdXckVCRy1vLW5vTkxzX1B4Mm45VjB5ZU5paHhNbGJhT0xKcEFISEliUElaY0RvWHpLcC1wQk40S0tTVWtEdzNCbElzbE54UktXSkJyUFhDYlpPR09jdzRaM0xQLTRsWTctOUlTWEpxVzlVdG5yTW1HRmg4WU5wNGxsUU53bk5CM1VTSE1NcG9VQzQ5OGZHN1lORThhT0htZkE2bzdjaDFTMGQ0dXpCbFEtN1VYaVZ1OWpXbkNnd2ZXZGRsUUEtbmp2dHhMTEVmYmtyTEZFbnBZdDNDQlp4Q3NWbGtFUmpXSFRfM3AzWHRKak4yZlhFc1RPQdIBgwJBVV95cUxQSUtSVzRpdWhFNVk1eHVoSHVwQVo0UGFydjh3ei1qZ3N5LTZiWXR0eTZ2NGpSa3hNZjl4OWFSVGs0VWZvY25JdGlNVmR6LUVpVi1XdkRoaDZwekVRM2g3cW5qZldScjhMdlRrVFRMNV94YWlVSEJXN2xZc3V6NnJoSkk2cHgwQ0YzQVJtYzhHSlNUVTF2blhUNm9jTjA1S3NRQnB4dXJDR24wT3I0WVYwbHI3RHBqWl95U2pVMEttNl9JWS1YUzRKS2FsdEVZRkpsQnFiZTJRUXY2aUY0OE5QSDhWbWYzcWl4aUpMR0p2di1GelQtTDdqOE1wNFotcEktRmVz?oc=5) - _The Economic Times, 27 Oct 2026, 10:39 AM IST_
 
 </details>
 
@@ -289,7 +292,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹132.02 | +4.51% | ₹126.90 - ₹132.02 | 15,009,769 | 8,482,522 | 1.77x | 40.23% | ₹126.32 - ₹177.20 |
+| ₹130.62 | -1.06% | ₹129.87 - ₹131.87 | 525,236 | 9,153,576 | 0.06x | 34.67% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
