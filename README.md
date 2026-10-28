@@ -2,11 +2,9 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 28 Oct 2026, 03:53 PM IST  |  **Market data as of:** 2026-10-28  |  **Start date:** 2026-10-16
+**Last updated:** 28 Oct 2026, 05:30 PM IST  |  **Market data as of:** 2026-10-28  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
+**Snapshot type:** End-of-day final snapshot
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -32,13 +30,13 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,579.00 | - | ₹11,450.00 | +1.13% | ₹33,57,910 | 14.8% | ₹26,100 | +0.78% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹144.85 | - | ₹142.00 | +2.01% | ₹1,44,850 | 0.6% | -₹2,870 | -1.94% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,300.00 | - | ₹7,165.00 | +1.88% | ₹73,00,000 | 32.2% | ₹34,000 | +0.47% |
-| Linde India | 500 | ₹5,961.00 | ₹5,724.50 | - | ₹5,638.50 | +1.53% | ₹28,62,250 | 12.6% | -₹1,18,250 | -3.97% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹93.54 | - | ₹96.16 | -2.72% | ₹93,540 | 0.4% | ₹8,540 | +10.05% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,650.00 | - | ₹1,674.00 | -1.43% | ₹16,50,000 | 7.3% | -₹27,200 | -1.62% |
-| Bank of India | 1,000 | ₹131.33 | ₹132.90 | - | ₹132.02 | +0.67% | ₹1,32,900 | 0.6% | ₹1,570 | +1.20% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,579.00 | ₹11,579.00 | ₹11,450.00 | +1.13% | ₹33,57,910 | 14.8% | ₹26,100 | +0.78% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹144.85 | ₹144.85 | ₹142.00 | +2.01% | ₹1,44,850 | 0.6% | -₹2,870 | -1.94% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,300.00 | ₹7,300.00 | ₹7,165.00 | +1.88% | ₹73,00,000 | 32.2% | ₹34,000 | +0.47% |
+| Linde India | 500 | ₹5,961.00 | ₹5,724.50 | ₹5,724.50 | ₹5,638.50 | +1.53% | ₹28,62,250 | 12.6% | -₹1,18,250 | -3.97% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹93.54 | ₹93.54 | ₹96.16 | -2.72% | ₹93,540 | 0.4% | ₹8,540 | +10.05% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,650.00 | ₹1,650.00 | ₹1,674.00 | -1.43% | ₹16,50,000 | 7.3% | -₹27,200 | -1.62% |
+| Bank of India | 1,000 | ₹131.33 | ₹132.90 | ₹132.90 | ₹132.02 | +0.67% | ₹1,32,900 | 0.6% | ₹1,570 | +1.20% |
 
 **Best since buy:** Linc Ltd (+10.05%)  ·  **Worst since buy:** Linde India (-3.97%)  ·  **Biggest mover today:** Linc Ltd (-2.72%)
 
@@ -127,7 +125,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Buy Maruti Suzuki; target of Rs 13,750: Prabhudas Lilladher](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZURTSk9TOC10RTFxeDlTNG1Mb2JaM3FfVEd4TzFLY3NXM0lYOVFoWWUtZmZCb0dvR1NoU1V0cmE5VGhGVkNxSEJvSDBnM3d3aGswQzJvVkpla08tQzZpdUd4cnYzY0w3QjdQT2tjYTljR01JUUFfc3NPUWJNMEdPdW9VZWFTMmUxYjZod2s4TEdYaGJqMHZ1eUUtNVpYcXF3SEp5ZTZTWUdXaTZNRFBEU0FGY3c4YXU3Yy1CQXlR0gHDAUFVX3lxTE82cWF0SjE4WENlbFRhZ25TZ3dMdGxFRGg0SmdRVnpFMHBGT0ZNcTFQT1M2MS05dU9YR3lzRU9MdGJSRzRBWmpVVDd2VGZVMFp3dnBQYjVlY0h2b0dhYXFZSGwyamFVME1tZnY3T24xTG5lR0E2dWhCMHZuTl9pV3dHZTUxZGVYNXczRzQ0T2ttYnRqM255SDFkNGRJV08wWldZUklXTmRyc2JGdGJnRDBjdW8zZDVuemxDbmNrUzFkR1dNcw?oc=5) - _Moneycontrol.com, 28 Oct 2026, 02:17 PM IST_
+- [Maruti Suzuki’s Q2 paradox: record volumes, shrinking margins](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelB4NVN2YXNILWNaZnlGaTdSRnFPUDhfaDBHX0FmcVFkRWNSSGVsb3ZqM2l4U1MxWHU0ZmdOcHZKa1U3TDBHUjlwdjdTVGlXNjJZY01FSFBqU3g0NFRJTnc0MVotTnBBMHhEMzVaZmZUSnZqLXowazN3cFFOcTBxbko5SV84Y1ZudjhOQklnWmQtalFlbUlPZkJrVE8zeFNaZHUzQXY1WW05TDRDVXlmYWx2LTdla1pSR2Jic1pIYmM1clnSAcgBQVVfeXFMTlNxQXE3YmNIVVVHZjF1cHprSUE2Y1ZaX2tNNkplZmEya2lVMXRNNVNFbmdGNzdOWi02V3JCVjNrU0JiZWd6Yk9oSktlRE5lUHIzUEE5MzlfVnlmTmFFSFdnWlBIQ3pfeGRLMWhqTEVjNkt4V0FoVXdWZ2hOUVNwX0tFcEhjWXBRcEwtY2xFN3JmZTc4eF9xOE52R2VsQ3ZiN25jNFAxTEhFeG5TUnBfZ2NVVXFmV0xBZVVZOVpkQzBqSXNQQVlydHo?oc=5) - _Livemint, 28 Oct 2026, 03:56 PM IST_
 - [Buy Maruti Suzuki; target of Rs 14800: Motilal Oswal](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEVXNGt3dXA2MjZDeEJiNTRPMUZDLU12Zmg1WXl5d1FPVUIwcXg2T2VjZjRhaUM4UkRLd3RaRDlab1ctcHU2MUs3dmhSZWJyVi1vM3YwRGkyOERkQm90ZUIwamdmbFVVeGt5bkhSU01icU1GWl9jTE9RQTBqMmdaUXFVVmotRklDelctSWxfRXU3ZFY3Mnh3WGRSSUk1SWVLQURzQ2pMNWNOSXpVY3lQV2NQa05Fa3PSAbwBQVVfeXFMUGFneEdQTkZHdjFzVlRsQ25CZFB1WnRyb0dXV2lrekU1ZTNIZHNyQmRDTW51SXlQbkdPSHhpUmdWNHFpNXoyX0xkTmxyYUFRcmQ4NGZfcmdrTzYxS1RuMnhjanAyQnFiYzlpQlYwZVJOOThRdGRCYXBtODJOSmg5aEdBRW5DekQ2OTF4dXZ2eHJLdmFSRG5LYmpvTHBTcDV5V0J5ZmZfM3pobXBPRFhMampnSm15VEcyTUNTNXM?oc=5) - _Moneycontrol.com, 28 Oct 2026, 02:08 PM IST_
 - [Maruti Suzuki shares slip marginally after missing estimates in Q2; brokerages divided on stock outlook,...](https://news.google.com/rss/articles/CBMilgJBVV95cUxPZll3OWNWM0t2OEFjMS1oVG9hRkNmQ0JBbkkwZHV0d28tTFFndkdWdk1yaDFXeW1vV0E5TElXNVR4X1VvRHRRNnpNUlJFLXd4ZVNpR1V1TGdwZlBZd0YxX0xIek1ZSFp1dzNvQTNTbG9Ha0hqY1E4bGIwWGRkVjBIQXQzOFkyd3l4LU04OE1zY2JwcHVhZGVoR0ZCb0MtSUJZRFZDTjgzOUZLNURZQnh5Rzk1Yy0weFA1N0R2Q3JYX1FOWEdzRnVfbFpCczhtQWxvVG1tVTVNTUI4NVBrMzFCMW5CQzZkdDU3dWZyYUtnOVB5Y2tPM0xFaDdoclE2TkJZTnNkX3Bfel9DSTBKNlo2a1hGVjhaUdIBmwJBVV95cUxNbDVKVlpyWjgwNks4dWZoclRCLTFNLTQxMUYxR3YzRkNIbGFiVi1IQnZPbUpMeFJtRmJBeS1IM2c5YXRJMHc5VVhwU1I3ZEVyLWtFYVVyMnl4ekFLdXJ4VWVreElYYU5ock5veC1najMtTEtZUjUwTWI3OGwxeXVDcUtQaTQ4eF9IZFVnTDM3OHZGLTNMRFNkWGU3S29uS2h6RFotR3M2cUNGVXJTd2dtRG92QXhOQk5YN2NiSUdFMTVxSlVBQTJmVjBPUnJ4SjZ4cUFOdnhDcGU5VG50VXBzak9vU1FPTU44cjFSd1JkMWZ1NXBfYlRNTkl4ZUE1M0gxMkJqUlUzeDd1ZF95VU4tc2otMUliOVhGazgw?oc=5) - _Moneycontrol.com, 28 Oct 2026, 01:10 PM IST_
 - [Maruti Victoris Aurum Edition Accessories Kit: What Buyers Get For The Extra Money](https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2U0OHlmSF9vRDFpU0JDbXNwSExDTzZwdjJpMWRvMVBVbzNvbGdXdERXcmRMaGExV3Zsb2hnTjMtelJFN0NqTGJ4YkdZM3NGN09ZX0lNSEZFdExRb04zd1M4VGRmNzFPMXlmdlhqR1Vuc3lkVEtzTDVtX29hcDc4bndWRFhUTWtYQVhsbUh4bENuM2FST3pBdkdMR2FDYkpFWXZieGh0WHNyQ05CdVpobGE0NmdTSEcwNEtzUG9leWREZGwt0gHMAUFVX3lxTFBtc0QyUUFWcERPaTdsWEZPYmU3YUF2WkNEZkxEWDgydFRoSl9xVFVNSlNQNzR1bHFzQVZWQURpYmdDLWRYQmt1SDRGbjFsRGtUVzNWQzY0eDdEWklMclRhT0lEOGotMW5mT1RlbUpSUlBhdktiZWRsQ3FmWUp5Y2lqVk41ZDNRXzJRb1VrRnMxM0t4dGpNYXhqMzdzenpSTmdodW12S2xZN183Mkl2cFBMTnpXNV9BbnV2MnZXLVdWSjdZR3k4M3k1Q3MydA?oc=5) - _NDTV Profit, 28 Oct 2026, 01:00 PM IST_
@@ -189,7 +187,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Fardeen Khan Gets His First Royal Enfield, Shares Why He Chose The Guerrilla 450 Apex](https://news.google.com/rss/articles/CBMizwFBVV95cUxQcHU3S1paSnFhdzk5ZlpIajJNek1HWE5jNlc4aXByOEJ1TktPa1djWGEzdFJBTnlYenJhVjlsRFBJTFRNaWxsakExRDF0VFZEX2h2N0dxaDFXUU5GSHhXWUVZTy1ORG8tc1k1R0lFTDIyNE1RdEk5RG5xNHQ2bDZCLUlXd1BfTk04cGg3a3k3enZaLTNxVERhaUl5eldUTGRxS0tRLWxrd1E3NlZ3MUpCV2xmcmFQaWUyTUJBYnAtNWhrOTRSQXh5bjBLdVVsNGvSAdcBQVVfeXFMUG1qd2hNOU41Y3V6cFlDcl8ybGVfNDZKQ0ZQbDZLblEydkhBNDhabzZDSHJDajh0QkI2ajIyNUdvRmRXdnAtMU1xanAzYnNOUmVMMXV1a2JBSVFUekZHNDg2VnZseDFTRnowaU9ObF8zcm12TERya2dNcDc0TTlidktrZWZkV3h2U2NWTWtYdWtPQjZFTm5uYnAxc3ltakJjSGYzbTBaaFN2MEVnQkxyNU1TOEFhc1hNNjBKS2FGdU1FREhwNU9jREg5VWRGdDRjd0JwSE43R1E?oc=5) - _NDTV Profit, 27 Oct 2026, 02:26 PM IST_
+- No fresh headlines from trusted sources in the last few days.
 
 </details>
 
