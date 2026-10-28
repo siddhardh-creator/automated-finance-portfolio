@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "28 Oct 2026, 02:32 PM IST",
+  "generated_at_ist": "28 Oct 2026, 03:33 PM IST",
   "as_of": "2026-10-28",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 23159530.0,
     "initial_capital": 10000000,
     "invested": 15619560.0,
-    "holdings_value": 15464309.94,
+    "holdings_value": 15541450.0,
     "cash": 7141481.89,
-    "value": 22605791.83,
-    "pnl_inr": -553738.17,
-    "pnl_pct": -2.39,
-    "unrealised_pnl_inr": -155250.06,
+    "value": 22682931.89,
+    "pnl_inr": -476598.11,
+    "pnl_pct": -2.06,
+    "unrealised_pnl_inr": -78110.01,
     "realised_pnl_inr": -398488.11,
-    "day_pnl_inr": 115379.93,
-    "day_pnl_pct": 0.51,
+    "day_pnl_inr": 192519.99,
+    "day_pnl_pct": 0.86,
     "open_positions": 7
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22698.2,
-    "return_pct": -1.13,
-    "day_change_pct": -0.23
+    "close": 22698.85,
+    "return_pct": -1.12,
+    "day_change_pct": -0.22
   },
   "stocks": [
     {
@@ -34,24 +34,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11547.0,
+        "close": 11579.0,
         "prev_close": 11450.0,
-        "day_change_pct": 0.85,
+        "day_change_pct": 1.13,
         "open": 11469.0,
-        "high": 11590.0,
+        "high": 11616.0,
         "low": 11250.0,
-        "intraday_range_pct": 2.97,
-        "volume": 741181,
+        "intraday_range_pct": 3.2,
+        "volume": 952231,
         "avg_volume_20d": 477407,
-        "volume_vs_avg": 1.55,
-        "volatility_20d_annualised_pct": 26.86,
+        "volume_vs_avg": 1.99,
+        "volatility_20d_annualised_pct": 27.02,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3348630.0,
-        "pnl_inr": 16820.0,
-        "pnl_pct": 0.5
+        "market_value": 3357910.0,
+        "pnl_inr": 26100.0,
+        "pnl_pct": 0.78
       },
       "news": [
         {
@@ -86,7 +86,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 14.81
+      "weight_pct": 14.8
     },
     {
       "key": "ashok",
@@ -97,24 +97,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 143.9,
+        "close": 144.85,
         "prev_close": 142.0,
-        "day_change_pct": 1.34,
+        "day_change_pct": 2.01,
         "open": 142.1,
-        "high": 144.29,
+        "high": 144.85,
         "low": 141.04,
-        "intraday_range_pct": 2.29,
-        "volume": 10250461,
+        "intraday_range_pct": 2.68,
+        "volume": 12886605,
         "avg_volume_20d": 13966952,
-        "volume_vs_avg": 0.73,
-        "volatility_20d_annualised_pct": 24.24,
+        "volume_vs_avg": 0.92,
+        "volatility_20d_annualised_pct": 24.97,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 143899.99,
-        "pnl_inr": -3820.01,
-        "pnl_pct": -2.59
+        "market_value": 144850.01,
+        "pnl_inr": -2870.0,
+        "pnl_pct": -1.94
       },
       "news": [
         {
@@ -136,24 +136,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7240.0,
+        "close": 7300.0,
         "prev_close": 7165.0,
-        "day_change_pct": 1.05,
+        "day_change_pct": 1.88,
         "open": 7140.0,
-        "high": 7283.5,
+        "high": 7300.0,
         "low": 7124.5,
-        "intraday_range_pct": 2.22,
-        "volume": 301372,
+        "intraday_range_pct": 2.45,
+        "volume": 400911,
         "avg_volume_20d": 426447,
-        "volume_vs_avg": 0.71,
-        "volatility_20d_annualised_pct": 27.61,
+        "volume_vs_avg": 0.94,
+        "volatility_20d_annualised_pct": 28.17,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7240000.0,
-        "pnl_inr": -26000.0,
-        "pnl_pct": -0.36
+        "market_value": 7300000.0,
+        "pnl_inr": 34000.0,
+        "pnl_pct": 0.47
       },
       "news": [
         {
@@ -164,7 +164,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 32.03
+      "weight_pct": 32.18
     },
     {
       "key": "linde",
@@ -175,28 +175,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5700.0,
+        "close": 5724.5,
         "prev_close": 5638.5,
-        "day_change_pct": 1.09,
+        "day_change_pct": 1.53,
         "open": 5638.5,
         "high": 5760.0,
         "low": 5630.0,
         "intraday_range_pct": 2.31,
-        "volume": 5830,
+        "volume": 8224,
         "avg_volume_20d": 20215,
-        "volume_vs_avg": 0.29,
-        "volatility_20d_annualised_pct": 26.83,
+        "volume_vs_avg": 0.41,
+        "volatility_20d_annualised_pct": 27.19,
         "high_52w": 7847.5,
         "low_52w": 5632.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2850000.0,
-        "pnl_inr": -130500.0,
-        "pnl_pct": -4.38
+        "market_value": 2862250.0,
+        "pnl_inr": -118250.0,
+        "pnl_pct": -3.97
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 12.61
+      "weight_pct": 12.62
     },
     {
       "key": "linc",
@@ -207,24 +207,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 93.46,
+        "close": 93.54,
         "prev_close": 96.16,
-        "day_change_pct": -2.81,
+        "day_change_pct": -2.72,
         "open": 93.5,
-        "high": 94.6,
+        "high": 95.0,
         "low": 90.22,
-        "intraday_range_pct": 4.55,
-        "volume": 29995,
+        "intraday_range_pct": 4.97,
+        "volume": 38865,
         "avg_volume_20d": 67887,
-        "volume_vs_avg": 0.44,
-        "volatility_20d_annualised_pct": 101.94,
+        "volume_vs_avg": 0.57,
+        "volatility_20d_annualised_pct": 101.91,
         "high_52w": 130.64,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 93460.0,
-        "pnl_inr": 8460.0,
-        "pnl_pct": 9.95
+        "market_value": 93540.0,
+        "pnl_inr": 8540.0,
+        "pnl_pct": 10.05
       },
       "news": [],
       "announcements": [],
@@ -239,24 +239,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ATHERENERG:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 1655.7,
+        "close": 1650.0,
         "prev_close": 1674.0,
-        "day_change_pct": -1.09,
+        "day_change_pct": -1.43,
         "open": 1679.9,
         "high": 1679.9,
         "low": 1636.3,
         "intraday_range_pct": 2.6,
-        "volume": 2355037,
+        "volume": 2661950,
         "avg_volume_20d": 3805983,
-        "volume_vs_avg": 0.62,
-        "volatility_20d_annualised_pct": 64.47,
+        "volume_vs_avg": 0.7,
+        "volatility_20d_annualised_pct": 64.61,
         "high_52w": 1725.6,
         "low_52w": 601.35,
         "shares": 1000,
         "base_price": 1677.2,
-        "market_value": 1655699.95,
-        "pnl_inr": -21500.05,
-        "pnl_pct": -1.28
+        "market_value": 1650000.0,
+        "pnl_inr": -27200.0,
+        "pnl_pct": -1.62
       },
       "news": [
         {
@@ -291,7 +291,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 7.32
+      "weight_pct": 7.27
     },
     {
       "key": "boi",
@@ -302,24 +302,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/BANKINDIA:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 132.62,
+        "close": 132.9,
         "prev_close": 132.02,
-        "day_change_pct": 0.45,
+        "day_change_pct": 0.67,
         "open": 131.87,
         "high": 133.37,
         "low": 129.87,
         "intraday_range_pct": 2.65,
-        "volume": 4458240,
+        "volume": 5736897,
         "avg_volume_20d": 9153576,
-        "volume_vs_avg": 0.49,
-        "volatility_20d_annualised_pct": 34.44,
+        "volume_vs_avg": 0.63,
+        "volatility_20d_annualised_pct": 34.48,
         "high_52w": 177.2,
         "low_52w": 126.32,
         "shares": 1000,
         "base_price": 131.33,
-        "market_value": 132620.0,
-        "pnl_inr": 1290.0,
-        "pnl_pct": 0.98
+        "market_value": 132899.99,
+        "pnl_inr": 1569.99,
+        "pnl_pct": 1.2
       },
       "news": [
         {
@@ -360,69 +360,69 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 12388229.94,
-      "weight_pct": 54.8
+      "value": 12452760.01,
+      "weight_pct": 54.9
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 31.59
+      "weight_pct": 31.48
     },
     {
       "sector": "Industrial Gases",
-      "value": 2850000.0,
-      "weight_pct": 12.61
+      "value": 2862250.0,
+      "weight_pct": 12.62
     },
     {
       "sector": "Financials",
-      "value": 132620.0,
+      "value": 132899.99,
       "weight_pct": 0.59
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 93460.0,
+      "value": 93540.0,
       "weight_pct": 0.41
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 12388229.94,
-      "weight_pct": 54.8
+      "value": 12452760.01,
+      "weight_pct": 54.9
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 31.59
+      "weight_pct": 31.48
     },
     {
       "sector": "Industrial Gases",
-      "value": 2850000.0,
-      "weight_pct": 12.61
+      "value": 2862250.0,
+      "weight_pct": 12.62
     },
     {
       "sector": "Financials",
-      "value": 132620.0,
+      "value": 132899.99,
       "weight_pct": 0.59
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 93460.0,
+      "value": 93540.0,
       "weight_pct": 0.41
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linc Ltd",
-      "pct": 9.95
+      "pct": 10.05
     },
     "worst_since_buy": {
       "name": "Linde India",
-      "pct": -4.38
+      "pct": -3.97
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": -2.81
+      "pct": -2.72
     }
   },
   "transactions": [
