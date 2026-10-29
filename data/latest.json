@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "29 Oct 2026, 09:32 AM IST",
+  "generated_at_ist": "29 Oct 2026, 10:32 AM IST",
   "as_of": "2026-10-29",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 23159530.0,
     "initial_capital": 10000000,
     "invested": 15619560.0,
-    "holdings_value": 15453340.0,
+    "holdings_value": 15506770.0,
     "cash": 7141481.89,
-    "value": 22594821.89,
-    "pnl_inr": -564708.11,
-    "pnl_pct": -2.44,
-    "unrealised_pnl_inr": -166220.0,
+    "value": 22648251.88,
+    "pnl_inr": -511278.12,
+    "pnl_pct": -2.21,
+    "unrealised_pnl_inr": -112790.0,
     "realised_pnl_inr": -398488.11,
-    "day_pnl_inr": 124680.0,
-    "day_pnl_pct": 0.55,
+    "day_pnl_inr": 178109.99,
+    "day_pnl_pct": 0.79,
     "open_positions": 7
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 22724.95,
-    "return_pct": -1.01,
-    "day_change_pct": 0.11
+    "close": 22864.05,
+    "return_pct": -0.4,
+    "day_change_pct": 0.73
   },
   "stocks": [
     {
@@ -34,26 +34,32 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11445.0,
+        "close": 11510.0,
         "prev_close": 11450.0,
-        "day_change_pct": -0.04,
+        "day_change_pct": 0.52,
         "open": 11559.0,
         "high": 11559.0,
         "low": 11411.0,
         "intraday_range_pct": 1.29,
-        "volume": 33439,
+        "volume": 86700,
         "avg_volume_20d": 477407,
-        "volume_vs_avg": 0.07,
-        "volatility_20d_annualised_pct": 26.59,
+        "volume_vs_avg": 0.18,
+        "volatility_20d_annualised_pct": 26.72,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3319050.0,
-        "pnl_inr": -12760.0,
-        "pnl_pct": -0.38
+        "market_value": 3337900.0,
+        "pnl_inr": 6090.0,
+        "pnl_pct": 0.18
       },
       "news": [
+        {
+          "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Stock Details",
+          "source": "Economic Times",
+          "published": "29 Oct 2026, 09:10 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-live-updates-29-oct-2026/liveblog/135288613.cms"
+        },
         {
           "title": "Auto biggies Q2 result compared: Bajaj Auto vs Maruti Suzuki - Who wins the earnings race? Profit, revenue, target price",
           "source": "Livemint",
@@ -77,16 +83,10 @@
           "source": "Moneycontrol.com",
           "published": "28 Oct 2026, 01:10 PM IST",
           "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZll3OWNWM0t2OEFjMS1oVG9hRkNmQ0JBbkkwZHV0d28tTFFndkdWdk1yaDFXeW1vV0E5TElXNVR4X1VvRHRRNnpNUlJFLXd4ZVNpR1V1TGdwZlBZd0YxX0xIek1ZSFp1dzNvQTNTbG9Ha0hqY1E4bGIwWGRkVjBIQXQzOFkyd3l4LU04OE1zY2JwcHVhZGVoR0ZCb0MtSUJZRFZDTjgzOUZLNURZQnh5Rzk1Yy0weFA1N0R2Q3JYX1FOWEdzRnVfbFpCczhtQWxvVG1tVTVNTUI4NVBrMzFCMW5CQzZkdDU3dWZyYUtnOVB5Y2tPM0xFaDdoclE2TkJZTnNkX3Bfel9DSTBKNlo2a1hGVjhaUdIBmwJBVV95cUxNbDVKVlpyWjgwNks4dWZoclRCLTFNLTQxMUYxR3YzRkNIbGFiVi1IQnZPbUpMeFJtRmJBeS1IM2c5YXRJMHc5VVhwU1I3ZEVyLWtFYVVyMnl4ekFLdXJ4VWVreElYYU5ock5veC1najMtTEtZUjUwTWI3OGwxeXVDcUtQaTQ4eF9IZFVnTDM3OHZGLTNMRFNkWGU3S29uS2h6RFotR3M2cUNGVXJTd2dtRG92QXhOQk5YN2NiSUdFMTVxSlVBQTJmVjBPUnJ4SjZ4cUFOdnhDcGU5VG50VXBzak9vU1FPTU44cjFSd1JkMWZ1NXBfYlRNTkl4ZUE1M0gxMkJqUlUzeDd1ZF95VU4tc2otMUliOVhGazgw?oc=5"
-        },
-        {
-          "title": "Maruti Victoris Aurum Edition Accessories Kit: What Buyers Get For The Extra Money",
-          "source": "NDTV Profit",
-          "published": "28 Oct 2026, 01:00 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2U0OHlmSF9vRDFpU0JDbXNwSExDTzZwdjJpMWRvMVBVbzNvbGdXdERXcmRMaGExV3Zsb2hnTjMtelJFN0NqTGJ4YkdZM3NGN09ZX0lNSEZFdExRb04zd1M4VGRmNzFPMXlmdlhqR1Vuc3lkVEtzTDVtX29hcDc4bndWRFhUTWtYQVhsbUh4bENuM2FST3pBdkdMR2FDYkpFWXZieGh0WHNyQ05CdVpobGE0NmdTSEcwNEtzUG9leWREZGwt0gHMAUFVX3lxTFBtc0QyUUFWcERPaTdsWEZPYmU3YUF2WkNEZkxEWDgydFRoSl9xVFVNSlNQNzR1bHFzQVZWQURpYmdDLWRYQmt1SDRGbjFsRGtUVzNWQzY0eDdEWklMclRhT0lEOGotMW5mT1RlbUpSUlBhdktiZWRsQ3FmWUp5Y2lqVk41ZDNRXzJRb1VrRnMxM0t4dGpNYXhqMzdzenpSTmdodW12S2xZN183Mkl2cFBMTnpXNV9BbnV2MnZXLVdWSjdZR3k4M3k1Q3MydA?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 14.69
+      "weight_pct": 14.74
     },
     {
       "key": "ashok",
@@ -97,24 +97,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 143.53,
+        "close": 144.11,
         "prev_close": 144.85,
-        "day_change_pct": -0.91,
+        "day_change_pct": -0.51,
         "open": 144.7,
         "high": 144.7,
         "low": 143.0,
         "intraday_range_pct": 1.17,
-        "volume": 1166205,
+        "volume": 2281518,
         "avg_volume_20d": 13991184,
-        "volume_vs_avg": 0.08,
-        "volatility_20d_annualised_pct": 24.88,
+        "volume_vs_avg": 0.16,
+        "volatility_20d_annualised_pct": 24.79,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 143530.0,
-        "pnl_inr": -4190.0,
-        "pnl_pct": -2.84
+        "market_value": 144110.0,
+        "pnl_inr": -3610.0,
+        "pnl_pct": -2.44
       },
       "news": [
         {
@@ -136,26 +136,32 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7252.0,
+        "close": 7272.0,
         "prev_close": 7165.0,
-        "day_change_pct": 1.21,
+        "day_change_pct": 1.49,
         "open": 7280.0,
-        "high": 7295.5,
+        "high": 7303.5,
         "low": 7213.5,
-        "intraday_range_pct": 1.14,
-        "volume": 31268,
+        "intraday_range_pct": 1.26,
+        "volume": 96084,
         "avg_volume_20d": 426447,
-        "volume_vs_avg": 0.07,
-        "volatility_20d_annualised_pct": 27.7,
+        "volume_vs_avg": 0.23,
+        "volatility_20d_annualised_pct": 27.87,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7252000.0,
-        "pnl_inr": -14000.0,
-        "pnl_pct": -0.19
+        "market_value": 7272000.0,
+        "pnl_inr": 6000.0,
+        "pnl_pct": 0.08
       },
       "news": [
+        {
+          "title": "Eicher Motors Share Price Live Updates: Eicher Motors Price Movement Analysis",
+          "source": "Economic Times",
+          "published": "29 Oct 2026, 08:19 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-updates-29-oct-2026/liveblog/135287310.cms"
+        },
         {
           "title": "Fardeen Khan’s new bike is a ₹2.5 lakh India-made Royal Enfield Guerrilla 450 Apex: Engine, features and price explained",
           "source": "Livemint",
@@ -170,7 +176,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 32.1
+      "weight_pct": 32.11
     },
     {
       "key": "linde",
@@ -181,28 +187,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5730.0,
+        "close": 5746.0,
         "prev_close": 5638.5,
-        "day_change_pct": 1.62,
+        "day_change_pct": 1.91,
         "open": 5696.0,
-        "high": 5738.5,
+        "high": 5756.5,
         "low": 5688.0,
-        "intraday_range_pct": 0.9,
-        "volume": 424,
+        "intraday_range_pct": 1.21,
+        "volume": 1118,
         "avg_volume_20d": 20215,
-        "volume_vs_avg": 0.02,
-        "volatility_20d_annualised_pct": 27.28,
+        "volume_vs_avg": 0.06,
+        "volatility_20d_annualised_pct": 27.57,
         "high_52w": 7847.5,
         "low_52w": 5632.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2865000.0,
-        "pnl_inr": -115500.0,
-        "pnl_pct": -3.88
+        "market_value": 2873000.0,
+        "pnl_inr": -107500.0,
+        "pnl_pct": -3.61
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 12.68
+      "weight_pct": 12.69
     },
     {
       "key": "linc",
@@ -213,28 +219,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 92.79,
+        "close": 91.09,
         "prev_close": 96.16,
-        "day_change_pct": -3.5,
+        "day_change_pct": -5.27,
         "open": 93.54,
         "high": 93.54,
-        "low": 92.25,
-        "intraday_range_pct": 1.34,
-        "volume": 1159,
+        "low": 91.01,
+        "intraday_range_pct": 2.63,
+        "volume": 4541,
         "avg_volume_20d": 67887,
-        "volume_vs_avg": 0.02,
-        "volatility_20d_annualised_pct": 102.26,
+        "volume_vs_avg": 0.07,
+        "volatility_20d_annualised_pct": 103.34,
         "high_52w": 130.64,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 92790.0,
-        "pnl_inr": 7790.0,
-        "pnl_pct": 9.16
+        "market_value": 91090.0,
+        "pnl_inr": 6090.0,
+        "pnl_pct": 7.16
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.41
+      "weight_pct": 0.4
     },
     {
       "key": "ather",
@@ -245,24 +251,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ATHERENERG:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 1647.0,
+        "close": 1654.0,
         "prev_close": 1650.0,
-        "day_change_pct": -0.18,
+        "day_change_pct": 0.24,
         "open": 1654.9,
         "high": 1657.8,
-        "low": 1642.3,
-        "intraday_range_pct": 0.94,
-        "volume": 162602,
+        "low": 1633.0,
+        "intraday_range_pct": 1.5,
+        "volume": 465179,
         "avg_volume_20d": 3785698,
-        "volume_vs_avg": 0.04,
-        "volatility_20d_annualised_pct": 62.98,
+        "volume_vs_avg": 0.12,
+        "volatility_20d_annualised_pct": 62.9,
         "high_52w": 1725.6,
         "low_52w": 601.35,
         "shares": 1000,
         "base_price": 1677.2,
-        "market_value": 1647000.0,
-        "pnl_inr": -30200.0,
-        "pnl_pct": -1.8
+        "market_value": 1654000.0,
+        "pnl_inr": -23200.0,
+        "pnl_pct": -1.38
       },
       "news": [
         {
@@ -287,7 +293,7 @@
           "title": "Ather targets over 20% market share as capacity expansion, store additions resume",
           "source": "The Economic Times",
           "published": "28 Oct 2026, 06:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNTZLaFpIZmFLTmZ2Q0pPNTUzcl9YN1UxcEhDT1ctcF9zOThDSjNaT0EycTVfNkdHSzJiU1I5UHFBN3I2enF3ajlVMkVSWlcyWk94bEVfRk04aWNIYXdNX3lVVFZFNmdhSFVOSEoyZUVUOUZyZ09vdi0wbGJOME1FUDhPVjBMSzBMb3h3VUtzLUxMaHR4S2lOYTgwWnNiWXNwd3Z4ZnNaTDNwUTk3bzhxVGo0aVp1ZC00aFh4dklRUnpPNGxlbVNPRE9YMTFBMVc1TllubVUxaElZSmFvR1J2NG9qTzE3MWVPQTJqctIB5gFBVV95cUxPQ2J3Wjk5ODVZZDlRZFhPRU9UZFl3aWJiYUpjRHV3RzhjcUZfSzhib3pDa2RwUUl5eVktRl9KSW1FMENjRTVGREQzckwzNUhUNmdTVXpubnNsdHN4dnZTZ25RUTRSRXVRNTEtVlFHSU15WWhaSzdhSlQ0T1N4NmVIaGR0MmJKZXhlV08zXzhwRkppVnBOSXV0QUxhblVhSGNlcDk2ZHI2bXgzaG9tMHFVRTRWQWx2czVKQWdkSEdYLVNOalBSOXdJZkFtRDNFbUVhZHlfZmFnelNjOVZiWTJBYUJRd1RZZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQWJ3Vjc0XzVScWRXV213bGZVLXl2S05MTTNaT1BTOFhoV2NzbUZsaDBSdk52amZzVzJYdUNyUGhFVmlIMjZwbklFdDZJR3huV3FJd2ZBQnYxc3dsclpON3lyTlZhcmd2TEhsSmVuR3M3SWZtZS1KZmRrODhWNlpGZjh6OTA5RmhpSHNhci12eVJ6Sy1OTXV6dFdUeFh1LUlwMmI1VDQyM0lDdm1pdHRPOVl4ay1rOXZRYmtWRXlUNlBPNXFBUEpqNWtYWXF4bzNuaVcyN21kRXFlOGtEMng1RNIB5gFBVV95cUxPQ2J3Wjk5ODVZZDlRZFhPRU9UZFl3aWJiYUpjRHV3RzhjcUZfSzhib3pDa2RwUUl5eVktRl9KSW1FMENjRTVGREQzckwzNUhUNmdTVXpubnNsdHN4dnZTZ25RUTRSRXVRNTEtVlFHSU15WWhaSzdhSlQ0T1N4NmVIaGR0MmJKZXhlV08zXzhwRkppVnBOSXV0QUxhblVhSGNlcDk2ZHI2bXgzaG9tMHFVRTRWQWx2czVKQWdkSEdYLVNOalBSOXdJZkFtRDNFbUVhZHlfZmFnelNjOVZiWTJBYUJRd1RZZw?oc=5"
         },
         {
           "title": "Ather Energy Q2 numbers enthuse investors: Can anything spoil the party?",
@@ -297,7 +303,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 7.29
+      "weight_pct": 7.3
     },
     {
       "key": "boi",
@@ -308,43 +314,37 @@
       "google_finance_url": "https://www.google.com/finance/quote/BANKINDIA:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 133.97,
+        "close": 134.67,
         "prev_close": 132.9,
-        "day_change_pct": 0.81,
+        "day_change_pct": 1.33,
         "open": 132.9,
-        "high": 134.4,
+        "high": 134.88,
         "low": 132.5,
-        "intraday_range_pct": 1.43,
-        "volume": 798560,
+        "intraday_range_pct": 1.79,
+        "volume": 1824922,
         "avg_volume_20d": 8910335,
-        "volume_vs_avg": 0.09,
-        "volatility_20d_annualised_pct": 34.56,
+        "volume_vs_avg": 0.2,
+        "volatility_20d_annualised_pct": 34.74,
         "high_52w": 177.2,
         "low_52w": 126.32,
         "shares": 1000,
         "base_price": 131.33,
-        "market_value": 133970.0,
-        "pnl_inr": 2640.0,
-        "pnl_pct": 2.01
+        "market_value": 134670.0,
+        "pnl_inr": 3340.0,
+        "pnl_pct": 2.54
       },
       "news": [
         {
           "title": "Broker’s Call: Bank of India (Buy)",
           "source": "BusinessLine",
           "published": "27 Oct 2026, 06:58 PM IST",
-          "link": "https://www.thehindubusinessline.com/markets/brokers-call-bank-of-india-buy/article71630787.ece"
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRWd0QTlmWVp1LUllWmhrU1JCV1h6bkFKWTRqSFpGQk0xZERIXzA5V2hpOUk5NmprZDMzcnhTYWRzMGVJY09CV1JDUmlvVmNpLW9tMXBPVWdWTExOQ1BvQ0V6YU04aS1BZWxZaDRFWk5EbEtmLUJmNldOZG1yZzAzYnpTbkNEdlctMWlOdjRLVk80M1pHZnVWWlJFQdIBogFBVV95cUxNaDZQOGxuTlBYdW1ZLW9kbUJJeWVvNFk1TmhxdVZhalRqOGJickpqSWRCY2ZFcUxGcmRVbFdnNE9ZbHJGUGZGTUxSMUxicTNHUmpNbDM3ZERqOXZWQVU4NldnTElYVW4yOHJaMnZJOUx3d1RMNF94cE9CVnU1NkRlRUFGY3hWbDd4S09XMnVhNlNSd2xSVElRSHlnUmdaU0dFOEE?oc=5"
         },
         {
           "title": "Central Bank of India RTGS glitch: What to know about your deposits",
           "source": "Business Standard",
           "published": "27 Oct 2026, 04:49 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1l0Y09RN2x2NTNuaU1LbU5IZU1WN0dHQnV2ZlZfYU5qejZtRy1vMzVMcEhoeHVheUVRSlhaUEp4VE5TYWstNjVDLW53OU9XR2k4MzB3TUJUOTdiejNWcmRtTjhFaFBFaURvb0l0MzVnQU9BQnN4YWNhTWUwSmhMaDBlRlpxTzl0YkFORGpkdWl3LVEwbFZyNk5lZlZZUmFOVC05Qnd2WHprOGZKMDdxNVdxQV9FZUUtN1FrZnZOVnZfWV9TZTFTWEh3bHMxc2RXOFJWRXpKcTF0SnQtSXfSAeMBQVVfeXFMUDJsOHRNcDIwRlNJRGs0MWlLRWg1Mi1CTXRqbk4ycWdLRGtPbGtQWTZjbTkyc0pobmpleXFSZUlrc0JXYWQ5bHY0QXc1WGdGYmxWUGhLZWdFUWg4cFYtLWtiVVUzcmxkamZNX3pCbVhNNDhMMFNRck16UFJtM0s5eHg0U2d2ZXQwdVdiNGdjQnJEa0JuSGVmRjlVZ0pEcDJ1ZVFqODFOaGRsOUVBbkJRMXkyUGFUa1RVOGRwN3M0QzVHUVB3Y3dXZzhjQnptQnFGTldfR0lsYUJzNUpfN2pXMklVTlk?oc=5"
-        },
-        {
-          "title": "Bank Of India - Mankind Pharma among 5 F&O stocks with a sharp rise in futures open interest",
-          "source": "The Economic Times",
-          "published": "27 Oct 2026, 12:44 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTDRCS0dsdG4zalUzY2tSSDZoZHc1Y00wWWxZYmxjeWMyYk45dURHNlhTWE1kWF9Hd1A2VExDSUxMQ1kya0c2cDN4M1ppbHZMQkJzUGJ2RmJpWHNZUFF2NHFXZjdkUTBfWkN1dXFiRmJ3QTlSLXM0M1BYTnpPZW82YmNoMlJIVksxSmxWY1NYOHl3ckhZSVFGX3huczZka1hYekZYU1BkS2JndjFuQXlMbDFNMU83UnJ4V09rVm9iamw0VHZQdWozbS01ZUZrN1haQU1pa3pEXzdac3VvSGtyT3kzbFpja1RLRmJhZWRMQ05fZHNjUEJV?oc=5"
         },
         {
           "title": "Bank of India shares fall up to 5.5% post-Q2 results as global NIM falls to 2.47% QoQ",
@@ -366,69 +366,69 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 12361580.0,
-      "weight_pct": 54.71
+      "value": 12408010.0,
+      "weight_pct": 54.79
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 31.61
+      "weight_pct": 31.53
     },
     {
       "sector": "Industrial Gases",
-      "value": 2865000.0,
-      "weight_pct": 12.68
+      "value": 2873000.0,
+      "weight_pct": 12.69
     },
     {
       "sector": "Financials",
-      "value": 133970.0,
+      "value": 134670.0,
       "weight_pct": 0.59
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 92790.0,
-      "weight_pct": 0.41
+      "value": 91090.0,
+      "weight_pct": 0.4
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 12361580.0,
-      "weight_pct": 54.71
+      "value": 12408010.0,
+      "weight_pct": 54.79
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 31.61
+      "weight_pct": 31.53
     },
     {
       "sector": "Industrial Gases",
-      "value": 2865000.0,
-      "weight_pct": 12.68
+      "value": 2873000.0,
+      "weight_pct": 12.69
     },
     {
       "sector": "Financials",
-      "value": 133970.0,
+      "value": 134670.0,
       "weight_pct": 0.59
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 92790.0,
-      "weight_pct": 0.41
+      "value": 91090.0,
+      "weight_pct": 0.4
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linc Ltd",
-      "pct": 9.16
+      "pct": 7.16
     },
     "worst_since_buy": {
       "name": "Linde India",
-      "pct": -3.88
+      "pct": -3.61
     },
     "top_mover_today": {
       "name": "Linc Ltd",
-      "pct": -3.5
+      "pct": -5.27
     }
   },
   "transactions": [
