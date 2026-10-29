@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 29 Oct 2026, 01:32 PM IST  |  **Market data as of:** 2026-10-29  |  **Start date:** 2026-10-16
+**Last updated:** 29 Oct 2026, 02:33 PM IST  |  **Market data as of:** 2026-10-29  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,13 +14,13 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,25,80,102** |
-| Total P&L | **-₹5,79,428 (-2.50%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | -₹1,80,940 |
+| Current value | **₹2,26,34,582** |
+| Total P&L | **-₹5,24,948 (-2.27%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | -₹1,26,460 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
-| Today's change | ₹1,09,960 (+0.49%) |
-| Nifty 50 since start (same money invested) | -0.47% |
-| Outperformance vs Nifty 50 | -2.03% |
+| Today's change | -₹48,350 (-0.21%) |
+| Nifty 50 since start (same money invested) | -0.05% |
+| Outperformance vs Nifty 50 | -2.22% |
 | Cash (uninvested) | ₹71,41,482 |
 | Virtual money put in | ₹2,31,59,530 |
 
@@ -32,15 +32,15 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,457.00 | - | ₹11,450.00 | +0.06% | ₹33,22,530 | 14.7% | -₹9,280 | -0.28% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹145.05 | - | ₹144.85 | +0.14% | ₹1,45,050 | 0.6% | -₹2,670 | -1.81% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,235.00 | - | ₹7,165.00 | +0.98% | ₹72,35,000 | 32.0% | -₹31,000 | -0.43% |
-| Linde India | 500 | ₹5,961.00 | ₹5,692.00 | - | ₹5,638.50 | +0.95% | ₹28,46,000 | 12.6% | -₹1,34,500 | -4.51% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹91.85 | - | ₹96.16 | -4.48% | ₹91,850 | 0.4% | ₹6,850 | +8.06% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,663.20 | - | ₹1,650.00 | +0.80% | ₹16,63,200 | 7.4% | -₹14,000 | -0.83% |
-| Bank of India | 1,000 | ₹131.33 | ₹134.99 | - | ₹132.90 | +1.57% | ₹1,34,990 | 0.6% | ₹3,660 | +2.79% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,442.00 | - | ₹11,579.00 | -1.18% | ₹33,18,180 | 14.7% | -₹13,630 | -0.41% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹145.63 | - | ₹144.85 | +0.54% | ₹1,45,630 | 0.6% | -₹2,090 | -1.41% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,268.00 | - | ₹7,300.00 | -0.44% | ₹72,68,000 | 32.1% | ₹2,000 | +0.03% |
+| Linde India | 500 | ₹5,961.00 | ₹5,739.50 | - | ₹5,724.50 | +0.26% | ₹28,69,750 | 12.7% | -₹1,10,750 | -3.72% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹90.47 | - | ₹93.54 | -3.28% | ₹90,470 | 0.4% | ₹5,470 | +6.44% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,665.30 | - | ₹1,650.00 | +0.93% | ₹16,65,300 | 7.4% | -₹11,900 | -0.71% |
+| Bank of India | 1,000 | ₹131.33 | ₹135.77 | - | ₹132.90 | +2.16% | ₹1,35,770 | 0.6% | ₹4,440 | +3.38% |
 
-**Best since buy:** Linc Ltd (+8.06%)  ·  **Worst since buy:** Linde India (-4.51%)  ·  **Biggest mover today:** Linc Ltd (-4.48%)
+**Best since buy:** Linc Ltd (+6.44%)  ·  **Worst since buy:** Linde India (-3.72%)  ·  **Biggest mover today:** Linc Ltd (-3.28%)
 
 ## Allocation
 
@@ -48,11 +48,11 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,23,65,780 | 54.8% |
+| Automobiles | ₹1,23,97,110 | 54.8% |
 | Cash | ₹71,41,482 | 31.6% |
-| Industrial Gases | ₹28,46,000 | 12.6% |
-| Financials | ₹1,34,990 | 0.6% |
-| Stationery & Writing Instruments | ₹91,850 | 0.4% |
+| Industrial Gases | ₹28,69,750 | 12.7% |
+| Financials | ₹1,35,770 | 0.6% |
+| Stationery & Writing Instruments | ₹90,470 | 0.4% |
 
 ## Performance
 
@@ -112,7 +112,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,457.00 | +0.06% | ₹11,411.00 - ₹11,559.00 | 211,670 | 477,407 | 0.44x | 26.61% | ₹11,170.00 - ₹17,292.00 |
+| ₹11,442.00 | -1.18% | ₹11,396.00 - ₹11,559.00 | 257,558 | 509,217 | 0.51x | 27.06% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -145,7 +145,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹145.05 | +0.14% | ₹143.00 - ₹145.65 | 5,198,119 | 13,991,184 | 0.37x | 24.83% | ₹138.58 - ₹211.92 |
+| ₹145.63 | +0.54% | ₹143.00 - ₹145.71 | 6,708,689 | 13,991,184 | 0.48x | 24.95% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -174,7 +174,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,235.00 | +0.98% | ₹7,210.00 - ₹7,303.50 | 219,951 | 426,447 | 0.52x | 27.58% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,268.00 | -0.44% | ₹7,210.00 - ₹7,303.50 | 247,357 | 424,156 | 0.58x | 28.16% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -204,7 +204,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,692.00 | +0.95% | ₹5,685.00 - ₹5,756.50 | 3,693 | 20,215 | 0.18x | 26.73% | ₹5,632.50 - ₹7,847.50 |
+| ₹5,739.50 | +0.26% | ₹5,685.00 - ₹5,756.50 | 4,922 | 18,937 | 0.26x | 27.22% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -232,7 +232,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹91.85 | -4.48% | ₹90.01 - ₹93.54 | 8,789 | 67,887 | 0.13x | 102.81% | ₹76.41 - ₹130.64 |
+| ₹90.47 | -3.28% | ₹88.88 - ₹93.54 | 22,648 | 67,116 | 0.34x | 102.66% | ₹76.41 - ₹130.64 |
 
 **Research reports**
 
@@ -260,7 +260,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,663.20 | +0.80% | ₹1,633.00 - ₹1,678.00 | 1,221,769 | 3,785,698 | 0.32x | 62.86% | ₹601.35 - ₹1,725.60 |
+| ₹1,665.30 | +0.93% | ₹1,633.00 - ₹1,678.00 | 1,410,388 | 3,785,698 | 0.37x | 62.86% | ₹601.35 - ₹1,725.60 |
 
 **Research reports**
 
@@ -292,7 +292,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹134.99 | +1.57% | ₹132.50 - ₹135.75 | 5,609,309 | 8,910,335 | 0.63x | 34.85% | ₹126.32 - ₹177.20 |
+| ₹135.77 | +2.16% | ₹132.50 - ₹135.93 | 7,782,301 | 8,910,335 | 0.87x | 35.22% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -309,8 +309,6 @@ _Research report coming soon._
 - [Reserve Bank of India steps in to support rupee- Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjlmN0p2eEc5QVVfcG9DeGRxX0kyTVI5dDFWTTNPZlhEajU1UXBUNEY2dnRFNHNVaXJyTjg0YzlRY09JeE1jZnBMWGZDUS1MX1c4M0p3b01XUFRDTnRINU5LX1Jqci1BZnRsdWJWb3ZnT3B2X3hCalc1ZU8yU2RINGRGREpiSzIteERWZkNhTzRWMVFpajlfMUZ1MjBIQXVuZTFwT2tGMzcwTjF1Yk5KR1pJdHlBZWh3?oc=5) - _Investing.com, 29 Oct 2026, 11:42 AM IST_
 - [Broker’s Call: Bank of India (Buy)](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRWd0QTlmWVp1LUllWmhrU1JCV1h6bkFKWTRqSFpGQk0xZERIXzA5V2hpOUk5NmprZDMzcnhTYWRzMGVJY09CV1JDUmlvVmNpLW9tMXBPVWdWTExOQ1BvQ0V6YU04aS1BZWxZaDRFWk5EbEtmLUJmNldOZG1yZzAzYnpTbkNEdlctMWlOdjRLVk80M1pHZnVWWlJFQdIBogFBVV95cUxNaDZQOGxuTlBYdW1ZLW9kbUJJeWVvNFk1TmhxdVZhalRqOGJickpqSWRCY2ZFcUxGcmRVbFdnNE9ZbHJGUGZGTUxSMUxicTNHUmpNbDM3ZERqOXZWQVU4NldnTElYVW4yOHJaMnZJOUx3d1RMNF94cE9CVnU1NkRlRUFGY3hWbDd4S09XMnVhNlNSd2xSVElRSHlnUmdaU0dFOEE?oc=5) - _BusinessLine, 27 Oct 2026, 06:58 PM IST_
 - [Central Bank of India RTGS glitch: What to know about your deposits](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1l0Y09RN2x2NTNuaU1LbU5IZU1WN0dHQnV2ZlZfYU5qejZtRy1vMzVMcEhoeHVheUVRSlhaUEp4VE5TYWstNjVDLW53OU9XR2k4MzB3TUJUOTdiejNWcmRtTjhFaFBFaURvb0l0MzVnQU9BQnN4YWNhTWUwSmhMaDBlRlpxTzl0YkFORGpkdWl3LVEwbFZyNk5lZlZZUmFOVC05Qnd2WHprOGZKMDdxNVdxQV9FZUUtN1FrZnZOVnZfWV9TZTFTWEh3bHMxc2RXOFJWRXpKcTF0SnQtSXfSAeMBQVVfeXFMUDJsOHRNcDIwRlNJRGs0MWlLRWg1Mi1CTXRqbk4ycWdLRGtPbGtQWTZjbTkyc0pobmpleXFSZUlrc0JXYWQ5bHY0QXc1WGdGYmxWUGhLZWdFUWg4cFYtLWtiVVUzcmxkamZNX3pCbVhNNDhMMFNRck16UFJtM0s5eHg0U2d2ZXQwdVdiNGdjQnJEa0JuSGVmRjlVZ0pEcDJ1ZVFqODFOaGRsOUVBbkJRMXkyUGFUa1RVOGRwN3M0QzVHUVB3Y3dXZzhjQnptQnFGTldfR0lsYUJzNUpfN2pXMklVTlk?oc=5) - _Business Standard, 27 Oct 2026, 04:49 PM IST_
-- [Bank of India shares fall up to 5.5% post-Q2 results as global NIM falls to 2.47% QoQ](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGlUaU9kcW5meXRzWmVpdGh3OGszdEVONkJqc0c3SGhyeXJZMGdaZ3VhS2dhYVR1bGhDRHVyWXkwQ0FSbDU4ZzhjSVNKb2xLMTM1SzhCYlFqYUJ0N3ExRThHa29nQWJNNkR6RTMwNmhzZ2E2N2Q4SGhHRk5mdkhnVjlXc1dxb1BJUERUaGxMTzhkWGMtUnVSMGVnYXJlcmM4b2NkSUpCSUR0UVQ1Z2wwYXNfck5VUUdDX0RIYUgxeGlRUHROdDhqYURiRzZKdlFOdWIwaDNEdnY2LW9rQVF2LXFn0gHnAUFVX3lxTFBEY01jUnRqVHd1dHpOdzlUN0t3dm5jQmhUVGlDakFubTVGTDF3RTZhenZCbDJGVXJDcDhORGNxMFlFQUw4cGV4am5sMWpELWh1dUQzS1FkbkNOUW96X05xVmRsRl91ODV0bDE3U2Z4RlFzMnNxbmpmQkJzcXZYWVgwSGlJUHlFV2VVOEdCOGJZOUxqbWlxM05TMVJ3X1I5VFlYOFRsZ1RTaFZzQl8tNjNyclRMT2JMRmZYaWpIaXU2TVdlZFBzRWJkdlhrV0VSVGhkY202eDh2NDNKM3VfSF93YWFha1U5Zw?oc=5) - _Moneycontrol.com, 26 Oct 2026, 01:46 PM IST_
-- [Central Bank of India clarifies all accounts are safe after reports of 187 unauthorised transactions worth](https://news.google.com/rss/articles/CBMilgJBVV95cUxNbklYZFp4aWF3MDI0SzNETV91UGtieTl6b0VvOWNEWlRmbUR0ZTRqMW1weTVoQlMtTlUwb0xSQ0VYMENEaEFMZnZMVXlYNGhDZ1FXZHFraDF6UERXM1M2bnh2NWlPOFNLNlhOanoteklSRUJERmt4TDFCRnJSTHlrakthYWJnemFfVTdoU0xucml4ek5fdFMwMW9MZndHTVViMWJmbE5zVXNZdmU1ejNQUkxfU3VacEpwaGQ3cTlhbkR2dDAzcHktd09wbDA5LU5yY2NRTkVpeEhKREpkVW1tdy1jSFlQWnpRcnF2ek5uSENCYU9sTjk4cFhOaHZqUG9fUy11b01LalZubzhfQkRyV2d2SGZzZ9IBmwJBVV95cUxPT0ZhbUo0aTdQOXlWa2RhenY2V2pmX3dQaktXMmhodXR2R0VuYVhXRllnSm4waVdtY05iSjNrNExleXlKREJsRjg5elNVYzhVRl8zeWpvQ01PZVA5bEMyOXJvN25ZMGtIelhWcG5WZTNjbl9Od2MyZGJfTGZPU1VwZGNNajBrdVNMbUEtR2w2a1g4OGwwb0lJMWtVaG9GeUt6dUkwTFF1WHkyRXBwSzFFbElrV2FpbENmRXk3NUZkMnlIWi1sZVRPZU1pUXBNVGQzRWFSZGFRYUF1S1ZJVm53Q0pTakVDY2p0YmlySVFiWmhqZGtpdUo3bmRBa2F0b2FFTjZVem9kWFRSVHk3eTlsbUtlZks4bUJsNjZv?oc=5) - _The Economic Times, 26 Oct 2026, 01:40 PM IST_
 
 </details>
 
