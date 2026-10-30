@@ -2,11 +2,9 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 30 Oct 2026, 04:14 PM IST  |  **Market data as of:** 2026-10-30  |  **Start date:** 2026-10-16
+**Last updated:** 30 Oct 2026, 05:30 PM IST  |  **Market data as of:** 2026-10-30  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
+**Snapshot type:** End-of-day final snapshot
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -32,13 +30,13 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,397.00 | - | ₹11,426.00 | -0.25% | ₹33,05,130 | 14.6% | -₹26,680 | -0.80% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹144.82 | - | ₹145.00 | -0.12% | ₹1,44,820 | 0.6% | -₹2,900 | -1.96% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,220.00 | - | ₹7,238.00 | -0.25% | ₹72,20,000 | 31.9% | -₹46,000 | -0.63% |
-| Linde India | 500 | ₹5,961.00 | ₹5,651.50 | - | ₹5,718.00 | -1.16% | ₹28,25,750 | 12.5% | -₹1,54,750 | -5.19% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹90.95 | - | ₹90.61 | +0.38% | ₹90,950 | 0.4% | ₹5,950 | +7.00% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,756.00 | - | ₹1,663.00 | +5.59% | ₹17,56,000 | 7.8% | ₹78,800 | +4.70% |
-| Bank of India | 1,000 | ₹131.33 | ₹132.86 | - | ₹135.70 | -2.09% | ₹1,32,860 | 0.6% | ₹1,530 | +1.17% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,397.00 | ₹11,397.00 | ₹11,426.00 | -0.25% | ₹33,05,130 | 14.6% | -₹26,680 | -0.80% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹144.82 | ₹144.82 | ₹145.00 | -0.12% | ₹1,44,820 | 0.6% | -₹2,900 | -1.96% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,220.00 | ₹7,220.00 | ₹7,238.00 | -0.25% | ₹72,20,000 | 31.9% | -₹46,000 | -0.63% |
+| Linde India | 500 | ₹5,961.00 | ₹5,651.50 | ₹5,651.50 | ₹5,718.00 | -1.16% | ₹28,25,750 | 12.5% | -₹1,54,750 | -5.19% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹90.95 | ₹90.95 | ₹90.61 | +0.38% | ₹90,950 | 0.4% | ₹5,950 | +7.00% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,756.00 | ₹1,756.00 | ₹1,663.00 | +5.59% | ₹17,56,000 | 7.8% | ₹78,800 | +4.70% |
+| Bank of India | 1,000 | ₹131.33 | ₹132.86 | ₹132.86 | ₹135.70 | -2.09% | ₹1,32,860 | 0.6% | ₹1,530 | +1.17% |
 
 **Best since buy:** Linc Ltd (+7.00%)  ·  **Worst since buy:** Linde India (-5.19%)  ·  **Biggest mover today:** Ather Energy (+5.59%)
 
@@ -275,7 +273,7 @@ _Research report coming soon._
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Ather Energy Share Price Today, Ather Energy Stock Price Live NSE/BSE Updates](https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmpPVXcxeVFIRHF1aHV6dFRLVnhXV3djOWRQN2tuMmxVTnhDeVNJSnFoV2ZscmFoaEtaWXhCT0tabGNHdVhlOV8zcG45eTJrYS04ek9hSlNlMEZPYlpyeS1pbXNqbjlVVklKeEFrX1R6OUEzXzhRdjNneFZzbEFFMjc4MmZ4T3dSMnc?oc=5) - _The Economic Times, 30 Oct 2026, 11:43 AM IST_
-- [Range anxiety: Ather set to challenge Ola with low-range electric scooters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUZkYTVTMFRzZTcwYm9SS2R4RWc0a3ktbG81THhxUnVtQ25VbzA0QjRkMlhhZEp1Y2RZMnNLU1dBdU5RUTFZM1RXY1JYdEk5a0N1bmRkTTZGUlVZVEtaZDFnOTMyNFh5NjVYSlB4bXhvMy1TalhVU1ZETG8wRURVTHowM0JrZ2ctTzdfTGV4MEROQ3hhVDdvMG5RRENlWi1ocjZnajZ5Uko5UGxGbWfSAbMBQVVfeXFMTTY3Smo0Ry10aWtleUViZUl5SldpUzlZb3RvbVZfcE9VS3huODh6VHlhb0JoUzJUVXhZa3hqX2dSVmM1S1BBMmZhWlhlRXNxM0JNUTlmeDlkQlBxdGJnNThSQXFUTE5oVElvazB1WTJTWVM5bGJKQ1duVjRIenUwNkotZW82RjBOb2tvUVdXWkdCR3E5WXppOV9SeUNnaXdBNGhPZGNLbnBoNkVfU2pQeXJoejg?oc=5) - _Livemint, 30 Oct 2026, 10:59 AM IST_
+- [Range anxiety: Ather set to challenge Ola with cheaper, low-range electric scooters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjdKajRHLXRpa2V5RWJlSXlKV2lTOVlvdG9tVl9wT1VLeG44OHpUeWFvQmhTMlRVeFlreGpfZ1JWYzVLUEEyZmFaWGVFc3EzQk1ROWZ4OWRCUHF0Ymc1OFJBcVRMTmhUSW9rMHVZMlNZUzlsYkpDV25WNEh6dTA2Si1lbzZGME5va29RV1daR0JHcTlZemk5X1J5Q2dpd0E0aE9kY0tucGg2RV9TalB5cmh6ONIBswFBVV95cUxNNjdKajRHLXRpa2V5RWJlSXlKV2lTOVlvdG9tVl9wT1VLeG44OHpUeWFvQmhTMlRVeFlreGpfZ1JWYzVLUEEyZmFaWGVFc3EzQk1ROWZ4OWRCUHF0Ymc1OFJBcVRMTmhUSW9rMHVZMlNZUzlsYkpDV25WNEh6dTA2Si1lbzZGME5va29RV1daR0JHcTlZemk5X1J5Q2dpd0E0aE9kY0tucGg2RV9TalB5cmh6OA?oc=5) - _Livemint, 30 Oct 2026, 10:59 AM IST_
 - [Ather Energy Q2 Review: Nomura, HSBC Raise Target Prices After Q2 Surprise, See Up To 24% Upside; Should You Buy?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHpDVGJDWGVHamY2elQxcmxIRjNyNXY5dGtKLTktQ3NtdXpHaG9HYl8yQUhhRUMxT2hEajF6UVdQR1dNT2lhaV9GLWgtbVRxUXFVUXdsWXA1Wl9KUWhhNGs4NmIyVUFKV1h5NEd1ZnNjWUduTmR4OGhnNy1YQWFUbTNMMkZ0bUdWcW96Z0ZoZ1pSZVRWRndnZVFmc2pWSVVwZWY1em1PbTRrVkpZdDZ6czVXcUZtRVRRVkhvT21RYS1UX1gtR2tEeld4aXNYQzFB0gHYAUFVX3lxTFBSdkJuZUk2NjRpTm1DRXNEZDNtRnhwYUtyMVdOMTRZdkZYdVlObXd1ZVVVbmVVUDdTTWJPLXdFN0VneElnYWd0MVdrblhzSHotb0hJWkxERldKdnA1dVBIRm1aOWtzajgxLUVTbjlDQTZhRmdpaERvalRDZHZFZVFWNy1wRVVQN0tVSEVud1F6RTZrNHpKNVNubEEtd29sRFJ2Ui1EOURuZWh2RUVqNWlUeTNOb3duYVdhbk85dFJZRXZBcktySmhXeHRPQUhseE54Y1N1YzVMRw?oc=5) - _NDTV Profit, 28 Oct 2026, 07:56 AM IST_
 - [Cognizant eyes Sarvam stake; Ather aims for higher market share](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMUlzbzFXY1VSa1JoYS1ORmNXR3RTdEdkZk5ucVVRSTRVQnR1WHlmQjRJUThhbmtaeXVUMVJEcFN6RmVhaERnbm1KODdIWEVybmxwc0ZtN1BYRU85WlJIQUN2ZmVVR3FuelAtZVRIS2pCa0VkOXYtOXBlcjBPU1dicFdFNlNwVFkzZWtuQmd6VXBlT1VoM2dXdVZzVUJ4VkNBX052VFVzM1F1TUU3MEtYb2dGLUlJWnIxZ1BrRUoxend4VGZ4djE1S0FmeW1yMUQtTVR3d0xJTWpjcml4dGdnV3pSVjTSAeoBQVVfeXFMTXA1dm82WGxZTGgtcDJFV2p6SlhuR1FUeVc3MzVKQ3Zwa29LWmx0QWU1Vmg5RGU4TUttcG5OZjB6Q0IwbnJTMzExYVdfSEVCcnF2dXVoZVpiS25xTXFfSHhFdmlRNkNFdl9mTTdXWG14NWlXTFBpcE9PMXR3a1B1NDI4STFnR0RzeGd4QWticWh6cmhmUWNQVS1DSlgyMmVlRERFN2YwakVmZE5pV1FSUTAtekU5ekZ0Mk12dUVkd0pKbkRrS1FINVpWcm14NDZ1SnBPM2tGN1pBU2NjSHFtbFNJdmJoUU5aOTBn?oc=5) - _The Economic Times, 28 Oct 2026, 07:25 AM IST_
 - [Stock to buy today: Ather Energy (₹1,671) – BUY](https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzlLcWpwcTVBbkFfQm00WFNiZkVMMXR5VjZCRTY0ay16VkFDNkc3dXlHZmNkcGRPNmZMTmZqbEFHazdBeHNKU3lTaXJTN3U5TXp2YXhmU0ZDYWZVcDdiak90SzQyeEtxUkNScWlhanZOQTlRVXdjcWJpVFlZSnJnSk81dzJUUW9hbE5CZ3pkZnUyOUkyTVBXeTVKYWk0NFpzZnd4Njhwb01sVnNPZ0lIa0JLZ281RW9rNXJGa050bkJyYm1u0gHLAUFVX3lxTE04NkdOT2s1X0g2QnhpNkVjcnJ4TWpjVl9sSkpudWxac1NNbkZCQTFVaFZwZk5DblkweHkwc19sQmQ3Y1JWaDM5TC03SGtrYjdYbTBiUldDNi1nUTZWTXdqQU1JV21MLUtXQzNhakdWWDROTmRiYmZ2S3Rib1dVV2VqNmExSGJXY3dqUGRjZEwzeGlpSWFQNzZNM0RmMzZSQzZZSkRrMlByMDRBUGl0bzlhU1Vkakw2eUl5OXZlVVFmS1loR3BfT1lPeVhV?oc=5) - _BusinessLine, 28 Oct 2026, 06:30 AM IST_
@@ -308,7 +306,6 @@ _Research report coming soon._
 
 - [Reserve Bank of India steps in to support rupee- Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjlmN0p2eEc5QVVfcG9DeGRxX0kyTVI5dDFWTTNPZlhEajU1UXBUNEY2dnRFNHNVaXJyTjg0YzlRY09JeE1jZnBMWGZDUS1MX1c4M0p3b01XUFRDTnRINU5LX1Jqci1BZnRsdWJWb3ZnT3B2X3hCalc1ZU8yU2RINGRGREpiSzIteERWZkNhTzRWMVFpajlfMUZ1MjBIQXVuZTFwT2tGMzcwTjF1Yk5KR1pJdHlBZWh3?oc=5) - _Investing.com, 29 Oct 2026, 09:20 PM IST_
 - [Broker’s Call: Bank of India (Buy)](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRWd0QTlmWVp1LUllWmhrU1JCV1h6bkFKWTRqSFpGQk0xZERIXzA5V2hpOUk5NmprZDMzcnhTYWRzMGVJY09CV1JDUmlvVmNpLW9tMXBPVWdWTExOQ1BvQ0V6YU04aS1BZWxZaDRFWk5EbEtmLUJmNldOZG1yZzAzYnpTbkNEdlctMWlOdjRLVk80M1pHZnVWWlJFQdIBogFBVV95cUxNaDZQOGxuTlBYdW1ZLW9kbUJJeWVvNFk1TmhxdVZhalRqOGJickpqSWRCY2ZFcUxGcmRVbFdnNE9ZbHJGUGZGTUxSMUxicTNHUmpNbDM3ZERqOXZWQVU4NldnTElYVW4yOHJaMnZJOUx3d1RMNF94cE9CVnU1NkRlRUFGY3hWbDd4S09XMnVhNlNSd2xSVElRSHlnUmdaU0dFOEE?oc=5) - _BusinessLine, 27 Oct 2026, 06:58 PM IST_
-- [Central Bank of India RTGS glitch: What to know about your deposits](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1l0Y09RN2x2NTNuaU1LbU5IZU1WN0dHQnV2ZlZfYU5qejZtRy1vMzVMcEhoeHVheUVRSlhaUEp4VE5TYWstNjVDLW53OU9XR2k4MzB3TUJUOTdiejNWcmRtTjhFaFBFaURvb0l0MzVnQU9BQnN4YWNhTWUwSmhMaDBlRlpxTzl0YkFORGpkdWl3LVEwbFZyNk5lZlZZUmFOVC05Qnd2WHprOGZKMDdxNVdxQV9FZUUtN1FrZnZOVnZfWV9TZTFTWEh3bHMxc2RXOFJWRXpKcTF0SnQtSXfSAeMBQVVfeXFMUDJsOHRNcDIwRlNJRGs0MWlLRWg1Mi1CTXRqbk4ycWdLRGtPbGtQWTZjbTkyc0pobmpleXFSZUlrc0JXYWQ5bHY0QXc1WGdGYmxWUGhLZWdFUWg4cFYtLWtiVVUzcmxkamZNX3pCbVhNNDhMMFNRck16UFJtM0s5eHg0U2d2ZXQwdVdiNGdjQnJEa0JuSGVmRjlVZ0pEcDJ1ZVFqODFOaGRsOUVBbkJRMXkyUGFUa1RVOGRwN3M0QzVHUVB3Y3dXZzhjQnptQnFGTldfR0lsYUJzNUpfN2pXMklVTlk?oc=5) - _Business Standard, 27 Oct 2026, 04:49 PM IST_
 
 </details>
 
