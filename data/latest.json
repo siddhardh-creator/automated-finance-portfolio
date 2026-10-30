@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "30 Oct 2026, 05:30 PM IST",
+  "generated_at_ist": "30 Oct 2026, 09:48 PM IST",
   "as_of": "2026-10-30",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 23159530.0,
@@ -55,12 +55,6 @@
       },
       "news": [
         {
-          "title": "Market wrap: Adani Ports SEZ, Adani Ent, Trent, Maruti Suzuki top gainers and losers on Nifty and Sensex",
-          "source": "The Economic Times",
-          "published": "29 Oct 2026, 05:37 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQTExDS2xDVEJ0RTZvRW9FLTN2bkxpSEYzWTliaW80d0NSdjRLUjZhQS1rX283NjBEdTNlejFVZkpwQVdIbWh0cmpMaE5FdW1VcFJtM1kzUkJQVDB6VW84TWNJQ1cybVd4RU9CLWJBa1FwaWpmMkpjVEg1VHBfZnB3MVFqaWowYXZfWndZdkdpOUV4V3dDQk9BbHl5bDREeUpsZHRFb3JQZ0tGamp5YnBvNVN4SUIxVFBWRnRpVzlmVl9HUDFOd0swb1VkWUpERkxET1dYMzRNM2dGc3Y4eTE5c0FXMWJ6ZU1Ub2tId2d0UlJhcE1qUHlNazU0dHF6TURFNmRwUUpxSl9YS2lkVjVhcTkxZmdLSkxiWmlkeXgwRUHSAZoCQVVfeXFMTUVUZkk1X094YUVObmFiZ2JMOTB5Zkw3RkVSbTluYkpDRDdrRW1GUVh4VjZXNU56OTVnOWxGaTdIOUdfUXl3WEdjRGpUd1dyenZXcnZZSE84anV6NUMyeThKVzkxR0k0UWYxN2ctSURpTkc5bGhpVkdEdlBtcjkyc1VsTVpGYW5GRlRxc2oxNGdDWk50d2prREhfd1B4Z0Jmd3lnWlFVNmFyY3ZUVU1JdEc2ZXFvZTJIU2dmNmtUTlRSaXo2YnZId05xQUdLcmxfZ0ZRaGd1eUJjVmxkSHRPZFhjYnBVQXF4eFEzN3I5NzlsYWNSblhaTF9Ec0kxTFlfMHktdHIxQzBVNjNnV2xfZnRLeDlrengtbktR?oc=5"
-        },
-        {
           "title": "Maruti Suzuki achieves exports of 50,000 EVs since August 2025",
           "source": "BusinessLine",
           "published": "29 Oct 2026, 01:22 PM IST",
@@ -77,12 +71,6 @@
           "source": "NDTV Profit",
           "published": "28 Oct 2026, 06:51 AM IST",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPT182MzJPX3M0VWkxR0pETEt4YXlfQU13VndDNmtEaDNwMUlLZ2RPaHRNaHctcktYTFdlUnhmRGNFcEFnMF9DNHlBcWsyaHBOdy1BbTRDN0paYk9kV2hkM3hjZmNUUTBRcUpQLXJCcGJNRnpBcEktelNVZ0hiZWowWXN6WEhwb0xFdFdPdW83OTNJVjMtYmJ0R3hONEZRLTQxclp2Wkx2VmliMWJmbEpocFNvVU9JZ0lydFBwSWJvVk1WSGtTMWRWZWtsMkhJUWhuTGk3N21IdHBJdUs3LW9KYXZKWngxWGh4V2doNVZMX1JEaV9FOTdDY2NneEVzc0dvMVBhRDlQcnVucWM0TUhPMkk5a3BiYWhkSl9PYm1aQdIBpwJBVV95cUxQa0l1U3k0cTJ6c2dhNUstNUVOZi1NVmJaaXNJbVJ1VlgzX0xoXzlPSjZrOE5fcm1hWG52eXkzYkZUZXJSbW1Ob1h2d2lGWXgzMG44R3ZWRHFWanFWOUd3N1FfUk5qRlRObDVNNnpmSXhPdXZrQmE0cWxnUjRneDZKblA5SFZDTllBMkJIRWxKRF9TZFUwckxDcF9PYzVIVVp4eDJ5cngtYTIzcnBIc0tNUmVMOTFpeXk5QVZqdkRHSE0wNEQwWXkxMDA0ZG5SbE1fanhERFNuU2NQT0gyVzFJWDRyTTdNVVZSeWVOWWRjR1JzclVkMFRWVEJqM1ZMYnhQa2ZVZVQ0cHZLLU1SWVRpSFN4M3NTQlVIQndZcjNjYlBGUGtuQi1R?oc=5"
-        },
-        {
-          "title": "India's Maruti Suzuki eyes profit recovery, plans more price hikes",
-          "source": "Reuters",
-          "published": "27 Oct 2026, 06:43 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkdmQXhYRjJ4M1ZrczRkX1dtQU9jR3Y3MWd6NkNoTWJQWEp2MXA4eWVQYXZoZU4ya3NDRVpKSjBhUVpiMVBvU0xJTVBPU2dBeDA3Zm5qSXNjQmZyeDRhS1VfZVJfdlBiZUV4N3N6N21tSlJqUjhvMmtLaEFCclZvNFk4UzhDRjFwVGFEUTJpVUliQWRBQnJWSVNFUlg5di1LNkswLXN1RnhMNUpHY0FFYmNBekc4UjhlZlhQYVBlYUE?oc=5"
         }
       ],
       "announcements": [],
@@ -154,6 +142,12 @@
           "source": "Livemint",
           "published": "28 Oct 2026, 10:11 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeVMxZG5LYWR1c2hidnZRXzJzOUNLOVdtY0Z2LWdLRTlPZkpkOHlBZEw4MkdjYjFCZ19zWTFBNENRUEtPNlo4TjAzWERXNDlrRmtfOVh0U3FZRWFvQ3o5MGZzZDFSRGdydEp5V3JJdHdMMHl2dS1JMXpKdy1LaFR6dVU5dUxtTWw5WGMtOXpDY1hXYXRJbF9DbTU0Y1hFbUtURnl2XzdaaEU4UmtKcG51ajJNeFZacjd1eGVoRnFQU0NuTFk0ZHZWZ3dZRVJuNS1nRmZ5UzdCYktHaWY2SFFxVzdxOWl1M0NlYTgtZVVDSS1uWk9wWW1ZRFRyaGo2a0pWa0HSAYcCQVVfeXFMT1NIeWZJQV85QXBWNkJwc3I2YTUtWGV1UllKMnk5a0wzOVU0cmhiN3R0d0otR0RFMGNNZ0ZLXzFpSVdRY1o5aktxQWVPekNKcFk2LUhRYmRQbW5uS2xDMVk4X21RRTRXSHhVNmFJNm5iUU9vSkxVaFN6TEQwM3hIbm5xcHoxQU1sLXUxdXlEN0hWNWQ1WktLdmN6WTNocW1vNW9FaEpqaWwzZE1FVnFxRHNnbUJ2WDNQYllLdlZtUW13LV9qbzIwTmJYaXhUbE5LMTc1RzM3TlgzR3BkMHZVYTI0UHpaeVZHTDVGb3JyZk5xZDJzU192TjZvM3Bic2o2UE1Ba19hSjQ?oc=5"
+        },
+        {
+          "title": "Eicher Motors Ltd Share/Stock Price Live Today | The HinduBusinessLine",
+          "source": "BusinessLine",
+          "published": "28 Oct 2026, 12:30 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HN2REZzdJM0F1RnZUMGt2N004ajR6TXRUbVB2a0g2OWdKakM2MW1pUFhqMmQ3NlQ3V2hBVGN2WHNBOGZId0RqVzg1UDJEVnNTTENGM1NIMy10dkpFTWtpdzVWYzFGVWxoTGNxWnFCTQ?oc=5"
         }
       ],
       "announcements": [],
@@ -268,14 +262,14 @@
         {
           "title": "Ather Energy Share Price Today, Ather Energy Stock Price Live NSE/BSE Updates",
           "source": "The Economic Times",
-          "published": "30 Oct 2026, 11:43 AM IST",
+          "published": "30 Oct 2026, 02:58 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmpPVXcxeVFIRHF1aHV6dFRLVnhXV3djOWRQN2tuMmxVTnhDeVNJSnFoV2ZscmFoaEtaWXhCT0tabGNHdVhlOV8zcG45eTJrYS04ek9hSlNlMEZPYlpyeS1pbXNqbjlVVklKeEFrX1R6OUEzXzhRdjNneFZzbEFFMjc4MmZ4T3dSMnc?oc=5"
         },
         {
-          "title": "Range anxiety: Ather set to challenge Ola with cheaper, low-range electric scooters",
+          "title": "Range anxiety: Ather set to challenge Ola with low-range electric scooters",
           "source": "Livemint",
           "published": "30 Oct 2026, 10:59 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjdKajRHLXRpa2V5RWJlSXlKV2lTOVlvdG9tVl9wT1VLeG44OHpUeWFvQmhTMlRVeFlreGpfZ1JWYzVLUEEyZmFaWGVFc3EzQk1ROWZ4OWRCUHF0Ymc1OFJBcVRMTmhUSW9rMHVZMlNZUzlsYkpDV25WNEh6dTA2Si1lbzZGME5va29RV1daR0JHcTlZemk5X1J5Q2dpd0E0aE9kY0tucGg2RV9TalB5cmh6ONIBswFBVV95cUxNNjdKajRHLXRpa2V5RWJlSXlKV2lTOVlvdG9tVl9wT1VLeG44OHpUeWFvQmhTMlRVeFlreGpfZ1JWYzVLUEEyZmFaWGVFc3EzQk1ROWZ4OWRCUHF0Ymc1OFJBcVRMTmhUSW9rMHVZMlNZUzlsYkpDV25WNEh6dTA2Si1lbzZGME5va29RV1daR0JHcTlZemk5X1J5Q2dpd0E0aE9kY0tucGg2RV9TalB5cmh6OA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUZkYTVTMFRzZTcwYm9SS2R4RWc0a3ktbG81THhxUnVtQ25VbzA0QjRkMlhhZEp1Y2RZMnNLU1dBdU5RUTFZM1RXY1JYdEk5a0N1bmRkTTZGUlVZVEtaZDFnOTMyNFh5NjVYSlB4bXhvMy1TalhVU1ZETG8wRURVTHowM0JrZ2ctTzdfTGV4MEROQ3hhVDdvMG5RRENlWi1ocjZnajZ5Uko5UGxGbWfSAbMBQVVfeXFMTTY3Smo0Ry10aWtleUViZUl5SldpUzlZb3RvbVZfcE9VS3huODh6VHlhb0JoUzJUVXhZa3hqX2dSVmM1S1BBMmZhWlhlRXNxM0JNUTlmeDlkQlBxdGJnNThSQXFUTE5oVElvazB1WTJTWVM5bGJKQ1duVjRIenUwNkotZW82RjBOb2tvUVdXWkdCR3E5WXppOV9SeUNnaXdBNGhPZGNLbnBoNkVfU2pQeXJoejg?oc=5"
         },
         {
           "title": "Ather Energy Q2 Review: Nomura, HSBC Raise Target Prices After Q2 Surprise, See Up To 24% Upside; Should You Buy?",
@@ -333,12 +327,6 @@
           "source": "Investing.com",
           "published": "29 Oct 2026, 09:20 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjlmN0p2eEc5QVVfcG9DeGRxX0kyTVI5dDFWTTNPZlhEajU1UXBUNEY2dnRFNHNVaXJyTjg0YzlRY09JeE1jZnBMWGZDUS1MX1c4M0p3b01XUFRDTnRINU5LX1Jqci1BZnRsdWJWb3ZnT3B2X3hCalc1ZU8yU2RINGRGREpiSzIteERWZkNhTzRWMVFpajlfMUZ1MjBIQXVuZTFwT2tGMzcwTjF1Yk5KR1pJdHlBZWh3?oc=5"
-        },
-        {
-          "title": "Broker’s Call: Bank of India (Buy)",
-          "source": "BusinessLine",
-          "published": "27 Oct 2026, 06:58 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRWd0QTlmWVp1LUllWmhrU1JCV1h6bkFKWTRqSFpGQk0xZERIXzA5V2hpOUk5NmprZDMzcnhTYWRzMGVJY09CV1JDUmlvVmNpLW9tMXBPVWdWTExOQ1BvQ0V6YU04aS1BZWxZaDRFWk5EbEtmLUJmNldOZG1yZzAzYnpTbkNEdlctMWlOdjRLVk80M1pHZnVWWlJFQdIBogFBVV95cUxNaDZQOGxuTlBYdW1ZLW9kbUJJeWVvNFk1TmhxdVZhalRqOGJickpqSWRCY2ZFcUxGcmRVbFdnNE9ZbHJGUGZGTUxSMUxicTNHUmpNbDM3ZERqOXZWQVU4NldnTElYVW4yOHJaMnZJOUx3d1RMNF94cE9CVnU1NkRlRUFGY3hWbDd4S09XMnVhNlNSd2xSVElRSHlnUmdaU0dFOEE?oc=5"
         }
       ],
       "announcements": [],
