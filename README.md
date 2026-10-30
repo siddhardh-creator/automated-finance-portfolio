@@ -2,11 +2,9 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 30 Oct 2026, 09:48 PM IST  |  **Market data as of:** 2026-10-30  |  **Start date:** 2026-10-16
+**Last updated:** 30 Oct 2026, 11:29 PM IST  |  **Market data as of:** 2026-10-30  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
+**Snapshot type:** End-of-day final snapshot
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -32,13 +30,13 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,397.00 | - | ₹11,426.00 | -0.25% | ₹33,05,130 | 14.6% | -₹26,680 | -0.80% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹144.82 | - | ₹145.00 | -0.12% | ₹1,44,820 | 0.6% | -₹2,900 | -1.96% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,220.00 | - | ₹7,238.00 | -0.25% | ₹72,20,000 | 31.9% | -₹46,000 | -0.63% |
-| Linde India | 500 | ₹5,961.00 | ₹5,651.50 | - | ₹5,718.00 | -1.16% | ₹28,25,750 | 12.5% | -₹1,54,750 | -5.19% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹90.95 | - | ₹90.61 | +0.38% | ₹90,950 | 0.4% | ₹5,950 | +7.00% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,756.00 | - | ₹1,663.00 | +5.59% | ₹17,56,000 | 7.8% | ₹78,800 | +4.70% |
-| Bank of India | 1,000 | ₹131.33 | ₹132.86 | - | ₹135.70 | -2.09% | ₹1,32,860 | 0.6% | ₹1,530 | +1.17% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,397.00 | ₹11,397.00 | ₹11,426.00 | -0.25% | ₹33,05,130 | 14.6% | -₹26,680 | -0.80% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹144.82 | ₹144.82 | ₹145.00 | -0.12% | ₹1,44,820 | 0.6% | -₹2,900 | -1.96% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,220.00 | ₹7,220.00 | ₹7,238.00 | -0.25% | ₹72,20,000 | 31.9% | -₹46,000 | -0.63% |
+| Linde India | 500 | ₹5,961.00 | ₹5,651.50 | ₹5,651.50 | ₹5,718.00 | -1.16% | ₹28,25,750 | 12.5% | -₹1,54,750 | -5.19% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹90.95 | ₹90.95 | ₹90.61 | +0.38% | ₹90,950 | 0.4% | ₹5,950 | +7.00% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,756.00 | ₹1,756.00 | ₹1,663.00 | +5.59% | ₹17,56,000 | 7.8% | ₹78,800 | +4.70% |
+| Bank of India | 1,000 | ₹131.33 | ₹132.86 | ₹132.86 | ₹135.70 | -2.09% | ₹1,32,860 | 0.6% | ₹1,530 | +1.17% |
 
 **Best since buy:** Linc Ltd (+7.00%)  ·  **Worst since buy:** Linde India (-5.19%)  ·  **Biggest mover today:** Ather Energy (+5.59%)
 
@@ -127,9 +125,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Market wrap: Adani Ports SEZ, Adani Ent, Trent, Maruti Suzuki top gainers and losers on Nifty and Sensex](https://news.google.com/rss/articles/CBMilAJBVV95cUxOMWNXMTVheWR3RFg3ZXVLeHFORTNuNk1oRzRHTzdCeTRQV3p2SmowTVNEMmhwQlBobjVMSFk0NDNtSEVHQlp3X0hRdmpBREtJUmVVYlBtaDhYZ09hWUxBa2xWaUEtY0pWemthOXFldVF5OGdOTTRBY2RwY0lqcUhDOUlualNyZWVsYUozcm9LbXdtdW5LVWZBclJ1VjBIT3JiZnY2bVFTU1dLdVhIOUdEdmpKaHp4V1Y2b1RuLTFxTFNEQm5pLUVjeF9URUR1bWZfUFZPU3J5OUZheHBFSWoxZEVxOXF6aFpmS3FIZ3dBS1FLbURtWW9EUlFKZUVRMUdfQkNYN0JwUFZjVUlUZFdEM2QyY0fSAZoCQVVfeXFMTUVUZkk1X094YUVObmFiZ2JMOTB5Zkw3RkVSbTluYkpDRDdrRW1GUVh4VjZXNU56OTVnOWxGaTdIOUdfUXl3WEdjRGpUd1dyenZXcnZZSE84anV6NUMyeThKVzkxR0k0UWYxN2ctSURpTkc5bGhpVkdEdlBtcjkyc1VsTVpGYW5GRlRxc2oxNGdDWk50d2prREhfd1B4Z0Jmd3lnWlFVNmFyY3ZUVU1JdEc2ZXFvZTJIU2dmNmtUTlRSaXo2YnZId05xQUdLcmxfZ0ZRaGd1eUJjVmxkSHRPZFhjYnBVQXF4eFEzN3I5NzlsYWNSblhaTF9Ec0kxTFlfMHktdHIxQzBVNjNnV2xfZnRLeDlrengtbktR?oc=5) - _The Economic Times, 29 Oct 2026, 05:37 PM IST_
 - [Maruti Suzuki achieves exports of 50,000 EVs since August 2025](https://news.google.com/rss/articles/CBMixwFBVV95cUxNaGJjeHhsb2lQTmRzQnhFcFo5NUxLTW15bEJYcHlaek4wSG9lU3ZxY0RJVHkzeHdGZThrdmhWZTV5aGZwOXFRN0hSYWUxSzR6czRHUEdhT2JOQkV3ZFJ2TGxaNlQ1SlBkQno5N0h1cGZ1VUM3ZDRYZWZQc0ZOYTE5dXFwN0VZakl0WjBkR3VidDNrMlVwUlFqY1hrWm8tRWFmX0dwMmFGbDdGN2VmYkRTT1FOd2FOUlBMbGNtZF90ZVNaZ3k1U2I00gHOAUFVX3lxTE5tTTFibGRQNmk1dUZ1cTJrb3dWdTA1ZkxhR2RlZXBPdVUtMlNhVEFNdnpBbnhTaXFVaWxkWFJhODJGc2tJWkNSUnZzN3FGMHBSZzF0TktmdHJDSmFpVG4zaEhvZVJRZXhzVTVOYm01NXppQU03YjFJTjFkSExqeW9JUEZxbjh3UG9HSzN0NXAwbmVDU2ltclhUQU1DNmRTRWJOazZtdG4tOUkxTFZENWZQVFR0LW1ucHY0U2hKdk9Ca2d0OXlNSmxEdW1JeGVR?oc=5) - _BusinessLine, 29 Oct 2026, 01:22 PM IST_
-- [Maruti Suzuki shares slip marginally after missing estimates in Q2; brokerages divided on stock outlook,...](https://news.google.com/rss/articles/CBMilgJBVV95cUxPZll3OWNWM0t2OEFjMS1oVG9hRkNmQ0JBbkkwZHV0d28tTFFndkdWdk1yaDFXeW1vV0E5TElXNVR4X1VvRHRRNnpNUlJFLXd4ZVNpR1V1TGdwZlBZd0YxX0xIek1ZSFp1dzNvQTNTbG9Ha0hqY1E4bGIwWGRkVjBIQXQzOFkyd3l4LU04OE1zY2JwcHVhZGVoR0ZCb0MtSUJZRFZDTjgzOUZLNURZQnh5Rzk1Yy0weFA1N0R2Q3JYX1FOWEdzRnVfbFpCczhtQWxvVG1tVTVNTUI4NVBrMzFCMW5CQzZkdDU3dWZyYUtnOVB5Y2tPM0xFaDdoclE2TkJZTnNkX3Bfel9DSTBKNlo2a1hGVjhaUdIBmwJBVV95cUxNbDVKVlpyWjgwNks4dWZoclRCLTFNLTQxMUYxR3YzRkNIbGFiVi1IQnZPbUpMeFJtRmJBeS1IM2c5YXRJMHc5VVhwU1I3ZEVyLWtFYVVyMnl4ekFLdXJ4VWVreElYYU5ock5veC1najMtTEtZUjUwTWI3OGwxeXVDcUtQaTQ4eF9IZFVnTDM3OHZGLTNMRFNkWGU3S29uS2h6RFotR3M2cUNGVXJTd2dtRG92QXhOQk5YN2NiSUdFMTVxSlVBQTJmVjBPUnJ4SjZ4cUFOdnhDcGU5VG50VXBzak9vU1FPTU44cjFSd1JkMWZ1NXBfYlRNTkl4ZUE1M0gxMkJqUlUzeDd1ZF95VU4tc2otMUliOVhGazgw?oc=5) - _Moneycontrol.com, 28 Oct 2026, 01:10 PM IST_
-- [Stock Picks Today: Maruti Suzuki, Bajaj Auto, L&T, Paytm, SBI Life, And More On Brokerages' Radar](https://news.google.com/rss/articles/CBMinwJBVV95cUxPT182MzJPX3M0VWkxR0pETEt4YXlfQU13VndDNmtEaDNwMUlLZ2RPaHRNaHctcktYTFdlUnhmRGNFcEFnMF9DNHlBcWsyaHBOdy1BbTRDN0paYk9kV2hkM3hjZmNUUTBRcUpQLXJCcGJNRnpBcEktelNVZ0hiZWowWXN6WEhwb0xFdFdPdW83OTNJVjMtYmJ0R3hONEZRLTQxclp2Wkx2VmliMWJmbEpocFNvVU9JZ0lydFBwSWJvVk1WSGtTMWRWZWtsMkhJUWhuTGk3N21IdHBJdUs3LW9KYXZKWngxWGh4V2doNVZMX1JEaV9FOTdDY2NneEVzc0dvMVBhRDlQcnVucWM0TUhPMkk5a3BiYWhkSl9PYm1aQdIBpwJBVV95cUxQa0l1U3k0cTJ6c2dhNUstNUVOZi1NVmJaaXNJbVJ1VlgzX0xoXzlPSjZrOE5fcm1hWG52eXkzYkZUZXJSbW1Ob1h2d2lGWXgzMG44R3ZWRHFWanFWOUd3N1FfUk5qRlRObDVNNnpmSXhPdXZrQmE0cWxnUjRneDZKblA5SFZDTllBMkJIRWxKRF9TZFUwckxDcF9PYzVIVVp4eDJ5cngtYTIzcnBIc0tNUmVMOTFpeXk5QVZqdkRHSE0wNEQwWXkxMDA0ZG5SbE1fanhERFNuU2NQT0gyVzFJWDRyTTdNVVZSeWVOWWRjR1JzclVkMFRWVEJqM1ZMYnhQa2ZVZVQ0cHZLLU1SWVRpSFN4M3NTQlVIQndZcjNjYlBGUGtuQi1R?oc=5) - _NDTV Profit, 28 Oct 2026, 06:51 AM IST_
+- [Maruti Suzuki crosses 50,000 EV exports with e Vitara, accounts for 93% of India’s electric car shipments](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSTZpSVpJcHYzbU5yUkJ2UlpFQWVhWU1KY0VEbl9YOS1HdTdmVUZlSjBSQlEyZy1JYkZGUU1POXAtZXNIRHdjS2RFN2VJdFdqSGdadUFwWUEyOFhyUEV1UmRWbU84NE9qR291d3Nib3diVGxNanFKSWozc0JDYXpVREtWVG9obExuTUdtWmJ4M2pmdDgxNW1iWWdBRUZwQldSVWdOY1ZrX1JuRmlpaTZ1U1NHaGpmZHA0SHBrTTNBYkw0QjhvTkdJTEhoaFVuM2UtNGdrMWVFRXYzTkw1NHdkYUhkcDZReC1McFJfM3RFRdIB9AFBVV95cUxNQW80VnVZbXZMSXNHYVY0SUxTS3BKcHp0ZnRsazAzZFVWX0xqWmpoeGdKYWt5cHhrUEhnajZMcndNMzZWb1l2ZXQ0b0VGM2UtOV94RFpPclk5WDl4czdBWk5MaXMweTRWcE9MT3ZtbDNiWEJERXIxS3FsTVhqZVNiczA2TTJwYWtsWXFGR3pJT0RUSi1ZNzZmb0RYLWEzQ1gyX2hLQ1A0Wlp1Vm93azhNSk5PWGpqNDc3WkVOTzIxUnBCdi0xYXByNXBqTV9KQWtTSVV5SDJuVmpjZ3YtQXZPaXBnYTBub25MYzZqdEVVNnVJOTVh?oc=5) - _Livemint, 29 Oct 2026, 12:08 PM IST_
+- [Auto biggies Q2 result compared: Bajaj Auto vs Maruti Suzuki - Who wins the earnings race? Profit, revenue, target price](https://news.google.com/rss/articles/CBMikgJBVV95cUxOUzhHZWFhMXNuNHVLQUdXcVBEcGdQRXBTdXhlT1A4ZWhjbkRjRmYzRlVwTGdvcFV1VFVwTnhGM2oyRF9Fd3hMMHU5SE9EdFJ3eTBzUVRXOG5TZllMRG1KNnMxdWEtSW5mdmJGYVFwejJpYzRqYjJHM0h4TXpSNXFWNmRTMzdJb1ladjdJSUhmandlVGxWQk53OEtEdkwtR0U4YXhLMGJVNk8ydWNQTEVfaER3NnVYaUx0aDR0YkM0SlR0N2FFcVVwY29WQTJ1anYyQkJlcVlJWVhPOEFhbXVsSElKcHBxWHY0bTV6d3BhYWdtNm1NdHIyb0RMOXZYSjhCUlFCQ0lkWjh6X196aF9oREpR0gGXAkFVX3lxTE9YZFlucE5aVHZaQ0hPNFk4bENGdTNaR0tMb25KUjJxUF9mMVF1MkFjSVducmtNZEFhWTJ6Rk85Q21oaE9hN2JQOEZiT2NRbDJfY0tZeFpuSUJudzFPbFlBZEpnajREemxRRTdDb1ZmS2tNZnRhZDBCNjViY3ZuM3A5UVBBNTdKaWxSYWxtUzRCODFQOWhsZTg3X21QZlFMeUdQUkdybWJIX1JRZDhITzdFaFQ3STA4VkJmMFpNdVo0NUgtUnBVQUNCNEhpOUlnX2ZVQ25oVVM5NFFBbEtWRXRDYzVwMGFnYXlPSXZUSjNyYVhjSVBiWVlFR2ZSZEdXZVdyNkxhWFRybk9YRXZoY0luWl9yZkE4OA?oc=5) - _Livemint, 28 Oct 2026, 06:31 PM IST_
+- [Maruti Suzuki’s Q2 paradox: record volumes, shrinking margins](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelB4NVN2YXNILWNaZnlGaTdSRnFPUDhfaDBHX0FmcVFkRWNSSGVsb3ZqM2l4U1MxWHU0ZmdOcHZKa1U3TDBHUjlwdjdTVGlXNjJZY01FSFBqU3g0NFRJTnc0MVotTnBBMHhEMzVaZmZUSnZqLXowazN3cFFOcTBxbko5SV84Y1ZudjhOQklnWmQtalFlbUlPZkJrVE8zeFNaZHUzQXY1WW05TDRDVXlmYWx2LTdla1pSR2Jic1pIYmM1clnSAcgBQVVfeXFMTlNxQXE3YmNIVVVHZjF1cHprSUE2Y1ZaX2tNNkplZmEya2lVMXRNNVNFbmdGNzdOWi02V3JCVjNrU0JiZWd6Yk9oSktlRE5lUHIzUEE5MzlfVnlmTmFFSFdnWlBIQ3pfeGRLMWhqTEVjNkt4V0FoVXdWZ2hOUVNwX0tFcEhjWXBRcEwtY2xFN3JmZTc4eF9xOE52R2VsQ3ZiN25jNFAxTEhFeG5TUnBfZ2NVVXFmV0xBZVVZOVpkQzBqSXNQQVlydHo?oc=5) - _Livemint, 28 Oct 2026, 03:56 PM IST_
 
 </details>
 
