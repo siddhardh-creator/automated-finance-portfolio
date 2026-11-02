@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "30 Oct 2026, 11:29 PM IST",
-  "as_of": "2026-10-30",
-  "snapshot_type": "End-of-day final snapshot",
+  "generated_at_ist": "02 Nov 2026, 09:32 AM IST",
+  "as_of": "2026-11-02",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 23159530.0,
     "initial_capital": 10000000,
     "invested": 15619560.0,
-    "holdings_value": 15475510.01,
+    "holdings_value": 15545509.98,
     "cash": 7141481.89,
-    "value": 22616991.89,
-    "pnl_inr": -542538.11,
-    "pnl_pct": -2.34,
-    "unrealised_pnl_inr": -144049.99,
+    "value": 22686991.85,
+    "pnl_inr": -472538.15,
+    "pnl_pct": -2.04,
+    "unrealised_pnl_inr": -74050.03,
     "realised_pnl_inr": -398488.11,
-    "day_pnl_inr": 30660.01,
-    "day_pnl_pct": 0.14,
+    "day_pnl_inr": 69999.96,
+    "day_pnl_pct": 0.31,
     "open_positions": 7
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 23053.1,
-    "return_pct": 0.42,
-    "day_change_pct": 0.51
+    "close": 23262.3,
+    "return_pct": 1.33,
+    "day_change_pct": 0.91
   },
   "stocks": [
     {
@@ -34,59 +34,59 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11397.0,
-        "prev_close": 11426.0,
-        "day_change_pct": -0.25,
-        "open": 11430.0,
-        "high": 11473.0,
-        "low": 11342.0,
-        "intraday_range_pct": 1.15,
-        "volume": 280426,
-        "avg_volume_20d": 499091,
-        "volume_vs_avg": 0.56,
-        "volatility_20d_annualised_pct": 26.91,
+        "close": 11649.0,
+        "prev_close": 11397.0,
+        "day_change_pct": 2.21,
+        "open": 11545.0,
+        "high": 11769.0,
+        "low": 11545.0,
+        "intraday_range_pct": 1.97,
+        "volume": 128486,
+        "avg_volume_20d": 491599,
+        "volume_vs_avg": 0.26,
+        "volatility_20d_annualised_pct": 22.05,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3305130.0,
-        "pnl_inr": -26680.0,
-        "pnl_pct": -0.8
+        "market_value": 3378210.0,
+        "pnl_inr": 46400.0,
+        "pnl_pct": 1.39
       },
       "news": [
         {
-          "title": "Market wrap: Adani Ports SEZ, Adani Ent, Trent, Maruti Suzuki top gainers and losers on Nifty and Sensex",
-          "source": "The Economic Times",
-          "published": "29 Oct 2026, 05:37 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMWNXMTVheWR3RFg3ZXVLeHFORTNuNk1oRzRHTzdCeTRQV3p2SmowTVNEMmhwQlBobjVMSFk0NDNtSEVHQlp3X0hRdmpBREtJUmVVYlBtaDhYZ09hWUxBa2xWaUEtY0pWemthOXFldVF5OGdOTTRBY2RwY0lqcUhDOUlualNyZWVsYUozcm9LbXdtdW5LVWZBclJ1VjBIT3JiZnY2bVFTU1dLdVhIOUdEdmpKaHp4V1Y2b1RuLTFxTFNEQm5pLUVjeF9URUR1bWZfUFZPU3J5OUZheHBFSWoxZEVxOXF6aFpmS3FIZ3dBS1FLbURtWW9EUlFKZUVRMUdfQkNYN0JwUFZjVUlUZFdEM2QyY0fSAZoCQVVfeXFMTUVUZkk1X094YUVObmFiZ2JMOTB5Zkw3RkVSbTluYkpDRDdrRW1GUVh4VjZXNU56OTVnOWxGaTdIOUdfUXl3WEdjRGpUd1dyenZXcnZZSE84anV6NUMyeThKVzkxR0k0UWYxN2ctSURpTkc5bGhpVkdEdlBtcjkyc1VsTVpGYW5GRlRxc2oxNGdDWk50d2prREhfd1B4Z0Jmd3lnWlFVNmFyY3ZUVU1JdEc2ZXFvZTJIU2dmNmtUTlRSaXo2YnZId05xQUdLcmxfZ0ZRaGd1eUJjVmxkSHRPZFhjYnBVQXF4eFEzN3I5NzlsYWNSblhaTF9Ec0kxTFlfMHktdHIxQzBVNjNnV2xfZnRLeDlrengtbktR?oc=5"
+          "title": "Stocks To Watch: Infosys, NCC, Maruti Suzuki, Mahindra & Mahindra, Eicher Motors And TVS Motor Company",
+          "source": "NDTV Profit",
+          "published": "02 Nov 2026, 06:00 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUhIUTRfc002bUQ1bFpROW5tTktVN25aMjRmNTgtMTIxMzFvSF9BZWE4MTVoeUVIWEdmS0J4eTFKblRCaXNDNXkzN3JXTzdKZVVIQ1ZISG9ZcDI1Z1MyLWRzUTVCQW5wemtPeHZNdW5nTGNtNUZ1SjY1UlF2Q2Z0MjUxN0NjdzAyYVcxdTRscG9tR01RVXpzcHZPa1F5eWlHc1lQcTdMaUdEZ0RwSlNkVjdLZnowLThJcXhybnZEX0IzMElzWEZ6QlEtSTB5aU5mZEZXTC1B0gHeAUFVX3lxTE84QmU3YnhteXhwNW9qVG0tT2JVcnhLamtIcHpURXpDaUN3dmJKRlZNQm84eTRQOHhpZC04UGhybi0yNjhwaHp3RHNVSnBEcU5FZE9ueFFPV08zaU9XbEFvc3NZdE9wTmhkakNJeHc3RXZzV05KMUhxUmpfdnJJUGJVcVdVLUtuemZkNzhvSGcwX3RkemxWdlRqYWhBZ3A3QW1yemtDYmlmN3VZMjg5RTYyNklZNGVtRlJyOE9wTFZjSjNGZ3gzcnZ3UUZZNnhRdlU1QmVOU05SMjJYZlNzdw?oc=5"
         },
         {
-          "title": "Maruti Suzuki achieves exports of 50,000 EVs since August 2025",
-          "source": "BusinessLine",
-          "published": "29 Oct 2026, 01:22 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaGJjeHhsb2lQTmRzQnhFcFo5NUxLTW15bEJYcHlaek4wSG9lU3ZxY0RJVHkzeHdGZThrdmhWZTV5aGZwOXFRN0hSYWUxSzR6czRHUEdhT2JOQkV3ZFJ2TGxaNlQ1SlBkQno5N0h1cGZ1VUM3ZDRYZWZQc0ZOYTE5dXFwN0VZakl0WjBkR3VidDNrMlVwUlFqY1hrWm8tRWFmX0dwMmFGbDdGN2VmYkRTT1FOd2FOUlBMbGNtZF90ZVNaZ3k1U2I00gHOAUFVX3lxTE5tTTFibGRQNmk1dUZ1cTJrb3dWdTA1ZkxhR2RlZXBPdVUtMlNhVEFNdnpBbnhTaXFVaWxkWFJhODJGc2tJWkNSUnZzN3FGMHBSZzF0TktmdHJDSmFpVG4zaEhvZVJRZXhzVTVOYm01NXppQU03YjFJTjFkSExqeW9JUEZxbjh3UG9HSzN0NXAwbmVDU2ltclhUQU1DNmRTRWJOazZtdG4tOUkxTFZENWZQVFR0LW1ucHY0U2hKdk9Ca2d0OXlNSmxEdW1JeGVR?oc=5"
+          "title": "Stocks to Watch Today: RIL, Maruti Suzuki, EAAA, NTPC, Affle, KIMS, NCC, Jio Platforms, Coal India,...",
+          "source": "Moneycontrol.com",
+          "published": "02 Nov 2026, 01:57 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQakpIUjdZb0h0c2ExSGJzMThkeG1GVHVrdm9oQ05RQVNuVU4xT3k2SWZQajI1TnRZWWFkOFpGSm9QZ01ZU1djUmNwZ1puRW13S0lHQnBtb19GdS1la3NKek16bFB4Qkc4SWxBOHdaT0JBV0gtbXNkN0pxdFlsSGc5SXNzeUxwV2tob1NHTm1sTnduQVhWREhXWndGN01idFdaTmpiZURfWEFvVzBZeFRWUDVvMFJYWkNJVEQyMnhBeUdBRWl4UDFwYTdZd0laQ2huZDZ3V3BESWtSSW45VnVtZ2hZRHkwOVk1N2ZRRXc1UG1XeGZpdzB0eFVzX0FPUlBaWmhTb1FRRzNwNlp1d1ppS21adndXOXN1RVpGRkpnNHJ4UDQ2bVlMNG5uRVZOSXBLaUo3X0h0NVc2UdIBvwJBVV95cUxNV1ladVlhRVFvZGl5UTVnVU1kTE4zeUxaODRXNFdmTFZGTUJKMi16eFh4N3JnemRTdGRHemVjQWZGUXJzSUU1WVlDZGp0aTRjM1VYT0hPaDdjYlBmZ2QyN1JNbU5Rd1B5dzlXd0dhWDZmbExVT0EtN3ZpeFRjSVgtUlcwVDFIOEJZMEsyXzc3UHYydmpFNzNqT05TNnlPWjFwSWNYbjYwcnp4YW5ETkJaaHdDdFltYlhraDNxdHI5RTRRdUFpSGpNbXVET0QwcVB1T0VmemVZa2NIbjZtVDY5MU9aTmY4YWJPcHBHZGNZTWVPWTlFWExXNHlzckJNUUkxa3FKdUpVYjg1eEJfeE1LY1dSbW9zYmdkMHZ2aGxFVHp0dmxTdUw4VVd0b1owLUw2aDBlSTk4S3VrSElGZHRr?oc=5"
         },
         {
-          "title": "Maruti Suzuki crosses 50,000 EV exports with e Vitara, accounts for 93% of India’s electric car shipments",
+          "title": "Maruti, Hyundai, Mahindra post record October sales as passenger vehicle dispatches cross 5-lakh mark",
+          "source": "Moneycontrol.com",
+          "published": "01 Nov 2026, 07:08 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSlp4LTlCWkYwZXVkTVFoVG91YmNNdWhhTTJIcDJaU0dzWmJwNVFfN195dXNsWnFHRmxPV3M5S29KOWtnc1dzb0RFeHh1OENfR1J3WFFVdHlHY1V4OXJseEJIVndNVkNNVVZRV1Y0eWJpdURPLUxSdWRfNmt6bVZtM1U1TXNNOTd0SU9MTVU3N3NnZFhWZXJrRUFHWkFjVmJPdm9QVmltOFlmcVluWG9fQzJsTjN6eFczMEpMMUdfUVVEME90WFlIa0wzV3RMLVYtM0JaNjZhMTNYeWx1VUHSAecBQVVfeXFMT0c5MjQ1VFo0WHd4eTVaNzRoMWpEYURlMGt0S241c18zVS1kSkVFR2ItNnB5bTBwT21DN2k5SkZRRGNNbVFoWTBGYV9mQndkOHJwMWxSRFZSMWtFaHA0azNFNE4zNDUzQ1RDU2VVdmdnWm1KWUloaVZJTXY1ckF2ZEs5TFBTclhvOG4wX01rSEVCcWJ0bHd4QzVLMHh1bHFKSmJSczU3MzNyQW4yTVVhNWZiZmFKX0JxWFNKdXJxM05QUWd6Q2dsem92Z1QxNXhXbUZFZ0FlWFpmWEQwZ2tuYWJJREdDSXVR?oc=5"
+        },
+        {
+          "title": "Maruti flags mounting shipping disruptions in West Asia, but exports resilient",
           "source": "Livemint",
-          "published": "29 Oct 2026, 12:08 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSTZpSVpJcHYzbU5yUkJ2UlpFQWVhWU1KY0VEbl9YOS1HdTdmVUZlSjBSQlEyZy1JYkZGUU1POXAtZXNIRHdjS2RFN2VJdFdqSGdadUFwWUEyOFhyUEV1UmRWbU84NE9qR291d3Nib3diVGxNanFKSWozc0JDYXpVREtWVG9obExuTUdtWmJ4M2pmdDgxNW1iWWdBRUZwQldSVWdOY1ZrX1JuRmlpaTZ1U1NHaGpmZHA0SHBrTTNBYkw0QjhvTkdJTEhoaFVuM2UtNGdrMWVFRXYzTkw1NHdkYUhkcDZReC1McFJfM3RFRdIB9AFBVV95cUxNQW80VnVZbXZMSXNHYVY0SUxTS3BKcHp0ZnRsazAzZFVWX0xqWmpoeGdKYWt5cHhrUEhnajZMcndNMzZWb1l2ZXQ0b0VGM2UtOV94RFpPclk5WDl4czdBWk5MaXMweTRWcE9MT3ZtbDNiWEJERXIxS3FsTVhqZVNiczA2TTJwYWtsWXFGR3pJT0RUSi1ZNzZmb0RYLWEzQ1gyX2hLQ1A0Wlp1Vm93azhNSk5PWGpqNDc3WkVOTzIxUnBCdi0xYXByNXBqTV9KQWtTSVV5SDJuVmpjZ3YtQXZPaXBnYTBub25MYzZqdEVVNnVJOTVh?oc=5"
+          "published": "01 Nov 2026, 06:34 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEZ0MXpUaUozX3ZvY0VTMXc0dDd1VlNQcG1PYlR3QUIweXd1WWtEVFY3Q0ZYb211M2JaRG9rTVlzQVdJT2dkLWlCMWp6M2Jab19LM1RnM3NyOUxFX1pSM29NYmY1OExSTHRsdzFRRlNUWGZtS2xwQ1d2NE42Y1A4aVZHMEdRdlBENGdIVk1BT2MtU1RUZHdTb2lzMzduNlI4TDh2cDVKR0hjZk9yM20ybE5R0gG3AUFVX3lxTE43S09YSjFpUTNwUWlEZ2xXazl1SHFrdGs1RWFoRi0yTDBvWmlLaFVtTDJtSUFheXZwT1lvTXAwWlhLMWUzUkJkZ1YyZVBpMEdiS3dXRjZGVUM1cnBUWi1vQ1VtTTJ2dkd3ZzJIVS1sQzN5Skd6ekhKbllVMmVxbU1NY2ZFZHhrR2dMZ2NKR2NvRjk5cTlZS3ZJZVloa1ZEVm5tQVNlS1QzYmZNRVd4WGtXT2p3Z29EYw?oc=5"
         },
         {
-          "title": "Auto biggies Q2 result compared: Bajaj Auto vs Maruti Suzuki - Who wins the earnings race? Profit, revenue, target price",
-          "source": "Livemint",
-          "published": "28 Oct 2026, 06:31 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUzhHZWFhMXNuNHVLQUdXcVBEcGdQRXBTdXhlT1A4ZWhjbkRjRmYzRlVwTGdvcFV1VFVwTnhGM2oyRF9Fd3hMMHU5SE9EdFJ3eTBzUVRXOG5TZllMRG1KNnMxdWEtSW5mdmJGYVFwejJpYzRqYjJHM0h4TXpSNXFWNmRTMzdJb1ladjdJSUhmandlVGxWQk53OEtEdkwtR0U4YXhLMGJVNk8ydWNQTEVfaER3NnVYaUx0aDR0YkM0SlR0N2FFcVVwY29WQTJ1anYyQkJlcVlJWVhPOEFhbXVsSElKcHBxWHY0bTV6d3BhYWdtNm1NdHIyb0RMOXZYSjhCUlFCQ0lkWjh6X196aF9oREpR0gGXAkFVX3lxTE9YZFlucE5aVHZaQ0hPNFk4bENGdTNaR0tMb25KUjJxUF9mMVF1MkFjSVducmtNZEFhWTJ6Rk85Q21oaE9hN2JQOEZiT2NRbDJfY0tZeFpuSUJudzFPbFlBZEpnajREemxRRTdDb1ZmS2tNZnRhZDBCNjViY3ZuM3A5UVBBNTdKaWxSYWxtUzRCODFQOWhsZTg3X21QZlFMeUdQUkdybWJIX1JRZDhITzdFaFQ3STA4VkJmMFpNdVo0NUgtUnBVQUNCNEhpOUlnX2ZVQ25oVVM5NFFBbEtWRXRDYzVwMGFnYXlPSXZUSjNyYVhjSVBiWVlFR2ZSZEdXZVdyNkxhWFRybk9YRXZoY0luWl9yZkE4OA?oc=5"
-        },
-        {
-          "title": "Maruti Suzuki’s Q2 paradox: record volumes, shrinking margins",
-          "source": "Livemint",
-          "published": "28 Oct 2026, 03:56 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelB4NVN2YXNILWNaZnlGaTdSRnFPUDhfaDBHX0FmcVFkRWNSSGVsb3ZqM2l4U1MxWHU0ZmdOcHZKa1U3TDBHUjlwdjdTVGlXNjJZY01FSFBqU3g0NFRJTnc0MVotTnBBMHhEMzVaZmZUSnZqLXowazN3cFFOcTBxbko5SV84Y1ZudjhOQklnWmQtalFlbUlPZkJrVE8zeFNaZHUzQXY1WW05TDRDVXlmYWx2LTdla1pSR2Jic1pIYmM1clnSAcgBQVVfeXFMTlNxQXE3YmNIVVVHZjF1cHprSUE2Y1ZaX2tNNkplZmEya2lVMXRNNVNFbmdGNzdOWi02V3JCVjNrU0JiZWd6Yk9oSktlRE5lUHIzUEE5MzlfVnlmTmFFSFdnWlBIQ3pfeGRLMWhqTEVjNkt4V0FoVXdWZ2hOUVNwX0tFcEhjWXBRcEwtY2xFN3JmZTc4eF9xOE52R2VsQ3ZiN25jNFAxTEhFeG5TUnBfZ2NVVXFmV0xBZVVZOVpkQzBqSXNQQVlydHo?oc=5"
+          "title": "Maruti Suzuki Hits Record Monthly Sales As Brezza Leads SUV Charge: Three Indicators To Watch",
+          "source": "NDTV Profit",
+          "published": "01 Nov 2026, 05:16 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalA0eFN3V2s5REpzRjVnbFdzQnpQRW9IOXdZX3RGbmVjV21iUkFDbXhwZm9wUEtaZW1HUWw4UThmYkdSSjZfNlJQc2N1MTlMXzQ0anMwWmNzQlgyQU4zazZuQVBTc2lEX003UVB4OTNWUzVUZktkdG1CQ2hSdzIzUElFUmNrM0pZZm1IQ1VhdERucmFLcDZaNVpDWmlPM3Q4bEVoS0xOZUVJX1k4c0ZMNldRSUtsMk40b0taRUJfd19BTjF3MWs0TDFVSnk4bWFUN3pEaTNR0gHeAUFVX3lxTFAxY25tMHViZ19tRzNnQlVvd19CcUVzdEMxdlczdEtwRGxsY0ZqNkNnUENUaEFwek9KREZzYUgzS0xJWE92VGxuSlZrY0hTYS1CdGF1UEZaNXhnLW03YTRIS3FHXy1jRGR0Yk40ZHNSajFHazN3SmxGX1lUUmdEMEZQVnRmMFd2dWM3MlVsUzVnTExFLXJjbkZUZEZMcEFJdmFvd1ZzZDJjRXV0YkhFS3JEZzVuc1JDeWpSa09HYUY5VjVjN2k1RWVXYXZqV1BpY2I4RFFHT0MtUHhzNHRrUQ?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 14.61
+      "weight_pct": 14.89
     },
     {
       "key": "ashok",
@@ -97,28 +97,35 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 144.82,
-        "prev_close": 145.0,
-        "day_change_pct": -0.12,
-        "open": 145.0,
-        "high": 147.8,
-        "low": 143.06,
-        "intraday_range_pct": 3.27,
-        "volume": 10631513,
-        "avg_volume_20d": 13689028,
-        "volume_vs_avg": 0.78,
-        "volatility_20d_annualised_pct": 24.67,
+        "close": 147.37,
+        "prev_close": 144.82,
+        "day_change_pct": 1.76,
+        "open": 146.08,
+        "high": 148.1,
+        "low": 145.66,
+        "intraday_range_pct": 1.68,
+        "volume": 964158,
+        "avg_volume_20d": 13335646,
+        "volume_vs_avg": 0.07,
+        "volatility_20d_annualised_pct": 24.38,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 144820.01,
-        "pnl_inr": -2899.99,
-        "pnl_pct": -1.96
+        "market_value": 147370.0,
+        "pnl_inr": -350.01,
+        "pnl_pct": -0.24
       },
-      "news": [],
+      "news": [
+        {
+          "title": "October Auto Sales Live Updates: Ashok Leyland, Bajaj Auto, TVS Motors And More To Declare Sales Data Today",
+          "source": "NDTV Profit",
+          "published": "02 Nov 2026, 07:53 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVGZCSVllQXZxbEVydFhqcUMySWdWX2FXbFVwdFdUcVJZcTN4S3dNbkVjWjlNdGRsY1FBcUhNLWZ5Z2xlei1OeTdjckNJaG5NMUNOSUJybkpkT0pPTEpIWHRUQi01SWxLVTN4SHBLZVB4LUhiNkJXVGdNS3p4TjVpTjlMQjU5SGdoY2Q5cGMxOElESEI0bEpyeWlibGE5emEzLVRsLW9zS3g0N2lfTjI5Wk1MTE5XdDdtLWZaZWdwNC04bmNTSThVckJnOWg4TW8zTHlDZ0tQbjh3SjlXMHVyVmJucXdZN3IwUm9xVUpLcGZ2eTRZRDFZOWhVeDZPbUloUW9va05kZTJRSVE4dkxGOXFR0gGSAkFVX3lxTE9UZkJJWWVBdnFsRXJ0WGpxQzJJZ1ZfYVdsVXB0V1RxUllxM3hLd01uRWNaOU10ZGxjUUFxSE0tZnlnbGV6LU55N2NyQ0lobk0xQ05JQnJuSmRPSk9MSkhYdFRCLTVJbEtVM3hIcEtlUHgtSGI2QldUZ01LenhONWlOOUxCNTlIZ2hjZDlwYzE4SURIQjRsSnJ5aWJsYTl6YTMtVGwtb3NLeDQ3aV9OMjlaTUxMTld0N20tZlplZ3A0LThuY1NJOFVyQmc5aDhNbzNMeUNnS1BuOHdKOVcwdXJWYm5xd1k3cjBSb3FVSktwZnZ5NFlEMVk5aFV4Nk9tSWhRb29rTmRlMlFJUTh2TEY5cVE?oc=5"
+        }
+      ],
       "announcements": [],
-      "weight_pct": 0.64
+      "weight_pct": 0.65
     },
     {
       "key": "eicher",
@@ -129,41 +136,59 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7220.0,
-        "prev_close": 7238.0,
-        "day_change_pct": -0.25,
-        "open": 7239.0,
-        "high": 7343.0,
-        "low": 7198.0,
-        "intraday_range_pct": 2.0,
-        "volume": 387656,
-        "avg_volume_20d": 409513,
-        "volume_vs_avg": 0.95,
-        "volatility_20d_annualised_pct": 28.27,
+        "close": 7190.0,
+        "prev_close": 7220.0,
+        "day_change_pct": -0.42,
+        "open": 7220.0,
+        "high": 7290.0,
+        "low": 7184.0,
+        "intraday_range_pct": 1.47,
+        "volume": 26405,
+        "avg_volume_20d": 408004,
+        "volume_vs_avg": 0.06,
+        "volatility_20d_annualised_pct": 25.58,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7220000.0,
-        "pnl_inr": -46000.0,
-        "pnl_pct": -0.63
+        "market_value": 7190000.0,
+        "pnl_inr": -76000.0,
+        "pnl_pct": -1.05
       },
       "news": [
         {
-          "title": "Fardeen Khan’s new bike is a ₹2.5 lakh India-made Royal Enfield Guerrilla 450 Apex: Engine, features and price explained",
-          "source": "Livemint",
-          "published": "28 Oct 2026, 10:11 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeVMxZG5LYWR1c2hidnZRXzJzOUNLOVdtY0Z2LWdLRTlPZkpkOHlBZEw4MkdjYjFCZ19zWTFBNENRUEtPNlo4TjAzWERXNDlrRmtfOVh0U3FZRWFvQ3o5MGZzZDFSRGdydEp5V3JJdHdMMHl2dS1JMXpKdy1LaFR6dVU5dUxtTWw5WGMtOXpDY1hXYXRJbF9DbTU0Y1hFbUtURnl2XzdaaEU4UmtKcG51ajJNeFZacjd1eGVoRnFQU0NuTFk0ZHZWZ3dZRVJuNS1nRmZ5UzdCYktHaWY2SFFxVzdxOWl1M0NlYTgtZVVDSS1uWk9wWW1ZRFRyaGo2a0pWa0HSAYcCQVVfeXFMT1NIeWZJQV85QXBWNkJwc3I2YTUtWGV1UllKMnk5a0wzOVU0cmhiN3R0d0otR0RFMGNNZ0ZLXzFpSVdRY1o5aktxQWVPekNKcFk2LUhRYmRQbW5uS2xDMVk4X21RRTRXSHhVNmFJNm5iUU9vSkxVaFN6TEQwM3hIbm5xcHoxQU1sLXUxdXlEN0hWNWQ1WktLdmN6WTNocW1vNW9FaEpqaWwzZE1FVnFxRHNnbUJ2WDNQYllLdlZtUW13LV9qbzIwTmJYaXhUbE5LMTc1RzM3TlgzR3BkMHZVYTI0UHpaeVZHTDVGb3JyZk5xZDJzU192TjZvM3Bic2o2UE1Ba19hSjQ?oc=5"
+          "title": "Eicher Motors Share Price Live Updates: Eicher Motors achieves a 0.98% return over the month",
+          "source": "Economic Times",
+          "published": "02 Nov 2026, 08:26 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-live-updates-02-nov-2026/liveblog/135443314.cms"
         },
         {
-          "title": "Eicher Motors Ltd Share/Stock Price Live Today | The HinduBusinessLine",
-          "source": "BusinessLine",
-          "published": "28 Oct 2026, 12:30 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HN2REZzdJM0F1RnZUMGt2N004ajR6TXRUbVB2a0g2OWdKakM2MW1pUFhqMmQ3NlQ3V2hBVGN2WHNBOGZId0RqVzg1UDJEVnNTTENGM1NIMy10dkpFTWtpdzVWYzFGVWxoTGNxWnFCTQ?oc=5"
+          "title": "Stocks To Watch: Infosys, NCC, Maruti Suzuki, Mahindra & Mahindra, Eicher Motors And TVS Motor Company",
+          "source": "NDTV Profit",
+          "published": "02 Nov 2026, 06:00 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUhIUTRfc002bUQ1bFpROW5tTktVN25aMjRmNTgtMTIxMzFvSF9BZWE4MTVoeUVIWEdmS0J4eTFKblRCaXNDNXkzN3JXTzdKZVVIQ1ZISG9ZcDI1Z1MyLWRzUTVCQW5wemtPeHZNdW5nTGNtNUZ1SjY1UlF2Q2Z0MjUxN0NjdzAyYVcxdTRscG9tR01RVXpzcHZPa1F5eWlHc1lQcTdMaUdEZ0RwSlNkVjdLZnowLThJcXhybnZEX0IzMElzWEZ6QlEtSTB5aU5mZEZXTC1B0gHeAUFVX3lxTE84QmU3YnhteXhwNW9qVG0tT2JVcnhLamtIcHpURXpDaUN3dmJKRlZNQm84eTRQOHhpZC04UGhybi0yNjhwaHp3RHNVSnBEcU5FZE9ueFFPV08zaU9XbEFvc3NZdE9wTmhkakNJeHc3RXZzV05KMUhxUmpfdnJJUGJVcVdVLUtuemZkNzhvSGcwX3RkemxWdlRqYWhBZ3A3QW1yemtDYmlmN3VZMjg5RTYyNklZNGVtRlJyOE9wTFZjSjNGZ3gzcnZ3UUZZNnhRdlU1QmVOU05SMjJYZlNzdw?oc=5"
+        },
+        {
+          "title": "Royal Enfield Himalayan 750: New adventure bike revealed with cruise control, TPMS and five colour options",
+          "source": "Livemint",
+          "published": "02 Nov 2026, 12:40 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU1MtOExrM3pGNk9naWc2TFB0N1NrSmh5c05PRXdjWGVXdmJRbGVJQTUzZnRJU19HakZSUk1CVUhBU2ctdXl5RF9sV3NlSnZ3M3kteXlGSmhLdUVEWGp4VXlHSEpCR3lUNUV6allORHllRGNKT1EtY0phdTBETTNhMVFFemVVUHYtcFJPNlhfSDhrejlZYTUxTE1ucnFxUC1UdzNuN3ViOXhyR005U2JoNE5fN2FrTVFjLUxVRlE0d0ZIMk11Sy0wc2VQMk1JU1dKSVpiRnB0bzNOYUdSSkJzX1hycjVjR3hoVzJ3cTh3cjU?oc=5"
+        },
+        {
+          "title": "Royal Enfield reports 7% growth in October sales",
+          "source": "The Economic Times",
+          "published": "01 Nov 2026, 08:41 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQzJqOTlPZUV3a0xJZ3l4RVR2dWhBSnNKRmN4S0pYVTRqSDh3VURFZC0tSUJGTHJNVVhVcTZES1M1Z0NjbWxTODE0R3hQTGtyMTFwV3pYeHVoUFMzbjFuaHdLTG92eEhYQzczOWFvOXpzRE1EenRjUnQ1cHBwS3VtVUtYRWNCTU5ReERscXZfYmlCQ2ctM3dFbVdPOGR4eGlPUXBxRFpjS0pHNkhQZXB2TzlsUV93bUhCME5aTWdlX1MwU2dyemVkYnc2Vnh6dEdhYUhQdkhKY2pEUlHSAeABQVVfeXFMTWJHM3hmQmx5QTlKd3hxckFGbEZtZ2FJVEV3Z0hpZ0xnTzZGbW1kZHZhWnhZcy1Xd2p1RDNCLVBFMUJzclUzbW5QbjFocXlsbUxZV3Y3SXJmWVRmZUoyVDNYSHNyb0p0a2ttLW10TVFaTDZ6RGJNNUZDZHFzVG9PVkZ5eVY4b0VDbllNbmxObmU2Vmt6bkNlSGpqejAwVG5yNzlONTR4ckdoQVRXUTdveXE1MG5jUjZkQS1PT0F3RHFqV1g4MXAwN3c0SjI0UXRUcGdacUkwMnBlNXNsY3NzSDI?oc=5"
+        },
+        {
+          "title": "Eicher Motors Arm Logs 35% Jump In October Sales On Strong Domestic Business. Check Details",
+          "source": "NDTV Profit",
+          "published": "01 Nov 2026, 01:38 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWdiMjRVNDdraVF6YW9hSEhtTk1Ld2lqOTZQbkFsam91NzVtemVkWHloc05kZTNldnNVWjVBVVQ0UUxmU2h2Y3VRa0tuMzFXVEhlN0FpV3U5U0J0aFFtc3hDZ1E5YTdxVk9GVW1NRE9pR3czb3VaaDdPcWhQbnFXVm5PcTVOWUluel9wdHpIMnJTcHV3Yk9jREZNbHFNTVhVeS1QZjRhSjdub3JRcndfNHByTEkwaGd4U0EwV28zbndXUlVsSGZTWl9ZN0FpREHSAdcBQVVfeXFMTnBhY1ZaMDZhdXBRNF9qZmI0SnEzX3hRempKV1lNTzdXNWhKaWdGTFU5bkxmOGMzQmEzQjlEX1h5cDBHd1pCdFV0eFJGWTFiMnpTeEJUZlhGcUFXd3hGWGJEWDdJdDNUWTlzY0dZQk04dFkyMlNmd2thXzZQV0h2YTlHanVIa19wUkdLdUUzOERlbXVhdTNKeUJVdVplUDdvX1J0TzYya291b1pXMklLa0ZkdGhUNl9fRVMxc0RwSzZta1o3ZEluQ1JBQVpYRS1BdUF6N2RzT28?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 31.92
+      "weight_pct": 31.69
     },
     {
       "key": "linde",
@@ -174,41 +199,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5651.5,
-        "prev_close": 5718.0,
-        "day_change_pct": -1.16,
-        "open": 5720.0,
-        "high": 5725.5,
-        "low": 5544.0,
-        "intraday_range_pct": 3.17,
-        "volume": 34448,
-        "avg_volume_20d": 17693,
-        "volume_vs_avg": 1.95,
-        "volatility_20d_annualised_pct": 25.74,
+        "close": 5704.5,
+        "prev_close": 5651.5,
+        "day_change_pct": 0.94,
+        "open": 5652.0,
+        "high": 5704.5,
+        "low": 5628.5,
+        "intraday_range_pct": 1.34,
+        "volume": 1296,
+        "avg_volume_20d": 17992,
+        "volume_vs_avg": 0.07,
+        "volatility_20d_annualised_pct": 26.14,
         "high_52w": 7847.5,
         "low_52w": 5632.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2825750.0,
-        "pnl_inr": -154750.0,
-        "pnl_pct": -5.19
+        "market_value": 2852250.0,
+        "pnl_inr": -128250.0,
+        "pnl_pct": -4.3
       },
-      "news": [
-        {
-          "title": "Linde reports Q3 sales of $9.4bn",
-          "source": "gasworld",
-          "published": "29 Oct 2026, 05:29 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGc3ZFh2OXB1N0lmUDRiajBjUzRVdVBMQW8zY2l5UC1halVsTGlGS0tJUUFSNWVGSWtYOTcyZXZxb0x2YmpfWmktWVZGNFlEck5rV1RzWkhvRnhFTXNkMDBSc0lVVk40R1NuZklSNVQtRldESHpXTFA3SDYtVF92WW1xZXNBQQ?oc=5"
-        },
-        {
-          "title": "Linde stock rises 3% on third-quarter earnings, revenue beats By Investing.com",
-          "source": "Investing.com India",
-          "published": "29 Oct 2026, 03:56 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSG5GNTA2VHpNNGh3UUtXM3FHZG1mOWxEVHhadTB1cHV4dXpLWDFjcDlnS2hzYkdSV1Fod21ZRUt6UHZaWm1XX0JWTE8zeGp2ZEFZLXEyNGlTTUwyWEVTMGhJNkI4UDVBd0hYT29GNDNCc1kyM2hCaldxQVlRWTBlOUdSWk16cTJEbERuMlh4UW9GX0tER1piTmRPb1BnNGlJcHRvNURROWI?oc=5"
-        }
-      ],
+      "news": [],
       "announcements": [],
-      "weight_pct": 12.49
+      "weight_pct": 12.57
     },
     {
       "key": "linc",
@@ -219,24 +231,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 90.95,
-        "prev_close": 90.61,
-        "day_change_pct": 0.38,
-        "open": 92.38,
-        "high": 92.79,
-        "low": 90.0,
-        "intraday_range_pct": 3.08,
-        "volume": 18177,
-        "avg_volume_20d": 61833,
-        "volume_vs_avg": 0.29,
-        "volatility_20d_annualised_pct": 102.57,
+        "close": 91.38,
+        "prev_close": 90.95,
+        "day_change_pct": 0.47,
+        "open": 92.6,
+        "high": 92.6,
+        "low": 91.38,
+        "intraday_range_pct": 1.34,
+        "volume": 1022,
+        "avg_volume_20d": 61935,
+        "volume_vs_avg": 0.02,
+        "volatility_20d_annualised_pct": 102.08,
         "high_52w": 130.64,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 90950.0,
-        "pnl_inr": 5950.0,
-        "pnl_pct": 7.0
+        "market_value": 91380.0,
+        "pnl_inr": 6380.0,
+        "pnl_pct": 7.51
       },
       "news": [],
       "announcements": [],
@@ -251,59 +263,59 @@
       "google_finance_url": "https://www.google.com/finance/quote/ATHERENERG:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 1756.0,
-        "prev_close": 1663.0,
-        "day_change_pct": 5.59,
-        "open": 1665.0,
-        "high": 1784.5,
-        "low": 1663.0,
-        "intraday_range_pct": 7.31,
-        "volume": 7918994,
-        "avg_volume_20d": 3587069,
-        "volume_vs_avg": 2.21,
-        "volatility_20d_annualised_pct": 65.02,
+        "close": 1751.6,
+        "prev_close": 1756.0,
+        "day_change_pct": -0.25,
+        "open": 1767.8,
+        "high": 1785.0,
+        "low": 1736.0,
+        "intraday_range_pct": 2.79,
+        "volume": 771571,
+        "avg_volume_20d": 3828861,
+        "volume_vs_avg": 0.2,
+        "volatility_20d_annualised_pct": 64.6,
         "high_52w": 1756.0,
         "low_52w": 601.35,
         "shares": 1000,
         "base_price": 1677.2,
-        "market_value": 1756000.0,
-        "pnl_inr": 78800.0,
-        "pnl_pct": 4.7
+        "market_value": 1751599.98,
+        "pnl_inr": 74399.98,
+        "pnl_pct": 4.44
       },
       "news": [
         {
-          "title": "Ather Energy Share Price Today, Ather Energy Stock Price Live NSE/BSE Updates",
-          "source": "The Economic Times",
-          "published": "30 Oct 2026, 02:58 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmpPVXcxeVFIRHF1aHV6dFRLVnhXV3djOWRQN2tuMmxVTnhDeVNJSnFoV2ZscmFoaEtaWXhCT0tabGNHdVhlOV8zcG45eTJrYS04ek9hSlNlMEZPYlpyeS1pbXNqbjlVVklKeEFrX1R6OUEzXzhRdjNneFZzbEFFMjc4MmZ4T3dSMnc?oc=5"
-        },
-        {
-          "title": "Range anxiety: Ather set to challenge Ola with low-range electric scooters",
-          "source": "Livemint",
-          "published": "30 Oct 2026, 10:59 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUZkYTVTMFRzZTcwYm9SS2R4RWc0a3ktbG81THhxUnVtQ25VbzA0QjRkMlhhZEp1Y2RZMnNLU1dBdU5RUTFZM1RXY1JYdEk5a0N1bmRkTTZGUlVZVEtaZDFnOTMyNFh5NjVYSlB4bXhvMy1TalhVU1ZETG8wRURVTHowM0JrZ2ctTzdfTGV4MEROQ3hhVDdvMG5RRENlWi1ocjZnajZ5Uko5UGxGbWfSAbMBQVVfeXFMTTY3Smo0Ry10aWtleUViZUl5SldpUzlZb3RvbVZfcE9VS3huODh6VHlhb0JoUzJUVXhZa3hqX2dSVmM1S1BBMmZhWlhlRXNxM0JNUTlmeDlkQlBxdGJnNThSQXFUTE5oVElvazB1WTJTWVM5bGJKQ1duVjRIenUwNkotZW82RjBOb2tvUVdXWkdCR3E5WXppOV9SeUNnaXdBNGhPZGNLbnBoNkVfU2pQeXJoejg?oc=5"
-        },
-        {
-          "title": "Ather Energy Q2 Review: Nomura, HSBC Raise Target Prices After Q2 Surprise, See Up To 24% Upside; Should You Buy?",
+          "title": "Five Stocks To Buy Today, November 02: Kotak Mahindra Bank, Zydus Lifesciences, Ather Energy, And More",
           "source": "NDTV Profit",
-          "published": "28 Oct 2026, 07:56 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHpDVGJDWGVHamY2elQxcmxIRjNyNXY5dGtKLTktQ3NtdXpHaG9HYl8yQUhhRUMxT2hEajF6UVdQR1dNT2lhaV9GLWgtbVRxUXFVUXdsWXA1Wl9KUWhhNGs4NmIyVUFKV1h5NEd1ZnNjWUduTmR4OGhnNy1YQWFUbTNMMkZ0bUdWcW96Z0ZoZ1pSZVRWRndnZVFmc2pWSVVwZWY1em1PbTRrVkpZdDZ6czVXcUZtRVRRVkhvT21RYS1UX1gtR2tEeld4aXNYQzFB0gHYAUFVX3lxTFBSdkJuZUk2NjRpTm1DRXNEZDNtRnhwYUtyMVdOMTRZdkZYdVlObXd1ZVVVbmVVUDdTTWJPLXdFN0VneElnYWd0MVdrblhzSHotb0hJWkxERldKdnA1dVBIRm1aOWtzajgxLUVTbjlDQTZhRmdpaERvalRDZHZFZVFWNy1wRVVQN0tVSEVud1F6RTZrNHpKNVNubEEtd29sRFJ2Ui1EOURuZWh2RUVqNWlUeTNOb3duYVdhbk85dFJZRXZBcktySmhXeHRPQUhseE54Y1N1YzVMRw?oc=5"
+          "published": "02 Nov 2026, 07:35 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTk9fUWZ3WTZLdm50dGVTbkFiZlNQX2RmcHptZ2JEbTFkdEZYU01LbWlhWmhyVVZVYlpIdVlzSXJEd2xkbWgyNl81eExFNXZYSmowbDNjbkdzd2xSU3FmZktnMmxvc1VZWnZ3UkdLd3pIaDNHVUhVekc5Vk9rMmRsNHk5MlFQR3NyMTBNRXRmX3RTTHU2UFIxZ3hGalpRY085VUNUU2RKZDdkeURDZlVoeXVkQVJuT2I1cEJZZHJOSGFKbDJmSFJkdFF3S0dJRGg5a0ZDb0wwaVpDY2Q1eUpOMnUwanR5YzB1RmtrbtIB9AFBVV95cUxPdC1CcnE1dElZU2pON1FROE5aWENXYkhZQkdwbGlBVG5qNkkyY25zMmdHZ2l4LUZiVE5hb1JQU0lwc3dvR3lzbm9kbG5GRGNWSVhkbkYyNTJTeXpxT0tabU9rTGtFS0R5TTM3Z01SSzcwN1JEbnhzTE1fZDJBbHRuRDItdjZ6eW45WGlVWldtS3FXV3Z4dTBJdk1KYmM0UTBuYzRzZUg5ZjF0OTVER3NOc3FibE12MmdRZ194eHhtV0ZSbWpMdUdQSWhqZEVUUi11THVkX2V1RkpQRmQ0MVFhWFVJM3IyQS1OS3pNZjExVFhCa0lX?oc=5"
         },
         {
-          "title": "Cognizant eyes Sarvam stake; Ather aims for higher market share",
-          "source": "The Economic Times",
-          "published": "28 Oct 2026, 07:25 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMUlzbzFXY1VSa1JoYS1ORmNXR3RTdEdkZk5ucVVRSTRVQnR1WHlmQjRJUThhbmtaeXVUMVJEcFN6RmVhaERnbm1KODdIWEVybmxwc0ZtN1BYRU85WlJIQUN2ZmVVR3FuelAtZVRIS2pCa0VkOXYtOXBlcjBPU1dicFdFNlNwVFkzZWtuQmd6VXBlT1VoM2dXdVZzVUJ4VkNBX052VFVzM1F1TUU3MEtYb2dGLUlJWnIxZ1BrRUoxend4VGZ4djE1S0FmeW1yMUQtTVR3d0xJTWpjcml4dGdnV3pSVjTSAeoBQVVfeXFMTXA1dm82WGxZTGgtcDJFV2p6SlhuR1FUeVc3MzVKQ3Zwa29LWmx0QWU1Vmg5RGU4TUttcG5OZjB6Q0IwbnJTMzExYVdfSEVCcnF2dXVoZVpiS25xTXFfSHhFdmlRNkNFdl9mTTdXWG14NWlXTFBpcE9PMXR3a1B1NDI4STFnR0RzeGd4QWticWh6cmhmUWNQVS1DSlgyMmVlRERFN2YwakVmZE5pV1FSUTAtekU5ekZ0Mk12dUVkd0pKbkRrS1FINVpWcm14NDZ1SnBPM2tGN1pBU2NjSHFtbFNJdmJoUU5aOTBn?oc=5"
+          "title": "Broader markets outperform; Ather Energy, Piramal Pharma, Laurus Labs surge over 20% each",
+          "source": "Moneycontrol.com",
+          "published": "01 Nov 2026, 11:28 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMWw2TW1ZNS05WGxKRUlBX1h2TGhBWFFBc1dUN2dxM3ZkdVRLUExTbE10eHBsT19pYjMydVBFU3ZvaGRIT21DWlVLNV9jTkIwaEphVzV4bnZrZlhLclA0WkxzMmhGT2RDVW8tM0VLSEFNc09JZ3lZdDA3N0lDUU1BX25TWk5lQzRBZDdsaFNrX05tdXoxX0ZhU3ZkNnBXb1dkcHFJMDItUDJ2ZWdLeEp1RlNxNXNFVUtpQ2otdFdyUTF6blMySXRlQ0thckVsT3VIYmxKY1hmYkIwd0xuTmt5TVBsWFTSAeoBQVVfeXFMUFdUY19kbG56ZVRtTGRDQndRbU5GeXBzSGJHU2RPWUZIUGFQN1JrTnhDY2FKOUMwN2hIOXNjWDd3S0xoRlZJN1J6WGVJMWtkNzVZdnJSZnBwd2NxMUoxbGJmeGRqZlRNaFRzLUJ5Q1k5WTkwTzNuV0p2U09UWkVQMENCSmlicV9kaDVkTTRCRWpLYWVVUDZLckhsWEZiQ1R1b0R2LUtvSkdOT0hFVTVHMnpSdW5pNDdqMHp6RU9pMTFqdlVGVGwwcWRoRmpPRUxQOUNFa25ITHAwb2duYjF2WkZIekNPOEZreHpB?oc=5"
         },
         {
-          "title": "Stock to buy today: Ather Energy (₹1,671) – BUY",
+          "title": "Crude Check: Rally may take a breather",
           "source": "BusinessLine",
-          "published": "28 Oct 2026, 06:30 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzlLcWpwcTVBbkFfQm00WFNiZkVMMXR5VjZCRTY0ay16VkFDNkc3dXlHZmNkcGRPNmZMTmZqbEFHazdBeHNKU3lTaXJTN3U5TXp2YXhmU0ZDYWZVcDdiak90SzQyeEtxUkNScWlhanZOQTlRVXdjcWJpVFlZSnJnSk81dzJUUW9hbE5CZ3pkZnUyOUkyTVBXeTVKYWk0NFpzZnd4Njhwb01sVnNPZ0lIa0JLZ281RW9rNXJGa050bkJyYm1u0gHLAUFVX3lxTE04NkdOT2s1X0g2QnhpNkVjcnJ4TWpjVl9sSkpudWxac1NNbkZCQTFVaFZwZk5DblkweHkwc19sQmQ3Y1JWaDM5TC03SGtrYjdYbTBiUldDNi1nUTZWTXdqQU1JV21MLUtXQzNhakdWWDROTmRiYmZ2S3Rib1dVV2VqNmExSGJXY3dqUGRjZEwzeGlpSWFQNzZNM0RmMzZSQzZZSkRrMlByMDRBUGl0bzlhU1Vkakw2eUl5OXZlVVFmS1loR3BfT1lPeVhV?oc=5"
+          "published": "31 Oct 2026, 09:48 PM IST",
+          "link": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-rally-may-take-a-breather/article71648912.ece"
+        },
+        {
+          "title": "Ather Energy - Turnaround Story: 8 stocks shift from loss to profit in September '26 quarter",
+          "source": "The Economic Times",
+          "published": "31 Oct 2026, 03:05 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeTd3N1dPV0VsWnB2U3MtOWNjU3ltQmJ1Y2VXbUM0Mi1oTmFLMTV2aHZFcm1JV0lEYUVwUEZYWlN6TFZEbzVscHVVWGhQX0FnNnNjZlN1OFhlX0lfdl9IVld4OUtNN2FoMEhZdmJHSk9tVFBhRmNLZmdyZ0xIMkNIM3ZESHJXUmN0SWczb21mMlFfb0xLU01TWTFVLVZudEV6ZUhLdTJvMUV4VnNrYXhiRU83WG02Ni1MNWRmTnFVT1Y3ekhqRkVqNEI5cXE3U1M1RXRjWTF3UTlNNFVJb005RmRwNGNBUEN6Q0FEdExuS0lvdw?oc=5"
+        },
+        {
+          "title": "The week in charts: Anthropic’s IPO, falling air traffic and Ather’s return to profit",
+          "source": "Livemint",
+          "published": "31 Oct 2026, 06:01 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPejRoRUtHU3BKWmRTZ0JYejJHenQwVDNHQnhmaHBZSWVJcmt2ZGJ0eUNmbk1vR0FmdHJmbXZRdlFDU2tGSTRaQnBGakRTak9KOVpOZE5PWkh2VWd3RDQ3RnhWMlQ4ZGdFUVFfblo1N2N0dTJUclBfYm5xYTY0X3hPdVM4Yk9lSENNemV2R0N4SFR0dmVxaDBGWnY1UGFZdnloRG5DVjU2VG1mSlp6d2NqWlBERmtkNDd3dXJrVC1LQXNncVc3Z2prLXB4Ymlqd9IB0wFBVV95cUxOWUU3Tk5sWXBieWo5eDBReEZ2YnRaVFZraWhrVldSajdvTnFNejFPZVNzZWl2QzA3Vk5rVWh0UE5hWFhjVXp4enBOQkloZ1JJWHV1ZHR0eF9vYU50R0d3ZVpjWERZcll6bDJtSUFKZWRJa2lxTEdtYjN2OUlrQW5hLWFNZFp2eGdyZ0daYTB3RWR1dDRVaGdxcTFLVVFROExzUDJiSHdTbUFSbmRJSmp6MEF3bWNrWlVtTkl4XzRiYlo3eEd4Um5wVTRLTTZFUmtueWY4?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 7.76
+      "weight_pct": 7.72
     },
     {
       "key": "boi",
@@ -314,33 +326,26 @@
       "google_finance_url": "https://www.google.com/finance/quote/BANKINDIA:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 132.86,
-        "prev_close": 135.7,
-        "day_change_pct": -2.09,
-        "open": 135.09,
-        "high": 136.42,
-        "low": 131.8,
-        "intraday_range_pct": 3.4,
-        "volume": 9522424,
-        "avg_volume_20d": 8957751,
-        "volume_vs_avg": 1.06,
-        "volatility_20d_annualised_pct": 36.14,
+        "close": 134.7,
+        "prev_close": 132.86,
+        "day_change_pct": 1.38,
+        "open": 132.91,
+        "high": 135.49,
+        "low": 132.91,
+        "intraday_range_pct": 1.94,
+        "volume": 640136,
+        "avg_volume_20d": 9183172,
+        "volume_vs_avg": 0.07,
+        "volatility_20d_annualised_pct": 36.3,
         "high_52w": 177.2,
         "low_52w": 126.32,
         "shares": 1000,
         "base_price": 131.33,
-        "market_value": 132860.0,
-        "pnl_inr": 1530.0,
-        "pnl_pct": 1.17
+        "market_value": 134700.0,
+        "pnl_inr": 3370.0,
+        "pnl_pct": 2.57
       },
-      "news": [
-        {
-          "title": "Reserve Bank of India steps in to support rupee- Reuters",
-          "source": "Investing.com",
-          "published": "29 Oct 2026, 09:20 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjlmN0p2eEc5QVVfcG9DeGRxX0kyTVI5dDFWTTNPZlhEajU1UXBUNEY2dnRFNHNVaXJyTjg0YzlRY09JeE1jZnBMWGZDUS1MX1c4M0p3b01XUFRDTnRINU5LX1Jqci1BZnRsdWJWb3ZnT3B2X3hCalc1ZU8yU2RINGRGREpiSzIteERWZkNhTzRWMVFpajlfMUZ1MjBIQXVuZTFwT2tGMzcwTjF1Yk5KR1pJdHlBZWh3?oc=5"
-        }
-      ],
+      "news": [],
       "announcements": [],
       "weight_pct": 0.59
     }
@@ -348,69 +353,69 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 12425950.01,
-      "weight_pct": 54.94
+      "value": 12467179.98,
+      "weight_pct": 54.95
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 31.58
+      "weight_pct": 31.48
     },
     {
       "sector": "Industrial Gases",
-      "value": 2825750.0,
-      "weight_pct": 12.49
+      "value": 2852250.0,
+      "weight_pct": 12.57
     },
     {
       "sector": "Financials",
-      "value": 132860.0,
+      "value": 134700.0,
       "weight_pct": 0.59
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 90950.0,
+      "value": 91380.0,
       "weight_pct": 0.4
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 12425950.01,
-      "weight_pct": 54.94
+      "value": 12467179.98,
+      "weight_pct": 54.95
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 31.58
+      "weight_pct": 31.48
     },
     {
       "sector": "Industrial Gases",
-      "value": 2825750.0,
-      "weight_pct": 12.49
+      "value": 2852250.0,
+      "weight_pct": 12.57
     },
     {
       "sector": "Financials",
-      "value": 132860.0,
+      "value": 134700.0,
       "weight_pct": 0.59
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 90950.0,
+      "value": 91380.0,
       "weight_pct": 0.4
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linc Ltd",
-      "pct": 7.0
+      "pct": 7.51
     },
     "worst_since_buy": {
       "name": "Linde India",
-      "pct": -5.19
+      "pct": -4.3
     },
     "top_mover_today": {
-      "name": "Ather Energy",
-      "pct": 5.59
+      "name": "Maruti Suzuki",
+      "pct": 2.21
     }
   },
   "transactions": [
