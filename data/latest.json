@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "02 Nov 2026, 03:32 PM IST",
+  "generated_at_ist": "02 Nov 2026, 05:29 PM IST",
   "as_of": "2026-11-02",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -41,9 +41,9 @@
         "high": 11769.0,
         "low": 11545.0,
         "intraday_range_pct": 1.97,
-        "volume": 426673,
+        "volume": 413958,
         "avg_volume_20d": 491599,
-        "volume_vs_avg": 0.87,
+        "volume_vs_avg": 0.84,
         "volatility_20d_annualised_pct": 22.32,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
@@ -104,9 +104,9 @@
         "high": 150.8,
         "low": 145.66,
         "intraday_range_pct": 3.55,
-        "volume": 13888227,
+        "volume": 13534266,
         "avg_volume_20d": 13335646,
-        "volume_vs_avg": 1.04,
+        "volume_vs_avg": 1.01,
         "volatility_20d_annualised_pct": 26.02,
         "high_52w": 211.92,
         "low_52w": 138.58,
@@ -155,9 +155,9 @@
         "high": 7290.0,
         "low": 7131.0,
         "intraday_range_pct": 2.2,
-        "volume": 375006,
+        "volume": 355954,
         "avg_volume_20d": 408004,
-        "volume_vs_avg": 0.92,
+        "volume_vs_avg": 0.87,
         "volatility_20d_annualised_pct": 25.5,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
@@ -168,6 +168,12 @@
         "pnl_pct": -0.73
       },
       "news": [
+        {
+          "title": "Royal Enfield Himalayan 750 unveiled with cruise control, tubeless spoke wheels; India launch in November",
+          "source": "Livemint",
+          "published": "02 Nov 2026, 04:20 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa1had1hyc2VuRVR1c1VFamJIN0FSb3FEVERHVWhMQUFRUmpJNFl3Wnc4dk8tN1h2b0pIU0JrSHo1YVhraC1uUXZiOUxTckZQMEY0a0dzOVRPVURINVJvanpGQ3FoU1lBY01oUTg4eVVCMzlRdGZRYXdsY3JiWTNnUFVUam5GWVdRc25ySldrOU1rc3pETVY2NlM5QmxGWFZfU3lMemZnZC1ZdUxkQVJHWkxSQ3BIWUdORU9uQ0hoMkk5Ny1IaTlqSDl5d0xvb1VIeUs1bl9CZm1US3pFT2JvTmR0dkJLVWxVMmxmTFpwa9IB9AFBVV95cUxPcmJTcVYwZG4tWXdONUJnVjA4ak11NTYyajZGZzk0UHdENzJuZW1HZktLcjV0RWJsdkNuNjdCeGJMajFUTDVDanNQNXhNQWRlRENWaWthYXpSbjdQcHI3TWxfc1BKakZXbHoxM3ZzVVdSQnBYbzc2eE5WM1NteEJHTzFXRFd1RlY0SWlocjlvTGJMR0FpaDZNVzRicmhRZm44ektWaU1fLTlLZjJSTENWQTlsTjA4aDd4VUpGcm1OMFQ2dW5RS2l4WFBDUEtmRXAtUWlGMW93TDNvTG1XOTRxOVRvZTNfd1RhTXhZYlU3UExRX2N4?oc=5"
+        },
         {
           "title": "Stocks To Watch: Infosys, NCC, Maruti Suzuki, Mahindra & Mahindra, Eicher Motors And TVS Motor Company",
           "source": "NDTV Profit",
@@ -212,7 +218,7 @@
         "high": 5784.0,
         "low": 5628.5,
         "intraday_range_pct": 2.75,
-        "volume": 9840,
+        "volume": 9835,
         "avg_volume_20d": 17992,
         "volume_vs_avg": 0.55,
         "volatility_20d_annualised_pct": 27.0,
@@ -244,7 +250,7 @@
         "high": 97.8,
         "low": 90.21,
         "intraday_range_pct": 8.35,
-        "volume": 53590,
+        "volume": 53589,
         "avg_volume_20d": 61935,
         "volume_vs_avg": 0.87,
         "volatility_20d_annualised_pct": 103.16,
@@ -276,9 +282,9 @@
         "high": 1790.0,
         "low": 1736.0,
         "intraday_range_pct": 3.08,
-        "volume": 3275117,
+        "volume": 3258930,
         "avg_volume_20d": 3828861,
-        "volume_vs_avg": 0.86,
+        "volume_vs_avg": 0.85,
         "volatility_20d_annualised_pct": 64.38,
         "high_52w": 1774.6,
         "low_52w": 601.35,
@@ -289,6 +295,12 @@
         "pnl_pct": 5.81
       },
       "news": [
+        {
+          "title": "Best EV stock to buy: Ather Energy vs Ola Electric Mobility; which is better profit-making deal? Investors guide, target",
+          "source": "Livemint",
+          "published": "02 Nov 2026, 04:31 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMzFSemdUYXc4QzJrejFNZHczM2pnN2JFb0dKNHRUaFNIOWNqTEItR1BZamRuM1Vid3Bta1djUENiZ0h0RDVqOElRRDl2enU3dm9XNFhKc1JRaU0tUGtkZHZBeUs5UlZpS01yaDVvN3ZRcS1uNEZnS3hVZG1aSERIWGMxWHBCYUZLQXBNSnZLTXlnNXl6MEZVYVI0OEJmeWE3S2J6YmRCby1qdlpKSkpzSG9Hem5lZl9tTG9rekVqOWo0anhIa0Q3TzZqOXhUaUZGbUNLbGdqZm9LUkx3WlY0U2swaWFMSU1memljWEp5OXVUTzR4VGJPZWZpZ3F6bkNkR08yREdUMXlsUzJXaE5DczR6UlrSAZoCQVVfeXFMTWFFdUtJNkNNMGk5NFVKUnlfQ25sSFZmUWhDY3hFbl9IdXZrbTRtMnBrYkJGYjJ6WldoQmtNc2FoR3JqeExxTUY0MjZkV3l2akNwcTJwb3VfX01NNDB5dkdvMmlrelFWcGJZUlFxbnY2dXA0S1Z0bWp0dnlxWjAyM2RpbzFhdGtmb0FXd2RGd2diNzYtRlg3N3hpZzN6VHg2UVV6RGI5dUwtbktQMUpEaTdUV0NaNU4xazJOTU9fME5hY0t3THF5b3pzS0hGdVBNMmlJWnA0ZVhnbl8ybjJtYk1sY2lFNEZqMlFJcGxHVXAtUlBKWWF5a0xOTE9yb1RTOGg2ZFVuVm9lNmVBTFVQVFlwWlBJN3otZkRB?oc=5"
+        },
         {
           "title": "Auto stocks: Nomura sees October growth led by EVs, SUVs and scooters; M&M, Ather and TVS outperform",
           "source": "Moneycontrol.com",
@@ -312,12 +324,6 @@
           "source": "BusinessLine",
           "published": "31 Oct 2026, 09:48 PM IST",
           "link": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-rally-may-take-a-breather/article71648912.ece"
-        },
-        {
-          "title": "Ather Energy - Turnaround Story: 8 stocks shift from loss to profit in September '26 quarter",
-          "source": "The Economic Times",
-          "published": "31 Oct 2026, 03:05 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeTd3N1dPV0VsWnB2U3MtOWNjU3ltQmJ1Y2VXbUM0Mi1oTmFLMTV2aHZFcm1JV0lEYUVwUEZYWlN6TFZEbzVscHVVWGhQX0FnNnNjZlN1OFhlX0lfdl9IVld4OUtNN2FoMEhZdmJHSk9tVFBhRmNLZmdyZ0xIMkNIM3ZESHJXUmN0SWczb21mMlFfb0xLU01TWTFVLVZudEV6ZUhLdTJvMUV4VnNrYXhiRU83WG02Ni1MNWRmTnFVT1Y3ekhqRkVqNEI5cXE3U1M1RXRjWTF3UTlNNFVJb005RmRwNGNBUEN6Q0FEdExuS0lvdw?oc=5"
         }
       ],
       "announcements": [],
@@ -339,7 +345,7 @@
         "high": 135.64,
         "low": 132.91,
         "intraday_range_pct": 2.05,
-        "volume": 4611760,
+        "volume": 4550674,
         "avg_volume_20d": 9183172,
         "volume_vs_avg": 0.5,
         "volatility_20d_annualised_pct": 36.22,

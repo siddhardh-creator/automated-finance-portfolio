@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 02 Nov 2026, 03:32 PM IST  |  **Market data as of:** 2026-11-02  |  **Start date:** 2026-10-16
+**Last updated:** 02 Nov 2026, 05:29 PM IST  |  **Market data as of:** 2026-11-02  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -110,7 +110,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,672.00 | +2.41% | ₹11,545.00 - ₹11,769.00 | 426,673 | 491,599 | 0.87x | 22.32% | ₹11,170.00 - ₹17,292.00 |
+| ₹11,672.00 | +2.41% | ₹11,545.00 - ₹11,769.00 | 413,958 | 491,599 | 0.84x | 22.32% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -143,7 +143,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹149.20 | +3.02% | ₹145.66 - ₹150.80 | 13,888,227 | 13,335,646 | 1.04x | 26.02% | ₹138.58 - ₹211.92 |
+| ₹149.20 | +3.02% | ₹145.66 - ₹150.80 | 13,534,266 | 13,335,646 | 1.01x | 26.02% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -174,7 +174,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,213.00 | -0.10% | ₹7,131.00 - ₹7,290.00 | 375,006 | 408,004 | 0.92x | 25.50% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,213.00 | -0.10% | ₹7,131.00 - ₹7,290.00 | 355,954 | 408,004 | 0.87x | 25.50% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -189,6 +189,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Royal Enfield Himalayan 750 unveiled with cruise control, tubeless spoke wheels; India launch in November](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa1had1hyc2VuRVR1c1VFamJIN0FSb3FEVERHVWhMQUFRUmpJNFl3Wnc4dk8tN1h2b0pIU0JrSHo1YVhraC1uUXZiOUxTckZQMEY0a0dzOVRPVURINVJvanpGQ3FoU1lBY01oUTg4eVVCMzlRdGZRYXdsY3JiWTNnUFVUam5GWVdRc25ySldrOU1rc3pETVY2NlM5QmxGWFZfU3lMemZnZC1ZdUxkQVJHWkxSQ3BIWUdORU9uQ0hoMkk5Ny1IaTlqSDl5d0xvb1VIeUs1bl9CZm1US3pFT2JvTmR0dkJLVWxVMmxmTFpwa9IB9AFBVV95cUxPcmJTcVYwZG4tWXdONUJnVjA4ak11NTYyajZGZzk0UHdENzJuZW1HZktLcjV0RWJsdkNuNjdCeGJMajFUTDVDanNQNXhNQWRlRENWaWthYXpSbjdQcHI3TWxfc1BKakZXbHoxM3ZzVVdSQnBYbzc2eE5WM1NteEJHTzFXRFd1RlY0SWlocjlvTGJMR0FpaDZNVzRicmhRZm44ektWaU1fLTlLZjJSTENWQTlsTjA4aDd4VUpGcm1OMFQ2dW5RS2l4WFBDUEtmRXAtUWlGMW93TDNvTG1XOTRxOVRvZTNfd1RhTXhZYlU3UExRX2N4?oc=5) - _Livemint, 02 Nov 2026, 04:20 PM IST_
 - [Stocks To Watch: Infosys, NCC, Maruti Suzuki, Mahindra & Mahindra, Eicher Motors And TVS Motor Company](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUhIUTRfc002bUQ1bFpROW5tTktVN25aMjRmNTgtMTIxMzFvSF9BZWE4MTVoeUVIWEdmS0J4eTFKblRCaXNDNXkzN3JXTzdKZVVIQ1ZISG9ZcDI1Z1MyLWRzUTVCQW5wemtPeHZNdW5nTGNtNUZ1SjY1UlF2Q2Z0MjUxN0NjdzAyYVcxdTRscG9tR01RVXpzcHZPa1F5eWlHc1lQcTdMaUdEZ0RwSlNkVjdLZnowLThJcXhybnZEX0IzMElzWEZ6QlEtSTB5aU5mZEZXTC1B0gHeAUFVX3lxTE84QmU3YnhteXhwNW9qVG0tT2JVcnhLamtIcHpURXpDaUN3dmJKRlZNQm84eTRQOHhpZC04UGhybi0yNjhwaHp3RHNVSnBEcU5FZE9ueFFPV08zaU9XbEFvc3NZdE9wTmhkakNJeHc3RXZzV05KMUhxUmpfdnJJUGJVcVdVLUtuemZkNzhvSGcwX3RkemxWdlRqYWhBZ3A3QW1yemtDYmlmN3VZMjg5RTYyNklZNGVtRlJyOE9wTFZjSjNGZ3gzcnZ3UUZZNnhRdlU1QmVOU05SMjJYZlNzdw?oc=5) - _NDTV Profit, 02 Nov 2026, 06:00 AM IST_
 - [Royal Enfield Himalayan 750: New adventure bike revealed with cruise control, TPMS and five colour options](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU1MtOExrM3pGNk9naWc2TFB0N1NrSmh5c05PRXdjWGVXdmJRbGVJQTUzZnRJU19HakZSUk1CVUhBU2ctdXl5RF9sV3NlSnZ3M3kteXlGSmhLdUVEWGp4VXlHSEpCR3lUNUV6allORHllRGNKT1EtY0phdTBETTNhMVFFemVVUHYtcFJPNlhfSDhrejlZYTUxTE1ucnFxUC1UdzNuN3ViOXhyR005U2JoNE5fN2FrTVFjLUxVRlE0d0ZIMk11Sy0wc2VQMk1JU1dKSVpiRnB0bzNOYUdSSkJzX1hycjVjR3hoVzJ3cTh3cjXSAfYBQVVfeXFMTzA4UlRxaVV3ZWtsTnhheUdEQ1lEYjd5OUlWN2xFVVFPNVhMRUliQzlUM25udUs0bmd2VEdPT3dqY1ZTeFZ5Y19meVR5Y09raGNBZHNtYWNyNlVYNHpHczZTMVNZVU84cjFTTXQwdV9QT1I2WUdRMUlBMG5SWVVfLUx0eUNsanQySGNkNWZlWE8ybVllOTl1bUNUSmlrSFVnQU5nTW5aN0l6b0RkMXdVMmlsWE80SHpMMnVJTndtNDc5akFnbU9WNnJTV3pSMzkzN2thWTBaUHo3UzNnNFJHTzRXaVZHcVFBTFppZE1XSGdWZ015bXpR?oc=5) - _Livemint, 02 Nov 2026, 12:40 AM IST_
 - [Royal Enfield reports 7% growth in October sales](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQzJqOTlPZUV3a0xJZ3l4RVR2dWhBSnNKRmN4S0pYVTRqSDh3VURFZC0tSUJGTHJNVVhVcTZES1M1Z0NjbWxTODE0R3hQTGtyMTFwV3pYeHVoUFMzbjFuaHdLTG92eEhYQzczOWFvOXpzRE1EenRjUnQ1cHBwS3VtVUtYRWNCTU5ReERscXZfYmlCQ2ctM3dFbVdPOGR4eGlPUXBxRFpjS0pHNkhQZXB2TzlsUV93bUhCME5aTWdlX1MwU2dyemVkYnc2Vnh6dEdhYUhQdkhKY2pEUlHSAeABQVVfeXFMTWJHM3hmQmx5QTlKd3hxckFGbEZtZ2FJVEV3Z0hpZ0xnTzZGbW1kZHZhWnhZcy1Xd2p1RDNCLVBFMUJzclUzbW5QbjFocXlsbUxZV3Y3SXJmWVRmZUoyVDNYSHNyb0p0a2ttLW10TVFaTDZ6RGJNNUZDZHFzVG9PVkZ5eVY4b0VDbllNbmxObmU2Vmt6bkNlSGpqejAwVG5yNzlONTR4ckdoQVRXUTdveXE1MG5jUjZkQS1PT0F3RHFqV1g4MXAwN3c0SjI0UXRUcGdacUkwMnBlNXNsY3NzSDI?oc=5) - _The Economic Times, 01 Nov 2026, 08:41 PM IST_
@@ -206,7 +207,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹5,758.00 | +1.88% | ₹5,628.50 - ₹5,784.00 | 9,840 | 17,992 | 0.55x | 27.00% | ₹5,632.50 - ₹7,847.50 |
+| ₹5,758.00 | +1.88% | ₹5,628.50 - ₹5,784.00 | 9,835 | 17,992 | 0.55x | 27.00% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -234,7 +235,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹95.17 | +4.64% | ₹90.21 - ₹97.80 | 53,590 | 61,935 | 0.87x | 103.16% | ₹76.41 - ₹130.64 |
+| ₹95.17 | +4.64% | ₹90.21 - ₹97.80 | 53,589 | 61,935 | 0.87x | 103.16% | ₹76.41 - ₹130.64 |
 
 **Research reports**
 
@@ -262,7 +263,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,774.60 | +1.06% | ₹1,736.00 - ₹1,790.00 | 3,275,117 | 3,828,861 | 0.86x | 64.38% | ₹601.35 - ₹1,774.60 |
+| ₹1,774.60 | +1.06% | ₹1,736.00 - ₹1,790.00 | 3,258,930 | 3,828,861 | 0.85x | 64.38% | ₹601.35 - ₹1,774.60 |
 
 **Research reports**
 
@@ -276,11 +277,11 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Best EV stock to buy: Ather Energy vs Ola Electric Mobility; which is better profit-making deal? Investors guide, target](https://news.google.com/rss/articles/CBMilAJBVV95cUxPMzFSemdUYXc4QzJrejFNZHczM2pnN2JFb0dKNHRUaFNIOWNqTEItR1BZamRuM1Vid3Bta1djUENiZ0h0RDVqOElRRDl2enU3dm9XNFhKc1JRaU0tUGtkZHZBeUs5UlZpS01yaDVvN3ZRcS1uNEZnS3hVZG1aSERIWGMxWHBCYUZLQXBNSnZLTXlnNXl6MEZVYVI0OEJmeWE3S2J6YmRCby1qdlpKSkpzSG9Hem5lZl9tTG9rekVqOWo0anhIa0Q3TzZqOXhUaUZGbUNLbGdqZm9LUkx3WlY0U2swaWFMSU1memljWEp5OXVUTzR4VGJPZWZpZ3F6bkNkR08yREdUMXlsUzJXaE5DczR6UlrSAZoCQVVfeXFMTWFFdUtJNkNNMGk5NFVKUnlfQ25sSFZmUWhDY3hFbl9IdXZrbTRtMnBrYkJGYjJ6WldoQmtNc2FoR3JqeExxTUY0MjZkV3l2akNwcTJwb3VfX01NNDB5dkdvMmlrelFWcGJZUlFxbnY2dXA0S1Z0bWp0dnlxWjAyM2RpbzFhdGtmb0FXd2RGd2diNzYtRlg3N3hpZzN6VHg2UVV6RGI5dUwtbktQMUpEaTdUV0NaNU4xazJOTU9fME5hY0t3THF5b3pzS0hGdVBNMmlJWnA0ZVhnbl8ybjJtYk1sY2lFNEZqMlFJcGxHVXAtUlBKWWF5a0xOTE9yb1RTOGg2ZFVuVm9lNmVBTFVQVFlwWlBJN3otZkRB?oc=5) - _Livemint, 02 Nov 2026, 04:31 PM IST_
 - [Auto stocks: Nomura sees October growth led by EVs, SUVs and scooters; M&M, Ather and TVS outperform](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOTFpX0hfcnZ4ckhpdFFTWXJlcTVKUU1NSFgxZnc3anYtZF9xSHJpWkk5azctdWFzcFdRaXdCX21mb251RmhqbTRRc1J2bTFMckhLZ19HTklGOTZ0Z3FBTHVTeHUzTG1XNEdBcEV3bUFCQ2ZtQlpSb2QyNnB3NlVvVzl1U3d6SnpfZUZPYl9TOTFHak1ZeXVmUXFZLXFRU1o1OXA1ckNEUFp4S0JvQnVSOURNcUg3YWNVMFlhb0lfYXJmemx0a0R6bjhZZGJkR0xDVVZlZlJzUEpWUk44XzZMRHVCeVdZLXpqRXRFdFFzU1pZd9IB9wFBVV95cUxOS0gxWG5STGVWOG5CS3RIamdxVlhZcDRyMzlKbmdVcFFleldyQ2N1QVh1X0VsVzhjLUhQWjl3cDFoZDUxVTJMR1FEX2l2eXNnRFhPMmtLUUxxWW1xaUlDY044NUVvbTNobG56TUVaZzVpMkNPZldVVzJqb3JNQjFzckV4YTFHYjNxa0pMNFdLY2VIem5mZzZ2VExNeEJvOHFYbkdvOUdOQ1NjdDA3OEo4NDlyaTJfSHNKejU3b0RJeWNXRlVWc21YNnM5eS1pZTVFN3ZFVDdrSm4wWkVoNC1nUjBDU1d6N2tSSExtZzhpN0IxRnBPTU1N?oc=5) - _Moneycontrol.com, 02 Nov 2026, 12:35 PM IST_
 - [Five Stocks To Buy Today, November 02: Kotak Mahindra Bank, Zydus Lifesciences, Ather Energy, And More](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTk9fUWZ3WTZLdm50dGVTbkFiZlNQX2RmcHptZ2JEbTFkdEZYU01LbWlhWmhyVVZVYlpIdVlzSXJEd2xkbWgyNl81eExFNXZYSmowbDNjbkdzd2xSU3FmZktnMmxvc1VZWnZ3UkdLd3pIaDNHVUhVekc5Vk9rMmRsNHk5MlFQR3NyMTBNRXRmX3RTTHU2UFIxZ3hGalpRY085VUNUU2RKZDdkeURDZlVoeXVkQVJuT2I1cEJZZHJOSGFKbDJmSFJkdFF3S0dJRGg5a0ZDb0wwaVpDY2Q1eUpOMnUwanR5YzB1RmtrbtIB9AFBVV95cUxPdC1CcnE1dElZU2pON1FROE5aWENXYkhZQkdwbGlBVG5qNkkyY25zMmdHZ2l4LUZiVE5hb1JQU0lwc3dvR3lzbm9kbG5GRGNWSVhkbkYyNTJTeXpxT0tabU9rTGtFS0R5TTM3Z01SSzcwN1JEbnhzTE1fZDJBbHRuRDItdjZ6eW45WGlVWldtS3FXV3Z4dTBJdk1KYmM0UTBuYzRzZUg5ZjF0OTVER3NOc3FibE12MmdRZ194eHhtV0ZSbWpMdUdQSWhqZEVUUi11THVkX2V1RkpQRmQ0MVFhWFVJM3IyQS1OS3pNZjExVFhCa0lX?oc=5) - _NDTV Profit, 02 Nov 2026, 07:35 AM IST_
 - [Broader markets outperform; Ather Energy, Piramal Pharma, Laurus Labs surge over 20% each](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMWw2TW1ZNS05WGxKRUlBX1h2TGhBWFFBc1dUN2dxM3ZkdVRLUExTbE10eHBsT19pYjMydVBFU3ZvaGRIT21DWlVLNV9jTkIwaEphVzV4bnZrZlhLclA0WkxzMmhGT2RDVW8tM0VLSEFNc09JZ3lZdDA3N0lDUU1BX25TWk5lQzRBZDdsaFNrX05tdXoxX0ZhU3ZkNnBXb1dkcHFJMDItUDJ2ZWdLeEp1RlNxNXNFVUtpQ2otdFdyUTF6blMySXRlQ0thckVsT3VIYmxKY1hmYkIwd0xuTmt5TVBsWFTSAeoBQVVfeXFMUFdUY19kbG56ZVRtTGRDQndRbU5GeXBzSGJHU2RPWUZIUGFQN1JrTnhDY2FKOUMwN2hIOXNjWDd3S0xoRlZJN1J6WGVJMWtkNzVZdnJSZnBwd2NxMUoxbGJmeGRqZlRNaFRzLUJ5Q1k5WTkwTzNuV0p2U09UWkVQMENCSmlicV9kaDVkTTRCRWpLYWVVUDZLckhsWEZiQ1R1b0R2LUtvSkdOT0hFVTVHMnpSdW5pNDdqMHp6RU9pMTFqdlVGVGwwcWRoRmpPRUxQOUNFa25ITHAwb2duYjF2WkZIekNPOEZreHpB?oc=5) - _Moneycontrol.com, 01 Nov 2026, 11:28 AM IST_
 - [Crude Check: Rally may take a breather](https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-rally-may-take-a-breather/article71648912.ece) - _BusinessLine, 31 Oct 2026, 09:48 PM IST_
-- [Ather Energy - Turnaround Story: 8 stocks shift from loss to profit in September '26 quarter](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeTd3N1dPV0VsWnB2U3MtOWNjU3ltQmJ1Y2VXbUM0Mi1oTmFLMTV2aHZFcm1JV0lEYUVwUEZYWlN6TFZEbzVscHVVWGhQX0FnNnNjZlN1OFhlX0lfdl9IVld4OUtNN2FoMEhZdmJHSk9tVFBhRmNLZmdyZ0xIMkNIM3ZESHJXUmN0SWczb21mMlFfb0xLU01TWTFVLVZudEV6ZUhLdTJvMUV4VnNrYXhiRU83WG02Ni1MNWRmTnFVT1Y3ekhqRkVqNEI5cXE3U1M1RXRjWTF3UTlNNFVJb005RmRwNGNBUEN6Q0FEdExuS0lvdw?oc=5) - _The Economic Times, 31 Oct 2026, 03:05 PM IST_
 
 </details>
 
@@ -294,7 +295,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹134.40 | +1.16% | ₹132.91 - ₹135.64 | 4,611,760 | 9,183,172 | 0.5x | 36.22% | ₹126.32 - ₹177.20 |
+| ₹134.40 | +1.16% | ₹132.91 - ₹135.64 | 4,550,674 | 9,183,172 | 0.5x | 36.22% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
