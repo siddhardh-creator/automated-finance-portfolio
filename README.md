@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 02 Nov 2026, 05:29 PM IST  |  **Market data as of:** 2026-11-02  |  **Start date:** 2026-10-16
+**Last updated:** 02 Nov 2026, 05:32 PM IST  |  **Market data as of:** 2026-11-02  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -30,13 +32,13 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,672.00 | ₹11,672.00 | ₹11,397.00 | +2.41% | ₹33,84,880 | 14.9% | ₹53,070 | +1.59% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹149.20 | ₹149.20 | ₹144.82 | +3.02% | ₹1,49,200 | 0.7% | ₹1,480 | +1.00% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,213.00 | ₹7,213.00 | ₹7,220.00 | -0.10% | ₹72,13,000 | 31.7% | -₹53,000 | -0.73% |
-| Linde India | 500 | ₹5,961.00 | ₹5,758.00 | ₹5,758.00 | ₹5,651.50 | +1.88% | ₹28,79,000 | 12.6% | -₹1,01,500 | -3.41% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹95.17 | ₹95.17 | ₹90.95 | +4.64% | ₹95,170 | 0.4% | ₹10,170 | +11.96% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,774.60 | ₹1,774.60 | ₹1,756.00 | +1.06% | ₹17,74,600 | 7.8% | ₹97,400 | +5.81% |
-| Bank of India | 1,000 | ₹131.33 | ₹134.40 | ₹134.40 | ₹132.86 | +1.16% | ₹1,34,400 | 0.6% | ₹3,070 | +2.34% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,672.00 | - | ₹11,397.00 | +2.41% | ₹33,84,880 | 14.9% | ₹53,070 | +1.59% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹149.20 | - | ₹144.82 | +3.02% | ₹1,49,200 | 0.7% | ₹1,480 | +1.00% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,213.00 | - | ₹7,220.00 | -0.10% | ₹72,13,000 | 31.7% | -₹53,000 | -0.73% |
+| Linde India | 500 | ₹5,961.00 | ₹5,758.00 | - | ₹5,651.50 | +1.88% | ₹28,79,000 | 12.6% | -₹1,01,500 | -3.41% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹95.17 | - | ₹90.95 | +4.64% | ₹95,170 | 0.4% | ₹10,170 | +11.96% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,774.60 | - | ₹1,756.00 | +1.06% | ₹17,74,600 | 7.8% | ₹97,400 | +5.81% |
+| Bank of India | 1,000 | ₹131.33 | ₹134.40 | - | ₹132.86 | +1.16% | ₹1,34,400 | 0.6% | ₹3,070 | +2.34% |
 
 **Best since buy:** Linc Ltd (+11.96%)  ·  **Worst since buy:** Linde India (-3.41%)  ·  **Biggest mover today:** Linc Ltd (+4.64%)
 
