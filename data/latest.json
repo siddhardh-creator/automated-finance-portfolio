@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "03 Nov 2026, 10:33 AM IST",
+  "generated_at_ist": "03 Nov 2026, 11:32 AM IST",
   "as_of": "2026-11-03",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,22 +7,22 @@
     "capital": 23159530.0,
     "initial_capital": 10000000,
     "invested": 15619560.0,
-    "holdings_value": 15741069.97,
+    "holdings_value": 15758870.0,
     "cash": 7141481.89,
-    "value": 22882551.86,
-    "pnl_inr": -276978.14,
-    "pnl_pct": -1.2,
-    "unrealised_pnl_inr": 121509.97,
+    "value": 22900351.9,
+    "pnl_inr": -259178.1,
+    "pnl_pct": -1.12,
+    "unrealised_pnl_inr": 139310.0,
     "realised_pnl_inr": -398488.11,
-    "day_pnl_inr": 161290.01,
-    "day_pnl_pct": 0.71,
+    "day_pnl_inr": 179090.05,
+    "day_pnl_pct": 0.79,
     "open_positions": 7
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 23657.8,
-    "return_pct": 3.06,
-    "day_change_pct": 0.93
+    "close": 23633.5,
+    "return_pct": 2.95,
+    "day_change_pct": 0.82
   },
   "stocks": [
     {
@@ -34,24 +34,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 11745.0,
+        "close": 11741.0,
         "prev_close": 11672.0,
-        "day_change_pct": 0.63,
+        "day_change_pct": 0.59,
         "open": 11751.0,
         "high": 11769.0,
         "low": 11675.0,
         "intraday_range_pct": 0.81,
-        "volume": 73643,
+        "volume": 96305,
         "avg_volume_20d": 468013,
-        "volume_vs_avg": 0.16,
-        "volatility_20d_annualised_pct": 21.99,
+        "volume_vs_avg": 0.21,
+        "volatility_20d_annualised_pct": 21.98,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3406050.0,
-        "pnl_inr": 74240.0,
-        "pnl_pct": 2.23
+        "market_value": 3404890.0,
+        "pnl_inr": 73080.0,
+        "pnl_pct": 2.19
       },
       "news": [
         {
@@ -86,7 +86,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 14.88
+      "weight_pct": 14.87
     },
     {
       "key": "ashok",
@@ -97,24 +97,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 155.15,
+        "close": 152.9,
         "prev_close": 149.2,
-        "day_change_pct": 3.99,
+        "day_change_pct": 2.48,
         "open": 151.67,
         "high": 156.13,
         "low": 150.88,
         "intraday_range_pct": 3.52,
-        "volume": 10951313,
+        "volume": 13704739,
         "avg_volume_20d": 12984079,
-        "volume_vs_avg": 0.84,
-        "volatility_20d_annualised_pct": 29.31,
+        "volume_vs_avg": 1.06,
+        "volatility_20d_annualised_pct": 27.06,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 155149.99,
-        "pnl_inr": 7429.99,
-        "pnl_pct": 5.03
+        "market_value": 152899.99,
+        "pnl_inr": 5179.99,
+        "pnl_pct": 3.51
       },
       "news": [
         {
@@ -137,7 +137,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 0.68
+      "weight_pct": 0.67
     },
     {
       "key": "eicher",
@@ -148,24 +148,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7245.5,
+        "close": 7265.0,
         "prev_close": 7220.0,
-        "day_change_pct": 0.35,
+        "day_change_pct": 0.62,
         "open": 7245.0,
-        "high": 7265.0,
+        "high": 7284.0,
         "low": 7150.0,
-        "intraday_range_pct": 1.59,
-        "volume": 81315,
+        "intraday_range_pct": 1.86,
+        "volume": 142972,
         "avg_volume_20d": 408004,
-        "volume_vs_avg": 0.2,
-        "volatility_20d_annualised_pct": 25.48,
+        "volume_vs_avg": 0.35,
+        "volatility_20d_annualised_pct": 25.51,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7245500.0,
-        "pnl_inr": -20500.0,
-        "pnl_pct": -0.28
+        "market_value": 7265000.0,
+        "pnl_inr": -1000.0,
+        "pnl_pct": -0.01
       },
       "news": [
         {
@@ -173,12 +173,6 @@
           "source": "Livemint",
           "published": "02 Nov 2026, 04:20 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa1had1hyc2VuRVR1c1VFamJIN0FSb3FEVERHVWhMQUFRUmpJNFl3Wnc4dk8tN1h2b0pIU0JrSHo1YVhraC1uUXZiOUxTckZQMEY0a0dzOVRPVURINVJvanpGQ3FoU1lBY01oUTg4eVVCMzlRdGZRYXdsY3JiWTNnUFVUam5GWVdRc25ySldrOU1rc3pETVY2NlM5QmxGWFZfU3lMemZnZC1ZdUxkQVJHWkxSQ3BIWUdORU9uQ0hoMkk5Ny1IaTlqSDl5d0xvb1VIeUs1bl9CZm1US3pFT2JvTmR0dkJLVWxVMmxmTFpwa9IB9AFBVV95cUxPcmJTcVYwZG4tWXdONUJnVjA4ak11NTYyajZGZzk0UHdENzJuZW1HZktLcjV0RWJsdkNuNjdCeGJMajFUTDVDanNQNXhNQWRlRENWaWthYXpSbjdQcHI3TWxfc1BKakZXbHoxM3ZzVVdSQnBYbzc2eE5WM1NteEJHTzFXRFd1RlY0SWlocjlvTGJMR0FpaDZNVzRicmhRZm44ektWaU1fLTlLZjJSTENWQTlsTjA4aDd4VUpGcm1OMFQ2dW5RS2l4WFBDUEtmRXAtUWlGMW93TDNvTG1XOTRxOVRvZTNfd1RhTXhZYlU3UExRX2N4?oc=5"
-        },
-        {
-          "title": "Stocks To Watch: Infosys, NCC, Maruti Suzuki, Mahindra & Mahindra, Eicher Motors And TVS Motor Company",
-          "source": "NDTV Profit",
-          "published": "02 Nov 2026, 06:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUhIUTRfc002bUQ1bFpROW5tTktVN25aMjRmNTgtMTIxMzFvSF9BZWE4MTVoeUVIWEdmS0J4eTFKblRCaXNDNXkzN3JXTzdKZVVIQ1ZISG9ZcDI1Z1MyLWRzUTVCQW5wemtPeHZNdW5nTGNtNUZ1SjY1UlF2Q2Z0MjUxN0NjdzAyYVcxdTRscG9tR01RVXpzcHZPa1F5eWlHc1lQcTdMaUdEZ0RwSlNkVjdLZnowLThJcXhybnZEX0IzMElzWEZ6QlEtSTB5aU5mZEZXTC1B0gHeAUFVX3lxTE84QmU3YnhteXhwNW9qVG0tT2JVcnhLamtIcHpURXpDaUN3dmJKRlZNQm84eTRQOHhpZC04UGhybi0yNjhwaHp3RHNVSnBEcU5FZE9ueFFPV08zaU9XbEFvc3NZdE9wTmhkakNJeHc3RXZzV05KMUhxUmpfdnJJUGJVcVdVLUtuemZkNzhvSGcwX3RkemxWdlRqYWhBZ3A3QW1yemtDYmlmN3VZMjg5RTYyNklZNGVtRlJyOE9wTFZjSjNGZ3gzcnZ3UUZZNnhRdlU1QmVOU05SMjJYZlNzdw?oc=5"
         },
         {
           "title": "Royal Enfield Himalayan 750: New adventure bike revealed with cruise control, TPMS and five colour options",
@@ -200,7 +194,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 31.66
+      "weight_pct": 31.72
     },
     {
       "key": "linde",
@@ -211,24 +205,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 5844.0,
+        "close": 5846.5,
         "prev_close": 5651.5,
-        "day_change_pct": 3.41,
+        "day_change_pct": 3.45,
         "open": 5784.0,
-        "high": 5869.0,
+        "high": 5884.5,
         "low": 5716.0,
-        "intraday_range_pct": 2.71,
-        "volume": 4986,
+        "intraday_range_pct": 2.98,
+        "volume": 6283,
         "avg_volume_20d": 17992,
-        "volume_vs_avg": 0.28,
-        "volatility_20d_annualised_pct": 29.16,
+        "volume_vs_avg": 0.35,
+        "volatility_20d_annualised_pct": 29.24,
         "high_52w": 7847.5,
         "low_52w": 5632.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 2922000.0,
-        "pnl_inr": -58500.0,
-        "pnl_pct": -1.96
+        "market_value": 2923250.0,
+        "pnl_inr": -57250.0,
+        "pnl_pct": -1.92
       },
       "news": [],
       "announcements": [],
@@ -243,24 +237,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 91.83,
+        "close": 92.25,
         "prev_close": 90.95,
-        "day_change_pct": 0.97,
+        "day_change_pct": 1.43,
         "open": 97.0,
         "high": 97.0,
         "low": 90.5,
         "intraday_range_pct": 7.15,
-        "volume": 11188,
+        "volume": 12338,
         "avg_volume_20d": 61935,
-        "volume_vs_avg": 0.18,
-        "volatility_20d_annualised_pct": 102.1,
+        "volume_vs_avg": 0.2,
+        "volatility_20d_annualised_pct": 102.14,
         "high_52w": 130.64,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 91830.0,
-        "pnl_inr": 6830.0,
-        "pnl_pct": 8.04
+        "market_value": 92250.0,
+        "pnl_inr": 7250.0,
+        "pnl_pct": 8.53
       },
       "news": [],
       "announcements": [],
@@ -275,24 +269,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ATHERENERG:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 1785.6,
+        "close": 1786.4,
         "prev_close": 1774.6,
-        "day_change_pct": 0.62,
+        "day_change_pct": 0.66,
         "open": 1774.6,
         "high": 1799.0,
         "low": 1759.0,
         "intraday_range_pct": 2.25,
-        "volume": 660823,
+        "volume": 959686,
         "avg_volume_20d": 3781290,
-        "volume_vs_avg": 0.17,
-        "volatility_20d_annualised_pct": 64.32,
-        "high_52w": 1785.6,
+        "volume_vs_avg": 0.25,
+        "volatility_20d_annualised_pct": 64.31,
+        "high_52w": 1786.4,
         "low_52w": 601.35,
         "shares": 1000,
         "base_price": 1677.2,
-        "market_value": 1785599.98,
-        "pnl_inr": 108399.98,
-        "pnl_pct": 6.46
+        "market_value": 1786400.02,
+        "pnl_inr": 109200.02,
+        "pnl_pct": 6.51
       },
       "news": [
         {
@@ -338,31 +332,31 @@
       "google_finance_url": "https://www.google.com/finance/quote/BANKINDIA:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 134.94,
+        "close": 134.18,
         "prev_close": 134.4,
-        "day_change_pct": 0.4,
+        "day_change_pct": -0.16,
         "open": 135.09,
         "high": 135.49,
-        "low": 134.06,
-        "intraday_range_pct": 1.06,
-        "volume": 1476431,
+        "low": 134.0,
+        "intraday_range_pct": 1.11,
+        "volume": 2891264,
         "avg_volume_20d": 9196099,
-        "volume_vs_avg": 0.16,
-        "volatility_20d_annualised_pct": 34.59,
+        "volume_vs_avg": 0.31,
+        "volatility_20d_annualised_pct": 34.57,
         "high_52w": 177.2,
         "low_52w": 126.32,
         "shares": 1000,
         "base_price": 131.33,
-        "market_value": 134940.0,
-        "pnl_inr": 3610.0,
-        "pnl_pct": 2.75
+        "market_value": 134179.99,
+        "pnl_inr": 2849.99,
+        "pnl_pct": 2.17
       },
       "news": [
         {
-          "title": "A month after RBI’s rate hike, banks start raising deposit rates as liquidity shrinks, Bank of India the latest to move",
+          "title": "A month after RBI’s rate hike, banks start raising deposit rates as liquidity shrinks, Bank of India the l",
           "source": "The Economic Times",
           "published": "03 Nov 2026, 12:20 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOR1pHa3JiNl9xSlg3d2FjZjFWc3JfdGVGc1lyWFU2ZkVkSmpJWGZXR3JPbldJa3BWMjBCdGVqaVB6WGFYbk9JTEtQSTNFeldFVXpIdkxzcUJ4em02OFQ1MTQ1dHhhNkQ0X3I2TjA3cGdRWXdWc21HMWFNN0VwRmlNUDJYS1M4cE8tNEtkcDFrZzM0OVBOYUxQbXpheDhydW41bGIyaHZKMnM2dzRYdk5sdDZRUkxDalRuamFBNURZQV95WnVLamRYZzc2Mi1LTkxxMHdkRF9ULW91My16dGxNcHlWTG9yLWFMOVB4dXVsSEJxU1VEU09wUWN2dHFIN3NiQU9SZnhUTEU5S1RsU0NnSnd3c3Y4QmNZZlUwMWJkdFd0Vkp3Vll6aFZYOA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOR1pHa3JiNl9xSlg3d2FjZjFWc3JfdGVGc1lyWFU2ZkVkSmpJWGZXR3JPbldJa3BWMjBCdGVqaVB6WGFYbk9JTEtQSTNFeldFVXpIdkxzcUJ4em02OFQ1MTQ1dHhhNkQ0X3I2TjA3cGdRWXdWc21HMWFNN0VwRmlNUDJYS1M4cE8tNEtkcDFrZzM0OVBOYUxQbXpheDhydW41bGIyaHZKMnM2dzRYdk5sdDZRUkxDalRuamFBNURZQV95WnVLamRYZzc2Mi1LTkxxMHdkRF9ULW91My16dGxNcHlWTG9yLWFMOVB4dXVsSEJxU1VEU09wUWN2dHFIN3NiQU9SZnhUTEU5S1RsU0NnSnd3c3Y4QmNZZlUwMWJkdFd0Vkp3Vll6aFZYONIBsAJBVV95cUxPcFo0NlhRVXQwV2ZxNU1YemsyV3E3b1dQVktZeFRYckg2cEZMcndJS1ZtR3VvYVZ5RVBSY1d1cjNaOE9KSUxBZHNpREhoQ0tTemRhYktSd21iRTdRZHlYLVo0TnZUXzFlQ0hzUmxVNUozVUZGc0FVQlhlVUM1WmFUaWU4V1BESmViTm1aV29YOWlOcDVCNS1LR0dScmpPSHN4WV96LXNNbTVweVZfQ0x0bW5hc0h1VWctTjhyRVFFZXJEQTFSSEF5b1ZmTTB6VGtfZ0I1SmtyTG1ncnRtdjNVU0dRT09pdENqeE5vTWZFNFVsaS1lTzNrZWJld1RrNXdDUmFWM3d0S1RYaFZEYXlIMm92ckFWME1XaVM3NUZ0ZldMb0JNVHhROEFIUkdlLWZq?oc=5"
         },
         {
           "title": "Bank of India revises FD interest rates: Launches 500-day fixed deposit offering 7.35% rate to senior citi",
@@ -384,69 +378,69 @@
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 12592299.97,
-      "weight_pct": 55.03
+      "value": 12609190.01,
+      "weight_pct": 55.06
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 31.21
+      "weight_pct": 31.19
     },
     {
       "sector": "Industrial Gases",
-      "value": 2922000.0,
+      "value": 2923250.0,
       "weight_pct": 12.77
     },
     {
       "sector": "Financials",
-      "value": 134940.0,
+      "value": 134179.99,
       "weight_pct": 0.59
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 91830.0,
+      "value": 92250.0,
       "weight_pct": 0.4
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 12592299.97,
-      "weight_pct": 55.03
+      "value": 12609190.01,
+      "weight_pct": 55.06
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 31.21
+      "weight_pct": 31.19
     },
     {
       "sector": "Industrial Gases",
-      "value": 2922000.0,
+      "value": 2923250.0,
       "weight_pct": 12.77
     },
     {
       "sector": "Financials",
-      "value": 134940.0,
+      "value": 134179.99,
       "weight_pct": 0.59
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 91830.0,
+      "value": 92250.0,
       "weight_pct": 0.4
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Linc Ltd",
-      "pct": 8.04
+      "pct": 8.53
     },
     "worst_since_buy": {
       "name": "Linde India",
-      "pct": -1.96
+      "pct": -1.92
     },
     "top_mover_today": {
-      "name": "Ashok Leyland",
-      "pct": 3.99
+      "name": "Linde India",
+      "pct": 3.45
     }
   },
   "transactions": [
