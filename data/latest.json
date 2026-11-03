@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "03 Nov 2026, 05:26 PM IST",
+  "generated_at_ist": "03 Nov 2026, 10:54 PM IST",
   "as_of": "2026-11-03",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 23159530.0,
@@ -55,6 +55,12 @@
       },
       "news": [
         {
+          "title": "Auto Sector Can Generate 6.5 Crore New Jobs By 2026: Maruti",
+          "source": "NDTV Profit",
+          "published": "03 Nov 2026, 08:50 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHNwUHFwclJfTm9yUGo1THZCZHY4aFRnUWJTQS1HVlhzMXUwUzBMOEt6VXJnSjItRU5heEwxd1p3VDM0QTBUSXpNZ2RlcWFRZjVfMWEzQl9Pd2F4YTJiei1yUWtMM3M2X3hlNml3Yzg5eEM3b2oxamFnU3EtNDQxMWhsUl9KRTdrWDdFc0dFQ0xQdmVtbUtjWWxfaWYxT2kwXzN4NXBKdTlFRVRRa3hfeQ?oc=5"
+        },
+        {
           "title": "Maruti Suzuki exports surge 30% in January-October",
           "source": "The Economic Times",
           "published": "03 Nov 2026, 12:37 AM IST",
@@ -64,7 +70,7 @@
           "title": "Price Action: Bank of Baroda shares gain 3% post Q2 results; Maruti Suzuki jumps on 21% rise in October...",
           "source": "Moneycontrol.com",
           "published": "02 Nov 2026, 12:12 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTUpMdDVreW5PcnlwNWpFSmxmX0oyUHlvV2RDX0g3OHRhdDVrS1c4dGd6M3htcWZxcTNlejRkc2FSdUFNY2hJc250RG5ubE5BRHNsZU1JaFpXVmc5cV9wQ0JJcDFhVFd2UjVva2lhSEM1RUU1S28yNV8wdHpSWjNQdTJOV3dZNm1UYWFxOWNNZ0dFQXR1RlFUWG5JaEU2U2x6UHRVQ2ZVTFdhN3hOZXozOEEtMHI2M01SSF8wbGUzVnl0R2dRM0RfSlVwUy14Ym5LeHRKaUd6YWRJd3M3UXlQNFEyaU9XZzZyWktmaGZBbUJTTFdKRXc4azFMTGQ2T0nSAYQCQVVfeXFMTXhXNm1DQlM5d2NfR2ZwNjMxZ1RxUmFRR2tqbTJSNjBjQ25zSS1xZG9WWHcxVnVVSzJsMm5jRXBLcEI4aHo0ZGEyWEtBbG1QV0tkMWZWSVphbkRhNU9BYk01VjBCQkprMTlBNlczTGU1MEZpY3VGZFhHbG5zSFBBUHZHS1AtcHhEYUhOcDJwbWU2cWFadHBlamtlcll3ZVJBVEVQby02TzhLeXpDajZSejJKM1ROb2lHdUNfMGN2eDZFa1hBMmhsMW4wLU1zYk81M2d2NVljOS1ELXBjZEpZV1FXUEZwUi03VDN5ME9fTHdaaC00a25HSlVDS19mRlRwZGU4TWg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeFc2bUNCUzl3Y19HZnA2MzFnVHFSYVFHa2ptMlI2MGNDbnNJLXFkb1ZYdzFWdVVLMmwybmNFcEtwQjhoejRkYTJYS0FsbVBXS2QxZlZJWmFuRGE1T0FiTTVWMEJCSmsxOUE2VzNMZTUwRmljdUZkWEdsbnNIUEFQdkdLUC1weERhSE5wMnBtZTZxYVp0cGVqa2VyWXdlUkFURVBvLTZPOEt5ekNqNlJ6MkozVE5vaUd1Q18wY3Z4NkVrWEEyaGwxbjAtTXNiTzUzZ3Y1WWM5LUQtcGNkSllXUVdQRnBSLTdUM3kwT19Md1poLTRrbkdKVUNLX2ZGVHBkZThNaNIBhAJBVV95cUxNeFc2bUNCUzl3Y19HZnA2MzFnVHFSYVFHa2ptMlI2MGNDbnNJLXFkb1ZYdzFWdVVLMmwybmNFcEtwQjhoejRkYTJYS0FsbVBXS2QxZlZJWmFuRGE1T0FiTTVWMEJCSmsxOUE2VzNMZTUwRmljdUZkWEdsbnNIUEFQdkdLUC1weERhSE5wMnBtZTZxYVp0cGVqa2VyWXdlUkFURVBvLTZPOEt5ekNqNlJ6MkozVE5vaUd1Q18wY3Z4NkVrWEEyaGwxbjAtTXNiTzUzZ3Y1WWM5LUQtcGNkSllXUVdQRnBSLTdUM3kwT19Md1poLTRrbkdKVUNLX2ZGVHBkZThNaA?oc=5"
         },
         {
           "title": "Maruti Suzuki, Tata Motors PV, other auto stocks rise up to 3% amid strong October sales",
@@ -77,12 +83,6 @@
           "source": "NDTV Profit",
           "published": "02 Nov 2026, 09:47 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc1NTUkQydFZTTUNfVlNybWJlMFpaVkFabmU0Y25mX29MQ3VNalRXeFBuaGpmSU93RHJOMVJXVlNjcmlJRzIyLTFBYl9oMVlDSC1KS1M0MDRoTEdQaFF0d29MZUxEdHhZeXJPa0dIczZfeW1jTmVPQjI5V2c1TUVEMmNGblpHM1lUSmNYV1RkT1dRYlMwUWhwaWtPUUtWMWFpZXV5SE1Xd0J3N19BNzVKUVhrbGotc0lralE0dVBWSTV3Q250YVNmRVgxelBIYWVZTllEOFBHM0tMaFB0aWZwU1ZySdIB6wFBVV95cUxPQmdJbTNhX2VycmptQTc5WG0wcGs5SnZrOERBYi1JdTQtSEQ3c3NxZ3V2T3RtTDluQmdkMEFIYjVWX3Z1Ry04cHlPSEtnQ1ctemFtbVA1MTR2alJsRm5ldkFJOTNoWW9MZVR1TmlTQTIybk5GRmpkenpnVnBQNWV1X054OU9mRm9YUENia1dHQzN3dlRLaE5JNlN5X19uMmg1amk2ZXVhR2U5eDFPc2xCNnh1VmJwVHg2SmdKVWY4R0EtR1JRaFVRVVozN0JEcV9oSnNXZlhhLVZWTWhzblNpS0x4TkNvLWthNENj?oc=5"
-        },
-        {
-          "title": "Stocks To Watch: Infosys, NCC, Maruti Suzuki, Mahindra & Mahindra, Eicher Motors And TVS Motor Company",
-          "source": "NDTV Profit",
-          "published": "02 Nov 2026, 06:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUhIUTRfc002bUQ1bFpROW5tTktVN25aMjRmNTgtMTIxMzFvSF9BZWE4MTVoeUVIWEdmS0J4eTFKblRCaXNDNXkzN3JXTzdKZVVIQ1ZISG9ZcDI1Z1MyLWRzUTVCQW5wemtPeHZNdW5nTGNtNUZ1SjY1UlF2Q2Z0MjUxN0NjdzAyYVcxdTRscG9tR01RVXpzcHZPa1F5eWlHc1lQcTdMaUdEZ0RwSlNkVjdLZnowLThJcXhybnZEX0IzMElzWEZ6QlEtSTB5aU5mZEZXTC1B0gHeAUFVX3lxTE84QmU3YnhteXhwNW9qVG0tT2JVcnhLamtIcHpURXpDaUN3dmJKRlZNQm84eTRQOHhpZC04UGhybi0yNjhwaHp3RHNVSnBEcU5FZE9ueFFPV08zaU9XbEFvc3NZdE9wTmhkakNJeHc3RXZzV05KMUhxUmpfdnJJUGJVcVdVLUtuemZkNzhvSGcwX3RkemxWdlRqYWhBZ3A3QW1yemtDYmlmN3VZMjg5RTYyNklZNGVtRlJyOE9wTFZjSjNGZ3gzcnZ3UUZZNnhRdlU1QmVOU05SMjJYZlNzdw?oc=5"
         }
       ],
       "announcements": [],
@@ -169,6 +169,12 @@
       },
       "news": [
         {
+          "title": "Royal Enfield Continental GT 750 unveiled: What's new & how different is it from the popular GT 650?",
+          "source": "The Economic Times",
+          "published": "03 Nov 2026, 05:37 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV250ZG4tb0oyRUp5N0Z3MlJHalNZbkQyRXRmNlhGUGItNXpzUWVaSnhtRUZkM1pZQjVxNUlnSmtPZVhrZEthb1JBM1lYWWk3aUYySW9MdXFLTlViVGQxUEV1R2pZeTdpV2doQ2xTdkl0UlNxLXl5LVZPMVpGblFQTHlrWHRZN0RnaEIxd3VNWTBLQ0JJWTZpNnZfV08wNWdJR01CZ2xUWXNIdlJWZk5iTEV4bmJYcTVnRml3NjdpN2dSQ09HZzBpaWp0MXNQczFoak9PSWd5Yk9GZEVROGJqTEVHY1F4dV94S2pIRjBWZnZfcGhJYVRTNWJn0gH_AUFVX3lxTE02Unk2d1A2VS1zblplRFI2U2VsZTJBME9wNTVldnhMUnlSYmlmMDE5Sl8wbXZsRzR4MWhYbmpxT0R1YnRnbFNzMllQR2cteUpPeHNMOUZIeF9QTTZvdzFOZmdRY3JVNG1ibzNlOWw4dnctS3VIRnljMjJYQzI2WGZ6c3NWX241SVBHMWNNZENJalN1WUhIelBhbXQ4TTd4dmJmSlA1dDQ0a0RxYm9QWGEwcHJRcnJQN29DUUNyZHB1dW1MbmJDMUU0cWJHZW9kTTZQbF9XYWQ1ZVFKM1VWMjBpSmdzTV9IZUVVUlEzSVoyclZBZVN1SG5FV1pYQmFSdw?oc=5"
+        },
+        {
           "title": "Royal Enfield Himalayan 750 Launched: Check Engine, Features, Variants And Prices",
           "source": "NDTV Profit",
           "published": "03 Nov 2026, 03:59 PM IST",
@@ -191,12 +197,6 @@
           "source": "NDTV Profit",
           "published": "02 Nov 2026, 06:00 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUhIUTRfc002bUQ1bFpROW5tTktVN25aMjRmNTgtMTIxMzFvSF9BZWE4MTVoeUVIWEdmS0J4eTFKblRCaXNDNXkzN3JXTzdKZVVIQ1ZISG9ZcDI1Z1MyLWRzUTVCQW5wemtPeHZNdW5nTGNtNUZ1SjY1UlF2Q2Z0MjUxN0NjdzAyYVcxdTRscG9tR01RVXpzcHZPa1F5eWlHc1lQcTdMaUdEZ0RwSlNkVjdLZnowLThJcXhybnZEX0IzMElzWEZ6QlEtSTB5aU5mZEZXTC1B0gHeAUFVX3lxTE84QmU3YnhteXhwNW9qVG0tT2JVcnhLamtIcHpURXpDaUN3dmJKRlZNQm84eTRQOHhpZC04UGhybi0yNjhwaHp3RHNVSnBEcU5FZE9ueFFPV08zaU9XbEFvc3NZdE9wTmhkakNJeHc3RXZzV05KMUhxUmpfdnJJUGJVcVdVLUtuemZkNzhvSGcwX3RkemxWdlRqYWhBZ3A3QW1yemtDYmlmN3VZMjg5RTYyNklZNGVtRlJyOE9wTFZjSjNGZ3gzcnZ3UUZZNnhRdlU1QmVOU05SMjJYZlNzdw?oc=5"
-        },
-        {
-          "title": "Royal Enfield Himalayan 750: New adventure bike revealed with cruise control, TPMS and five colour options",
-          "source": "Livemint",
-          "published": "02 Nov 2026, 12:40 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU1MtOExrM3pGNk9naWc2TFB0N1NrSmh5c05PRXdjWGVXdmJRbGVJQTUzZnRJU19HakZSUk1CVUhBU2ctdXl5RF9sV3NlSnZ3M3kteXlGSmhLdUVEWGp4VXlHSEpCR3lUNUV6allORHllRGNKT1EtY0phdTBETTNhMVFFemVVUHYtcFJPNlhfSDhrejlZYTUxTE1ucnFxUC1UdzNuN3ViOXhyR005U2JoNE5fN2FrTVFjLUxVRlE0d0ZIMk11Sy0wc2VQMk1JU1dKSVpiRnB0bzNOYUdSSkJzX1hycjVjR3hoVzJ3cTh3cjXSAfYBQVVfeXFMTzA4UlRxaVV3ZWtsTnhheUdEQ1lEYjd5OUlWN2xFVVFPNVhMRUliQzlUM25udUs0bmd2VEdPT3dqY1ZTeFZ5Y19meVR5Y09raGNBZHNtYWNyNlVYNHpHczZTMVNZVU84cjFTTXQwdV9QT1I2WUdRMUlBMG5SWVVfLUx0eUNsanQySGNkNWZlWE8ybVllOTl1bUNUSmlrSFVnQU5nTW5aN0l6b0RkMXdVMmlsWE80SHpMMnVJTndtNDc5akFnbU9WNnJTV3pSMzkzN2thWTBaUHo3UzNnNFJHTzRXaVZHcVFBTFppZE1XSGdWZ015bXpR?oc=5"
         }
       ],
       "announcements": [],
@@ -359,9 +359,15 @@
       },
       "news": [
         {
-          "title": "State Bank of India posts quarterly profit rise on loan growth, stake sale",
+          "title": "Earnings call transcript: State Bank of India Q2 2027 profit rises, stock falls 5% By Investing.com",
+          "source": "Investing.com India",
+          "published": "03 Nov 2026, 06:57 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY2hkY3MxbkRqWG5uWlpXdXZicGk3VUlPdWtkOVIxOXhKQll3aW1ZTDJXRnZxcXVRSkZBQzJhbG5SWnNjNlhZbjJWazBZV2V0Ykg1RWdrZG1MbWtJdVFIUTFNcHVBSVJrWEFCN3cyVDV0OUdFZllaVmV4NTJvbHBva3luU1RQMFRtUy04akk4VjBNUVoxMUxhSXdxNWFuRGNkTGRDVXhYMlh3NTI1VFZRa1gteU1YUV9TVjFWTGVydmNDQ0ZZQmNlcTdPY2w2MG4xTnNwT0ZkSQ?oc=5"
+        },
+        {
+          "title": "State Bank of India quarterly profit rises; to boost cybersecurity after breach",
           "source": "Reuters",
-          "published": "03 Nov 2026, 02:09 PM IST",
+          "published": "03 Nov 2026, 05:40 PM IST",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnFRWGMtM3JxME1pR2FXOWo4NU1Ua1VncXNLa0dqN0RORm5MbTJ2Nk9YcU04cV9mRVVOLVNFTmxrTUVhRVZ3TnhqUC13RXdMUXgzNFQ2TGsxSklSYUp1c3dWMDhpVFJoYnh4NEhvVnh1YWdKTS15Z29NLU5LaEFXVFNZYzhZc01CSGh6enE0UGV1TE9tbkhN?oc=5"
         },
         {
@@ -381,12 +387,6 @@
           "source": "The Economic Times",
           "published": "02 Nov 2026, 05:57 PM IST",
           "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTk9hSFQ4YzlCUm1iZXFkLXJYbUJsb19qbl84TXNudE9oMmRpbjY5Q0d3ZEtVSjlyQnp0MU5SQ1FYT2JxVnBJNDhZbHF3bGQ4b1cxTXVOMUlocDR5Y2Vrb0lXbFpOTEs1ejNXTmo2U1g5bzVDTk5FMy02X2pHUjJvanhIaE5XalhHcW9SeDZ0a3BxSEVaUERRdDdUVVE5Y1pvVjQ4NzA2ZHo4SS1vbHJrMHpCZjlFMkFLT3Q1cHNZTG41VlJjZWV6bXh6WTdHaW5XRTkyRC02TVZXZ1VORF9sMERQaGc1c0xnZjRERlE3S3FNUzZBY3dHZnJPRzNHUUdPSVJEWkdvYmstUl9YZFpMSDRLeFU3R2Y0REhjOUtYTDBNejlHdlV4dGpRZi1CT2vSAagCQVVfeXFMTWMtc0RraW93aGxBY1hkTzlUM1d5V3NwQWxuSWc3Vk1TVUZ5dVFSYUVaUUs0Q0tCSHJnR2dQWEZLLV9CSzVEVmNwd3g4V1MyZ2hCOXJuZXo4b1ZRd1NBWmlXNFV2TktxS3ZJaDYyRXpod3ZVOUZTNlAxXzlmdUJicmtPMGFlZkpUYnpLeldJSWVpeUc2bEdpaUJkZHB2YVBMeklhYzJZdHVqTm5QUlhoS3JtYWNvLUZ6M2trZnAzYnNGWU0xUHVMWmtOZ0dUZHJQb05PeTRyZk1tbDd2emtWUE1LamNOYy15WjREblNMZjR0T3ZNeDhvaWMzZHR5ZXgtbzZ3YW4zVkp3MGlvSTF1N1lqN2Y3azhadGRuM3ZuUkpoSUU1WWFSaG0?oc=5"
-        },
-        {
-          "title": "Bank of India, Suryoday SFB raise interest rates on fixed deposits",
-          "source": "Business Standard",
-          "published": "02 Nov 2026, 12:18 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZjh6Nm9adDNnazZpRzcxa01TbGJwemNSSTdYUEdhSE9mYWNZek5kLWNET2NjUGVCUlBrYm9RcV9nQVdLb2hKNnd5ZXNIZEY4T2NxS2lzWldtZERSeFZRXzR0dXZicDlmN3V4ZGFkMTk3UDRwcGNrMjBYOUY5anNGTndlSzBGQUstWjBKcTZiUGRnNlZhV1o3a1kzN1BXdFh3OTNZZVhWMk5aSzNoZEZ3VWo3YWJsQnBNZTY3MGF3aXfSAcYBQVVfeXFMTWQzTjZadzN4MkxJSkFMRUxEMS00OXFtaUZxa0YycXlxVjhiTXB1X244U2tPN2kyUzNZSS1nbFd5Rk5XRVZFYXZzbUtXY2o4Y29mRFVtckh0SXdJRjBCMjBvekZJa3NYWHllMV90QmxFb1BqTjZtM09DWDdlSEthYTAwMTN1SU9fWVJGRDl2b1UwT3FDWFp4Mmx4NUJGcHBVd0xNbURZRlN3c01TMk1vRkRadDhicjhsbnNZWFlPN2UxbHloczN3?oc=5"
         }
       ],
       "announcements": [],
