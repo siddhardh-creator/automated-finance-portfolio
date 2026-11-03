@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "03 Nov 2026, 03:33 PM IST",
+  "generated_at_ist": "03 Nov 2026, 05:10 PM IST",
   "as_of": "2026-11-03",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 23159530.0,
@@ -41,9 +41,9 @@
         "high": 11902.0,
         "low": 11675.0,
         "intraday_range_pct": 1.94,
-        "volume": 380839,
+        "volume": 363540,
         "avg_volume_20d": 468013,
-        "volume_vs_avg": 0.81,
+        "volume_vs_avg": 0.78,
         "volatility_20d_annualised_pct": 22.64,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
@@ -64,7 +64,7 @@
           "title": "Price Action: Bank of Baroda shares gain 3% post Q2 results; Maruti Suzuki jumps on 21% rise in October...",
           "source": "Moneycontrol.com",
           "published": "02 Nov 2026, 12:12 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTUpMdDVreW5PcnlwNWpFSmxmX0oyUHlvV2RDX0g3OHRhdDVrS1c4dGd6M3htcWZxcTNlejRkc2FSdUFNY2hJc250RG5ubE5BRHNsZU1JaFpXVmc5cV9wQ0JJcDFhVFd2UjVva2lhSEM1RUU1S28yNV8wdHpSWjNQdTJOV3dZNm1UYWFxOWNNZ0dFQXR1RlFUWG5JaEU2U2x6UHRVQ2ZVTFdhN3hOZXozOEEtMHI2M01SSF8wbGUzVnl0R2dRM0RfSlVwUy14Ym5LeHRKaUd6YWRJd3M3UXlQNFEyaU9XZzZyWktmaGZBbUJTTFdKRXc4azFMTGQ2T0nSAYQCQVVfeXFMTXhXNm1DQlM5d2NfR2ZwNjMxZ1RxUmFRR2tqbTJSNjBjQ25zSS1xZG9WWHcxVnVVSzJsMm5jRXBLcEI4aHo0ZGEyWEtBbG1QV0tkMWZWSVphbkRhNU9BYk01VjBCQkprMTlBNlczTGU1MEZpY3VGZFhHbG5zSFBBUHZHS1AtcHhEYUhOcDJwbWU2cWFadHBlamtlcll3ZVJBVEVQby02TzhLeXpDajZSejJKM1ROb2lHdUNfMGN2eDZFa1hBMmhsMW4wLU1zYk81M2d2NVljOS1ELXBjZEpZV1FXUEZwUi03VDN5ME9fTHdaaC00a25HSlVDS19mRlRwZGU4TWg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeFc2bUNCUzl3Y19HZnA2MzFnVHFSYVFHa2ptMlI2MGNDbnNJLXFkb1ZYdzFWdVVLMmwybmNFcEtwQjhoejRkYTJYS0FsbVBXS2QxZlZJWmFuRGE1T0FiTTVWMEJCSmsxOUE2VzNMZTUwRmljdUZkWEdsbnNIUEFQdkdLUC1weERhSE5wMnBtZTZxYVp0cGVqa2VyWXdlUkFURVBvLTZPOEt5ekNqNlJ6MkozVE5vaUd1Q18wY3Z4NkVrWEEyaGwxbjAtTXNiTzUzZ3Y1WWM5LUQtcGNkSllXUVdQRnBSLTdUM3kwT19Md1poLTRrbkdKVUNLX2ZGVHBkZThNaNIBhAJBVV95cUxNeFc2bUNCUzl3Y19HZnA2MzFnVHFSYVFHa2ptMlI2MGNDbnNJLXFkb1ZYdzFWdVVLMmwybmNFcEtwQjhoejRkYTJYS0FsbVBXS2QxZlZJWmFuRGE1T0FiTTVWMEJCSmsxOUE2VzNMZTUwRmljdUZkWEdsbnNIUEFQdkdLUC1weERhSE5wMnBtZTZxYVp0cGVqa2VyWXdlUkFURVBvLTZPOEt5ekNqNlJ6MkozVE5vaUd1Q18wY3Z4NkVrWEEyaGwxbjAtTXNiTzUzZ3Y1WWM5LUQtcGNkSllXUVdQRnBSLTdUM3kwT19Md1poLTRrbkdKVUNLX2ZGVHBkZThNaA?oc=5"
         },
         {
           "title": "Maruti Suzuki, Tata Motors PV, other auto stocks rise up to 3% amid strong October sales",
@@ -104,9 +104,9 @@
         "high": 156.13,
         "low": 150.88,
         "intraday_range_pct": 3.52,
-        "volume": 23587820,
+        "volume": 22994941,
         "avg_volume_20d": 12984079,
-        "volume_vs_avg": 1.82,
+        "volume_vs_avg": 1.77,
         "volatility_20d_annualised_pct": 26.93,
         "high_52w": 211.92,
         "low_52w": 138.58,
@@ -155,9 +155,9 @@
         "high": 7440.0,
         "low": 7150.0,
         "intraday_range_pct": 4.02,
-        "volume": 433046,
+        "volume": 409109,
         "avg_volume_20d": 384931,
-        "volume_vs_avg": 1.12,
+        "volume_vs_avg": 1.06,
         "volatility_20d_annualised_pct": 27.23,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
@@ -169,16 +169,16 @@
       },
       "news": [
         {
+          "title": "Royal Enfield Himalayan 750 Launched: Check Engine, Features, Variants And Prices",
+          "source": "NDTV Profit",
+          "published": "03 Nov 2026, 03:59 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnFsWHlTNjF3SUZGWnBxT1JoUnFJeUdvRHM4dVVNSktJUExkcGtoUUlBcGlVU2VkTUJyZTZyQ0Jlb016aENxal9VVWktbkJKYnVCN0M5YzNZQ2NjTHZWX2oxY19yajJqWU14bWttbGJRVmZMem5vOHUwR3RFczhTa0ZjWnFNa2tDV3VtYld3aGI2WWdUN05fa25pX1JCYVpvbmFQZTVndjJXM1pxQUwtWjdyUUd5Rk42MGNPOFE4UVE5d9IBygFBVV95cUxOeGZsVEo4dEdhdkZyazdPMjE3R3FSd0NUWjUwbTBzZmhlWFloQm5uOXVEMHpBTmVKWDJrdF9PZjM5M25Lb2ZPYW52UmlyLWhVMTRyYWxfNW45M1ZwRUZoTDRJdG5taWYxRktfUnBZSTRzc2JsUVM0ZGxNLVc3bjlVVHdFTlhVT2xvTEZ5MzhTOUptTUEwdWVpRURGRXZ5Rkc1dVpxZFpmUjliVE1OeDFUSjZvZnJTUWhORFZzcFFaNi1OZ1loMEJxZmh3?oc=5"
+        },
+        {
           "title": "Royal Enfield unveils three new motorcycles at EICMA 2026 to celebrate its 125th anniversary",
           "source": "The Economic Times",
           "published": "03 Nov 2026, 03:08 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMXBOT1FsRVBTX2FOYnRxWkZWMmJuaUpPRDl3aVJYMnNtbkZDaWdSbTh4dDkzMjlIVGFBNkUwc2RvWnNQaU1xWFVaZkcwTXZVdHNoMktla0FncFJHZVJQaUJZcllXY2tDTE4wcVNUVWl4U3dPUnRaUHRqODNfQjAtX3dKM1lKS20tNTNJRzVZY3BRVDVCNmE4Y3h5NjhFMmJEZEFuN1FMc09aX1d4WmNaVGVOdTNJd0IzN01xWFBtMWp6UEtaQkhyQlAtc01QWGVBb0lQaERtZTBFQmdaWVUycUotSVVXWXljXzdrSjdTUVllSEkxczJHYmo3MC00bjTSAYQCQVVfeXFMTTZVU2hsRXlwbGVuUUFHY2d1THVFRHNlTTQtZnhxaXB3ODlsMVEyem9SYlFhRFNNd3R3a0NvUVM1aTJpa0pEZWt3aGR4QVFyTnNfMndWX2tXR19RYTZfZF9qOThCbUM3UGxnV3phQlNnUGdVSjVCREhKWk5aWHlYdkxRekdDVGhrbEdqYUlwREU1bk9ESTFSbjN0dGZkaDJQX3ZwZHpJUzdPNWhqeUxweDBNSzNPMWFTVWpka3pzVXQweDJkRE5kLUpJUWVpRzlLRVJiTzAzeHZob2lhZTFpY2h1ZjRVSnpMTE9pdDBva0xKT25waU9TTGgxZ2E3cEFxMFZtaVM?oc=5"
-        },
-        {
-          "title": "Eicher Motors Share Price Live Updates: Eicher Motors Trading Strong Above Resistance",
-          "source": "Economic Times",
-          "published": "03 Nov 2026, 09:18 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-03-nov-2026/liveblog/135481051.cms"
         },
         {
           "title": "Royal Enfield Himalayan 750 unveiled with cruise control, tubeless spoke wheels; India launch in November",
@@ -250,7 +250,7 @@
         "high": 97.0,
         "low": 87.1,
         "intraday_range_pct": 10.4,
-        "volume": 25848,
+        "volume": 25847,
         "avg_volume_20d": 63330,
         "volume_vs_avg": 0.41,
         "volatility_20d_annualised_pct": 106.32,
@@ -282,7 +282,7 @@
         "high": 1809.5,
         "low": 1759.0,
         "intraday_range_pct": 2.85,
-        "volume": 2352103,
+        "volume": 2333673,
         "avg_volume_20d": 3781290,
         "volume_vs_avg": 0.62,
         "volatility_20d_annualised_pct": 64.28,
@@ -345,9 +345,9 @@
         "high": 135.49,
         "low": 132.0,
         "intraday_range_pct": 2.6,
-        "volume": 6877126,
+        "volume": 6113986,
         "avg_volume_20d": 9196099,
-        "volume_vs_avg": 0.75,
+        "volume_vs_avg": 0.66,
         "volatility_20d_annualised_pct": 34.74,
         "high_52w": 177.2,
         "low_52w": 126.32,

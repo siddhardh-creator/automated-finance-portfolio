@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 03 Nov 2026, 03:33 PM IST  |  **Market data as of:** 2026-11-03  |  **Start date:** 2026-10-16
+**Last updated:** 03 Nov 2026, 05:10 PM IST  |  **Market data as of:** 2026-11-03  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -30,13 +32,13 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,869.00 | ₹11,869.00 | ₹11,672.00 | +1.69% | ₹34,42,010 | 14.9% | ₹1,10,200 | +3.31% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹152.74 | ₹152.74 | ₹149.20 | +2.37% | ₹1,52,740 | 0.7% | ₹5,020 | +3.40% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,440.00 | ₹7,440.00 | ₹7,213.00 | +3.15% | ₹74,40,000 | 32.2% | ₹1,74,000 | +2.39% |
-| Linde India | 500 | ₹5,961.00 | ₹5,848.50 | ₹5,848.50 | ₹5,758.00 | +1.57% | ₹29,24,250 | 12.7% | -₹56,250 | -1.89% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹88.86 | ₹88.86 | ₹95.17 | -6.63% | ₹88,860 | 0.4% | ₹3,860 | +4.54% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,795.00 | ₹1,795.00 | ₹1,774.60 | +1.15% | ₹17,95,000 | 7.8% | ₹1,17,800 | +7.02% |
-| Bank of India | 1,000 | ₹131.33 | ₹133.17 | ₹133.17 | ₹134.40 | -0.92% | ₹1,33,170 | 0.6% | ₹1,840 | +1.40% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹11,869.00 | - | ₹11,672.00 | +1.69% | ₹34,42,010 | 14.9% | ₹1,10,200 | +3.31% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹152.74 | - | ₹149.20 | +2.37% | ₹1,52,740 | 0.7% | ₹5,020 | +3.40% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,440.00 | - | ₹7,213.00 | +3.15% | ₹74,40,000 | 32.2% | ₹1,74,000 | +2.39% |
+| Linde India | 500 | ₹5,961.00 | ₹5,848.50 | - | ₹5,758.00 | +1.57% | ₹29,24,250 | 12.7% | -₹56,250 | -1.89% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹88.86 | - | ₹95.17 | -6.63% | ₹88,860 | 0.4% | ₹3,860 | +4.54% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,795.00 | - | ₹1,774.60 | +1.15% | ₹17,95,000 | 7.8% | ₹1,17,800 | +7.02% |
+| Bank of India | 1,000 | ₹131.33 | ₹133.17 | - | ₹134.40 | -0.92% | ₹1,33,170 | 0.6% | ₹1,840 | +1.40% |
 
 **Best since buy:** Ather Energy (+7.02%)  ·  **Worst since buy:** Linde India (-1.89%)  ·  **Biggest mover today:** Linc Ltd (-6.63%)
 
@@ -110,7 +112,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,869.00 | +1.69% | ₹11,675.00 - ₹11,902.00 | 380,839 | 468,013 | 0.81x | 22.64% | ₹11,170.00 - ₹17,292.00 |
+| ₹11,869.00 | +1.69% | ₹11,675.00 - ₹11,902.00 | 363,540 | 468,013 | 0.78x | 22.64% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -126,7 +128,7 @@ _▲ buy · ▼ sell_
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Maruti Suzuki exports surge 30% in January-October](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2dJSnBMMXp6UXNFVDA2WXdvWVRaeFE3U0ZfUl9jTi1Oc19VbHhOTTREOUdMZTlZbmxCMTFVUEtHdmZDUmxCQll3N0sxREsxb0tseDNpdHBITDdmQXNKVWJwa19NY29CYThGYUkxOUJkUW5uMEQ1T2NvbG04TVRmbjAtUlkxX3B4QklENkFIYWs5ZUdydjVKaG5xLXZYMmczOXhRNWhXZElhcnRWcTZseXQ0T3pzVHdPbEdUcXVRc0ZjUXZlU2tDQ1FrMzVYUHQyWDRNeC10dDR1QXpNeHEzMtIB5gFBVV95cUxQbHA3OVhPSjVYRndfQmRKVGN4b3lIcUticDZBRExYS0l6N3BGMVByUDBUT1hKRmJWamdOTlZBR3hUMkFpMHRHV2R4WmtobVpjMWJtUWN6MTVlZ01GOXAyVzZQX3hSMzR2eGFsSkpfVGJ3aF9sN0tCQkdaWW1vbWc0NFEwbzU4OTFaNWhYUVRzTjdrZ0U1ZndCcGFKSmdBVjlLY1lWS3JnRVRNUmRxallhWnBkQlZERGEwckRwcjF1cEtLcEtoVzl6UTMxaEwzY25wM2p5anBRcVFxbVVnZVprQkdueWpqUQ?oc=5) - _The Economic Times, 03 Nov 2026, 12:37 AM IST_
-- [Price Action: Bank of Baroda shares gain 3% post Q2 results; Maruti Suzuki jumps on 21% rise in October...](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTUpMdDVreW5PcnlwNWpFSmxmX0oyUHlvV2RDX0g3OHRhdDVrS1c4dGd6M3htcWZxcTNlejRkc2FSdUFNY2hJc250RG5ubE5BRHNsZU1JaFpXVmc5cV9wQ0JJcDFhVFd2UjVva2lhSEM1RUU1S28yNV8wdHpSWjNQdTJOV3dZNm1UYWFxOWNNZ0dFQXR1RlFUWG5JaEU2U2x6UHRVQ2ZVTFdhN3hOZXozOEEtMHI2M01SSF8wbGUzVnl0R2dRM0RfSlVwUy14Ym5LeHRKaUd6YWRJd3M3UXlQNFEyaU9XZzZyWktmaGZBbUJTTFdKRXc4azFMTGQ2T0nSAYQCQVVfeXFMTXhXNm1DQlM5d2NfR2ZwNjMxZ1RxUmFRR2tqbTJSNjBjQ25zSS1xZG9WWHcxVnVVSzJsMm5jRXBLcEI4aHo0ZGEyWEtBbG1QV0tkMWZWSVphbkRhNU9BYk01VjBCQkprMTlBNlczTGU1MEZpY3VGZFhHbG5zSFBBUHZHS1AtcHhEYUhOcDJwbWU2cWFadHBlamtlcll3ZVJBVEVQby02TzhLeXpDajZSejJKM1ROb2lHdUNfMGN2eDZFa1hBMmhsMW4wLU1zYk81M2d2NVljOS1ELXBjZEpZV1FXUEZwUi03VDN5ME9fTHdaaC00a25HSlVDS19mRlRwZGU4TWg?oc=5) - _Moneycontrol.com, 02 Nov 2026, 12:12 PM IST_
+- [Price Action: Bank of Baroda shares gain 3% post Q2 results; Maruti Suzuki jumps on 21% rise in October...](https://news.google.com/rss/articles/CBMihAJBVV95cUxNeFc2bUNCUzl3Y19HZnA2MzFnVHFSYVFHa2ptMlI2MGNDbnNJLXFkb1ZYdzFWdVVLMmwybmNFcEtwQjhoejRkYTJYS0FsbVBXS2QxZlZJWmFuRGE1T0FiTTVWMEJCSmsxOUE2VzNMZTUwRmljdUZkWEdsbnNIUEFQdkdLUC1weERhSE5wMnBtZTZxYVp0cGVqa2VyWXdlUkFURVBvLTZPOEt5ekNqNlJ6MkozVE5vaUd1Q18wY3Z4NkVrWEEyaGwxbjAtTXNiTzUzZ3Y1WWM5LUQtcGNkSllXUVdQRnBSLTdUM3kwT19Md1poLTRrbkdKVUNLX2ZGVHBkZThNaNIBhAJBVV95cUxNeFc2bUNCUzl3Y19HZnA2MzFnVHFSYVFHa2ptMlI2MGNDbnNJLXFkb1ZYdzFWdVVLMmwybmNFcEtwQjhoejRkYTJYS0FsbVBXS2QxZlZJWmFuRGE1T0FiTTVWMEJCSmsxOUE2VzNMZTUwRmljdUZkWEdsbnNIUEFQdkdLUC1weERhSE5wMnBtZTZxYVp0cGVqa2VyWXdlUkFURVBvLTZPOEt5ekNqNlJ6MkozVE5vaUd1Q18wY3Z4NkVrWEEyaGwxbjAtTXNiTzUzZ3Y1WWM5LUQtcGNkSllXUVdQRnBSLTdUM3kwT19Md1poLTRrbkdKVUNLX2ZGVHBkZThNaA?oc=5) - _Moneycontrol.com, 02 Nov 2026, 12:12 PM IST_
 - [Maruti Suzuki, Tata Motors PV, other auto stocks rise up to 3% amid strong October sales](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVWhpaGlvVU5ydnllNjdfcjlYYnVCMkNYQmhPTkdLa0VxWEliX2E3TVdtZGUtVHZfeG1ZTExOVUtNcEV6WlhsOW5lRFRQSnlBajNhNXl2NUtqdHoydzNETy14SEdDcVR3Y0ZHTFVIaFRRb1dBZmdFQTU3YnlNcDl6ZVpHb1A5YzhSa0Z3Q1Uwekk4N3J0NjBLN2Jyc2lMTXdRMkNWaThPWU1FZk9fbDc1Y0xua2xoQjVTS0RRMldjWFRQVlRTb19raVd3UWVLSVA0U3E2Z2JzQzRaTDJNeUtld2FpNlTSAeoBQVVfeXFMTWhrUHNfdlFnNWh5WkMwMlJ1a21FM1U2RVRoSkQ5RG1GR3RHTlN0eFN3VmZWZTJYZmhXSmJzZmpVVHFKM19ZOWZ2WGVZVDNaQnlZT05FVTVZa0w5NDNneU1laDF5bkhOZ0hjZUVZcDUtNTc2RTAyc0U1SEk5dE96VjRTZnpsZC1LdVYwdmNrSVBMeDFDS2NBTS11NGd1RE1DUWgyV0J5TXp3RUNIUVF3YW1Lc3NiS2FfVE9KZTBBZmJMZjd1RkE0eVVHN1JpQnRwXzFjYWJYT3NfdE85Yk0tWUhCQnRuR1NHX2Jn?oc=5) - _Moneycontrol.com, 02 Nov 2026, 10:05 AM IST_
 - [Auto Shares Rev Up: Maruti Suzuki, Tata Motors, Ashok Leyland Climb After Strong October Sales](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc1NTUkQydFZTTUNfVlNybWJlMFpaVkFabmU0Y25mX29MQ3VNalRXeFBuaGpmSU93RHJOMVJXVlNjcmlJRzIyLTFBYl9oMVlDSC1KS1M0MDRoTEdQaFF0d29MZUxEdHhZeXJPa0dIczZfeW1jTmVPQjI5V2c1TUVEMmNGblpHM1lUSmNYV1RkT1dRYlMwUWhwaWtPUUtWMWFpZXV5SE1Xd0J3N19BNzVKUVhrbGotc0lralE0dVBWSTV3Q250YVNmRVgxelBIYWVZTllEOFBHM0tMaFB0aWZwU1ZySdIB6wFBVV95cUxPQmdJbTNhX2VycmptQTc5WG0wcGs5SnZrOERBYi1JdTQtSEQ3c3NxZ3V2T3RtTDluQmdkMEFIYjVWX3Z1Ry04cHlPSEtnQ1ctemFtbVA1MTR2alJsRm5ldkFJOTNoWW9MZVR1TmlTQTIybk5GRmpkenpnVnBQNWV1X054OU9mRm9YUENia1dHQzN3dlRLaE5JNlN5X19uMmg1amk2ZXVhR2U5eDFPc2xCNnh1VmJwVHg2SmdKVWY4R0EtR1JRaFVRVVozN0JEcV9oSnNXZlhhLVZWTWhzblNpS0x4TkNvLWthNENj?oc=5) - _NDTV Profit, 02 Nov 2026, 09:47 AM IST_
 - [Stocks To Watch: Infosys, NCC, Maruti Suzuki, Mahindra & Mahindra, Eicher Motors And TVS Motor Company](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUhIUTRfc002bUQ1bFpROW5tTktVN25aMjRmNTgtMTIxMzFvSF9BZWE4MTVoeUVIWEdmS0J4eTFKblRCaXNDNXkzN3JXTzdKZVVIQ1ZISG9ZcDI1Z1MyLWRzUTVCQW5wemtPeHZNdW5nTGNtNUZ1SjY1UlF2Q2Z0MjUxN0NjdzAyYVcxdTRscG9tR01RVXpzcHZPa1F5eWlHc1lQcTdMaUdEZ0RwSlNkVjdLZnowLThJcXhybnZEX0IzMElzWEZ6QlEtSTB5aU5mZEZXTC1B0gHeAUFVX3lxTE84QmU3YnhteXhwNW9qVG0tT2JVcnhLamtIcHpURXpDaUN3dmJKRlZNQm84eTRQOHhpZC04UGhybi0yNjhwaHp3RHNVSnBEcU5FZE9ueFFPV08zaU9XbEFvc3NZdE9wTmhkakNJeHc3RXZzV05KMUhxUmpfdnJJUGJVcVdVLUtuemZkNzhvSGcwX3RkemxWdlRqYWhBZ3A3QW1yemtDYmlmN3VZMjg5RTYyNklZNGVtRlJyOE9wTFZjSjNGZ3gzcnZ3UUZZNnhRdlU1QmVOU05SMjJYZlNzdw?oc=5) - _NDTV Profit, 02 Nov 2026, 06:00 AM IST_
@@ -143,7 +145,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹152.74 | +2.37% | ₹150.88 - ₹156.13 | 23,587,820 | 12,984,079 | 1.82x | 26.93% | ₹138.58 - ₹211.92 |
+| ₹152.74 | +2.37% | ₹150.88 - ₹156.13 | 22,994,941 | 12,984,079 | 1.77x | 26.93% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -174,7 +176,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,440.00 | +3.15% | ₹7,150.00 - ₹7,440.00 | 433,046 | 384,931 | 1.12x | 27.23% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,440.00 | +3.15% | ₹7,150.00 - ₹7,440.00 | 409,109 | 384,931 | 1.06x | 27.23% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -189,8 +191,8 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Royal Enfield Himalayan 750 Launched: Check Engine, Features, Variants And Prices](https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnFsWHlTNjF3SUZGWnBxT1JoUnFJeUdvRHM4dVVNSktJUExkcGtoUUlBcGlVU2VkTUJyZTZyQ0Jlb016aENxal9VVWktbkJKYnVCN0M5YzNZQ2NjTHZWX2oxY19yajJqWU14bWttbGJRVmZMem5vOHUwR3RFczhTa0ZjWnFNa2tDV3VtYld3aGI2WWdUN05fa25pX1JCYVpvbmFQZTVndjJXM1pxQUwtWjdyUUd5Rk42MGNPOFE4UVE5d9IBygFBVV95cUxOeGZsVEo4dEdhdkZyazdPMjE3R3FSd0NUWjUwbTBzZmhlWFloQm5uOXVEMHpBTmVKWDJrdF9PZjM5M25Lb2ZPYW52UmlyLWhVMTRyYWxfNW45M1ZwRUZoTDRJdG5taWYxRktfUnBZSTRzc2JsUVM0ZGxNLVc3bjlVVHdFTlhVT2xvTEZ5MzhTOUptTUEwdWVpRURGRXZ5Rkc1dVpxZFpmUjliVE1OeDFUSjZvZnJTUWhORFZzcFFaNi1OZ1loMEJxZmh3?oc=5) - _NDTV Profit, 03 Nov 2026, 03:59 PM IST_
 - [Royal Enfield unveils three new motorcycles at EICMA 2026 to celebrate its 125th anniversary](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMXBOT1FsRVBTX2FOYnRxWkZWMmJuaUpPRDl3aVJYMnNtbkZDaWdSbTh4dDkzMjlIVGFBNkUwc2RvWnNQaU1xWFVaZkcwTXZVdHNoMktla0FncFJHZVJQaUJZcllXY2tDTE4wcVNUVWl4U3dPUnRaUHRqODNfQjAtX3dKM1lKS20tNTNJRzVZY3BRVDVCNmE4Y3h5NjhFMmJEZEFuN1FMc09aX1d4WmNaVGVOdTNJd0IzN01xWFBtMWp6UEtaQkhyQlAtc01QWGVBb0lQaERtZTBFQmdaWVUycUotSVVXWXljXzdrSjdTUVllSEkxczJHYmo3MC00bjTSAYQCQVVfeXFMTTZVU2hsRXlwbGVuUUFHY2d1THVFRHNlTTQtZnhxaXB3ODlsMVEyem9SYlFhRFNNd3R3a0NvUVM1aTJpa0pEZWt3aGR4QVFyTnNfMndWX2tXR19RYTZfZF9qOThCbUM3UGxnV3phQlNnUGdVSjVCREhKWk5aWHlYdkxRekdDVGhrbEdqYUlwREU1bk9ESTFSbjN0dGZkaDJQX3ZwZHpJUzdPNWhqeUxweDBNSzNPMWFTVWpka3pzVXQweDJkRE5kLUpJUWVpRzlLRVJiTzAzeHZob2lhZTFpY2h1ZjRVSnpMTE9pdDBva0xKT25waU9TTGgxZ2E3cEFxMFZtaVM?oc=5) - _The Economic Times, 03 Nov 2026, 03:08 PM IST_
-- [Eicher Motors Share Price Live Updates: Eicher Motors Trading Strong Above Resistance](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-03-nov-2026/liveblog/135481051.cms) - _Economic Times, 03 Nov 2026, 09:18 AM IST_
 - [Royal Enfield Himalayan 750 unveiled with cruise control, tubeless spoke wheels; India launch in November](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa1had1hyc2VuRVR1c1VFamJIN0FSb3FEVERHVWhMQUFRUmpJNFl3Wnc4dk8tN1h2b0pIU0JrSHo1YVhraC1uUXZiOUxTckZQMEY0a0dzOVRPVURINVJvanpGQ3FoU1lBY01oUTg4eVVCMzlRdGZRYXdsY3JiWTNnUFVUam5GWVdRc25ySldrOU1rc3pETVY2NlM5QmxGWFZfU3lMemZnZC1ZdUxkQVJHWkxSQ3BIWUdORU9uQ0hoMkk5Ny1IaTlqSDl5d0xvb1VIeUs1bl9CZm1US3pFT2JvTmR0dkJLVWxVMmxmTFpwa9IB9AFBVV95cUxPcmJTcVYwZG4tWXdONUJnVjA4ak11NTYyajZGZzk0UHdENzJuZW1HZktLcjV0RWJsdkNuNjdCeGJMajFUTDVDanNQNXhNQWRlRENWaWthYXpSbjdQcHI3TWxfc1BKakZXbHoxM3ZzVVdSQnBYbzc2eE5WM1NteEJHTzFXRFd1RlY0SWlocjlvTGJMR0FpaDZNVzRicmhRZm44ektWaU1fLTlLZjJSTENWQTlsTjA4aDd4VUpGcm1OMFQ2dW5RS2l4WFBDUEtmRXAtUWlGMW93TDNvTG1XOTRxOVRvZTNfd1RhTXhZYlU3UExRX2N4?oc=5) - _Livemint, 02 Nov 2026, 04:20 PM IST_
 - [Stocks To Watch: Infosys, NCC, Maruti Suzuki, Mahindra & Mahindra, Eicher Motors And TVS Motor Company](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUhIUTRfc002bUQ1bFpROW5tTktVN25aMjRmNTgtMTIxMzFvSF9BZWE4MTVoeUVIWEdmS0J4eTFKblRCaXNDNXkzN3JXTzdKZVVIQ1ZISG9ZcDI1Z1MyLWRzUTVCQW5wemtPeHZNdW5nTGNtNUZ1SjY1UlF2Q2Z0MjUxN0NjdzAyYVcxdTRscG9tR01RVXpzcHZPa1F5eWlHc1lQcTdMaUdEZ0RwSlNkVjdLZnowLThJcXhybnZEX0IzMElzWEZ6QlEtSTB5aU5mZEZXTC1B0gHeAUFVX3lxTE84QmU3YnhteXhwNW9qVG0tT2JVcnhLamtIcHpURXpDaUN3dmJKRlZNQm84eTRQOHhpZC04UGhybi0yNjhwaHp3RHNVSnBEcU5FZE9ueFFPV08zaU9XbEFvc3NZdE9wTmhkakNJeHc3RXZzV05KMUhxUmpfdnJJUGJVcVdVLUtuemZkNzhvSGcwX3RkemxWdlRqYWhBZ3A3QW1yemtDYmlmN3VZMjg5RTYyNklZNGVtRlJyOE9wTFZjSjNGZ3gzcnZ3UUZZNnhRdlU1QmVOU05SMjJYZlNzdw?oc=5) - _NDTV Profit, 02 Nov 2026, 06:00 AM IST_
 - [Royal Enfield Himalayan 750: New adventure bike revealed with cruise control, TPMS and five colour options](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU1MtOExrM3pGNk9naWc2TFB0N1NrSmh5c05PRXdjWGVXdmJRbGVJQTUzZnRJU19HakZSUk1CVUhBU2ctdXl5RF9sV3NlSnZ3M3kteXlGSmhLdUVEWGp4VXlHSEpCR3lUNUV6allORHllRGNKT1EtY0phdTBETTNhMVFFemVVUHYtcFJPNlhfSDhrejlZYTUxTE1ucnFxUC1UdzNuN3ViOXhyR005U2JoNE5fN2FrTVFjLUxVRlE0d0ZIMk11Sy0wc2VQMk1JU1dKSVpiRnB0bzNOYUdSSkJzX1hycjVjR3hoVzJ3cTh3cjXSAfYBQVVfeXFMTzA4UlRxaVV3ZWtsTnhheUdEQ1lEYjd5OUlWN2xFVVFPNVhMRUliQzlUM25udUs0bmd2VEdPT3dqY1ZTeFZ5Y19meVR5Y09raGNBZHNtYWNyNlVYNHpHczZTMVNZVU84cjFTTXQwdV9QT1I2WUdRMUlBMG5SWVVfLUx0eUNsanQySGNkNWZlWE8ybVllOTl1bUNUSmlrSFVnQU5nTW5aN0l6b0RkMXdVMmlsWE80SHpMMnVJTndtNDc5akFnbU9WNnJTV3pSMzkzN2thWTBaUHo3UzNnNFJHTzRXaVZHcVFBTFppZE1XSGdWZ015bXpR?oc=5) - _Livemint, 02 Nov 2026, 12:40 AM IST_
@@ -235,7 +237,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹88.86 | -6.63% | ₹87.10 - ₹97.00 | 25,848 | 63,330 | 0.41x | 106.32% | ₹76.41 - ₹130.64 |
+| ₹88.86 | -6.63% | ₹87.10 - ₹97.00 | 25,847 | 63,330 | 0.41x | 106.32% | ₹76.41 - ₹130.64 |
 
 **Research reports**
 
@@ -263,7 +265,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,795.00 | +1.15% | ₹1,759.00 - ₹1,809.50 | 2,352,103 | 3,781,290 | 0.62x | 64.28% | ₹601.35 - ₹1,795.00 |
+| ₹1,795.00 | +1.15% | ₹1,759.00 - ₹1,809.50 | 2,333,673 | 3,781,290 | 0.62x | 64.28% | ₹601.35 - ₹1,795.00 |
 
 **Research reports**
 
@@ -295,7 +297,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹133.17 | -0.92% | ₹132.00 - ₹135.49 | 6,877,126 | 9,196,099 | 0.75x | 34.74% | ₹126.32 - ₹177.20 |
+| ₹133.17 | -0.92% | ₹132.00 - ₹135.49 | 6,113,986 | 9,196,099 | 0.66x | 34.74% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
