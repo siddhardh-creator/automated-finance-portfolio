@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 04 Nov 2026, 03:32 PM IST  |  **Market data as of:** 2026-11-04  |  **Start date:** 2026-10-16
+**Last updated:** 04 Nov 2026, 07:26 PM IST  |  **Market data as of:** 2026-11-04  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -114,7 +114,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹11,995.00 | +1.06% | ₹11,786.00 - ₹11,995.00 | 611,986 | 448,348 | 1.36x | 22.75% | ₹11,170.00 - ₹17,292.00 |
+| ₹11,995.00 | +1.06% | ₹11,786.00 - ₹11,995.00 | 581,588 | 448,348 | 1.3x | 22.75% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -130,10 +130,9 @@ _▲ buy · ▼ sell_
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Maruti Suzuki - Samvat 2083 stock picks! Adani Power, Coal India, 8 others to add in your portfolio this festive season](https://news.google.com/rss/articles/CBMilAJBVV95cUxQakN0WHVSVGhvVWZZaWxLNXlrREpTbDVqYTlTTWE2UUlVMnR1bU5lOWQ4ZU5Xc0g0OERzQ3VTU3NjdFRWSEVYSWtQNGJUVUdxNEdVS1hHR1huUkhLM3FCdFdUUTZoTlJhLXF2cFdKZTQ3OWtNNnJKU0xKMURIdC1uaWxvT0FkWmhKcFhUa0RZVFNBLU1IajZWOVBnV2lXYjMtSmpibWVFM3d3Z2E0U3h0a3c2eVQtVWhIQTF4SW41QXZoemhrTkJfS25YNHdXSW9pc1E0TkpzRWJwQzNDSHNQdjJlVTQ3VnNHQlVfdDBoek9qSDN6YVZpNnM0cV9OMTRmQUh4dVJnUzlKQ1N6OU5GMmlMbkI?oc=5) - _The Economic Times, 04 Nov 2026, 10:32 AM IST_
-- [Maruti Suzuki exports surge 30% in January-October](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2dJSnBMMXp6UXNFVDA2WXdvWVRaeFE3U0ZfUl9jTi1Oc19VbHhOTTREOUdMZTlZbmxCMTFVUEtHdmZDUmxCQll3N0sxREsxb0tseDNpdHBITDdmQXNKVWJwa19NY29CYThGYUkxOUJkUW5uMEQ1T2NvbG04TVRmbjAtUlkxX3B4QklENkFIYWs5ZUdydjVKaG5xLXZYMmczOXhRNWhXZElhcnRWcTZseXQ0T3pzVHdPbEdUcXVRc0ZjUXZlU2tDQ1FrMzVYUHQyWDRNeC10dDR1QXpNeHEzMtIB5gFBVV95cUxQbHA3OVhPSjVYRndfQmRKVGN4b3lIcUticDZBRExYS0l6N3BGMVByUDBUT1hKRmJWamdOTlZBR3hUMkFpMHRHV2R4WmtobVpjMWJtUWN6MTVlZ01GOXAyVzZQX3hSMzR2eGFsSkpfVGJ3aF9sN0tCQkdaWW1vbWc0NFEwbzU4OTFaNWhYUVRzTjdrZ0U1ZndCcGFKSmdBVjlLY1lWS3JnRVRNUmRxallhWnBkQlZERGEwckRwcjF1cEtLcEtoVzl6UTMxaEwzY25wM2p5anBRcVFxbVVnZVprQkdueWpqUQ?oc=5) - _The Economic Times, 03 Nov 2026, 12:37 AM IST_
-- [Price Action: Bank of Baroda shares gain 3% post Q2 results; Maruti Suzuki jumps on 21% rise in October...](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTUpMdDVreW5PcnlwNWpFSmxmX0oyUHlvV2RDX0g3OHRhdDVrS1c4dGd6M3htcWZxcTNlejRkc2FSdUFNY2hJc250RG5ubE5BRHNsZU1JaFpXVmc5cV9wQ0JJcDFhVFd2UjVva2lhSEM1RUU1S28yNV8wdHpSWjNQdTJOV3dZNm1UYWFxOWNNZ0dFQXR1RlFUWG5JaEU2U2x6UHRVQ2ZVTFdhN3hOZXozOEEtMHI2M01SSF8wbGUzVnl0R2dRM0RfSlVwUy14Ym5LeHRKaUd6YWRJd3M3UXlQNFEyaU9XZzZyWktmaGZBbUJTTFdKRXc4azFMTGQ2T0nSAYQCQVVfeXFMTXhXNm1DQlM5d2NfR2ZwNjMxZ1RxUmFRR2tqbTJSNjBjQ25zSS1xZG9WWHcxVnVVSzJsMm5jRXBLcEI4aHo0ZGEyWEtBbG1QV0tkMWZWSVphbkRhNU9BYk01VjBCQkprMTlBNlczTGU1MEZpY3VGZFhHbG5zSFBBUHZHS1AtcHhEYUhOcDJwbWU2cWFadHBlamtlcll3ZVJBVEVQby02TzhLeXpDajZSejJKM1ROb2lHdUNfMGN2eDZFa1hBMmhsMW4wLU1zYk81M2d2NVljOS1ELXBjZEpZV1FXUEZwUi03VDN5ME9fTHdaaC00a25HSlVDS19mRlRwZGU4TWg?oc=5) - _Moneycontrol.com, 02 Nov 2026, 12:12 PM IST_
 - [Maruti Suzuki, Tata Motors PV, other auto stocks rise up to 3% amid strong October sales](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVWhpaGlvVU5ydnllNjdfcjlYYnVCMkNYQmhPTkdLa0VxWEliX2E3TVdtZGUtVHZfeG1ZTExOVUtNcEV6WlhsOW5lRFRQSnlBajNhNXl2NUtqdHoydzNETy14SEdDcVR3Y0ZHTFVIaFRRb1dBZmdFQTU3YnlNcDl6ZVpHb1A5YzhSa0Z3Q1Uwekk4N3J0NjBLN2Jyc2lMTXdRMkNWaThPWU1FZk9fbDc1Y0xua2xoQjVTS0RRMldjWFRQVlRTb19raVd3UWVLSVA0U3E2Z2JzQzRaTDJNeUtld2FpNlTSAeoBQVVfeXFMTWhrUHNfdlFnNWh5WkMwMlJ1a21FM1U2RVRoSkQ5RG1GR3RHTlN0eFN3VmZWZTJYZmhXSmJzZmpVVHFKM19ZOWZ2WGVZVDNaQnlZT05FVTVZa0w5NDNneU1laDF5bkhOZ0hjZUVZcDUtNTc2RTAyc0U1SEk5dE96VjRTZnpsZC1LdVYwdmNrSVBMeDFDS2NBTS11NGd1RE1DUWgyV0J5TXp3RUNIUVF3YW1Lc3NiS2FfVE9KZTBBZmJMZjd1RkE0eVVHN1JpQnRwXzFjYWJYT3NfdE85Yk0tWUhCQnRuR1NHX2Jn?oc=5) - _Moneycontrol.com, 02 Nov 2026, 10:05 AM IST_
 - [Auto Shares Rev Up: Maruti Suzuki, Tata Motors, Ashok Leyland Climb After Strong October Sales](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc1NTUkQydFZTTUNfVlNybWJlMFpaVkFabmU0Y25mX29MQ3VNalRXeFBuaGpmSU93RHJOMVJXVlNjcmlJRzIyLTFBYl9oMVlDSC1KS1M0MDRoTEdQaFF0d29MZUxEdHhZeXJPa0dIczZfeW1jTmVPQjI5V2c1TUVEMmNGblpHM1lUSmNYV1RkT1dRYlMwUWhwaWtPUUtWMWFpZXV5SE1Xd0J3N19BNzVKUVhrbGotc0lralE0dVBWSTV3Q250YVNmRVgxelBIYWVZTllEOFBHM0tMaFB0aWZwU1ZySdIB6wFBVV95cUxPQmdJbTNhX2VycmptQTc5WG0wcGs5SnZrOERBYi1JdTQtSEQ3c3NxZ3V2T3RtTDluQmdkMEFIYjVWX3Z1Ry04cHlPSEtnQ1ctemFtbVA1MTR2alJsRm5ldkFJOTNoWW9MZVR1TmlTQTIybk5GRmpkenpnVnBQNWV1X054OU9mRm9YUENia1dHQzN3dlRLaE5JNlN5X19uMmg1amk2ZXVhR2U5eDFPc2xCNnh1VmJwVHg2SmdKVWY4R0EtR1JRaFVRVVozN0JEcV9oSnNXZlhhLVZWTWhzblNpS0x4TkNvLWthNENj?oc=5) - _NDTV Profit, 02 Nov 2026, 09:47 AM IST_
+- [Stocks To Watch: Infosys, NCC, Maruti Suzuki, Mahindra & Mahindra, Eicher Motors And TVS Motor Company](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUhIUTRfc002bUQ1bFpROW5tTktVN25aMjRmNTgtMTIxMzFvSF9BZWE4MTVoeUVIWEdmS0J4eTFKblRCaXNDNXkzN3JXTzdKZVVIQ1ZISG9ZcDI1Z1MyLWRzUTVCQW5wemtPeHZNdW5nTGNtNUZ1SjY1UlF2Q2Z0MjUxN0NjdzAyYVcxdTRscG9tR01RVXpzcHZPa1F5eWlHc1lQcTdMaUdEZ0RwSlNkVjdLZnowLThJcXhybnZEX0IzMElzWEZ6QlEtSTB5aU5mZEZXTC1B0gHeAUFVX3lxTE84QmU3YnhteXhwNW9qVG0tT2JVcnhLamtIcHpURXpDaUN3dmJKRlZNQm84eTRQOHhpZC04UGhybi0yNjhwaHp3RHNVSnBEcU5FZE9ueFFPV08zaU9XbEFvc3NZdE9wTmhkakNJeHc3RXZzV05KMUhxUmpfdnJJUGJVcVdVLUtuemZkNzhvSGcwX3RkemxWdlRqYWhBZ3A3QW1yemtDYmlmN3VZMjg5RTYyNklZNGVtRlJyOE9wTFZjSjNGZ3gzcnZ3UUZZNnhRdlU1QmVOU05SMjJYZlNzdw?oc=5) - _NDTV Profit, 02 Nov 2026, 06:00 AM IST_
 
 </details>
 
@@ -147,7 +146,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹154.03 | +0.84% | ₹151.75 - ₹155.64 | 13,887,229 | 13,638,190 | 1.02x | 26.98% | ₹138.58 - ₹211.92 |
+| ₹154.03 | +0.84% | ₹151.75 - ₹155.64 | 13,438,327 | 13,638,190 | 0.99x | 26.98% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -178,7 +177,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,420.00 | -0.27% | ₹7,332.00 - ₹7,449.50 | 582,705 | 386,304 | 1.51x | 27.30% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,420.00 | -0.27% | ₹7,332.00 - ₹7,449.50 | 561,394 | 386,304 | 1.45x | 27.30% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -193,11 +192,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Eicher Motors Share Price Live Updates: Eicher Motors News](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-04-nov-2026/liveblog/135521745.cms) - _Economic Times, 04 Nov 2026, 09:19 AM IST_
 - [Trade Spotlight: How should you trade Tanla Platforms, Ather Energy, Eicher Motors, Coforge, DLF, Paytm,...](https://news.google.com/rss/articles/CBMilgJBVV95cUxPYTlhdzJoa0EzZlpJcWRTcDBneDdjaTRLcjVib1p5YjU1SHQtbWluMDlPWWRLZmtpdktpYkFFSThCYU1NeUhnT2NKQUJBMGQ4SWZJSWJfSHJBZ1VlVkRsX0pPQm9zTHRYWlFpakg4d0RZWWFCRlB1NXFlWjBLdnhmcnBjR3A2S0pWTEc2ZVVvQWk5eFdRTEFXbUJ3cWNZRUZCeml1dERPVnZRcDdfWWEyQzJOWFhDaUQ5MGZQLVliR3dHa2VjY2pDRmJWRGM0THQ0djl5SnB2ZjV3QU92SEVkck9JbEM1QjJ1dFRadW41WHROWlFLV3VtZ0g5Njl5dlRIaXFUNk1FRnlsSmJXZTBLS0hYYWV1Z9IBmwJBVV95cUxOWDJuV3E3WFFNSWpnLWJnN0J0OFI3WmRMQ2Y5SnB4Zk1tRE5mV2g4dmF6aUg4eVhRaVNKTUVHZUxBSHlXNmhLWmNEaDRjX0pUZXhjRVA1WDExTklUeWlLY2htTGd4M3hxWlNIQU1OTEFkUG5HQ2piSms4eUpkN1NzTlFJQ29MZHhGbFlSMGU2aGhOZFcyenNTcjlzdEZHUGtaVUR3aXBfTHg2Rndfa2hTSmpaRWRGZWtkZU1iUVdkM1BoU0s1YnBTZ09YQ240ZUtreWNzbmRBU3lQTWJOSTRjRmI3bzNvWkl1cXRBZnhCbjMwX1oxUnNwN2ptbUNQblYyem5WWEcta0F2YjRZeXh5dFQ1eER5cTRhUjVv?oc=5) - _Moneycontrol.com, 04 Nov 2026, 08:06 AM IST_
+- [Eicher Motors - Positive Breakout: These 8 stocks cross above their 200 DMAs](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVDZmX1B4dmROMlJvUGNXdzJvUmdjMENyNy1UcEsxVkZsZ1BhcTBQM1pGZTBtZk14VGV1NG4xTDhpdm9KdDRYNzRkUnZOODVGZk03SUpUam83Q2MzaE1IMUJRRUt4cVZFbG9oU1J5elgwZDZGQzYtLTZQWVhmNF8zTkdyM3FHSDFlVW9wZTlrNzlYc1gwd3hUQU1SV05nbHhLcmk1Q1duUXU2a1dRMVBVby1SMkN1U0JBZjVGdGpfT3dxeW1mRjRrQm4zcWcxZFhDUkd6VlN5eUctNnNEUkE?oc=5) - _The Economic Times, 04 Nov 2026, 08:06 AM IST_
 - [Royal Enfield Continental GT 750 unveiled: What's new & how different is it from the popular GT 650?](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV250ZG4tb0oyRUp5N0Z3MlJHalNZbkQyRXRmNlhGUGItNXpzUWVaSnhtRUZkM1pZQjVxNUlnSmtPZVhrZEthb1JBM1lYWWk3aUYySW9MdXFLTlViVGQxUEV1R2pZeTdpV2doQ2xTdkl0UlNxLXl5LVZPMVpGblFQTHlrWHRZN0RnaEIxd3VNWTBLQ0JJWTZpNnZfV08wNWdJR01CZ2xUWXNIdlJWZk5iTEV4bmJYcTVnRml3NjdpN2dSQ09HZzBpaWp0MXNQczFoak9PSWd5Yk9GZEVROGJqTEVHY1F4dV94S2pIRjBWZnZfcGhJYVRTNWJn0gH_AUFVX3lxTE02Unk2d1A2VS1zblplRFI2U2VsZTJBME9wNTVldnhMUnlSYmlmMDE5Sl8wbXZsRzR4MWhYbmpxT0R1YnRnbFNzMllQR2cteUpPeHNMOUZIeF9QTTZvdzFOZmdRY3JVNG1ibzNlOWw4dnctS3VIRnljMjJYQzI2WGZ6c3NWX241SVBHMWNNZENJalN1WUhIelBhbXQ4TTd4dmJmSlA1dDQ0a0RxYm9QWGEwcHJRcnJQN29DUUNyZHB1dW1MbmJDMUU0cWJHZW9kTTZQbF9XYWQ1ZVFKM1VWMjBpSmdzTV9IZUVVUlEzSVoyclZBZVN1SG5FV1pYQmFSdw?oc=5) - _The Economic Times, 03 Nov 2026, 05:37 PM IST_
 - [Royal Enfield Himalayan 750 Launched: Check Engine, Features, Variants And Prices](https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnFsWHlTNjF3SUZGWnBxT1JoUnFJeUdvRHM4dVVNSktJUExkcGtoUUlBcGlVU2VkTUJyZTZyQ0Jlb016aENxal9VVWktbkJKYnVCN0M5YzNZQ2NjTHZWX2oxY19yajJqWU14bWttbGJRVmZMem5vOHUwR3RFczhTa0ZjWnFNa2tDV3VtYld3aGI2WWdUN05fa25pX1JCYVpvbmFQZTVndjJXM1pxQUwtWjdyUUd5Rk42MGNPOFE4UVE5d9IBygFBVV95cUxOeGZsVEo4dEdhdkZyazdPMjE3R3FSd0NUWjUwbTBzZmhlWFloQm5uOXVEMHpBTmVKWDJrdF9PZjM5M25Lb2ZPYW52UmlyLWhVMTRyYWxfNW45M1ZwRUZoTDRJdG5taWYxRktfUnBZSTRzc2JsUVM0ZGxNLVc3bjlVVHdFTlhVT2xvTEZ5MzhTOUptTUEwdWVpRURGRXZ5Rkc1dVpxZFpmUjliVE1OeDFUSjZvZnJTUWhORFZzcFFaNi1OZ1loMEJxZmh3?oc=5) - _NDTV Profit, 03 Nov 2026, 03:59 PM IST_
-- [Royal Enfield unveils three new motorcycles at EICMA 2026 to celebrate its 125th anniversary](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMXBOT1FsRVBTX2FOYnRxWkZWMmJuaUpPRDl3aVJYMnNtbkZDaWdSbTh4dDkzMjlIVGFBNkUwc2RvWnNQaU1xWFVaZkcwTXZVdHNoMktla0FncFJHZVJQaUJZcllXY2tDTE4wcVNUVWl4U3dPUnRaUHRqODNfQjAtX3dKM1lKS20tNTNJRzVZY3BRVDVCNmE4Y3h5NjhFMmJEZEFuN1FMc09aX1d4WmNaVGVOdTNJd0IzN01xWFBtMWp6UEtaQkhyQlAtc01QWGVBb0lQaERtZTBFQmdaWVUycUotSVVXWXljXzdrSjdTUVllSEkxczJHYmo3MC00bjTSAYQCQVVfeXFMTTZVU2hsRXlwbGVuUUFHY2d1THVFRHNlTTQtZnhxaXB3ODlsMVEyem9SYlFhRFNNd3R3a0NvUVM1aTJpa0pEZWt3aGR4QVFyTnNfMndWX2tXR19RYTZfZF9qOThCbUM3UGxnV3phQlNnUGdVSjVCREhKWk5aWHlYdkxRekdDVGhrbEdqYUlwREU1bk9ESTFSbjN0dGZkaDJQX3ZwZHpJUzdPNWhqeUxweDBNSzNPMWFTVWpka3pzVXQweDJkRE5kLUpJUWVpRzlLRVJiTzAzeHZob2lhZTFpY2h1ZjRVSnpMTE9pdDBva0xKT25waU9TTGgxZ2E3cEFxMFZtaVM?oc=5) - _The Economic Times, 03 Nov 2026, 03:08 PM IST_
+- [Royal Enfield unveils three new motorcycles at EICMA 2026 to celebrate its 125th anniversary](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWVNndkdSWUNubFpwWHItQXlRaGpHTzI0SlZzU1RsRUhiU3RIOE5pSXFQT0VzYlF4Sllvek82bmZHQUFHaElNS2RCcGsyWjZvb0ZMTVRSVjl1N0pJaDdqNURTV1ZDSWhYZS01dGx3T1dmQzduRDJuWVl0Sl9pNUdxX3RjTldFNkF6MEJBb1NQQXdVUDhuWFlOeHlzN09wSlA2dm9vRTVIdWowLWhUd2hqN3BfN1phX3gtbnhpQXBRZlhvbkNwVjFzV0c2YmxmWTFZUXQydUZ0LVFVODJmQkFFZUZFbVZYbjE4X3VJNVlIOXlMSFFHSnQ0MFp0Q25SdkdJU1FiR0YxRm5uemfSAYQCQVVfeXFMTTZVU2hsRXlwbGVuUUFHY2d1THVFRHNlTTQtZnhxaXB3ODlsMVEyem9SYlFhRFNNd3R3a0NvUVM1aTJpa0pEZWt3aGR4QVFyTnNfMndWX2tXR19RYTZfZF9qOThCbUM3UGxnV3phQlNnUGdVSjVCREhKWk5aWHlYdkxRekdDVGhrbEdqYUlwREU1bk9ESTFSbjN0dGZkaDJQX3ZwZHpJUzdPNWhqeUxweDBNSzNPMWFTVWpka3pzVXQweDJkRE5kLUpJUWVpRzlLRVJiTzAzeHZob2lhZTFpY2h1ZjRVSnpMTE9pdDBva0xKT25waU9TTGgxZ2E3cEFxMFZtaVM?oc=5) - _The Economic Times, 03 Nov 2026, 03:08 PM IST_
 
 </details>
 
@@ -211,7 +210,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,390.50 | +9.27% | ₹5,700.00 - ₹6,468.00 | 216,802 | 15,548 | 13.94x | 41.70% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,390.50 | +9.27% | ₹5,700.00 - ₹6,474.00 | 216,801 | 15,548 | 13.94x | 41.70% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -239,7 +238,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹92.88 | +4.52% | ₹89.97 - ₹94.48 | 12,131 | 63,729 | 0.19x | 107.38% | ₹76.41 - ₹128.74 |
+| ₹92.88 | +4.52% | ₹89.97 - ₹94.48 | 12,116 | 63,729 | 0.19x | 107.38% | ₹76.41 - ₹128.74 |
 
 **Research reports**
 
@@ -267,7 +266,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,840.00 | +2.51% | ₹1,760.20 - ₹1,840.00 | 2,085,994 | 3,732,064 | 0.56x | 64.26% | ₹601.35 - ₹1,840.00 |
+| ₹1,840.00 | +2.51% | ₹1,760.20 - ₹1,840.00 | 1,955,682 | 3,732,064 | 0.52x | 64.26% | ₹601.35 - ₹1,840.00 |
 
 **Research reports**
 
@@ -281,11 +280,11 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Ather Energy among 15 stocks that hit 52-week highs and rallied up to 30% in a month](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbm5uclZ6NDl3bFRaa0NiUDFBdWt4RHJvWDFyTENLUmFBQVpCSl93cWdodEdwNUt0RDJNNzFCWWxjNmF4bXVocUlIWk1lV0stUWluaDR5akJFcEdtS0VuMXVudG9fV2pVT2E1TFhDbHpYUUcwQ2dCcHY2LVVILTRWT0RLN0hqTTR1Z09FRVptVXpsckxkQXFNNWNzYlhfX1ZueV9SS3Z0YmxZblJXRThPWTFNNnNvMXpRSzBxSk51SXV6X2w5S1VRM2ZZdl9ncDNBS2s0ZmRtdU90dHRIZk1Qa1NjSEZhN0U0aXFZ?oc=5) - _The Economic Times, 04 Nov 2026, 07:22 PM IST_
 - [Diwali stock picks, Samvat 2083: Park Medi, HDFC, Paytm, Meesho, Ather among Ventura picks- Which offers highest upside?](https://news.google.com/rss/articles/CBMijwJBVV95cUxPb240aUZBUGlfY1R0MFFXTmdjSnZQRUtybXJPSE13c1pnOHNQUDBVQk1nN1psZnVscldyYU56QVpWZmVNSFBFd05uZDY2MWl3NFBidzZZM0FvdzRFNmxxTTB2eDFmRWV3LVVJa3pJUHhLcVhUVFp6RXNRM0pQSjRFcnRXV1B0NExtODZRYm5oVXZYNmJ2ZThNRXBETmhSVzVlS2RKcENwTVQ1UFJnQTJ5QzJ2VTVBalZsTC1waFlvYW1wSm5hRnVvTzlES0tmX3dTcGhKWVI3YnVKalI4RzdHWmtOczUwX21Hck5PU2FUZUtuZ1dFVW0xNnUxaWFCV1BfOVcybWM1NzlrS2MwVnpR0gGUAkFVX3lxTE5NUmp4NUtEYnduaWgzdzI4aW1UUGhRR1BYYjMwcGJ3UGNyVGx1Rnk5VVdBZHpCdEEtYWlaUDVwaFk5dWtYNGRZOXdjX2NFVGh1aldwVWdRb0NrazdWaHhUT2xJWW0tQ3U2UnFoRndMcHdCcmFvS3ZWTTJDQ3dhakZfeENBN09wbjJDeVVJd1hzc2dEQUJ2OXhEWThfS2NmcF96QzN5dWZudEJUMUk0UktvTU1VMG5OWkQzZHNXQWFPWEJFQXNINjJZRTdCb2JzcHVIQlMzVllTd3A2N1lHUkhjVEJiVUFkN1ZJakxBeHd4Zmg2M0lJUFJDRDAyZW5UZk0yRFlfYnlCbFZMVWctTDdKWVlObg?oc=5) - _Livemint, 04 Nov 2026, 01:32 PM IST_
 - [Bajaj Chetak vs TVS iQube vs Ather Rizta vs Ola S1 X: Range, battery and features compared](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVDdFSnhiSlVzeE5wcVlmMzREeVFmUkY1SXVaaFNITmNHQU1MQndXU1JVQzB2ckVaaHdxSmRTd1VLaGMyQ0hQUU5zSEt3LUNOb003cGlyUFZ5X1ZlQzc4TnFuSFR4R0Fab1BLUEd5QmpJMnpLN1VBSzRBdHNYM3ZCTldSZVlVUVhabHVkSlVVMjdxMEU2aFZ6R2JQdFNYUnJhYlNsNWYwN01LU0RrNmRZUVpPUlI0WVMxOUxEdGtaUmNpbllpaWNnWjhTbWtrbHJCTFY3cGx3SzNzR1nSAeABQVVfeXFMUFpETXV6WnczMjVERjFZVnUyeVdCMmR6RzYzVG5UMUpka09UYll1ekxuczhya2pYRDJwODRIT3FNTkkydkJMMTdyMjRsZjRZbS1MSlVLNnBjUHdHTlNCU2hINkpSd3JhV3E1NnoxZGNRLTNBS283Z1FPYUJIRXNpcllvQUFnNlFUckhlRWJ6TkxnenBtVFNhZ1NZdlpRNEJWVGJlSlNKUUI4Y0ZFdkNLbTdNNFphTkItZjNWazZxVlpvUGh1QXc4Mm5pbWlDNmozQjc3M2hyZkJlNmJGdVFCS1Q?oc=5) - _Livemint, 04 Nov 2026, 10:52 AM IST_
 - [Trade Spotlight: How should you trade Tanla Platforms, Ather Energy, Eicher Motors, Coforge, DLF, Paytm,...](https://news.google.com/rss/articles/CBMilgJBVV95cUxPYTlhdzJoa0EzZlpJcWRTcDBneDdjaTRLcjVib1p5YjU1SHQtbWluMDlPWWRLZmtpdktpYkFFSThCYU1NeUhnT2NKQUJBMGQ4SWZJSWJfSHJBZ1VlVkRsX0pPQm9zTHRYWlFpakg4d0RZWWFCRlB1NXFlWjBLdnhmcnBjR3A2S0pWTEc2ZVVvQWk5eFdRTEFXbUJ3cWNZRUZCeml1dERPVnZRcDdfWWEyQzJOWFhDaUQ5MGZQLVliR3dHa2VjY2pDRmJWRGM0THQ0djl5SnB2ZjV3QU92SEVkck9JbEM1QjJ1dFRadW41WHROWlFLV3VtZ0g5Njl5dlRIaXFUNk1FRnlsSmJXZTBLS0hYYWV1Z9IBmwJBVV95cUxOWDJuV3E3WFFNSWpnLWJnN0J0OFI3WmRMQ2Y5SnB4Zk1tRE5mV2g4dmF6aUg4eVhRaVNKTUVHZUxBSHlXNmhLWmNEaDRjX0pUZXhjRVA1WDExTklUeWlLY2htTGd4M3hxWlNIQU1OTEFkUG5HQ2piSms4eUpkN1NzTlFJQ29MZHhGbFlSMGU2aGhOZFcyenNTcjlzdEZHUGtaVUR3aXBfTHg2Rndfa2hTSmpaRWRGZWtkZU1iUVdkM1BoU0s1YnBTZ09YQ240ZUtreWNzbmRBU3lQTWJOSTRjRmI3bzNvWkl1cXRBZnhCbjMwX1oxUnNwN2ptbUNQblYyem5WWEcta0F2YjRZeXh5dFQ1eER5cTRhUjVv?oc=5) - _Moneycontrol.com, 04 Nov 2026, 08:06 AM IST_
 - [Buy Ather Energy; target of Rs 2050: ICICI Securities](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3hKTUtrQ2RsNWk5bUZKRXNjQmYtYURveDFER3FOOGR1Mjlza3dObmlkX0dBX2VkN0t4QmR0Z09TekhLQzhMazdZX3Q0YmdKVXhfTDBzSUdleUtzU3UxZHBKYmsyMmhObnVNVFZIeWM3SDlVU2k1cEpYLXdTdXZXaEVYYWJ2WUNEUzhJd2FjZEUxSE4xenBYR2tVYk9pWFlqWkJHZFQyRVBTREFj?oc=5) - _Moneycontrol.com, 03 Nov 2026, 03:23 PM IST_
-- [Ather Energy To Laurus Labs: Top Five Multibagger Stocks Of Samvat 2082; Do You Own Any?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjJfYU40NjZUeDRlNWRxQW9sMTdUVzBkY0g4X09KbGJuei1fT0pqUTVmb2tzekJpSmp4U2psY0duUVc1YTJLZnljbFJHTTJFdlFaa01Ed3hEWGd3MkVEdGFOaE5JQVRFNnRvY0hmck12TEdndWFCNnhiR2RhX1d3eWlNZl9ZWFdWTFVXekV3a09vVE5pZFgtamtzbURNOHpLWkJuQTl4anM0c2V4TGpOUERCTmM1ZUZlRGxQS3BzTWpBaTQ5QUVwd9IB0AFBVV95cUxOMjdiTGRzMDJFZ2xMdnp3bWFtUkpqVGtYUlJvRFUzbm1TU1lmeFBmWTlVdGhPTXdBRWtQMTluSVZfMDNFSVZfclFkSTNaRWl5VzVMWEpSenFkM0hEdU45MExaYThCOVlMTnY2RTBnb0RsaW9OenkxVWUwMHRibWlfMFh4ZGsxR0VxblQ4NUpFYlNRX3J2Tl9HMGRuZ1FzQ1liNGR6SEI2MEZFTDNTdjBOeElwemx4TFFqc1ZrbFZROThTUF9YZk52Vm5YRDJsU0Nq?oc=5) - _NDTV Profit, 03 Nov 2026, 06:00 AM IST_
 
 </details>
 
@@ -299,7 +298,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹133.90 | +0.55% | ₹132.80 - ₹135.30 | 5,765,479 | 8,719,155 | 0.66x | 34.57% | ₹126.32 - ₹177.20 |
+| ₹133.90 | +0.55% | ₹132.80 - ₹135.30 | 5,594,458 | 8,719,155 | 0.64x | 34.57% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -331,7 +330,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,421.70 | -1.09% | ₹1,413.90 - ₹1,455.00 | 7,504,463 | 58,658,789 | 0.13x | 15.17% | ₹1,417.50 - ₹1,437.40 |
+| ₹1,421.70 | -1.09% | ₹1,413.50 - ₹1,455.00 | 7,504,456 | 58,658,789 | 0.13x | 15.17% | ₹1,417.50 - ₹1,437.40 |
 
 **Research reports**
 
@@ -345,11 +344,11 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [S&P affirms Reliance Industries' 'A-' credit rating, cites Jio listing, stronger earnings](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbmxQNURfWjJLMzJBempOVGUwSmNOaGdEWkNSQUZmNHp4dGZ2UVdUVWJ5NXQ1eTI4dTNndWQzTUx6T3JfWlJkY2liMTlXS2x5cWZxRnJpVnYzNnIya2NJRFRndk80b1Y2VkJQV0twN0o2UjlyR3FsNVREbk1OYWVGZjdRWThEakxzOFg3ajVKamdHU2pIb25HbDRZVy1hTFhRcnhjUHowaHBGeGFoOHJuMTRHNVM0OEJ0VU9EQVJLTG5tS1hvcFdYb0N2Q3lFT3VUTXJzeVU5ckVuMHhEVjN4NjF2RDVuWWZPZFBfbE9PQW1YYjU0aG9qeS130gH_AUFVX3lxTE4yai0yMjFjUWNuX2liTnhsZzFld1hlOU5YZFVzM2VZODNEZG5aOEoyUXVlNXJsdDhySEVSelFfUXJWX0x2RXlkQ3NtSTFvc2FQVk8wMUw1Xy0wRDA1c0d6ZzNGcUVzTmdqZFRNVUlqWFdNUHNaaEM3ck1TcFZTMFhlUjJkdGZpMVJ1MklwYnk2QmVjeEFXZGQ5VGUyazUxa0gtcXpHVHh6Y3VHdXdlZlViUkxFcGxYbUZsWE5NY2dHV1RtMmUwLU5ZUmszazlXUlVGQUhVWnV6YmhvaS1HZWYwRGdpOHZ1dW8xRGIyWUc3UTNzR1hJVHhCcmtJQnJ2QQ?oc=5) - _The Economic Times, 04 Nov 2026, 01:20 PM IST_
 - [Infosys, Wipro out; Jio, LIC in: India’s top companies by market cap in 20 years](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1JZTTVzdi1MM09fOU8zLVY4ZGtwb3FrN1YyYUotTjBBY3ZhUVR3TDJYS3llcnJDX1BNWURfWTk3Z1E2RGQ0Q2tqcERSM1V6WTdKdXFjUXE2VXkwZUFGMTB2ZEMtc2FEdE8zVlItb0lrT1lRSWlFRzFZNm9fRGNTWExqU3BGYzFhbUkyeHV2SktGRHJtSEgzemptSk9nbFN2aFE3MUkwcmhKbThtSGZqZDJMbzhRMmRodjJhMnZkX0RyT3F5Yk9RUDdPWdIBywFBVV95cUxOc1JZTTVzdi1MM09fOU8zLVY4ZGtwb3FrN1YyYUotTjBBY3ZhUVR3TDJYS3llcnJDX1BNWURfWTk3Z1E2RGQ0Q2tqcERSM1V6WTdKdXFjUXE2VXkwZUFGMTB2ZEMtc2FEdE8zVlItb0lrT1lRSWlFRzFZNm9fRGNTWExqU3BGYzFhbUkyeHV2SktGRHJtSEgzemptSk9nbFN2aFE3MUkwcmhKbThtSGZqZDJMbzhRMmRodjJhMnZkX0RyT3F5Yk9RUDdPWQ?oc=5) - _CNBCTV18, 04 Nov 2026, 12:36 PM IST_
+- [Jio explores tech-for-equity talks with Comcast, Charter Communications](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmdWdE90LUNZb3ItTEhpMlRGbEtycFV2VzIzamtFeUo4aFhEWEt0WGdEcWIwanl1czg4WFp5Tzd4MFlwV2l2SjFfYk80U1duRzVadUxfbGRQUGZ5YW5VNUFKNHJWcGhZN0VocHZTSWRuUVItd0ZMV29FMmFWeUFIdG5PSWJvQ2VYSkJmYVo0N2xtNXhoVWtfUUtTUE1NN0VfaktETWNUX29KVHpHRVBSV0FsUUNxdWFHSHl0S0FyV05mR1VpWDFIUGFkanNrLXdtZWlab21iMHhOMk3SAdsBQVVfeXFMTnJnVnRPdC1DWW9yLUxIaTJURmxLcnBVdlcyM2prRXlKOGhYRFhLdFhnRHFiMGp5dXM4OFhaeU83eDBZcFdpdkoxX2JPNFNXbkc1WnVMX2xkUFBmeWFuVTVBSjRyVnBoWTdFaHB2U0lkblFSLXdGTFdvRTJhVnlBSHRuT0lib0NlWEpCZmFaNDdsbTV4aFVrX1FLU1BNTTdFX2pLRE1jVF9vSlR6R0VQUldBbFFDcXVhR0h5dEtBcldOZkdVaVgxSFBhZGpzay13bWVpWm9tYjB4TjJN?oc=5) - _Business Standard, 04 Nov 2026, 08:08 AM IST_
 - [How Jio is unlocking hidden value for Reliance shareholders](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeFdFT0JfQ2RFaTVXTXREQ0lJZVdzYTItZlNWQnpiX1ZaYlBIaWUzVUl2ZF9NcmJtZDVuVUFlQzh6RXdwekpMNmFvTlpJZGVVb0ZPbEwzNmsxbnRZdkZrOU9QNER4QktQMFA3X2tqakk5M1JIZy1wT2NUWWYxRExIVHpSaldQSFhOTHVKV3B0a1UyaU1INlRnamFxT2huOHR6QUFMZnRFTmRKWEpYSFNmWDczVkF5dUNJakFzRWs0NTBPWHVOaER4aWtTcWNFaTBzcTEyYUhvWdIB3AFBVV95cUxObEI1bkFrZ2R6SDI4TTJDSUd4aVJBQzIyNEtzUHl0d2t0REFQcUtEVjZsbmVuRWtPU3hFNlQ0dXl1a2ZNX09CNnB0RnN0eVl0Q2w3N2hKLVJ3YWNnUFRiZHpyRTRCNF9SMDh0bVZqZUIwSk1nVDFxZGRLeTlfUVRSV1VIOFFlWDVGQkZhZkRkcGlYS0ZwbHpncGRqQ3kycF8zTkFiclRkZzlRd1g5Yi1qTWNpVktOQUV2T0tmalpZdnRMVjItZ0t1RThRRDlRV083WEJaR01pVVlXYzdO?oc=5) - _Livemint, 04 Nov 2026, 06:30 AM IST_
-- [Ambani's Jio Platforms explores tech-for-equity talks with Comcast and Charter, sources say](https://news.google.com/rss/articles/CBMilwJBVV95cUxNaW5PSmZQcElXc3Z2VGpTX0M3eTdOWlZnTkJRV3pzWWdDb0g1V0ptSVpEamFkY1c2bEhDSTBXcXpwNmExa3pBS3ZWYVZLNDJZV2ZpSnljOWV3U2RKZTFUTjNQZHpZenFxa0tnWGtNd21xWnNmQ0ZCWXRMcHdGb29acmdHZFRudWs1WXg5Y19ISW0tTnVIS0FMZkVialV1a013NGFqSU12ZXdTYW50eTZ4VXhlTVQzWU9ZczJPQlFhcXJVR0JReUpCTng5Vi1LbHpzdTQ3bEJKTDQxUmYtRjRudXduNGtfT2hlV2U3TnozZlZHRmRrSEhjalA2aFhPMUNBMG10VnVKYjFXTlFwX2Z3TVVITV9iQUHSAZwCQVVfeXFMTjlwUGRESkUtQXhubzhRYWF5OWRFVlRLNkZfNHhBUkRMV3hlQmZ5VmNUUHlNMDFDRWp2cXNidFZMY3J6bk90RDU4WUNVdWdNbllQaFo3Y1lKVUFJRjFqc3JqbUExLUtJZEUyUHBWZjR3S2NEWTNfWkk3SUJQTl83bVFWajQ4WkhTNF9GR0tWRHNEdDhwZDJmdGlBTmdseVFRb2xBZkVGUjViZHpuT19OMmpnalBNNzJyY0MtbmtYYWoteU1mSDVFeGdMZ1NINzQ0TVR5MjlpUmxXT3cxMFBSSXNuWkx1dk0wS1Uwekx1dlhHQTdOZWlXVU5qUWczQ3FUalJUR2dOYVd1d2tVV1A0aldKSEVNcU1hX25UMUs?oc=5) - _The Economic Times, 04 Nov 2026, 01:20 AM IST_
-- [India's Reliance posts best day in over six years as oil business, Jio Platforms lift outlook](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5) - _Reuters, 03 Nov 2026, 01:58 PM IST_
-- [Blockbuster IPO debut of BLS Polymers; 3 times premium as compared to Jio Platforms - All details for investors here](https://news.google.com/rss/articles/CBMikAJBVV95cUxOZnVDY09DWE9nOTJWaVVHVVFIQmc0SGRubFo3Z3JQWExMVV9aNVdqM0E4dTlyQXpGckdkbmRqdDZvV281RnRPYUNGbEZzeml4MWRHZGw0ZVBrd01FWS0tWGlXVkhEQnFiUzdHQ1N2QU9GaGpoeXpSMGVhTzdXeHczazhlNXpFOEtjcktuZ2lVVVk2YTU1b0Y1dHZvV2hTT2dUaWg5Sk9OeFZnNUIzY1RHb2IxLU1xWWJoQUQ4bEZLa2xtVlVzcldLLU1mSk1FczljMnJ0aGFBWWNVN3JOeGJKTnpFTHlzSUpfNExZOWVNZEsyaGt1d1p1YkNRWUw0TkxKSUNlSGdMZDVETXphTjZlU9IBlgJBVV95cUxOY1hwX21YaVRFS28zYnNoem9vTHNLLXk4OEJKVi1Yb2Jvdm0xVmxhT3p4ZVZqSm02TlJvT2I0TEZWcmVkSWVqSm9rMGlCZ0dodGMyemJaMWtaNTY2V0JCa0pxSFgzbGhPd3I0elJaQTZtUUY3NnNGYlBveGRvVDFhRFVzLWVWbjQ4RkdzaHU4dERwN3RpWG91OTBXdkhFRC1XZ0hXVDlhaEdPbXpNeTI4Y3dVTV9FZXZMamdFRlNtelhBbVFfemRHZENCemZpOFNacF9haFU1N1RHSVY1RXVrdFZaOTQ2cjIzNFpOOHBhZTdLVmV0WVpZUjhEX0J5bkw0cU9abGZLMVdTNGhNSmU2UXh4dDZfUQ?oc=5) - _Livemint, 03 Nov 2026, 11:05 AM IST_
+- [Ambani's Jio Platforms explores tech-for-equity talks with Comcast and Charter, sources say](https://news.google.com/rss/articles/CBMiowJBVV95cUxQZm9XZ0VIQnNtSjd4OVNiWjZXbHBsU3JFQWFMSVRQS085YnE4WE9HSnQ0a0pmM2NaQ2NEeVp3U1kwRDd1V296cXhfblUza2ljX2M3X0lYVGdUeXB4YzRZajhUN3JDTkJhRVhRX25ndjh2eDJmWVdiWVFfTUYycFN0cDdJWHFPMzBEcVhhMDc1S3NxSFU2R01FRjNva1FvVmNybkNkbE1zRUZIUkkxaWdZVkZKYUl1Y0Y2bm9aSmdUT2V1YTNxSzVjTzJCODNRbzQ1WWVGdEhYMHVHSG52RzBnckliZFZGc3dZR09ScTBqZnVSUkF0Y1liR1dYNTlFMXE2WkM5NGxEVzhZRDRLajU3NG5QQ3BNT3h2NzR1V2xsZk1QSGM?oc=5) - _The Economic Times, 04 Nov 2026, 01:20 AM IST_
 
 </details>
 

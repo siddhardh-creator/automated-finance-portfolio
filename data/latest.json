@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "04 Nov 2026, 03:32 PM IST",
+  "generated_at_ist": "04 Nov 2026, 07:26 PM IST",
   "as_of": "2026-11-04",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -41,9 +41,9 @@
         "high": 11995.0,
         "low": 11786.0,
         "intraday_range_pct": 1.76,
-        "volume": 611986,
+        "volume": 581588,
         "avg_volume_20d": 448348,
-        "volume_vs_avg": 1.36,
+        "volume_vs_avg": 1.3,
         "volatility_20d_annualised_pct": 22.75,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
@@ -61,18 +61,6 @@
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQakN0WHVSVGhvVWZZaWxLNXlrREpTbDVqYTlTTWE2UUlVMnR1bU5lOWQ4ZU5Xc0g0OERzQ3VTU3NjdFRWSEVYSWtQNGJUVUdxNEdVS1hHR1huUkhLM3FCdFdUUTZoTlJhLXF2cFdKZTQ3OWtNNnJKU0xKMURIdC1uaWxvT0FkWmhKcFhUa0RZVFNBLU1IajZWOVBnV2lXYjMtSmpibWVFM3d3Z2E0U3h0a3c2eVQtVWhIQTF4SW41QXZoemhrTkJfS25YNHdXSW9pc1E0TkpzRWJwQzNDSHNQdjJlVTQ3VnNHQlVfdDBoek9qSDN6YVZpNnM0cV9OMTRmQUh4dVJnUzlKQ1N6OU5GMmlMbkI?oc=5"
         },
         {
-          "title": "Maruti Suzuki exports surge 30% in January-October",
-          "source": "The Economic Times",
-          "published": "03 Nov 2026, 12:37 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2dJSnBMMXp6UXNFVDA2WXdvWVRaeFE3U0ZfUl9jTi1Oc19VbHhOTTREOUdMZTlZbmxCMTFVUEtHdmZDUmxCQll3N0sxREsxb0tseDNpdHBITDdmQXNKVWJwa19NY29CYThGYUkxOUJkUW5uMEQ1T2NvbG04TVRmbjAtUlkxX3B4QklENkFIYWs5ZUdydjVKaG5xLXZYMmczOXhRNWhXZElhcnRWcTZseXQ0T3pzVHdPbEdUcXVRc0ZjUXZlU2tDQ1FrMzVYUHQyWDRNeC10dDR1QXpNeHEzMtIB5gFBVV95cUxQbHA3OVhPSjVYRndfQmRKVGN4b3lIcUticDZBRExYS0l6N3BGMVByUDBUT1hKRmJWamdOTlZBR3hUMkFpMHRHV2R4WmtobVpjMWJtUWN6MTVlZ01GOXAyVzZQX3hSMzR2eGFsSkpfVGJ3aF9sN0tCQkdaWW1vbWc0NFEwbzU4OTFaNWhYUVRzTjdrZ0U1ZndCcGFKSmdBVjlLY1lWS3JnRVRNUmRxallhWnBkQlZERGEwckRwcjF1cEtLcEtoVzl6UTMxaEwzY25wM2p5anBRcVFxbVVnZVprQkdueWpqUQ?oc=5"
-        },
-        {
-          "title": "Price Action: Bank of Baroda shares gain 3% post Q2 results; Maruti Suzuki jumps on 21% rise in October...",
-          "source": "Moneycontrol.com",
-          "published": "02 Nov 2026, 12:12 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTUpMdDVreW5PcnlwNWpFSmxmX0oyUHlvV2RDX0g3OHRhdDVrS1c4dGd6M3htcWZxcTNlejRkc2FSdUFNY2hJc250RG5ubE5BRHNsZU1JaFpXVmc5cV9wQ0JJcDFhVFd2UjVva2lhSEM1RUU1S28yNV8wdHpSWjNQdTJOV3dZNm1UYWFxOWNNZ0dFQXR1RlFUWG5JaEU2U2x6UHRVQ2ZVTFdhN3hOZXozOEEtMHI2M01SSF8wbGUzVnl0R2dRM0RfSlVwUy14Ym5LeHRKaUd6YWRJd3M3UXlQNFEyaU9XZzZyWktmaGZBbUJTTFdKRXc4azFMTGQ2T0nSAYQCQVVfeXFMTXhXNm1DQlM5d2NfR2ZwNjMxZ1RxUmFRR2tqbTJSNjBjQ25zSS1xZG9WWHcxVnVVSzJsMm5jRXBLcEI4aHo0ZGEyWEtBbG1QV0tkMWZWSVphbkRhNU9BYk01VjBCQkprMTlBNlczTGU1MEZpY3VGZFhHbG5zSFBBUHZHS1AtcHhEYUhOcDJwbWU2cWFadHBlamtlcll3ZVJBVEVQby02TzhLeXpDajZSejJKM1ROb2lHdUNfMGN2eDZFa1hBMmhsMW4wLU1zYk81M2d2NVljOS1ELXBjZEpZV1FXUEZwUi03VDN5ME9fTHdaaC00a25HSlVDS19mRlRwZGU4TWg?oc=5"
-        },
-        {
           "title": "Maruti Suzuki, Tata Motors PV, other auto stocks rise up to 3% amid strong October sales",
           "source": "Moneycontrol.com",
           "published": "02 Nov 2026, 10:05 AM IST",
@@ -83,6 +71,12 @@
           "source": "NDTV Profit",
           "published": "02 Nov 2026, 09:47 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc1NTUkQydFZTTUNfVlNybWJlMFpaVkFabmU0Y25mX29MQ3VNalRXeFBuaGpmSU93RHJOMVJXVlNjcmlJRzIyLTFBYl9oMVlDSC1KS1M0MDRoTEdQaFF0d29MZUxEdHhZeXJPa0dIczZfeW1jTmVPQjI5V2c1TUVEMmNGblpHM1lUSmNYV1RkT1dRYlMwUWhwaWtPUUtWMWFpZXV5SE1Xd0J3N19BNzVKUVhrbGotc0lralE0dVBWSTV3Q250YVNmRVgxelBIYWVZTllEOFBHM0tMaFB0aWZwU1ZySdIB6wFBVV95cUxPQmdJbTNhX2VycmptQTc5WG0wcGs5SnZrOERBYi1JdTQtSEQ3c3NxZ3V2T3RtTDluQmdkMEFIYjVWX3Z1Ry04cHlPSEtnQ1ctemFtbVA1MTR2alJsRm5ldkFJOTNoWW9MZVR1TmlTQTIybk5GRmpkenpnVnBQNWV1X054OU9mRm9YUENia1dHQzN3dlRLaE5JNlN5X19uMmg1amk2ZXVhR2U5eDFPc2xCNnh1VmJwVHg2SmdKVWY4R0EtR1JRaFVRVVozN0JEcV9oSnNXZlhhLVZWTWhzblNpS0x4TkNvLWthNENj?oc=5"
+        },
+        {
+          "title": "Stocks To Watch: Infosys, NCC, Maruti Suzuki, Mahindra & Mahindra, Eicher Motors And TVS Motor Company",
+          "source": "NDTV Profit",
+          "published": "02 Nov 2026, 06:00 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUhIUTRfc002bUQ1bFpROW5tTktVN25aMjRmNTgtMTIxMzFvSF9BZWE4MTVoeUVIWEdmS0J4eTFKblRCaXNDNXkzN3JXTzdKZVVIQ1ZISG9ZcDI1Z1MyLWRzUTVCQW5wemtPeHZNdW5nTGNtNUZ1SjY1UlF2Q2Z0MjUxN0NjdzAyYVcxdTRscG9tR01RVXpzcHZPa1F5eWlHc1lQcTdMaUdEZ0RwSlNkVjdLZnowLThJcXhybnZEX0IzMElzWEZ6QlEtSTB5aU5mZEZXTC1B0gHeAUFVX3lxTE84QmU3YnhteXhwNW9qVG0tT2JVcnhLamtIcHpURXpDaUN3dmJKRlZNQm84eTRQOHhpZC04UGhybi0yNjhwaHp3RHNVSnBEcU5FZE9ueFFPV08zaU9XbEFvc3NZdE9wTmhkakNJeHc3RXZzV05KMUhxUmpfdnJJUGJVcVdVLUtuemZkNzhvSGcwX3RkemxWdlRqYWhBZ3A3QW1yemtDYmlmN3VZMjg5RTYyNklZNGVtRlJyOE9wTFZjSjNGZ3gzcnZ3UUZZNnhRdlU1QmVOU05SMjJYZlNzdw?oc=5"
         }
       ],
       "announcements": [],
@@ -104,9 +98,9 @@
         "high": 155.64,
         "low": 151.75,
         "intraday_range_pct": 2.55,
-        "volume": 13887229,
+        "volume": 13438327,
         "avg_volume_20d": 13638190,
-        "volume_vs_avg": 1.02,
+        "volume_vs_avg": 0.99,
         "volatility_20d_annualised_pct": 26.98,
         "high_52w": 211.92,
         "low_52w": 138.58,
@@ -155,9 +149,9 @@
         "high": 7449.5,
         "low": 7332.0,
         "intraday_range_pct": 1.58,
-        "volume": 582705,
+        "volume": 561394,
         "avg_volume_20d": 386304,
-        "volume_vs_avg": 1.51,
+        "volume_vs_avg": 1.45,
         "volatility_20d_annualised_pct": 27.3,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
@@ -169,16 +163,16 @@
       },
       "news": [
         {
-          "title": "Eicher Motors Share Price Live Updates: Eicher Motors News",
-          "source": "Economic Times",
-          "published": "04 Nov 2026, 09:19 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-04-nov-2026/liveblog/135521745.cms"
-        },
-        {
           "title": "Trade Spotlight: How should you trade Tanla Platforms, Ather Energy, Eicher Motors, Coforge, DLF, Paytm,...",
           "source": "Moneycontrol.com",
           "published": "04 Nov 2026, 08:06 AM IST",
           "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPYTlhdzJoa0EzZlpJcWRTcDBneDdjaTRLcjVib1p5YjU1SHQtbWluMDlPWWRLZmtpdktpYkFFSThCYU1NeUhnT2NKQUJBMGQ4SWZJSWJfSHJBZ1VlVkRsX0pPQm9zTHRYWlFpakg4d0RZWWFCRlB1NXFlWjBLdnhmcnBjR3A2S0pWTEc2ZVVvQWk5eFdRTEFXbUJ3cWNZRUZCeml1dERPVnZRcDdfWWEyQzJOWFhDaUQ5MGZQLVliR3dHa2VjY2pDRmJWRGM0THQ0djl5SnB2ZjV3QU92SEVkck9JbEM1QjJ1dFRadW41WHROWlFLV3VtZ0g5Njl5dlRIaXFUNk1FRnlsSmJXZTBLS0hYYWV1Z9IBmwJBVV95cUxOWDJuV3E3WFFNSWpnLWJnN0J0OFI3WmRMQ2Y5SnB4Zk1tRE5mV2g4dmF6aUg4eVhRaVNKTUVHZUxBSHlXNmhLWmNEaDRjX0pUZXhjRVA1WDExTklUeWlLY2htTGd4M3hxWlNIQU1OTEFkUG5HQ2piSms4eUpkN1NzTlFJQ29MZHhGbFlSMGU2aGhOZFcyenNTcjlzdEZHUGtaVUR3aXBfTHg2Rndfa2hTSmpaRWRGZWtkZU1iUVdkM1BoU0s1YnBTZ09YQ240ZUtreWNzbmRBU3lQTWJOSTRjRmI3bzNvWkl1cXRBZnhCbjMwX1oxUnNwN2ptbUNQblYyem5WWEcta0F2YjRZeXh5dFQ1eER5cTRhUjVv?oc=5"
+        },
+        {
+          "title": "Eicher Motors - Positive Breakout: These 8 stocks cross above their 200 DMAs",
+          "source": "The Economic Times",
+          "published": "04 Nov 2026, 08:06 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVDZmX1B4dmROMlJvUGNXdzJvUmdjMENyNy1UcEsxVkZsZ1BhcTBQM1pGZTBtZk14VGV1NG4xTDhpdm9KdDRYNzRkUnZOODVGZk03SUpUam83Q2MzaE1IMUJRRUt4cVZFbG9oU1J5elgwZDZGQzYtLTZQWVhmNF8zTkdyM3FHSDFlVW9wZTlrNzlYc1gwd3hUQU1SV05nbHhLcmk1Q1duUXU2a1dRMVBVby1SMkN1U0JBZjVGdGpfT3dxeW1mRjRrQm4zcWcxZFhDUkd6VlN5eUctNnNEUkE?oc=5"
         },
         {
           "title": "Royal Enfield Continental GT 750 unveiled: What's new & how different is it from the popular GT 650?",
@@ -196,7 +190,7 @@
           "title": "Royal Enfield unveils three new motorcycles at EICMA 2026 to celebrate its 125th anniversary",
           "source": "The Economic Times",
           "published": "03 Nov 2026, 03:08 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMXBOT1FsRVBTX2FOYnRxWkZWMmJuaUpPRDl3aVJYMnNtbkZDaWdSbTh4dDkzMjlIVGFBNkUwc2RvWnNQaU1xWFVaZkcwTXZVdHNoMktla0FncFJHZVJQaUJZcllXY2tDTE4wcVNUVWl4U3dPUnRaUHRqODNfQjAtX3dKM1lKS20tNTNJRzVZY3BRVDVCNmE4Y3h5NjhFMmJEZEFuN1FMc09aX1d4WmNaVGVOdTNJd0IzN01xWFBtMWp6UEtaQkhyQlAtc01QWGVBb0lQaERtZTBFQmdaWVUycUotSVVXWXljXzdrSjdTUVllSEkxczJHYmo3MC00bjTSAYQCQVVfeXFMTTZVU2hsRXlwbGVuUUFHY2d1THVFRHNlTTQtZnhxaXB3ODlsMVEyem9SYlFhRFNNd3R3a0NvUVM1aTJpa0pEZWt3aGR4QVFyTnNfMndWX2tXR19RYTZfZF9qOThCbUM3UGxnV3phQlNnUGdVSjVCREhKWk5aWHlYdkxRekdDVGhrbEdqYUlwREU1bk9ESTFSbjN0dGZkaDJQX3ZwZHpJUzdPNWhqeUxweDBNSzNPMWFTVWpka3pzVXQweDJkRE5kLUpJUWVpRzlLRVJiTzAzeHZob2lhZTFpY2h1ZjRVSnpMTE9pdDBva0xKT25waU9TTGgxZ2E3cEFxMFZtaVM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWVNndkdSWUNubFpwWHItQXlRaGpHTzI0SlZzU1RsRUhiU3RIOE5pSXFQT0VzYlF4Sllvek82bmZHQUFHaElNS2RCcGsyWjZvb0ZMTVRSVjl1N0pJaDdqNURTV1ZDSWhYZS01dGx3T1dmQzduRDJuWVl0Sl9pNUdxX3RjTldFNkF6MEJBb1NQQXdVUDhuWFlOeHlzN09wSlA2dm9vRTVIdWowLWhUd2hqN3BfN1phX3gtbnhpQXBRZlhvbkNwVjFzV0c2YmxmWTFZUXQydUZ0LVFVODJmQkFFZUZFbVZYbjE4X3VJNVlIOXlMSFFHSnQ0MFp0Q25SdkdJU1FiR0YxRm5uemfSAYQCQVVfeXFMTTZVU2hsRXlwbGVuUUFHY2d1THVFRHNlTTQtZnhxaXB3ODlsMVEyem9SYlFhRFNNd3R3a0NvUVM1aTJpa0pEZWt3aGR4QVFyTnNfMndWX2tXR19RYTZfZF9qOThCbUM3UGxnV3phQlNnUGdVSjVCREhKWk5aWHlYdkxRekdDVGhrbEdqYUlwREU1bk9ESTFSbjN0dGZkaDJQX3ZwZHpJUzdPNWhqeUxweDBNSzNPMWFTVWpka3pzVXQweDJkRE5kLUpJUWVpRzlLRVJiTzAzeHZob2lhZTFpY2h1ZjRVSnpMTE9pdDBva0xKT25waU9TTGgxZ2E3cEFxMFZtaVM?oc=5"
         }
       ],
       "announcements": [],
@@ -215,10 +209,10 @@
         "prev_close": 5848.5,
         "day_change_pct": 9.27,
         "open": 5700.0,
-        "high": 6468.0,
+        "high": 6474.0,
         "low": 5700.0,
-        "intraday_range_pct": 13.13,
-        "volume": 216802,
+        "intraday_range_pct": 13.23,
+        "volume": 216801,
         "avg_volume_20d": 15548,
         "volume_vs_avg": 13.94,
         "volatility_20d_annualised_pct": 41.7,
@@ -250,7 +244,7 @@
         "high": 94.48,
         "low": 89.97,
         "intraday_range_pct": 5.08,
-        "volume": 12131,
+        "volume": 12116,
         "avg_volume_20d": 63729,
         "volume_vs_avg": 0.19,
         "volatility_20d_annualised_pct": 107.38,
@@ -282,9 +276,9 @@
         "high": 1840.0,
         "low": 1760.2,
         "intraday_range_pct": 4.45,
-        "volume": 2085994,
+        "volume": 1955682,
         "avg_volume_20d": 3732064,
-        "volume_vs_avg": 0.56,
+        "volume_vs_avg": 0.52,
         "volatility_20d_annualised_pct": 64.26,
         "high_52w": 1840.0,
         "low_52w": 601.35,
@@ -295,6 +289,12 @@
         "pnl_pct": 9.71
       },
       "news": [
+        {
+          "title": "Ather Energy among 15 stocks that hit 52-week highs and rallied up to 30% in a month",
+          "source": "The Economic Times",
+          "published": "04 Nov 2026, 07:22 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbm5uclZ6NDl3bFRaa0NiUDFBdWt4RHJvWDFyTENLUmFBQVpCSl93cWdodEdwNUt0RDJNNzFCWWxjNmF4bXVocUlIWk1lV0stUWluaDR5akJFcEdtS0VuMXVudG9fV2pVT2E1TFhDbHpYUUcwQ2dCcHY2LVVILTRWT0RLN0hqTTR1Z09FRVptVXpsckxkQXFNNWNzYlhfX1ZueV9SS3Z0YmxZblJXRThPWTFNNnNvMXpRSzBxSk51SXV6X2w5S1VRM2ZZdl9ncDNBS2s0ZmRtdU90dHRIZk1Qa1NjSEZhN0U0aXFZ?oc=5"
+        },
         {
           "title": "Diwali stock picks, Samvat 2083: Park Medi, HDFC, Paytm, Meesho, Ather among Ventura picks- Which offers highest upside?",
           "source": "Livemint",
@@ -318,12 +318,6 @@
           "source": "Moneycontrol.com",
           "published": "03 Nov 2026, 03:23 PM IST",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3hKTUtrQ2RsNWk5bUZKRXNjQmYtYURveDFER3FOOGR1Mjlza3dObmlkX0dBX2VkN0t4QmR0Z09TekhLQzhMazdZX3Q0YmdKVXhfTDBzSUdleUtzU3UxZHBKYmsyMmhObnVNVFZIeWM3SDlVU2k1cEpYLXdTdXZXaEVYYWJ2WUNEUzhJd2FjZEUxSE4xenBYR2tVYk9pWFlqWkJHZFQyRVBTREFj?oc=5"
-        },
-        {
-          "title": "Ather Energy To Laurus Labs: Top Five Multibagger Stocks Of Samvat 2082; Do You Own Any?",
-          "source": "NDTV Profit",
-          "published": "03 Nov 2026, 06:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjJfYU40NjZUeDRlNWRxQW9sMTdUVzBkY0g4X09KbGJuei1fT0pqUTVmb2tzekJpSmp4U2psY0duUVc1YTJLZnljbFJHTTJFdlFaa01Ed3hEWGd3MkVEdGFOaE5JQVRFNnRvY0hmck12TEdndWFCNnhiR2RhX1d3eWlNZl9ZWFdWTFVXekV3a09vVE5pZFgtamtzbURNOHpLWkJuQTl4anM0c2V4TGpOUERCTmM1ZUZlRGxQS3BzTWpBaTQ5QUVwd9IB0AFBVV95cUxOMjdiTGRzMDJFZ2xMdnp3bWFtUkpqVGtYUlJvRFUzbm1TU1lmeFBmWTlVdGhPTXdBRWtQMTluSVZfMDNFSVZfclFkSTNaRWl5VzVMWEpSenFkM0hEdU45MExaYThCOVlMTnY2RTBnb0RsaW9OenkxVWUwMHRibWlfMFh4ZGsxR0VxblQ4NUpFYlNRX3J2Tl9HMGRuZ1FzQ1liNGR6SEI2MEZFTDNTdjBOeElwemx4TFFqc1ZrbFZROThTUF9YZk52Vm5YRDJsU0Nq?oc=5"
         }
       ],
       "announcements": [],
@@ -345,9 +339,9 @@
         "high": 135.3,
         "low": 132.8,
         "intraday_range_pct": 1.88,
-        "volume": 5765479,
+        "volume": 5594458,
         "avg_volume_20d": 8719155,
-        "volume_vs_avg": 0.66,
+        "volume_vs_avg": 0.64,
         "volatility_20d_annualised_pct": 34.57,
         "high_52w": 177.2,
         "low_52w": 126.32,
@@ -406,9 +400,9 @@
         "day_change_pct": -1.09,
         "open": 1430.0,
         "high": 1455.0,
-        "low": 1413.9,
-        "intraday_range_pct": 2.86,
-        "volume": 7504463,
+        "low": 1413.5,
+        "intraday_range_pct": 2.89,
+        "volume": 7504456,
         "avg_volume_20d": 58658789,
         "volume_vs_avg": 0.13,
         "volatility_20d_annualised_pct": 15.17,
@@ -422,10 +416,22 @@
       },
       "news": [
         {
+          "title": "S&P affirms Reliance Industries' 'A-' credit rating, cites Jio listing, stronger earnings",
+          "source": "The Economic Times",
+          "published": "04 Nov 2026, 01:20 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbmxQNURfWjJLMzJBempOVGUwSmNOaGdEWkNSQUZmNHp4dGZ2UVdUVWJ5NXQ1eTI4dTNndWQzTUx6T3JfWlJkY2liMTlXS2x5cWZxRnJpVnYzNnIya2NJRFRndk80b1Y2VkJQV0twN0o2UjlyR3FsNVREbk1OYWVGZjdRWThEakxzOFg3ajVKamdHU2pIb25HbDRZVy1hTFhRcnhjUHowaHBGeGFoOHJuMTRHNVM0OEJ0VU9EQVJLTG5tS1hvcFdYb0N2Q3lFT3VUTXJzeVU5ckVuMHhEVjN4NjF2RDVuWWZPZFBfbE9PQW1YYjU0aG9qeS130gH_AUFVX3lxTE4yai0yMjFjUWNuX2liTnhsZzFld1hlOU5YZFVzM2VZODNEZG5aOEoyUXVlNXJsdDhySEVSelFfUXJWX0x2RXlkQ3NtSTFvc2FQVk8wMUw1Xy0wRDA1c0d6ZzNGcUVzTmdqZFRNVUlqWFdNUHNaaEM3ck1TcFZTMFhlUjJkdGZpMVJ1MklwYnk2QmVjeEFXZGQ5VGUyazUxa0gtcXpHVHh6Y3VHdXdlZlViUkxFcGxYbUZsWE5NY2dHV1RtMmUwLU5ZUmszazlXUlVGQUhVWnV6YmhvaS1HZWYwRGdpOHZ1dW8xRGIyWUc3UTNzR1hJVHhCcmtJQnJ2QQ?oc=5"
+        },
+        {
           "title": "Infosys, Wipro out; Jio, LIC in: India’s top companies by market cap in 20 years",
           "source": "CNBCTV18",
           "published": "04 Nov 2026, 12:36 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1JZTTVzdi1MM09fOU8zLVY4ZGtwb3FrN1YyYUotTjBBY3ZhUVR3TDJYS3llcnJDX1BNWURfWTk3Z1E2RGQ0Q2tqcERSM1V6WTdKdXFjUXE2VXkwZUFGMTB2ZEMtc2FEdE8zVlItb0lrT1lRSWlFRzFZNm9fRGNTWExqU3BGYzFhbUkyeHV2SktGRHJtSEgzemptSk9nbFN2aFE3MUkwcmhKbThtSGZqZDJMbzhRMmRodjJhMnZkX0RyT3F5Yk9RUDdPWdIBywFBVV95cUxOc1JZTTVzdi1MM09fOU8zLVY4ZGtwb3FrN1YyYUotTjBBY3ZhUVR3TDJYS3llcnJDX1BNWURfWTk3Z1E2RGQ0Q2tqcERSM1V6WTdKdXFjUXE2VXkwZUFGMTB2ZEMtc2FEdE8zVlItb0lrT1lRSWlFRzFZNm9fRGNTWExqU3BGYzFhbUkyeHV2SktGRHJtSEgzemptSk9nbFN2aFE3MUkwcmhKbThtSGZqZDJMbzhRMmRodjJhMnZkX0RyT3F5Yk9RUDdPWQ?oc=5"
+        },
+        {
+          "title": "Jio explores tech-for-equity talks with Comcast, Charter Communications",
+          "source": "Business Standard",
+          "published": "04 Nov 2026, 08:08 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmdWdE90LUNZb3ItTEhpMlRGbEtycFV2VzIzamtFeUo4aFhEWEt0WGdEcWIwanl1czg4WFp5Tzd4MFlwV2l2SjFfYk80U1duRzVadUxfbGRQUGZ5YW5VNUFKNHJWcGhZN0VocHZTSWRuUVItd0ZMV29FMmFWeUFIdG5PSWJvQ2VYSkJmYVo0N2xtNXhoVWtfUUtTUE1NN0VfaktETWNUX29KVHpHRVBSV0FsUUNxdWFHSHl0S0FyV05mR1VpWDFIUGFkanNrLXdtZWlab21iMHhOMk3SAdsBQVVfeXFMTnJnVnRPdC1DWW9yLUxIaTJURmxLcnBVdlcyM2prRXlKOGhYRFhLdFhnRHFiMGp5dXM4OFhaeU83eDBZcFdpdkoxX2JPNFNXbkc1WnVMX2xkUFBmeWFuVTVBSjRyVnBoWTdFaHB2U0lkblFSLXdGTFdvRTJhVnlBSHRuT0lib0NlWEpCZmFaNDdsbTV4aFVrX1FLU1BNTTdFX2pLRE1jVF9vSlR6R0VQUldBbFFDcXVhR0h5dEtBcldOZkdVaVgxSFBhZGpzay13bWVpWm9tYjB4TjJN?oc=5"
         },
         {
           "title": "How Jio is unlocking hidden value for Reliance shareholders",
@@ -437,19 +443,7 @@
           "title": "Ambani's Jio Platforms explores tech-for-equity talks with Comcast and Charter, sources say",
           "source": "The Economic Times",
           "published": "04 Nov 2026, 01:20 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNaW5PSmZQcElXc3Z2VGpTX0M3eTdOWlZnTkJRV3pzWWdDb0g1V0ptSVpEamFkY1c2bEhDSTBXcXpwNmExa3pBS3ZWYVZLNDJZV2ZpSnljOWV3U2RKZTFUTjNQZHpZenFxa0tnWGtNd21xWnNmQ0ZCWXRMcHdGb29acmdHZFRudWs1WXg5Y19ISW0tTnVIS0FMZkVialV1a013NGFqSU12ZXdTYW50eTZ4VXhlTVQzWU9ZczJPQlFhcXJVR0JReUpCTng5Vi1LbHpzdTQ3bEJKTDQxUmYtRjRudXduNGtfT2hlV2U3TnozZlZHRmRrSEhjalA2aFhPMUNBMG10VnVKYjFXTlFwX2Z3TVVITV9iQUHSAZwCQVVfeXFMTjlwUGRESkUtQXhubzhRYWF5OWRFVlRLNkZfNHhBUkRMV3hlQmZ5VmNUUHlNMDFDRWp2cXNidFZMY3J6bk90RDU4WUNVdWdNbllQaFo3Y1lKVUFJRjFqc3JqbUExLUtJZEUyUHBWZjR3S2NEWTNfWkk3SUJQTl83bVFWajQ4WkhTNF9GR0tWRHNEdDhwZDJmdGlBTmdseVFRb2xBZkVGUjViZHpuT19OMmpnalBNNzJyY0MtbmtYYWoteU1mSDVFeGdMZ1NINzQ0TVR5MjlpUmxXT3cxMFBSSXNuWkx1dk0wS1Uwekx1dlhHQTdOZWlXVU5qUWczQ3FUalJUR2dOYVd1d2tVV1A0aldKSEVNcU1hX25UMUs?oc=5"
-        },
-        {
-          "title": "India's Reliance posts best day in over six years as oil business, Jio Platforms lift outlook",
-          "source": "Reuters",
-          "published": "03 Nov 2026, 01:58 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5"
-        },
-        {
-          "title": "Blockbuster IPO debut of BLS Polymers; 3 times premium as compared to Jio Platforms - All details for investors here",
-          "source": "Livemint",
-          "published": "03 Nov 2026, 11:05 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZnVDY09DWE9nOTJWaVVHVVFIQmc0SGRubFo3Z3JQWExMVV9aNVdqM0E4dTlyQXpGckdkbmRqdDZvV281RnRPYUNGbEZzeml4MWRHZGw0ZVBrd01FWS0tWGlXVkhEQnFiUzdHQ1N2QU9GaGpoeXpSMGVhTzdXeHczazhlNXpFOEtjcktuZ2lVVVk2YTU1b0Y1dHZvV2hTT2dUaWg5Sk9OeFZnNUIzY1RHb2IxLU1xWWJoQUQ4bEZLa2xtVlVzcldLLU1mSk1FczljMnJ0aGFBWWNVN3JOeGJKTnpFTHlzSUpfNExZOWVNZEsyaGt1d1p1YkNRWUw0TkxKSUNlSGdMZDVETXphTjZlU9IBlgJBVV95cUxOY1hwX21YaVRFS28zYnNoem9vTHNLLXk4OEJKVi1Yb2Jvdm0xVmxhT3p4ZVZqSm02TlJvT2I0TEZWcmVkSWVqSm9rMGlCZ0dodGMyemJaMWtaNTY2V0JCa0pxSFgzbGhPd3I0elJaQTZtUUY3NnNGYlBveGRvVDFhRFVzLWVWbjQ4RkdzaHU4dERwN3RpWG91OTBXdkhFRC1XZ0hXVDlhaEdPbXpNeTI4Y3dVTV9FZXZMamdFRlNtelhBbVFfemRHZENCemZpOFNacF9haFU1N1RHSVY1RXVrdFZaOTQ2cjIzNFpOOHBhZTdLVmV0WVpZUjhEX0J5bkw0cU9abGZLMVdTNGhNSmU2UXh4dDZfUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZm9XZ0VIQnNtSjd4OVNiWjZXbHBsU3JFQWFMSVRQS085YnE4WE9HSnQ0a0pmM2NaQ2NEeVp3U1kwRDd1V296cXhfblUza2ljX2M3X0lYVGdUeXB4YzRZajhUN3JDTkJhRVhRX25ndjh2eDJmWVdiWVFfTUYycFN0cDdJWHFPMzBEcVhhMDc1S3NxSFU2R01FRjNva1FvVmNybkNkbE1zRUZIUkkxaWdZVkZKYUl1Y0Y2bm9aSmdUT2V1YTNxSzVjTzJCODNRbzQ1WWVGdEhYMHVHSG52RzBnckliZFZGc3dZR09ScTBqZnVSUkF0Y1liR1dYNTlFMXE2WkM5NGxEVzhZRDRLajU3NG5QQ3BNT3h2NzR1V2xsZk1QSGM?oc=5"
         }
       ],
       "announcements": [],
