@@ -588,7 +588,8 @@ def build_readme(cfg, snapshot):
     L.append("")
 
     # --- Performance
-    L.append("## Performance\n")
+    L.append('<a name="performance"></a>\n')
+    L.append(f"## Performance (as on {snapshot['generated_at_ist']})\n")
     L.append("![Returns](charts/returns.png)\n")
 
     # --- Trade book
