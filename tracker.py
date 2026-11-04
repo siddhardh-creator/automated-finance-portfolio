@@ -103,7 +103,7 @@ def get_history(tickers, period="1y"):
     for t in tickers:
         try:
             df = yf.Ticker(t).history(period=period, auto_adjust=False)
-            if df is not None and not df.empty and df["Close"].dropna().shape[0] > 5:
+            if df is not None and not df.empty and df["Close"].dropna().shape[0] > 1:
                 df.index = pd.to_datetime(df.index).tz_localize(None).normalize()
                 df = df[~df.index.duplicated(keep="last")].sort_index()
                 return t, df
@@ -709,7 +709,12 @@ def main():
 
     closes = pd.DataFrame({k: d["Close"] for k, d in per_stock_df.items()})
     closes["__nifty"] = nifty_df["Close"]
-    closes = closes.ffill().dropna()
+    closes = closes.ffill()
+    # A stock that listed recently has no prices before its listing date. Back-fill those leading gaps
+    # (stocks only) so one new listing does not cut the whole portfolio history short.
+    _stock_cols = list(per_stock_df.keys())
+    closes[_stock_cols] = closes[_stock_cols].bfill()
+    closes = closes.dropna()
     start = min(pd.Timestamp(cfg["base_date"]), min(r["date"] for r in records))
     closes = closes[closes.index >= start]
     if len(closes) < 1:

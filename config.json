@@ -197,6 +197,21 @@
       ],
       "news_query": "\"Bank of India\"",
       "sector": "Financials"
+    },
+    {
+      "key": "jpl",
+      "name": "Jio Platforms",
+      "tickers": [
+        "JPL.NS"
+      ],
+      "weight": 0,
+      "bse_code": "545004",
+      "keywords": [
+        "jio platforms",
+        "jio"
+      ],
+      "news_query": "\"Jio Platforms\"",
+      "sector": "Telecom & Digital Services"
     }
   ],
   "trusted_sources": [

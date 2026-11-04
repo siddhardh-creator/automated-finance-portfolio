@@ -21,3 +21,5 @@ date,stock,type,shares,amount,price,note
 2026-10-27,ather,BUY,1000,,1677.20,Bought 27-Oct-26 at 1677.20 (12:37 PM IST per Upstox quote)
 2026-10-27,,DEPOSIT,,131330,,Fresh virtual money to fund Bank of India
 2026-10-27,boi,BUY,1000,,131.33,Bought 27-Oct-26 at 131.33 (12:54 PM IST per Upstox quote)
+2026-11-04,,DEPOSIT,,1439200,,Fresh virtual money to fund Jio Platforms
+2026-11-04,jpl,BUY,1000,,1439.20,Bought 04-Nov-26 at 1439.20 (10:29 AM IST per Google Finance quote)
