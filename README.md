@@ -2,11 +2,9 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 05 Nov 2026, 05:25 PM IST  |  **Market data as of:** 2026-11-05  |  **Start date:** 2026-10-16
+**Last updated:** 05 Nov 2026, 05:26 PM IST  |  **Market data as of:** 2026-11-05  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
+**Snapshot type:** End-of-day final snapshot
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -32,14 +30,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹12,652.00 | - | ₹11,995.00 | +5.48% | ₹36,69,080 | 14.5% | ₹3,37,270 | +10.12% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹170.21 | - | ₹154.03 | +10.50% | ₹1,70,210 | 0.7% | ₹22,490 | +15.22% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,713.00 | - | ₹7,420.00 | +3.95% | ₹77,13,000 | 30.5% | ₹4,47,000 | +6.15% |
-| Linde India | 500 | ₹5,961.00 | ₹6,308.00 | - | ₹6,390.50 | -1.29% | ₹31,54,000 | 12.5% | ₹1,73,500 | +5.82% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹94.50 | - | ₹92.88 | +1.74% | ₹94,500 | 0.4% | ₹9,500 | +11.18% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,778.60 | - | ₹1,840.00 | -3.34% | ₹17,78,600 | 7.0% | ₹1,01,400 | +6.05% |
-| Bank of India | 1,000 | ₹131.33 | ₹139.00 | - | ₹133.90 | +3.81% | ₹1,39,000 | 0.6% | ₹7,670 | +5.84% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,417.80 | - | ₹1,421.70 | -0.27% | ₹14,17,800 | 5.6% | -₹21,400 | -1.49% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹12,652.00 | ₹12,652.00 | ₹11,995.00 | +5.48% | ₹36,69,080 | 14.5% | ₹3,37,270 | +10.12% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹170.21 | ₹170.21 | ₹154.03 | +10.50% | ₹1,70,210 | 0.7% | ₹22,490 | +15.22% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,713.00 | ₹7,713.00 | ₹7,420.00 | +3.95% | ₹77,13,000 | 30.5% | ₹4,47,000 | +6.15% |
+| Linde India | 500 | ₹5,961.00 | ₹6,308.00 | ₹6,308.00 | ₹6,390.50 | -1.29% | ₹31,54,000 | 12.5% | ₹1,73,500 | +5.82% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹94.50 | ₹94.50 | ₹92.88 | +1.74% | ₹94,500 | 0.4% | ₹9,500 | +11.18% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,778.60 | ₹1,778.60 | ₹1,840.00 | -3.34% | ₹17,78,600 | 7.0% | ₹1,01,400 | +6.05% |
+| Bank of India | 1,000 | ₹131.33 | ₹139.00 | ₹139.00 | ₹133.90 | +3.81% | ₹1,39,000 | 0.6% | ₹7,670 | +5.84% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,417.80 | ₹1,417.80 | ₹1,421.70 | -0.27% | ₹14,17,800 | 5.6% | -₹21,400 | -1.49% |
 
 **Best since buy:** Ashok Leyland (+15.22%)  ·  **Worst since buy:** Jio Platforms (-1.49%)  ·  **Biggest mover today:** Ashok Leyland (+10.50%)
 
@@ -58,7 +56,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 05 Nov 2026, 05:25 PM IST)
+## Performance (as on 05 Nov 2026, 05:26 PM IST)
 
 ![Returns](charts/returns.png)
 
