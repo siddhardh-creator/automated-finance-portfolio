@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "05 Nov 2026, 03:32 PM IST",
+  "generated_at_ist": "05 Nov 2026, 05:25 PM IST",
   "as_of": "2026-11-05",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
@@ -41,9 +41,9 @@
         "high": 12681.0,
         "low": 12250.0,
         "intraday_range_pct": 3.59,
-        "volume": 1215916,
+        "volume": 1203487,
         "avg_volume_20d": 464247,
-        "volume_vs_avg": 2.62,
+        "volume_vs_avg": 2.59,
         "volatility_20d_annualised_pct": 28.68,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
@@ -104,9 +104,9 @@
         "high": 171.94,
         "low": 161.81,
         "intraday_range_pct": 6.58,
-        "volume": 99271993,
+        "volume": 99060299,
         "avg_volume_20d": 13810418,
-        "volume_vs_avg": 7.19,
+        "volume_vs_avg": 7.17,
         "volatility_20d_annualised_pct": 44.15,
         "high_52w": 211.92,
         "low_52w": 138.58,
@@ -117,6 +117,12 @@
         "pnl_pct": 15.22
       },
       "news": [
+        {
+          "title": "Ashok Leyland shares jump over 10% in biggest single-day gain since April; here's what lifted the stock",
+          "source": "Livemint",
+          "published": "05 Nov 2026, 04:43 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWEFmaWd5dnlzb0lLdGo1S0ktMF9OOGNoRzhVV2laMVlQa09LY0VVdnJCRVNtQmZrNHQzM1hsNHdEYjAtQzRwZExWQ29Za1AwdDdXVWMyZ3hNNzZWMFdtNU1tX1hKNFZHakh5R0lDQ2RTcVJlVEh0UDZQNTFiT2FfVHlZUnN1by1FWU5xcVVfNzlUWGtGYklWdFBMcVVqN0RqNFNPZ085eWpzREszTjFQaUszSlg5WEY4RjJ4eUlzcUVTWVctcDYxTFVfOGR4OUVVSmRVTm4tbExiT2Y3RW14VF9vR3I2TmpidF9HVTRROXF6TFp2cjN6ZFVaZG9PVmfSAYQCQVVfeXFMTWpyN0NheGVaNFZLR3h0V2wwWlZKaE9iTVJIc1Q2WW1XWVEzdEpON1BFdzF3bG5oeUE0YW00Sm5ORHI2NTVmd2hIUGp5UkMzYU5aR2drR2lkaFVlaDFERnpQa1J3RUF6MlQxdlFUb3JMa3FpQ25VaXZVWVFfcTMwb1doZVFjUVIwVi1YNHRKVmdPd3dEdm5aVVNmVVhHbmp0UTZUNlRtQWFJRFk1NklxbVZKOHpqZ1BYZHBxTHpOZ0Z4ckhHbzV2a1dnUklQbmdLTVBZN0FMN3ZiZ2tFMXJ3dDk4TWJOUjlNcGRjMkhWM25yVzRyR1BqR2ktVE9NeDNVS2ltSTU?oc=5"
+        },
         {
           "title": "Tata Motors, Ashok Leyland shares rocket up to 12%. Here are 2 reasons fuelling the sharp surge",
           "source": "The Economic Times",
@@ -161,9 +167,9 @@
         "high": 7713.0,
         "low": 7489.0,
         "intraday_range_pct": 3.02,
-        "volume": 991722,
+        "volume": 973748,
         "avg_volume_20d": 402708,
-        "volume_vs_avg": 2.46,
+        "volume_vs_avg": 2.42,
         "volatility_20d_annualised_pct": 29.57,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
@@ -224,7 +230,7 @@
         "high": 6488.0,
         "low": 6275.0,
         "intraday_range_pct": 3.33,
-        "volume": 30689,
+        "volume": 30688,
         "avg_volume_20d": 25521,
         "volume_vs_avg": 1.2,
         "volatility_20d_annualised_pct": 41.85,
@@ -256,7 +262,7 @@
         "high": 97.0,
         "low": 90.8,
         "intraday_range_pct": 6.68,
-        "volume": 23362,
+        "volume": 23341,
         "avg_volume_20d": 64115,
         "volume_vs_avg": 0.36,
         "volatility_20d_annualised_pct": 107.18,
@@ -288,9 +294,9 @@
         "high": 1828.9,
         "low": 1732.0,
         "intraday_range_pct": 5.27,
-        "volume": 6354208,
+        "volume": 6323479,
         "avg_volume_20d": 3620227,
-        "volume_vs_avg": 1.76,
+        "volume_vs_avg": 1.75,
         "volatility_20d_annualised_pct": 66.31,
         "high_52w": 1840.0,
         "low_52w": 601.35,
@@ -351,9 +357,9 @@
         "high": 139.0,
         "low": 135.95,
         "intraday_range_pct": 2.28,
-        "volume": 6991530,
+        "volume": 6888092,
         "avg_volume_20d": 8835075,
-        "volume_vs_avg": 0.79,
+        "volume_vs_avg": 0.78,
         "volatility_20d_annualised_pct": 36.9,
         "high_52w": 177.2,
         "low_52w": 126.32,
@@ -369,6 +375,12 @@
           "source": "BusinessLine",
           "published": "05 Nov 2026, 09:57 AM IST",
           "link": "https://www.thehindubusinessline.com/markets/union-bank-of-india-seeks-ltcg-tax-exemption-on-equity-held-beyond-three-years/article71668599.ece"
+        },
+        {
+          "title": "Buy State Bank of India; target of Rs 1300: ICICI Securities",
+          "source": "Moneycontrol.com",
+          "published": "04 Nov 2026, 08:41 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1lIdEdZbXZFaV9vNFFPWnFaR0RZYVg5NFFJamtVVDhPdkM0b3ZRckxQRVoybUFldlFQNmROUkpiWXowQ2F1QUpNbDdyMm5McnFGYlUyOEpzRkVsNmI3OE5rejY0TVF5SmFZQmhKMHdJd1VXUFhjSUxydG1NdTc2bEZxd0VJRXU1YUFKSVBiMDU1Z3BleElXTUdfWDRQb3ZyZGdtRDY2dEk5V1FrTFZlZGx5YW92dmdP0gG-AUFVX3lxTE41TFJXNGR6elVKeU9OeGd0Z3ZHYmRwcjl6ZVdLZlNfaDZueTVpWEJMbHR6Vkc3aVY3SGFtbDRpaGpUUmh0aUpITGpvMUtxQVVBTzFHYmxncnVsZ29wWGxtZm5jaGFxRGtMcElsVFVfVWROY2dnUldscGcwcFNJei1kb3JBb29XOEJTQkVyWDVFR3hjeUxhTl9lakM5WXlRUTlmNkFidEYyOEVkX2hRc1dYbGNHUTRudW1ocVp1aXc?oc=5"
         },
         {
           "title": "Buy State Bank of India; target of Rs 1350: Emkay Global Financial",
@@ -387,12 +399,6 @@
           "source": "Investing.com India",
           "published": "03 Nov 2026, 06:57 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY2hkY3MxbkRqWG5uWlpXdXZicGk3VUlPdWtkOVIxOXhKQll3aW1ZTDJXRnZxcXVRSkZBQzJhbG5SWnNjNlhZbjJWazBZV2V0Ykg1RWdrZG1MbWtJdVFIUTFNcHVBSVJrWEFCN3cyVDV0OUdFZllaVmV4NTJvbHBva3luU1RQMFRtUy04akk4VjBNUVoxMUxhSXdxNWFuRGNkTGRDVXhYMlh3NTI1VFZRa1gteU1YUV9TVjFWTGVydmNDQ0ZZQmNlcTdPY2w2MG4xTnNwT0ZkSQ?oc=5"
-        },
-        {
-          "title": "State Bank of India quarterly profit rises; to boost cybersecurity after breach",
-          "source": "Reuters",
-          "published": "03 Nov 2026, 05:40 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnFRWGMtM3JxME1pR2FXOWo4NU1Ua1VncXNLa0dqN0RORm5MbTJ2Nk9YcU04cV9mRVVOLVNFTmxrTUVhRVZ3TnhqUC13RXdMUXgzNFQ2TGsxSklSYUp1c3dWMDhpVFJoYnh4NEhvVnh1YWdKTS15Z29NLU5LaEFXVFNZYzhZc01CSGh6enE0UGV1TE9tbkhN?oc=5"
         }
       ],
       "announcements": [],
@@ -414,7 +420,7 @@
         "high": 1443.0,
         "low": 1410.0,
         "intraday_range_pct": 2.32,
-        "volume": 3713748,
+        "volume": 3713736,
         "avg_volume_20d": 50133956,
         "volume_vs_avg": 0.07,
         "volatility_20d_annualised_pct": 13.74,
