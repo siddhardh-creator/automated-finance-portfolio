@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "05 Nov 2026, 10:46 PM IST",
+  "generated_at_ist": "05 Nov 2026, 11:12 PM IST",
   "as_of": "2026-11-05",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
