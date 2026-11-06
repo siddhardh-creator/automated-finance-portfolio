@@ -1,28 +1,28 @@
 {
-  "generated_at_ist": "06 Nov 2026, 01:32 PM IST",
+  "generated_at_ist": "06 Nov 2026, 07:13 PM IST",
   "as_of": "2026-11-06",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
     "initial_capital": 10000000,
     "invested": 17058760.0,
-    "holdings_value": 18072640.0,
+    "holdings_value": 18424459.98,
     "cash": 7141481.89,
-    "value": 25214121.89,
-    "pnl_inr": 615391.89,
-    "pnl_pct": 2.5,
-    "unrealised_pnl_inr": 1013880.0,
+    "value": 25565941.86,
+    "pnl_inr": 967211.86,
+    "pnl_pct": 3.93,
+    "unrealised_pnl_inr": 1365699.98,
     "realised_pnl_inr": -398488.11,
-    "day_pnl_inr": -103180.02,
-    "day_pnl_pct": -0.41,
+    "day_pnl_inr": 288269.95,
+    "day_pnl_pct": 1.14,
     "open_positions": 8
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 24737.85,
-    "return_pct": 7.5,
-    "day_change_pct": 0.82
+    "close": 25030.35,
+    "return_pct": 8.77,
+    "day_change_pct": 2.01
   },
   "stocks": [
     {
@@ -34,24 +34,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/MARUTI:NSE",
       "first_buy": "2026-10-16",
       "metrics": {
-        "close": 12691.0,
+        "close": 12750.0,
         "prev_close": 12652.0,
-        "day_change_pct": 0.31,
+        "day_change_pct": 0.77,
         "open": 12647.0,
-        "high": 12727.0,
+        "high": 12836.0,
         "low": 12451.0,
-        "intraday_range_pct": 2.18,
-        "volume": 629013,
+        "intraday_range_pct": 3.04,
+        "volume": 923703,
         "avg_volume_20d": 493018,
-        "volume_vs_avg": 1.28,
-        "volatility_20d_annualised_pct": 27.2,
+        "volume_vs_avg": 1.87,
+        "volatility_20d_annualised_pct": 27.18,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3680390.0,
-        "pnl_inr": 348580.0,
-        "pnl_pct": 10.46
+        "market_value": 3697500.0,
+        "pnl_inr": 365690.0,
+        "pnl_pct": 10.98
       },
       "news": [
         {
@@ -59,12 +59,6 @@
           "source": "The Economic Times",
           "published": "06 Nov 2026, 10:22 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNHQteWQ5MWtHT2l2dmFrc25WbEVDQUNqNGdtdWktZXFET0tKcUZZM1g0djZxNWlWZk1RQzVqSHh2NE81QUFHS25kZUZra1hYd0ppQXVaNlZHUWY1VVpkM0VLNXFJMW1oMnRMMzFwZjk1UE15VzEzV09ldmIxcklBYm8tRXhtUnowTEVoekF3am4zal9vX1l1TUhfTWhrbUlBTUdZWUUzalo3T0ptTTlmRElwTjJldVg1bmliRERFdTRQcVZSeVJkd0NwSEMtMm90V1BKQWh3U090cUNhRE84NUdoZFVWRThId2fSAe8BQVVfeXFMTk1QWXpGNGIzOHB3dTQ2b1ViajVKYmJHcjVSTFRjOFdqR3VCSnJjRjNIeFlvNGlCcjd5ZnpNdXgwTkxRRUh0US1aS1JlVjRTSHdrLVl5TG1jdkFQNUItLW5YQW1IeHU0ZzNIaUJUeDJ1YXhMYm9rNkxxR1h2Ni1Ld3ZGQjN2NmUwZ1R4MVNDN05lcGtTTndMeVdTRlVkVmNzeEdtVjNFN3M5aWVaYk05MlFfeW0zVlJZOVprT0phUjFtQmJYZFliSmxzVy1tWmdOY3hab1BhdGxWcW5JNzRkRlY3MVotQ0tyTzBDaFZCd3M?oc=5"
-        },
-        {
-          "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Recent Trading Activity",
-          "source": "Economic Times",
-          "published": "06 Nov 2026, 08:18 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-today-live-06-nov-2026/liveblog/135591168.cms"
         },
         {
           "title": "Maruti vs Mahindra vs Hyundai: Sales are booming, but only one grew profits",
@@ -83,10 +77,16 @@
           "source": "Livemint",
           "published": "05 Nov 2026, 06:18 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFY2amlfVThqSE5IUjZSYTVWZE96TGJBWDV2OUdhbm9vMnZkdzF1aDR5VG5vQjdaZ3JDRWFEYnB0RTltOUZQT0VwRnhtYXhVc1MxcDJlUUJGS2ZHdVNwbXlGcE5FUF81TUt1SGhOLWxQNWw3Yk8tZ3JXTENDUzEyeXpXdU1FNVdPZ3lEWDNHOFZVNldaaFdkQ0pYNWdxdDc2bnNFbzl6ZGRHQdIBrwFBVV95cUxQeUNxUWJETGc1Ykhydm5PQ0VHWkllU1BvNUNwQTRxRTRYZnlzeTY3TEg1cmVvSFFzbWlMWDRmZFVLREZuV0NhRUlVZVVsMkFZSnVXYVREa2R0NWMyNG1wcDlhcldSTl83dXNfNTVub3B2Y0o0c1NFRVlPMHZ3N0xnUlVMbTRZc1pkZWVVUHdtWHJZOWEyN0R1Qm9uQnFlb2luOW9aLTZnQUc4SlZ6SDZV?oc=5"
+        },
+        {
+          "title": "Maruti Suzuki Diwali 2026 offers: Grand Vitara gets up to ₹1.36 lakh discount, Invicto ₹95,000",
+          "source": "Livemint",
+          "published": "05 Nov 2026, 11:13 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYmlMeFY0eS1JQnBiMC11YjgzSDdabzdWaUhyQnZwRGJmLVF0aHA2Nm9MMjBsXzkxU3I4YU9URnJ6RnFfcFM3d1QtTGt5WFZLMElhWGtNQUltdTdFSWtEUUxtZFVSaUpBajRkMmw3cTB5M0k4dlRrQkYybzJETF9nemFfc3RoaWh4QWNlWHBuZUhQVmxkRVlUUEVNaUlnem9COXdaWWFGOXNQcFVqcGdIaG1Ka0RHSVpyRVlQQTlXQldVelBOTXdDX3BiRTRHQnJwUlloTlRLN2FqdDNlWU1uLW9NTVRxYm5qUVHSAe8BQVVfeXFMUER5aUFNQnVsNzFfM19RRjVXTWd0YWMzazFlYnM0SzVlemVlTDJfRWJzUTJfbDJ2S0RoUF82c0QyYmMwQk9nYkFyU3RWQzVON2NLeE5YWEFfVHdUX1dpMDI4ZHVnNkJqM2VZWmZjVm9Bb1hGZVBGSFBxVmdnY1Z3NzR5ajhJZnpia1BVNTRKVkp1bnVIalR4WkFadXY3R2NjVmcwb3o4SURFZndaQ0VCMzctLWJhdWw4eEZWeEZNa1doRGt6bklWX2JCc0Nka0h3V1BOT2FaT0pjd2xoWDNJeTZGQ1lObFFBUnpQYWF2MHM?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 14.6
+      "weight_pct": 14.46
     },
     {
       "key": "ashok",
@@ -97,24 +97,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/ASHOKLEY:NSE",
       "first_buy": "2026-10-19",
       "metrics": {
-        "close": 168.83,
+        "close": 172.09,
         "prev_close": 170.21,
-        "day_change_pct": -0.81,
+        "day_change_pct": 1.1,
         "open": 168.75,
-        "high": 169.51,
+        "high": 172.09,
         "low": 165.63,
-        "intraday_range_pct": 2.28,
-        "volume": 20374962,
+        "intraday_range_pct": 3.8,
+        "volume": 28719639,
         "avg_volume_20d": 18167327,
-        "volume_vs_avg": 1.12,
-        "volatility_20d_annualised_pct": 42.6,
+        "volume_vs_avg": 1.58,
+        "volatility_20d_annualised_pct": 42.18,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 168830.0,
-        "pnl_inr": 21110.0,
-        "pnl_pct": 14.29
+        "market_value": 172090.0,
+        "pnl_inr": 24370.0,
+        "pnl_pct": 16.5
       },
       "news": [
         {
@@ -160,26 +160,32 @@
       "google_finance_url": "https://www.google.com/finance/quote/EICHERMOT:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 7588.5,
+        "close": 7669.5,
         "prev_close": 7713.0,
-        "day_change_pct": -1.61,
+        "day_change_pct": -0.56,
         "open": 7610.0,
         "high": 7682.0,
         "low": 7537.5,
         "intraday_range_pct": 1.87,
-        "volume": 246343,
+        "volume": 400004,
         "avg_volume_20d": 437775,
-        "volume_vs_avg": 0.56,
-        "volatility_20d_annualised_pct": 28.12,
+        "volume_vs_avg": 0.91,
+        "volatility_20d_annualised_pct": 27.26,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7588500.0,
-        "pnl_inr": 322500.0,
-        "pnl_pct": 4.44
+        "market_value": 7669500.0,
+        "pnl_inr": 403500.0,
+        "pnl_pct": 5.55
       },
       "news": [
+        {
+          "title": "Market wrap: M&M, ICICI Bank, Tata Motors PV, Eicher Motors top gainers and losers on Nifty and Sensex on",
+          "source": "The Economic Times",
+          "published": "06 Nov 2026, 05:31 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbDRvVUJ0czd2QXZNWUJFdDItODc5VVQ1ek15OU4ycTVRUTVjTWpnbjR2dndiMTBuWXl6dVlLdnM1eWI1WEhvX1Jfd2pJUWpkUk13TDV4R1JFeXQ4TUFBZDBGZEhyc3lXZ0lFMFVNbnFoLVUzbjZMbmNpWFNYeUV3cmZOQ2xyY0ZuTTBwWXVkN0FpYUttemtKVkxVOEpCOF9fUGx1NHFRUDZabXRId2R1SEFYYWxPWmN2N2hhUVlQeUNFNE9JOVJtSDRTcUxmWkY4S2xYbE9Gay03azM1UGV3WUtNV2RLSlk1VWtFSkUxMTl3SWFUS3oyVFNzb2JTTTEyWEhQNWlBRWVRRlZvR2fSAZMCQVVfeXFMTUhuZ3U3YjZGOE1mYVJISkJNY3F2Qk0xTjBIcnZDdW1ZdzJiQXotcjliQ29RUDFZM2VzX3NkM19lWWhXeTA5LWw3SHU5UVpsWGttVUt1ZTV1TEhIcHlJR1J6RTVQSzF3RFZWbXBNcjJTUXEtcFpJUDEybmJhbkVtRTJlVGlqQjlmNUlvQ3N4T0dQN293V1FabEdGclFSZXBXa1Ytd1ZSOXFUZ2hpTEtBUzJ0X2x3YjRaa0ktS3JvMTNJVnd3NDhJU1NCMFNJcFJGODc1U0FMSE9vTGY5SFZqTFhuYWFhMVJDcl81OVpPRl9WMl95Tll3RzFScHpoSXliYVoxOVdqN0gxa0NoTUdGLXUtY0k?oc=5"
+        },
         {
           "title": "Royal Enfield Shotgun 650 Son of a Gun unveiled at EICMA 2026, only 100 units to be made globally",
           "source": "Livemint",
@@ -187,26 +193,20 @@
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTHFOWkswclVFdHY0cmRWY1dHTjI0QlFpTC1pSXlianJHQ0llc3BnQmRLZE1mNjZCNzlDb3FwZlJtUkU0SmdKN2tERmg1MVEyaC1hZ3hYQl9MbUZQRlNUSi1IaVNQWV8wQWM0cmdHTzViRm5HeWkxeE5PWmo2Mi02QURmWEJFUEFoQ3c5R25OS1VNYnJMTlhrbDJrMUtZRG9mbnFhd2JrVjVMQVhQX05uYU5NTXJxMUo1SHRueGl1cW4xUTlRT0xpNVZlOU9NQ2RMbGhPQmVERVdnSnBfaURjVWx4eGxIQdIB6wFBVV95cUxQN0VYNkNVcGt5WlRmbHNJbXk2eEtVSUhrU0JwXzI3M0FNUERUQkg5OGc5RnV1c3JtU19zcUZJUlN1YS1wVGpwekVQa0NXM2V0S2RuWnpGdDd0U1JpWWFJZG9DSDBQTnpLenNDZ0NHVkJsdDNoX1A5TUN0RGFIdzBuQUFGMkh2ZGhySTZacnJkTVgxSzlLdVlGZTVvR21CTkI1TEtHNG9Wcnk1ZWVfMVVPS2dmUUxMSUxyX2Zhc2NCbHBOcDg3aGZTMTJJbXMzaThYYVdpQkNkZDdscEI3TmlueklIckVwd0NFbG5Z?oc=5"
         },
         {
-          "title": "Royal Enfield Continental GT 750 unveiled: What's new & how different is it from the popular GT 650?",
-          "source": "The Economic Times",
-          "published": "03 Nov 2026, 05:37 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV250ZG4tb0oyRUp5N0Z3MlJHalNZbkQyRXRmNlhGUGItNXpzUWVaSnhtRUZkM1pZQjVxNUlnSmtPZVhrZEthb1JBM1lYWWk3aUYySW9MdXFLTlViVGQxUEV1R2pZeTdpV2doQ2xTdkl0UlNxLXl5LVZPMVpGblFQTHlrWHRZN0RnaEIxd3VNWTBLQ0JJWTZpNnZfV08wNWdJR01CZ2xUWXNIdlJWZk5iTEV4bmJYcTVnRml3NjdpN2dSQ09HZzBpaWp0MXNQczFoak9PSWd5Yk9GZEVROGJqTEVHY1F4dV94S2pIRjBWZnZfcGhJYVRTNWJn0gH_AUFVX3lxTE02Unk2d1A2VS1zblplRFI2U2VsZTJBME9wNTVldnhMUnlSYmlmMDE5Sl8wbXZsRzR4MWhYbmpxT0R1YnRnbFNzMllQR2cteUpPeHNMOUZIeF9QTTZvdzFOZmdRY3JVNG1ibzNlOWw4dnctS3VIRnljMjJYQzI2WGZ6c3NWX241SVBHMWNNZENJalN1WUhIelBhbXQ4TTd4dmJmSlA1dDQ0a0RxYm9QWGEwcHJRcnJQN29DUUNyZHB1dW1MbmJDMUU0cWJHZW9kTTZQbF9XYWQ1ZVFKM1VWMjBpSmdzTV9IZUVVUlEzSVoyclZBZVN1SG5FV1pYQmFSdw?oc=5"
+          "title": "Royal Enfield-led slump drags high-end premium bike sales down 18%",
+          "source": "The Financial Express",
+          "published": "05 Nov 2026, 07:08 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdTJiXzZOWlRpRWRKbTl4MGgxX3F5eGdPdlpHMlk4ZzBwU2F0R2N5R0g2VnVFbVZBQVBBT0RVLTlqNkdHWmZTX2NVZ0VjNXpuWDhTY0ZIMnk0bDQzWm9zUW1hQjBkRGVZQmdDM21GT0ctdDVJQ19yTUZFcmxpb2Y0b01yamwwUHdQR0JBNEpwYk8ydkEyejZ6QjM3MWM1NGQ5WGdoSTJ2bHlReXc2Wk82NWNQdlVMc2tncDFndjB2b9IBxgFBVV95cUxQeDhKb21hclJ3SUlnQkJMTHIxMi1KQUlBcnB0cFJRcDU1RlREWVE3LUk1WFBrR0s2SUs3RkdHX3VVRUVlMVAydzhCY2stelh0QmlwUDVvamZ6TDN0VWpKRTFXMzM0SDJUVDN3QldLbVU2NFlQTkhuNHc4UnJfRVA4b29sV0Z3TS01eWJFQnJ2ci1CQ0ZyWllraG1seDd6LVRzRl96ZGVjbVdxNWF4aWZYeXp6bFRnRmxlbzdMNHI2Q2JYTmNPQ3c?oc=5"
         },
         {
-          "title": "Royal Enfield Himalayan 750 Launched: Check Engine, Features, Variants And Prices",
-          "source": "NDTV Profit",
-          "published": "03 Nov 2026, 03:59 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnFsWHlTNjF3SUZGWnBxT1JoUnFJeUdvRHM4dVVNSktJUExkcGtoUUlBcGlVU2VkTUJyZTZyQ0Jlb016aENxal9VVWktbkJKYnVCN0M5YzNZQ2NjTHZWX2oxY19yajJqWU14bWttbGJRVmZMem5vOHUwR3RFczhTa0ZjWnFNa2tDV3VtYld3aGI2WWdUN05fa25pX1JCYVpvbmFQZTVndjJXM1pxQUwtWjdyUUd5Rk42MGNPOFE4UVE5d9IBygFBVV95cUxOeGZsVEo4dEdhdkZyazdPMjE3R3FSd0NUWjUwbTBzZmhlWFloQm5uOXVEMHpBTmVKWDJrdF9PZjM5M25Lb2ZPYW52UmlyLWhVMTRyYWxfNW45M1ZwRUZoTDRJdG5taWYxRktfUnBZSTRzc2JsUVM0ZGxNLVc3bjlVVHdFTlhVT2xvTEZ5MzhTOUptTUEwdWVpRURGRXZ5Rkc1dVpxZFpmUjliVE1OeDFUSjZvZnJTUWhORFZzcFFaNi1OZ1loMEJxZmh3?oc=5"
-        },
-        {
-          "title": "Royal Enfield unveils three new motorcycles at EICMA 2026 to celebrate its 125th anniversary",
-          "source": "The Economic Times",
-          "published": "03 Nov 2026, 03:08 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMXBOT1FsRVBTX2FOYnRxWkZWMmJuaUpPRDl3aVJYMnNtbkZDaWdSbTh4dDkzMjlIVGFBNkUwc2RvWnNQaU1xWFVaZkcwTXZVdHNoMktla0FncFJHZVJQaUJZcllXY2tDTE4wcVNUVWl4U3dPUnRaUHRqODNfQjAtX3dKM1lKS20tNTNJRzVZY3BRVDVCNmE4Y3h5NjhFMmJEZEFuN1FMc09aX1d4WmNaVGVOdTNJd0IzN01xWFBtMWp6UEtaQkhyQlAtc01QWGVBb0lQaERtZTBFQmdaWVUycUotSVVXWXljXzdrSjdTUVllSEkxczJHYmo3MC00bjTSAYQCQVVfeXFMTTZVU2hsRXlwbGVuUUFHY2d1THVFRHNlTTQtZnhxaXB3ODlsMVEyem9SYlFhRFNNd3R3a0NvUVM1aTJpa0pEZWt3aGR4QVFyTnNfMndWX2tXR19RYTZfZF9qOThCbUM3UGxnV3phQlNnUGdVSjVCREhKWk5aWHlYdkxRekdDVGhrbEdqYUlwREU1bk9ESTFSbjN0dGZkaDJQX3ZwZHpJUzdPNWhqeUxweDBNSzNPMWFTVWpka3pzVXQweDJkRE5kLUpJUWVpRzlLRVJiTzAzeHZob2lhZTFpY2h1ZjRVSnpMTE9pdDBva0xKT25waU9TTGgxZ2E3cEFxMFZtaVM?oc=5"
+          "title": "Royal Enfield enters 750cc segment with two new bikes",
+          "source": "The Financial Express",
+          "published": "05 Nov 2026, 06:57 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3RoUzN1WEMzNGd2X3lzQ0xTSmNhTFVCX1FmdVduOU5kaEdhbEIyYkgtOXhoSm5JY2lxekxCVEVGYzlSaXZzQmpSMXRCWmhicGNuRlMzblBmc1I2TFdtSUN5ODNJMHgydzRUVjJYR1lSUnVXcnlXcDdQclQ2MWs0b0JWRGN6eUNFRGQwRlJjMFZ6OURXakxteXRQUUdSQS1QbHZjVU14cE1VUXdWRHY40gG2AUFVX3lxTE5SbFAyVEUxOTdETkRmRkJFOEdsQ0ltQlBRSm1iRjl6UThBQXpLVjRVM0JKWFZ4Z3daTV90UHdRYm5rcE9pa1pWUDdiRFlBZHZ0cmZjZmJCU1dwM3Y4OEtJcklmY2JEYVFCUFZHVjd5U0J3SHZkSUVoR1IwSElTR1ZfNUx5eDhGLXV1VEhQZUI3NDJKZ3k3U0NlbmlIeDdnWHU3TFd3MTdmOG9nSjUwNTFJejlNZWRB?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 30.1
+      "weight_pct": 30.0
     },
     {
       "key": "linde",
@@ -217,28 +217,28 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINDEINDIA:NSE",
       "first_buy": "2026-10-21",
       "metrics": {
-        "close": 6387.5,
-        "prev_close": 6390.5,
-        "day_change_pct": -0.05,
+        "close": 6859.0,
+        "prev_close": 6308.0,
+        "day_change_pct": 8.73,
         "open": 6291.0,
-        "high": 6464.5,
+        "high": 7090.0,
         "low": 6106.5,
-        "intraday_range_pct": 5.6,
-        "volume": 38078,
-        "avg_volume_20d": 25521,
-        "volume_vs_avg": 1.49,
-        "volatility_20d_annualised_pct": 41.49,
+        "intraday_range_pct": 15.59,
+        "volume": 300620,
+        "avg_volume_20d": 26737,
+        "volume_vs_avg": 11.24,
+        "volatility_20d_annualised_pct": 51.27,
         "high_52w": 7847.5,
         "low_52w": 5632.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 3193750.0,
-        "pnl_inr": 213250.0,
-        "pnl_pct": 7.15
+        "market_value": 3429500.0,
+        "pnl_inr": 449000.0,
+        "pnl_pct": 15.06
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 12.67
+      "weight_pct": 13.41
     },
     {
       "key": "linc",
@@ -249,24 +249,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/LINC:NSE",
       "first_buy": "2026-10-22",
       "metrics": {
-        "close": 88.73,
-        "prev_close": 92.88,
-        "day_change_pct": -4.47,
+        "close": 89.2,
+        "prev_close": 94.5,
+        "day_change_pct": -5.61,
         "open": 90.99,
         "high": 92.1,
         "low": 86.82,
-        "intraday_range_pct": 5.68,
-        "volume": 31688,
-        "avg_volume_20d": 64115,
-        "volume_vs_avg": 0.49,
-        "volatility_20d_annualised_pct": 108.59,
+        "intraday_range_pct": 5.59,
+        "volume": 43540,
+        "avg_volume_20d": 64172,
+        "volume_vs_avg": 0.68,
+        "volatility_20d_annualised_pct": 108.9,
         "high_52w": 125.56,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 88730.0,
-        "pnl_inr": 3730.0,
-        "pnl_pct": 4.39
+        "market_value": 89200.0,
+        "pnl_inr": 4200.0,
+        "pnl_pct": 4.94
       },
       "news": [],
       "announcements": [],
@@ -281,32 +281,26 @@
       "google_finance_url": "https://www.google.com/finance/quote/ATHERENERG:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 1808.5,
+        "close": 1821.7,
         "prev_close": 1778.6,
-        "day_change_pct": 1.68,
+        "day_change_pct": 2.42,
         "open": 1776.2,
-        "high": 1810.5,
+        "high": 1823.8,
         "low": 1752.0,
-        "intraday_range_pct": 3.29,
-        "volume": 1470690,
+        "intraday_range_pct": 4.04,
+        "volume": 2350381,
         "avg_volume_20d": 3733587,
-        "volume_vs_avg": 0.39,
-        "volatility_20d_annualised_pct": 64.2,
+        "volume_vs_avg": 0.63,
+        "volatility_20d_annualised_pct": 64.31,
         "high_52w": 1840.0,
         "low_52w": 601.35,
         "shares": 1000,
         "base_price": 1677.2,
-        "market_value": 1808500.0,
-        "pnl_inr": 131300.0,
-        "pnl_pct": 7.83
+        "market_value": 1821699.95,
+        "pnl_inr": 144499.95,
+        "pnl_pct": 8.62
       },
       "news": [
-        {
-          "title": "Gathering AI storm clouds doom tech stocks to darkest day in a year",
-          "source": "Mint",
-          "published": "06 Nov 2026, 12:34 AM IST",
-          "link": "https://www.livemint.com/market/gathering-ai-storm-clouds-doom-tech-stocks-to-darkest-day-in-a-year-11793905499422.html"
-        },
         {
           "title": "Ather Energy shares fall 4%, snap 5-day gaining streak. What’s triggering the sharp fall?",
           "source": "The Economic Times",
@@ -333,7 +327,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 7.17
+      "weight_pct": 7.13
     },
     {
       "key": "boi",
@@ -344,24 +338,24 @@
       "google_finance_url": "https://www.google.com/finance/quote/BANKINDIA:NSE",
       "first_buy": "2026-10-27",
       "metrics": {
-        "close": 137.44,
+        "close": 138.57,
         "prev_close": 139.0,
-        "day_change_pct": -1.12,
+        "day_change_pct": -0.31,
         "open": 138.0,
-        "high": 138.59,
+        "high": 138.67,
         "low": 135.59,
-        "intraday_range_pct": 2.16,
-        "volume": 4106029,
+        "intraday_range_pct": 2.22,
+        "volume": 5576622,
         "avg_volume_20d": 8686857,
-        "volume_vs_avg": 0.47,
-        "volatility_20d_annualised_pct": 37.0,
+        "volume_vs_avg": 0.64,
+        "volatility_20d_annualised_pct": 36.72,
         "high_52w": 177.2,
         "low_52w": 126.32,
         "shares": 1000,
         "base_price": 131.33,
-        "market_value": 137440.0,
-        "pnl_inr": 6110.0,
-        "pnl_pct": 4.65
+        "market_value": 138570.01,
+        "pnl_inr": 7240.01,
+        "pnl_pct": 5.51
       },
       "news": [
         {
@@ -381,22 +375,10 @@
           "source": "Moneycontrol.com",
           "published": "04 Nov 2026, 12:12 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNi1PMmFqSDNLMlB2cmlwNWo0Uk1SQmozOVZtQ0VRQ1NrYlI5N29kdHRzQ1AtMU1JQmtTM0Mxb1lmZGJBb0hiZVU1bzhWeTF1WURjTUt5Q09XdWhHSjlZNG1DdF9idk5WbjNrTms1Q09WNU13Yjc5Z1R5amhpU2RvaXY5S0V1N2ZlMk9fUlphUjh2X2wwN1ZXVENQYzAxYVhTZ0ZuWHM0TzR0YXhrbjBSbmp3ZUZSb3owUm45NHRpcUR6OUNBcS1NaNIBzgFBVV95cUxNZHctRFJybm5BZ1N1MEFSX0M5dWpfclY5aDBVWDdraTFEbFUwYXczbmJwUC1VOHo1dkZ4c0J4U29SNzJpSlpmSGh5SE9HRzI4MDFHRzZWd3IxU3liR3VBamF6R3hZODlsTlJsODJzNVRoMklGWmVQWUVwSGFlUDdmYk1FbHlhRlNucXJUbGNtRHN4NlBUUlc0Z2RaR1JWbVlPdWhlNHpMY1pMNC1JX3ljN19sdXlGTnVaaFR5aDFEMV9wQTdvUW5ueTlyMWdwZw?oc=5"
-        },
-        {
-          "title": "Earnings call transcript: State Bank of India Q2 2027 profit rises, stock falls 5%",
-          "source": "Investing.com India",
-          "published": "03 Nov 2026, 06:57 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY2hkY3MxbkRqWG5uWlpXdXZicGk3VUlPdWtkOVIxOXhKQll3aW1ZTDJXRnZxcXVRSkZBQzJhbG5SWnNjNlhZbjJWazBZV2V0Ykg1RWdrZG1MbWtJdVFIUTFNcHVBSVJrWEFCN3cyVDV0OUdFZllaVmV4NTJvbHBva3luU1RQMFRtUy04akk4VjBNUVoxMUxhSXdxNWFuRGNkTGRDVXhYMlh3NTI1VFZRa1gteU1YUV9TVjFWTGVydmNDQ0ZZQmNlcTdPY2w2MG4xTnNwT0ZkSQ?oc=5"
-        },
-        {
-          "title": "State Bank of India quarterly profit rises; to boost cybersecurity after breach",
-          "source": "Reuters",
-          "published": "03 Nov 2026, 05:40 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnFRWGMtM3JxME1pR2FXOWo4NU1Ua1VncXNLa0dqN0RORm5MbTJ2Nk9YcU04cV9mRVVOLVNFTmxrTUVhRVZ3TnhqUC13RXdMUXgzNFQ2TGsxSklSYUp1c3dWMDhpVFJoYnh4NEhvVnh1YWdKTS15Z29NLU5LaEFXVFNZYzhZc01CSGh6enE0UGV1TE9tbkhN?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 0.55
+      "weight_pct": 0.54
     },
     {
       "key": "jpl",
@@ -407,26 +389,44 @@
       "google_finance_url": "https://www.google.com/finance/quote/JPL:NSE",
       "first_buy": "2026-11-04",
       "metrics": {
-        "close": 1406.5,
+        "close": 1406.4,
         "prev_close": 1417.8,
         "day_change_pct": -0.8,
         "open": 1416.0,
         "high": 1416.0,
         "low": 1388.1,
         "intraday_range_pct": 1.97,
-        "volume": 3796541,
+        "volume": 5011365,
         "avg_volume_20d": 43502705,
-        "volume_vs_avg": 0.09,
-        "volatility_20d_annualised_pct": 13.44,
+        "volume_vs_avg": 0.12,
+        "volatility_20d_annualised_pct": 13.46,
         "high_52w": 1437.4,
-        "low_52w": 1406.5,
+        "low_52w": 1406.4,
         "shares": 1000,
         "base_price": 1439.2,
-        "market_value": 1406500.0,
-        "pnl_inr": -32700.0,
-        "pnl_pct": -2.27
+        "market_value": 1406400.02,
+        "pnl_inr": -32799.98,
+        "pnl_pct": -2.28
       },
       "news": [
+        {
+          "title": "Bharti Airtel reclaims 2nd spot in mcap rankings, overtakes Jio Platforms",
+          "source": "Business Standard",
+          "published": "06 Nov 2026, 05:47 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREpDU2dQT1RXVGtwRWlmSGVBa1A3dU13bzg0MU8zSlItTmlLenZVRTJ2cUM5Rk5QTUMtYmU3U2dzZkZWUlVHT3dHVHRsRjIzbG9QS2hmUkRKSW1ySFJiWEtWbUJmeVd6TVNnekQ0QWFBTnFSSjMzRmtiNmhfeERtUEtROHliVUIxcU5aWm5oYTFtTW5PWkIwN3BnSmZwTFlWSi0tQVFaUUR4aWpKQjFZTWdPa05IaXJKRGNoZjNHX2lHWExLeXVZX0tSaGJVWU5nY1NrRGk3S0xUek1oZkHSAd4BQVVfeXFMTkRKQ1NnUE9UV1RrcEVpZkhlQWtQN3VNd284NDFPM0pSLU5pS3p2VUUydnFDOUZOUE1DLWJlN1Nnc2ZGVlJVR093R1R0bEYyM2xvUEtoZlJESkltckhSYlhLVm1CZnlXek1TZ3pENEFhQU5xUkozM0ZrYjZoX3hEbVBLUTh5YlVCMXFOWlpuaGExbU1uT1pCMDdwZ0pmcExZVkotLUFRWlFEeGlqSkIxWU1nT2tOSGlySkRjaGYzR19pR1hMS3l1WV9LUmhiVVlOZ2NTa0RpN0tMVHpNaGZB?oc=5"
+        },
+        {
+          "title": "Bharti Airtel reclaims No. 2 spot among India's most valuable companies, overtakes Jio Platforms",
+          "source": "The Economic Times",
+          "published": "06 Nov 2026, 04:50 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOb1M4UFlrOWNRQ1g1QzB6QzhyS2lwampWSF9uOEd4bGFRdXBEZFkxbjU0Nm9RTlB3UG9ZRjRfWVRLSnBqYUZZZnlaM0FnNE50cjNaMXByeDRzRUJ6NVpPbE1jcVA1OEVKLVVZZUJXR2lpZXdDOEJkQ0JpT094VzRtbE5VZ2pXc2I0amg4NmFhdWtMZUlYRDRPRVNYWDRQZUhjYmUyYjRLYkRWVnAyOVNoYl9kbk1LR1Z1XzBLZnFybGQ3eXZoQXhYS1oxZ3NyYjdMUE43clpUOE14TWYwNTJueVphdndKLTAtQmx1MDJBME5McVZoX2wydy12dGNGbWpKbFRwMTZiNjZHa3Nhc0pHOVBWS2tZNm9GWm5paDMwUHVsc1HSAZwCQVVfeXFMTk1JN01YLTZaTzhnRUNUeUtzSkZMUVZYUHozYUtWT3F6ZDVScXJwMlp3eTQzMUt4cWt3SWJFSDQwU2JYVWJTY3U2dVVfNHVYckRXUWNIeWVESXJ0N2lxSFhiazA2bW90QTdvdEJaR1J1bEpOcUZXeC1CYngxempXbFBXd3lBNUVVOExIN20zc0hycjZ6THVSVGtIcWhyZFVQSG1SWXVaSnpyeE1ES3dBUlZVN0pzTVlCSjVxajJfdVFhQ1l0RE1LUkMwbmMwdlg4LWRyRGZzbzMydm51M1QzUEhiRDNXbTZDZ2pHQzMwcWZCa3NjSUkwcGtTVVlyLWU3cHFjNVkzX1BRZ2U3WTVVVDNBY1oyM2Z6TjFXdXk?oc=5"
+        },
+        {
+          "title": "Quant Small Cap Fund adds Jio Platforms and 4 others; increases stake in Adani Power, 5 more",
+          "source": "The Economic Times",
+          "published": "06 Nov 2026, 04:09 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZlBud2F4OE11cDNzcFlNbzVUZTVjdE5jM25pc3hxVVBxeW1NTnVidkhFN241T3ZadFVtQV81VWVMNF9XYjhieW13WVFuNkhkYWZ6dzBzQnpsTEFFb1c1bHZIMDRDQUQ1OTQ2cWtZTnpab0hBWnJvMi1pdzZZSlZIWGg5MUxyb3VCWmZWX3ZlYlNDOEFYM255S09waHo0c2VUamFVUUo0R28wSHlMeW1PU1JGam0wa3B0UWYyV0tnQkpWSDRZQnNlVU9WRTlyT21ZYk1qNkNzNzVoak4xcXlpMGZsek9zOFFZR1ptOHpBVnI1d9IB8gFBVV95cUxPZlBud2F4OE11cDNzcFlNbzVUZTVjdE5jM25pc3hxVVBxeW1NTnVidkhFN241T3ZadFVtQV81VWVMNF9XYjhieW13WVFuNkhkYWZ6dzBzQnpsTEFFb1c1bHZIMDRDQUQ1OTQ2cWtZTnpab0hBWnJvMi1pdzZZSlZIWGg5MUxyb3VCWmZWX3ZlYlNDOEFYM255S09waHo0c2VUamFVUUo0R28wSHlMeW1PU1JGam0wa3B0UWYyV0tnQkpWSDRZQnNlVU9WRTlyT21ZYk1qNkNzNzVoak4xcXlpMGZsek9zOFFZR1ptOHpBVnI1dw?oc=5"
+        },
         {
           "title": "Jio’s global ambitions: How US giants Comcast, Charter could help Mukesh Ambani's telecom company expand overseas",
           "source": "Livemint",
@@ -434,104 +434,92 @@
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX3cwQy02b1Job1JCWnptalVTTlExbUJDcGl0XzJabjRxaE5naHUzODRMQ0xyYzJhLXFkRTNwaUstU284REVUSjRycXowNVN6S2p4S21ka0c3cHF6aHEyMmFBSTRlMk9pQUE0bndQUm1SSzUtaUYwWmgtNmtmOGVtUG1aaDBPRkRtblFhc0RWLUtJX1lacU9CVXgtN3R0SkdxSnlUR0h1MlM4dE1IbnNmTThtYnQ5eXRTSFV6VTh6eENvOHRjTHJ0MEoxQ0ZQU00wNjk1VXJaUlU1aE84QVBqUGI3OEJGeHhhNm1oQzNuLXl3aDJSQlZnLWFTRlYyZUpz0gGGAkFVX3lxTE5vLTY1bV9TQUxXeWd2SFphdXhfZjllby1fbGo3UGd0QmgwVXpfNmhNc3JIVi1MVEFvUjhOczFXNGZvdGtoNG00Q0FGaVhGMFdCZlRVY19LMC1wOGhQSEYtM19GbmlpZ3h1eFd2YVkyZlA0Mjh0amViRkItb2VQRDFuMXVpMVNTRnBUVjNpTHNjVExweHp5XzVnbzhoRnY2dWsyUjNxU054RnlCbkQyTFVaekFNUTZCREZjRXFlRy10akYxSi15Zkt1bnlQQmtBbjhOUWFIZHN5a05sQ08zZjhSZ3V5eTN3alV6WjdXU29UdEhLMktyam9hR3NtU0g1dlEyU3k4dnc?oc=5"
         },
         {
-          "title": "How Jio is unlocking hidden value for Reliance shareholders",
-          "source": "Livemint",
-          "published": "04 Nov 2026, 06:30 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeFdFT0JfQ2RFaTVXTXREQ0lJZVdzYTItZlNWQnpiX1ZaYlBIaWUzVUl2ZF9NcmJtZDVuVUFlQzh6RXdwekpMNmFvTlpJZGVVb0ZPbEwzNmsxbnRZdkZrOU9QNER4QktQMFA3X2tqakk5M1JIZy1wT2NUWWYxRExIVHpSaldQSFhOTHVKV3B0a1UyaU1INlRnamFxT2huOHR6QUFMZnRFTmRKWEpYSFNmWDczVkF5dUNJakFzRWs0NTBPWHVOaER4aWtTcWNFaTBzcTEyYUhvWdIB3AFBVV95cUxObEI1bkFrZ2R6SDI4TTJDSUd4aVJBQzIyNEtzUHl0d2t0REFQcUtEVjZsbmVuRWtPU3hFNlQ0dXl1a2ZNX09CNnB0RnN0eVl0Q2w3N2hKLVJ3YWNnUFRiZHpyRTRCNF9SMDh0bVZqZUIwSk1nVDFxZGRLeTlfUVRSV1VIOFFlWDVGQkZhZkRkcGlYS0ZwbHpncGRqQ3kycF8zTkFiclRkZzlRd1g5Yi1qTWNpVktOQUV2T0tmalpZdnRMVjItZ0t1RThRRDlRV083WEJaR01pVVlXYzdO?oc=5"
-        },
-        {
-          "title": "Ambani's Jio Platforms explores tech-for-equity talks with Comcast and Charter, sources say",
+          "title": "S&P affirms Reliance Industries' 'A-' credit rating, cites Jio listing, stronger earnings",
           "source": "The Economic Times",
-          "published": "04 Nov 2026, 01:20 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZm9XZ0VIQnNtSjd4OVNiWjZXbHBsU3JFQWFMSVRQS085YnE4WE9HSnQ0a0pmM2NaQ2NEeVp3U1kwRDd1V296cXhfblUza2ljX2M3X0lYVGdUeXB4YzRZajhUN3JDTkJhRVhRX25ndjh2eDJmWVdiWVFfTUYycFN0cDdJWHFPMzBEcVhhMDc1S3NxSFU2R01FRjNva1FvVmNybkNkbE1zRUZIUkkxaWdZVkZKYUl1Y0Y2bm9aSmdUT2V1YTNxSzVjTzJCODNRbzQ1WWVGdEhYMHVHSG52RzBnckliZFZGc3dZR09ScTBqZnVSUkF0Y1liR1dYNTlFMXE2WkM5NGxEVzhZRDRLajU3NG5QQ3BNT3h2NzR1V2xsZk1QSGM?oc=5"
-        },
-        {
-          "title": "India's Reliance posts best day in over six years as oil business, Jio Platforms lift outlook",
-          "source": "Reuters",
-          "published": "03 Nov 2026, 01:58 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5"
+          "published": "04 Nov 2026, 01:20 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbmxQNURfWjJLMzJBempOVGUwSmNOaGdEWkNSQUZmNHp4dGZ2UVdUVWJ5NXQ1eTI4dTNndWQzTUx6T3JfWlJkY2liMTlXS2x5cWZxRnJpVnYzNnIya2NJRFRndk80b1Y2VkJQV0twN0o2UjlyR3FsNVREbk1OYWVGZjdRWThEakxzOFg3ajVKamdHU2pIb25HbDRZVy1hTFhRcnhjUHowaHBGeGFoOHJuMTRHNVM0OEJ0VU9EQVJLTG5tS1hvcFdYb0N2Q3lFT3VUTXJzeVU5ckVuMHhEVjN4NjF2RDVuWWZPZFBfbE9PQW1YYjU0aG9qeS130gH_AUFVX3lxTE4yai0yMjFjUWNuX2liTnhsZzFld1hlOU5YZFVzM2VZODNEZG5aOEoyUXVlNXJsdDhySEVSelFfUXJWX0x2RXlkQ3NtSTFvc2FQVk8wMUw1Xy0wRDA1c0d6ZzNGcUVzTmdqZFRNVUlqWFdNUHNaaEM3ck1TcFZTMFhlUjJkdGZpMVJ1MklwYnk2QmVjeEFXZGQ5VGUyazUxa0gtcXpHVHh6Y3VHdXdlZlViUkxFcGxYbUZsWE5NY2dHV1RtMmUwLU5ZUmszazlXUlVGQUhVWnV6YmhvaS1HZWYwRGdpOHZ1dW8xRGIyWUc3UTNzR1hJVHhCcmtJQnJ2QQ?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 5.58
+      "weight_pct": 5.5
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 13246220.0,
-      "weight_pct": 52.53
+      "value": 13360789.95,
+      "weight_pct": 52.26
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 28.32
+      "weight_pct": 27.93
     },
     {
       "sector": "Industrial Gases",
-      "value": 3193750.0,
-      "weight_pct": 12.67
+      "value": 3429500.0,
+      "weight_pct": 13.41
     },
     {
       "sector": "Telecom & Digital Services",
-      "value": 1406500.0,
-      "weight_pct": 5.58
+      "value": 1406400.02,
+      "weight_pct": 5.5
     },
     {
       "sector": "Financials",
-      "value": 137440.0,
-      "weight_pct": 0.55
+      "value": 138570.01,
+      "weight_pct": 0.54
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 88730.0,
+      "value": 89200.0,
       "weight_pct": 0.35
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 13246220.0,
-      "weight_pct": 52.53
+      "value": 13360789.95,
+      "weight_pct": 52.26
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 28.32
+      "weight_pct": 27.93
     },
     {
       "sector": "Industrial Gases",
-      "value": 3193750.0,
-      "weight_pct": 12.67
+      "value": 3429500.0,
+      "weight_pct": 13.41
     },
     {
       "sector": "Telecom & Digital Services",
-      "value": 1406500.0,
-      "weight_pct": 5.58
+      "value": 1406400.02,
+      "weight_pct": 5.5
     },
     {
       "sector": "Financials",
-      "value": 137440.0,
-      "weight_pct": 0.55
+      "value": 138570.01,
+      "weight_pct": 0.54
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 88730.0,
+      "value": 89200.0,
       "weight_pct": 0.35
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Ashok Leyland",
-      "pct": 14.29
+      "pct": 16.5
     },
     "worst_since_buy": {
       "name": "Jio Platforms",
-      "pct": -2.27
+      "pct": -2.28
     },
     "top_mover_today": {
-      "name": "Linc Ltd",
-      "pct": -4.47
+      "name": "Linde India",
+      "pct": 8.73
     }
   },
   "transactions": [
