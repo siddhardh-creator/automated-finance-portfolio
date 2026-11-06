@@ -31,6 +31,7 @@ import requests
 import yfinance as yf
 
 import ledger
+import corporate_actions
 
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
@@ -546,6 +547,8 @@ def build_readme(cfg, snapshot):
     L.append(f"| Total P&L | **{inr(p['pnl_inr'])} ({pct(p['pnl_pct'])})** |")
     L.append(f"| &nbsp;&nbsp;Unrealised (open positions) | {inr(p['unrealised_pnl_inr'])} |")
     L.append(f"| &nbsp;&nbsp;Realised (shares already sold) | {inr(p['realised_pnl_inr'])} |")
+    if p.get("dividends_received_inr"):
+        L.append(f"| &nbsp;&nbsp;Dividends received (already inside Total P&L) | {inr(p['dividends_received_inr'])} |")
     L.append(f"| Today's change | {inr(p['day_pnl_inr'])} ({pct(p['day_pnl_pct'])}) |")
     L.append(f"| {b['name']} since start (same money invested) | {pct(b['return_pct'])} |")
     L.append(f"| Outperformance vs {b['name']} | {pct(p['pnl_pct'] - b['return_pct'])} |")
@@ -659,6 +662,9 @@ def build_readme(cfg, snapshot):
              "may differ slightly from NSE official data).")
     L.append("- **Trades:** every buy / sell / deposit is a line in `transactions.csv`. A trade happens at the closing "
              "price of its date (live price for today). Average-cost method; no brokerage or taxes (virtual portfolio).")
+    L.append("- **Corporate actions:** splits, bonus issues and dividends are detected from Yahoo Finance and added to "
+             "`transactions.csv` as event lines on the ex-date (nothing old is edited). A split multiplies the share "
+             "count and divides the average cost, so the invested amount stays the same; dividends add cash.")
     L.append("- **Benchmark:** every rupee put into the portfolio is also put into the Nifty 50 on the same day, so the "
              "comparison is like-for-like.")
     L.append("- **News:** Google News RSS + publisher RSS feeds, filtered to a whitelist of trusted publishers, "
@@ -671,6 +677,51 @@ def build_readme(cfg, snapshot):
              "average of previous 20 sessions.\n")
     L.append(f"> {DISCLAIMER}\n")
     (ROOT / "README.md").write_text("\n".join(L), encoding="utf-8")
+
+
+def apply_corporate_actions(cfg, tx_path, by_key, records, led, closes, nifty_close, per_stock_df, used_ticker, run_mode):
+    """Returns (ledger, records, notices). Appends event lines to transactions.csv when new actions are found."""
+    notices = []
+    if not cfg.get("corporate_actions", {}).get("enabled", True):
+        return led, records, notices
+    lookback = int(cfg.get("corporate_actions", {}).get("lookback_days", 7))
+    last_day = closes.index[-1]
+    window_start = max(pd.Timestamp(cfg["base_date"]), last_day - pd.Timedelta(days=lookback))
+    relevant = {t["key"] for t in led["trades"] if t["key"]}          # every stock that was ever traded
+    actions = {}
+    for k in relevant:
+        sp, dv = corporate_actions.fetch_actions(yf, used_ticker[k])
+        if sp is not None:
+            actions[k] = (sp, dv)
+
+    def close_on(key, date):
+        ser = per_stock_df[key]["Close"].dropna()
+        ser = ser[ser.index <= date]
+        return float(ser.iloc[-1]) if len(ser) else None
+
+    existing = corporate_actions.existing_event_keys(records)
+    events, notices = corporate_actions.find_events(actions, led["trades"], existing, close_on, window_start, last_day)
+    if not events:
+        return led, records, notices
+    reinvest = bool(cfg.get("corporate_actions", {}).get("reinvest_dividends", False))
+    lines = corporate_actions.csv_lines(events, reinvest, close_on, led["trades"])
+    original = tx_path.read_text(encoding="utf-8")
+    try:
+        corporate_actions.append_lines(tx_path, lines)
+        new_records, w = ledger.load_transactions(tx_path, set(by_key))
+        if len(new_records) != len(records) + len(lines):
+            raise ValueError("the new event lines could not all be read")
+        new_led = ledger.build_ledger(new_records, closes, nifty_close, cfg["capital_inr"],
+                                      intraday=(run_mode == "intraday"))
+        # Sanity: an event must never change the amount of cash put in or the number of closed positions.
+        if abs(new_led["total_deposits"] - led["total_deposits"]) > 1e-6:
+            raise ValueError("deposits changed")
+    except Exception:
+        tx_path.write_text(original, encoding="utf-8")   # put the trade book back exactly as it was
+        raise
+    for ln in lines:
+        log("  + corporate action recorded: " + ln)
+    return new_led, new_records, notices
 
 
 # ----------------------------------------------------------------------------
@@ -742,6 +793,15 @@ def main():
     # 3) Ledger: holdings, cash, realised / unrealised P&L, benchmark
     nifty_close = closes.pop("__nifty")
     led = ledger.build_ledger(records, closes, nifty_close, cfg["capital_inr"], intraday=(run_mode == "intraday"))
+    # 3b) Corporate actions (splits / bonus / dividends): detected from Yahoo Finance and appended to
+    # transactions.csv as event lines. Anything going wrong here leaves the portfolio exactly as calculated above.
+    tx_path = ROOT / cfg.get("transactions_file", "transactions.csv")
+    try:
+        led, records, ca_notes = apply_corporate_actions(cfg, tx_path, by_key, records, led, closes, nifty_close,
+                                                         per_stock_df, used_ticker, run_mode)
+        warnings += ca_notes
+    except Exception as e:
+        log(f"  ! corporate-action check skipped: {e}")
     warnings += led["warnings"]
     if any(t.get("provisional") for t in led["trades"]):
         warnings.append("A trade dated today uses the live market price; it will be fixed at the closing price "
@@ -763,6 +823,7 @@ def main():
                         "bse_code": s["bse_code"],
                         "google_finance_url": f"https://www.google.com/finance/quote/{used_ticker[k].split('.')[0]}:NSE",
                         "first_buy": pos["first_buy"].strftime("%Y-%m-%d"),
+                        "dividends_received_inr": round(led["dividends_by_key"].get(k, 0.0), 2),
                         "metrics": m, "news": [], "announcements": collect_announcements(s)})
     publisher_cache = {pf["url"]: fetch_feed(pf["url"]) for pf in cfg["publisher_feeds"]} if results else {}
     for r in results:
@@ -808,8 +869,13 @@ def main():
     names = {k: by_key[k]["name"] for k in by_key}
     tx_out = [{"date": t["date"].strftime("%Y-%m-%d"), "key": t["key"], "name": names.get(t["key"], ""),
                "type": t["type"], "shares": int(t["shares"]), "price": round(t["price"], 2) if t["price"] else None,
-               "amount": round(t["amount"], 2), "note": t["note"], "provisional": bool(t.get("provisional"))}
+               "amount": round(t["amount"], 2), "note": t["note"], "provisional": bool(t.get("provisional")),
+               **({"event": t["event"]} if t.get("event") else {}),
+               **({"factor": t["factor"], "shares_before": t["held_before"], "shares_after": t["held_after"]}
+                  if t.get("factor") else {})}
               for t in led["trades"]]
+    ca_all = [t for t in tx_out if t.get("event")]
+    ca_today = [t for t in ca_all if t["date"] == as_of]
     closed_out = [{"key": c["key"], "name": names.get(c["key"], c["key"]),
                    "first_buy": c["first_buy"].strftime("%Y-%m-%d"), "last_sell": c["last_sell"].strftime("%Y-%m-%d"),
                    "days": c["days"], "avg_buy": round(c["avg_buy"], 2), "avg_sell": round(c["avg_sell"], 2),
@@ -835,6 +901,7 @@ def main():
             "pnl_pct": round((value / deposits - 1) * 100, 2) if deposits else 0.0,
             "unrealised_pnl_inr": round(unrealised, 2),
             "realised_pnl_inr": round(led["realised_total"], 2),
+            "dividends_received_inr": round(led["dividends_total"], 2),
             "day_pnl_inr": round(day_pnl, 2),
             "day_pnl_pct": round(day_pnl / prev_value * 100, 2) if prev_value else 0.0,
             "open_positions": len(results),
@@ -852,6 +919,8 @@ def main():
         "performers": performers,
         "transactions": tx_out,
         "closed_positions": closed_out,
+        "corporate_actions": ca_all,
+        "corporate_actions_today": ca_today,
         "data_quality": warnings,
         "sources": {
             "prices": "Yahoo Finance via yfinance (unofficial)",

@@ -7,13 +7,24 @@ The portfolio is described by a simple trade book (transactions.csv):
     2026-10-16,hdfc,BUY,,3333000,,Initial allocation
     2026-11-03,zomato,SELL,ALL,,,Valuation looks stretched
 
-* type    : BUY, SELL or DEPOSIT (extra virtual money added to the portfolio)
+* type    : BUY, SELL or DEPOSIT (extra virtual money added to the portfolio), or one of the
+            corporate-action events SPLIT, BONUS, DIVIDEND (see below)
 * stock   : the "key" of the company in config.json (not needed for DEPOSIT)
 * shares  : number of shares. For SELL you may write ALL.
 * amount  : alternative to shares - rupees to invest (BUY) / raise (SELL) / add (DEPOSIT)
 * price   : optional. Leave blank to use that day's closing price (live price for today).
 * note    : optional free text
 * Lines starting with # are ignored.
+
+Corporate-action events (append-only: old lines are never edited, an event line is added on the ex-date):
+* SPLIT / BONUS : put the multiplier in the `shares` column (2 = 2-for-1 split or 1:1 bonus, 5 = 5-for-1 split,
+                  1.5 = 1:2 bonus). Shares held are multiplied by it, the average cost is divided by it and the
+                  money invested does not change. Whole shares only: a fractional entitlement is dropped.
+* DIVIDEND      : put the dividend per share in `price` (or the total cash in `amount`). Cash received =
+                  dividend per share x shares held before the ex-date. Shares and average cost do not change.
+* An event is applied before the trades of the same day, and only if the stock is held on that date.
+* The price history from Yahoo Finance is already split-adjusted, so a split also restates the earlier share
+  counts of that position; the portfolio value line therefore stays smooth on the ex-date.
 
 Accounting: average-cost method. Cash starts as the initial capital from config.json.
 Buys reduce cash, sells add cash. No brokerage / taxes (virtual portfolio).
@@ -25,7 +36,8 @@ import re
 
 import pandas as pd
 
-VALID_TYPES = {"BUY", "SELL", "DEPOSIT"}
+EVENT_TYPES = {"SPLIT", "BONUS", "DIVIDEND"}
+VALID_TYPES = {"BUY", "SELL", "DEPOSIT"} | EVENT_TYPES
 
 
 # ----------------------------------------------------------------------------
@@ -70,7 +82,7 @@ def load_transactions(path, valid_keys):
             continue
         typ = str(row["type"]).strip().upper()
         if typ not in VALID_TYPES:
-            warnings.append(f"{path.name} line {line}: type '{row['type']}' must be BUY, SELL or DEPOSIT - line skipped.")
+            warnings.append(f"{path.name} line {line}: type '{row['type']}' must be BUY, SELL, DEPOSIT, SPLIT, BONUS or DIVIDEND - line skipped.")
             continue
         key = str(row["stock"]).strip().lower()
         if typ != "DEPOSIT" and key not in valid_keys:
@@ -93,13 +105,22 @@ def load_transactions(path, valid_keys):
         if typ == "SELL" and not (sell_all or (shares and shares > 0) or (amount and amount > 0)):
             warnings.append(f"{path.name} line {line}: SELL needs shares (or ALL) or amount - line skipped.")
             continue
+        if typ in ("SPLIT", "BONUS") and not (shares and shares > 0 and abs(shares - 1) > 1e-9):
+            warnings.append(f"{path.name} line {line}: {typ} needs the multiplier in the shares column "
+                            "(for example 2 for a 2-for-1 split) - line skipped.")
+            continue
+        if typ == "DIVIDEND" and not ((price and price > 0) or (amount and amount > 0)):
+            warnings.append(f"{path.name} line {line}: DIVIDEND needs the dividend per share in the price column "
+                            "(or the total in amount) - line skipped.")
+            continue
         if price is not None and price <= 0:
             warnings.append(f"{path.name} line {line}: price must be positive - line skipped.")
             continue
         records.append({"date": d.normalize(), "key": key if typ != "DEPOSIT" else "", "type": typ,
                         "shares": shares, "sell_all": sell_all, "amount": amount, "price": price,
                         "note": str(row["note"]).strip(), "line": line, "order": len(records)})
-    records.sort(key=lambda r: (r["date"], r["order"]))
+    # Corporate-action events are applied first on their date (before that day's trades).
+    records.sort(key=lambda r: (r["date"], 0 if r["type"] in EVENT_TYPES else 1, r["order"]))
     return records, warnings
 
 
@@ -129,6 +150,25 @@ def build_ledger(records, closes, nifty_close, capital, intraday=False):
     trades, closed, warns = [], [], []
     realised_total = 0.0
     realised_by_key = {}
+    dividends_total = 0.0
+    dividends_by_key = {}
+    split_adj = []      # (row index of ex-date, column index, multiplier)
+
+    # Splits / bonus issues recorded for each stock (row index of the ex-date, multiplier). Yahoo's price history is
+    # already split-adjusted, so a trade WITHOUT its own price (priced from the history) made before a split must be
+    # priced back at the original scale: adjusted close x multipliers of the splits that came after the trade.
+    split_rows = {}
+    for r in records:
+        if r["type"] in ("SPLIT", "BONUS"):
+            j = int(idx.searchsorted(r["date"]))
+            if j < len(idx):
+                split_rows.setdefault(r["key"], []).append((j, float(r["shares"])))
+
+    def unadjusted(key, i, price):
+        for j, f in split_rows.get(key, ()):
+            if j > i:
+                price *= f
+        return price
 
     for rec in records:
         i = int(idx.searchsorted(rec["date"]))
@@ -147,8 +187,44 @@ def build_ledger(records, closes, nifty_close, capital, intraday=False):
             trades.append({**base, "shares": 0, "price": None, "amount": float(rec["amount"]), "provisional": False})
             continue
 
+        if typ in EVENT_TYPES:
+            p = pos.get(key)
+            if not p or p["shares"] < 1:
+                continue  # stock not held on that date - nothing to adjust
+            if typ == "DIVIDEND":
+                held = p["shares"]
+                cash_in = float(rec["price"]) * held if rec["price"] is not None else float(rec["amount"])
+                cash += cash_in
+                cash_delta.iloc[i] += cash_in
+                dividends_total += cash_in
+                dividends_by_key[key] = dividends_by_key.get(key, 0.0) + cash_in
+                dps = cash_in / held
+                trades.append({**base, "shares": held, "price": dps, "amount": cash_in, "provisional": False,
+                               "event": "DIVIDEND",
+                               "note": rec["note"] or f"Dividend of Rs {dps:.2f} per share on {held} shares"})
+            else:  # SPLIT or BONUS
+                f = float(rec["shares"])
+                before = p["shares"]
+                raw = before * f
+                after = int(math.floor(raw + 1e-9))
+                if after < 1:
+                    warns.append(f"Line {rec['line']}: {typ} x{f:g} would leave less than 1 share of {key} - skipped.")
+                    continue
+                if abs(raw - after) > 1e-6:
+                    warns.append(f"Line {rec['line']}: {typ} x{f:g} on {before} shares of {key} gives {raw:.2f}; "
+                                 f"{after} whole shares kept (fraction dropped).")
+                p["shares"] = after            # money invested (p["cost"]) is unchanged -> average cost / f
+                p["cyc_bought"] *= f
+                p["cyc_sold"] *= f
+                split_adj.append((i, keys.index(key), f))
+                label = "Split" if typ == "SPLIT" else "Bonus"
+                trades.append({**base, "shares": after - before, "price": None, "amount": 0.0, "provisional": False,
+                               "event": typ, "factor": f, "held_before": before, "held_after": after,
+                               "note": rec["note"] or f"{label} (x{f:g}): {before} to {after} shares, cost unchanged"})
+            continue
+
         provisional = rec["price"] is None and i == len(idx) - 1 and intraday
-        price = float(rec["price"]) if rec["price"] is not None else float(closes[key].iloc[i])
+        price = float(rec["price"]) if rec["price"] is not None else unadjusted(key, i, float(closes[key].iloc[i]))
 
         if typ == "BUY":
             shares = int(rec["shares"]) if rec["shares"] else int(rec["amount"] // price)
@@ -218,6 +294,10 @@ def build_ledger(records, closes, nifty_close, capital, intraday=False):
                 })
                 del pos[key]
 
+    # A split/bonus on ex-date row i multiplies every earlier share movement of that stock, because the price
+    # history is already split-adjusted. Trades on/after the ex-date are already on the new scale.
+    for i_ex, col, f in split_adj:
+        shares_delta.iloc[:i_ex, col] *= f
     shares_df = shares_delta.cumsum()
     cash_s = cash_delta.cumsum()
     holdings_value = (shares_df * closes).sum(axis=1)
@@ -237,4 +317,5 @@ def build_ledger(records, closes, nifty_close, capital, intraday=False):
         "cash": cash, "realised_total": realised_total, "realised_by_key": realised_by_key,
         "port_series": port_series, "nifty_series": nifty_series, "deposits_cum": deposits_cum,
         "deposit_delta": deposit_delta, "total_deposits": float(deposits_cum.iloc[-1]),
+        "dividends_total": dividends_total, "dividends_by_key": dividends_by_key,
     }

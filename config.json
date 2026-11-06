@@ -262,5 +262,10 @@
       "url": "https://www.thehindubusinessline.com/markets/feeder/default.rss"
     }
   ],
-  "transactions_file": "transactions.csv"
+  "transactions_file": "transactions.csv",
+  "corporate_actions": {
+    "enabled": true,
+    "lookback_days": 7,
+    "reinvest_dividends": false
+  }
 }
