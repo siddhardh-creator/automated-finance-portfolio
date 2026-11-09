@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 09 Nov 2026, 09:32 AM IST  |  **Market data as of:** 2026-11-09  |  **Start date:** 2026-10-16
+**Last updated:** 09 Nov 2026, 10:31 AM IST  |  **Market data as of:** 2026-11-09  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,13 +14,13 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,54,72,932** |
-| Total P&L | **₹8,74,202 (+3.55%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | ₹12,72,690 |
+| Current value | **₹2,55,42,222** |
+| Total P&L | **₹9,43,492 (+3.84%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | ₹13,41,980 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
-| Today's change | -₹93,010 (-0.36%) |
-| Nifty 50 since start (same money invested) | +8.36% |
-| Outperformance vs Nifty 50 | -4.81% |
+| Today's change | -₹23,720 (-0.09%) |
+| Nifty 50 since start (same money invested) | +8.34% |
+| Outperformance vs Nifty 50 | -4.50% |
 | Cash (uninvested) | ₹71,41,482 |
 | Virtual money put in | ₹2,45,98,730 |
 
@@ -32,16 +32,16 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹12,754.00 | - | ₹12,750.00 | +0.03% | ₹36,98,660 | 14.5% | ₹3,66,850 | +11.01% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹175.70 | - | ₹172.09 | +2.10% | ₹1,75,700 | 0.7% | ₹27,980 | +18.94% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,625.00 | - | ₹7,669.50 | -0.58% | ₹76,25,000 | 29.9% | ₹3,59,000 | +4.94% |
-| Linde India | 500 | ₹5,961.00 | ₹6,712.00 | - | ₹6,859.00 | -2.14% | ₹33,56,000 | 13.2% | ₹3,75,500 | +12.60% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹89.54 | - | ₹89.20 | +0.38% | ₹89,540 | 0.3% | ₹4,540 | +5.34% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,834.10 | - | ₹1,821.70 | +0.68% | ₹18,34,100 | 7.2% | ₹1,56,900 | +9.35% |
-| Bank of India | 1,000 | ₹131.33 | ₹141.45 | - | ₹138.57 | +2.08% | ₹1,41,450 | 0.6% | ₹10,120 | +7.71% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,411.00 | - | ₹1,406.40 | +0.33% | ₹14,11,000 | 5.5% | -₹28,200 | -1.96% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹12,808.00 | - | ₹12,750.00 | +0.45% | ₹37,14,320 | 14.5% | ₹3,82,510 | +11.48% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹174.25 | - | ₹172.09 | +1.26% | ₹1,74,250 | 0.7% | ₹26,530 | +17.96% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,606.50 | - | ₹7,669.50 | -0.82% | ₹76,06,500 | 29.8% | ₹3,40,500 | +4.69% |
+| Linde India | 500 | ₹5,961.00 | ₹6,820.00 | - | ₹6,859.00 | -0.57% | ₹34,10,000 | 13.3% | ₹4,29,500 | +14.41% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹89.11 | - | ₹89.20 | -0.10% | ₹89,110 | 0.3% | ₹4,110 | +4.84% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,854.90 | - | ₹1,821.70 | +1.82% | ₹18,54,900 | 7.3% | ₹1,77,700 | +10.60% |
+| Bank of India | 1,000 | ₹131.33 | ₹141.46 | - | ₹138.57 | +2.09% | ₹1,41,460 | 0.6% | ₹10,130 | +7.71% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,410.20 | - | ₹1,406.40 | +0.27% | ₹14,10,200 | 5.5% | -₹29,000 | -2.02% |
 
-**Best since buy:** Ashok Leyland (+18.94%)  ·  **Worst since buy:** Jio Platforms (-1.96%)  ·  **Biggest mover today:** Linde India (-2.14%)
+**Best since buy:** Ashok Leyland (+17.96%)  ·  **Worst since buy:** Jio Platforms (-2.02%)  ·  **Biggest mover today:** Bank of India (+2.09%)
 
 ## Allocation
 
@@ -49,16 +49,16 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,33,33,460 | 52.3% |
+| Automobiles | ₹1,33,49,970 | 52.3% |
 | Cash | ₹71,41,482 | 28.0% |
-| Industrial Gases | ₹33,56,000 | 13.2% |
-| Telecom & Digital Services | ₹14,11,000 | 5.5% |
-| Financials | ₹1,41,450 | 0.6% |
-| Stationery & Writing Instruments | ₹89,540 | 0.3% |
+| Industrial Gases | ₹34,10,000 | 13.3% |
+| Telecom & Digital Services | ₹14,10,200 | 5.5% |
+| Financials | ₹1,41,460 | 0.6% |
+| Stationery & Writing Instruments | ₹89,110 | 0.3% |
 
 <a name="performance"></a>
 
-## Performance (as on 09 Nov 2026, 09:32 AM IST)
+## Performance (as on 09 Nov 2026, 10:31 AM IST)
 
 ![Returns](charts/returns.png)
 
@@ -118,7 +118,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹12,754.00 | +0.03% | ₹12,657.00 - ₹12,876.00 | 61,364 | 517,606 | 0.12x | 26.96% | ₹11,170.00 - ₹17,292.00 |
+| ₹12,808.00 | +0.45% | ₹12,657.00 - ₹12,876.00 | 113,993 | 517,606 | 0.22x | 26.89% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -133,9 +133,9 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Maruti Suzuki Share Price Live Updates: Maruti Suzuki Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-09-nov-2026/liveblog/135669242.cms) - _Economic Times, 09 Nov 2026, 08:31 AM IST_
 - [Maruti Suzuki rides Dhanteras demand with 30,000 deliveries in one day, eyes 12-15% festive growth](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRjliMTRZeWFYNklZTTFOcVRnVmExb0dOX1U1cktuRGcxWmFVbHR4cFNRVlFuOVNyeTh1cEszTmlib2dPUTRIYkh3RkJfUGJFeGJvLU16NUc4WjNGTXQ0b0JWUEVSemhGZ2t5X1BXbkpFd19icXJWMEdLNHl5X2sxMWVmUk02bjEtRG9kQ0ZHNXlUN2kwckVnaEZTN1lKdjZGMmhQY2VDVXJ2SEJsWmdMb015Yk9OOU5STkRIZnJmRFlhZ0lMZXVzR19KbmNfcExCem92VUdHMkxuN3FlSmttSjFhbXB4d9IB6wFBVV95cUxQNkh4SVFNWHc0RE16OWtTSnRmdjZUOVhhTzEzcnFyaFB2VDUyYzFvUWhpenFUeVlpN3M3a2pWMGRfdl9mSFF4QzkwcWIyUGNqVXg1RWNSMmdFNjI4WlA0MTVUc1BINDZWcTBlYm40TDNMOXl5dlQ4TXR1ZE5TbVhzbGdodGN0VjN1Yl9FRldjeGlYanJWYmxRTFllYUIzUWQ2d3hMdlJRX2dyWEpuQ0Q1eFBPbkpfSmZQZ0c1NEdYRzNodE1Rb1ItbFNZOVlpUDhObzJfY0gtVS1LbGZHeEdaWFR4Tm5haVVJZFY0?oc=5) - _Livemint, 06 Nov 2026, 07:20 PM IST_
 - [Festive demand remains strong as Maruti Suzuki expects 30,000 Dhanteras deliveries, Hyundai targets 16,000](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMGhTeHg0N2dJSzVsZC1UYzAyMC1wOGpQUmFlRFdqWWFaTFh3MnFvRXlVVE1Xa3BoNUl3UVF4Vi15dU9MQTQ3aU9MenNGQ3BWOWlPS3JRNVBIbXJVd2Rpa2N4OUktR2pVdVZJdEV5cDZTVGVXZmIzal9vRjg4NmhoWUV0WTFWRlJ6ODVVVC16WlA3aTBsNU85dzB0dV9sdkEtaU01Sk5NUVBqZDg5MVhLZDdTdkdGMmxOeU1XdGwxRmpvM1N3UEJ2QjE5QjRTeENHRzhMLTJYbkJJS2lBaUh5SDdpT05UTlRFdFR1Qlhta1LSAfYBQVVfeXFMTmpVdlFyd1VhdnE3NmhROWNzNFFnZHJGZk90NXhxVlFkUnVQWTdLVENrWEVDN0ZiS0I4YUtlOGQ3M1lSOEZBczFkUVFKY3dUUG9hYlREMThrVTRVN3Z4Yk5OUVR4V3gzQjBUQXNULXBCNVF1cGg2MnpVN1h1TXo0WHRaWXFkNVFSTmNhMXJvZS1EN2NmaHRvY19XSUVUX0YtVFJLNGRVM3dQcGF1NHFTUjdOcGw2X3Jtc3BJZTdSZFBpNjNBVHh2WHJsUHQ5YXhqM1kwMkxqTGMzR0lCZVV1TjZqZnBiQWNobjJacVpvclc0eVg2aHJR?oc=5) - _Moneycontrol.com, 06 Nov 2026, 07:17 PM IST_
-- [Maruti Suzuki to set up 12 automated driving licence test tracks in Telangana](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNHQteWQ5MWtHT2l2dmFrc25WbEVDQUNqNGdtdWktZXFET0tKcUZZM1g0djZxNWlWZk1RQzVqSHh2NE81QUFHS25kZUZra1hYd0ppQXVaNlZHUWY1VVpkM0VLNXFJMW1oMnRMMzFwZjk1UE15VzEzV09ldmIxcklBYm8tRXhtUnowTEVoekF3am4zal9vX1l1TUhfTWhrbUlBTUdZWUUzalo3T0ptTTlmRElwTjJldVg1bmliRERFdTRQcVZSeVJkd0NwSEMtMm90V1BKQWh3U090cUNhRE84NUdoZFVWRThId2fSAe8BQVVfeXFMTk1QWXpGNGIzOHB3dTQ2b1ViajVKYmJHcjVSTFRjOFdqR3VCSnJjRjNIeFlvNGlCcjd5ZnpNdXgwTkxRRUh0US1aS1JlVjRTSHdrLVl5TG1jdkFQNUItLW5YQW1IeHU0ZzNIaUJUeDJ1YXhMYm9rNkxxR1h2Ni1Ld3ZGQjN2NmUwZ1R4MVNDN05lcGtTTndMeVdTRlVkVmNzeEdtVjNFN3M5aWVaYk05MlFfeW0zVlJZOVprT0phUjFtQmJYZFliSmxzVy1tWmdOY3hab1BhdGxWcW5JNzRkRlY3MVotQ0tyTzBDaFZCd3M?oc=5) - _The Economic Times, 06 Nov 2026, 10:22 AM IST_
 
 </details>
 
@@ -149,7 +149,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹175.70 | +2.10% | ₹174.85 - ₹178.83 | 3,007,660 | 18,805,470 | 0.16x | 42.26% | ₹138.58 - ₹211.92 |
+| ₹174.25 | +1.26% | ₹173.84 - ₹178.83 | 7,805,875 | 18,805,470 | 0.42x | 42.07% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -179,7 +179,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,625.00 | -0.58% | ₹7,585.00 - ₹7,661.50 | 29,455 | 439,716 | 0.07x | 24.13% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,606.50 | -0.82% | ₹7,580.50 - ₹7,661.50 | 79,320 | 439,716 | 0.18x | 24.28% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -194,7 +194,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Eicher Motors Share Price Highlights: Eicher Motors Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-updates-08-nov-2026/liveblog/135649915.cms) - _Economic Times, 08 Nov 2026, 08:17 AM IST_
+- [Eicher Motors Share Price Live Updates: Eicher Motors Stock Details](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135668882.cms) - _Economic Times, 09 Nov 2026, 08:17 AM IST_
 - [Royal Enfield takes Flying Flea electric motorcycle to Chennai, plans 14 sales and service touchpoints](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeGM3WWVoYVNYN1FHVFhoOFFMMHFEaFJsSkZhdENETExzemlkRHduS3RQUkVKOWZqd3RScVkxcVQ2TGpyWHY5aUhucFY5MWxrZEFsbUpSaW9hR2FvZ1pYY2hJNnNaTWJfMmRFLVdXQVo0VFNZQnBCOGxEVDdUMXJQLTNsQVdMYkZqRXFuUDJjZXNmSjFiZmdHdnVVZklLYnlWOHRQaWVSa25yYmlOcGk4dGN4ZERhdUowa0tVSWNjQV91RUZmZUN0RmxoQ2JQWUNPTXBvVWtUaElfTUpmbnNDMWw5X3JFT09lMWh6T9IB8gFBVV95cUxOSWpMdGdNOHZieHFXZ3VVZS1WXzN6YjdOMXpYaEZETHlOOXNWSEhCa0JlblFhVFZ6SXUwTkVxMDI0amlnanJRVVlaZW42UnVhTlFBc3ZXRWpZZG1JWTlvQ1FpaHhSRXhIcUZVY01hcFlLdFBrQi0zYnczZGt0aXVrd0FrM0p4Sk5fVFdfX3M4MDhLNTRYSFhyeTZuYXQxazhmbnlOaXlzTHRhSmJNV1dyX0hReDRuMGZvMGZPOTZyelV2QzRPUk9yYjhTdWhYTDhrSUZoakpQaXlBdGVZZEhVLTZxSWM5VzdHTV9sSXdTeHB1QQ?oc=5) - _Livemint, 07 Nov 2026, 11:49 PM IST_
 - [Market wrap: M&M, ICICI Bank, Tata Motors PV, Eicher Motors top gainers and losers on Nifty and Sensex on](https://news.google.com/rss/articles/CBMijgJBVV95cUxNbDRvVUJ0czd2QXZNWUJFdDItODc5VVQ1ek15OU4ycTVRUTVjTWpnbjR2dndiMTBuWXl6dVlLdnM1eWI1WEhvX1Jfd2pJUWpkUk13TDV4R1JFeXQ4TUFBZDBGZEhyc3lXZ0lFMFVNbnFoLVUzbjZMbmNpWFNYeUV3cmZOQ2xyY0ZuTTBwWXVkN0FpYUttemtKVkxVOEpCOF9fUGx1NHFRUDZabXRId2R1SEFYYWxPWmN2N2hhUVlQeUNFNE9JOVJtSDRTcUxmWkY4S2xYbE9Gay03azM1UGV3WUtNV2RLSlk1VWtFSkUxMTl3SWFUS3oyVFNzb2JTTTEyWEhQNWlBRWVRRlZvR2fSAZMCQVVfeXFMTUhuZ3U3YjZGOE1mYVJISkJNY3F2Qk0xTjBIcnZDdW1ZdzJiQXotcjliQ29RUDFZM2VzX3NkM19lWWhXeTA5LWw3SHU5UVpsWGttVUt1ZTV1TEhIcHlJR1J6RTVQSzF3RFZWbXBNcjJTUXEtcFpJUDEybmJhbkVtRTJlVGlqQjlmNUlvQ3N4T0dQN293V1FabEdGclFSZXBXa1Ytd1ZSOXFUZ2hpTEtBUzJ0X2x3YjRaa0ktS3JvMTNJVnd3NDhJU1NCMFNJcFJGODc1U0FMSE9vTGY5SFZqTFhuYWFhMVJDcl81OVpPRl9WMl95Tll3RzFScHpoSXliYVoxOVdqN0gxa0NoTUdGLXUtY0k?oc=5) - _The Economic Times, 06 Nov 2026, 05:31 PM IST_
 - [Royal Enfield Shotgun 650 Son of a Gun unveiled at EICMA 2026, only 100 units to be made globally](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTHFOWkswclVFdHY0cmRWY1dHTjI0QlFpTC1pSXlianJHQ0llc3BnQmRLZE1mNjZCNzlDb3FwZlJtUkU0SmdKN2tERmg1MVEyaC1hZ3hYQl9MbUZQRlNUSi1IaVNQWV8wQWM0cmdHTzViRm5HeWkxeE5PWmo2Mi02QURmWEJFUEFoQ3c5R25OS1VNYnJMTlhrbDJrMUtZRG9mbnFhd2JrVjVMQVhQX05uYU5NTXJxMUo1SHRueGl1cW4xUTlRT0xpNVZlOU9NQ2RMbGhPQmVERVdnSnBfaURjVWx4eGxIQdIB6wFBVV95cUxQN0VYNkNVcGt5WlRmbHNJbXk2eEtVSUhrU0JwXzI3M0FNUERUQkg5OGc5RnV1c3JtU19zcUZJUlN1YS1wVGpwekVQa0NXM2V0S2RuWnpGdDd0U1JpWWFJZG9DSDBQTnpLenNDZ0NHVkJsdDNoX1A5TUN0RGFIdzBuQUFGMkh2ZGhySTZacnJkTVgxSzlLdVlGZTVvR21CTkI1TEtHNG9Wcnk1ZWVfMVVPS2dmUUxMSUxyX2Zhc2NCbHBOcDg3aGZTMTJJbXMzaThYYVdpQkNkZDdscEI3TmlueklIckVwd0NFbG5Z?oc=5) - _Livemint, 06 Nov 2026, 12:03 PM IST_
@@ -211,7 +211,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,712.00 | -2.14% | ₹6,629.50 - ₹6,854.50 | 5,602 | 41,156 | 0.14x | 52.10% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,820.00 | -0.57% | ₹6,629.50 - ₹6,854.50 | 12,963 | 41,156 | 0.31x | 51.29% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -239,7 +239,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹89.54 | +0.38% | ₹89.21 - ₹89.81 | 276 | 65,454 | n/a | 107.84% | ₹76.41 - ₹125.23 |
+| ₹89.11 | -0.10% | ₹88.47 - ₹89.81 | 1,303 | 65,454 | 0.02x | 107.87% | ₹76.41 - ₹125.23 |
 
 **Research reports**
 
@@ -267,7 +267,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,834.10 | +0.68% | ₹1,808.60 - ₹1,838.70 | 206,878 | 3,709,508 | 0.06x | 64.30% | ₹601.35 - ₹1,840.00 |
+| ₹1,854.90 | +1.82% | ₹1,808.60 - ₹1,859.00 | 532,606 | 3,709,508 | 0.14x | 64.28% | ₹601.35 - ₹1,854.90 |
 
 **Research reports**
 
@@ -295,7 +295,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹141.45 | +2.08% | ₹138.75 - ₹141.45 | 1,488,802 | 8,691,156 | 0.17x | 36.99% | ₹126.32 - ₹177.20 |
+| ₹141.46 | +2.09% | ₹138.75 - ₹143.25 | 5,477,614 | 8,691,156 | 0.63x | 37.00% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -325,7 +325,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,411.00 | +0.33% | ₹1,406.70 - ₹1,421.50 | 361,624 | 38,691,641 | 0.01x | 12.70% | ₹1,406.40 - ₹1,437.40 |
+| ₹1,410.20 | +0.27% | ₹1,406.70 - ₹1,421.50 | 617,310 | 38,691,641 | 0.02x | 12.64% | ₹1,406.40 - ₹1,437.40 |
 
 **Research reports**
 
@@ -340,7 +340,6 @@ _Research report coming soon._
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Top 12 Diwali Muhurat Trading stock picks 2026: Up to 41% gain! Buy Jio Platforms, Adani Ports, 10 more by KC Securities](https://news.google.com/rss/articles/CBMikwJBVV95cUxOdGQ5T2pvVzZSNko0UGxPMkNTVFZTeTJ2MDV6ZGg0UncyNW9qdU1STUZqLUlEem94Q0FTdVZMaXZCcEk4N2pVWV9ob0JERk5lcGVjaFZrMzFKelQtSExOWmN2cVVPcUpLa2dSdjdvaUs3RVJ2RXhlQmFzY1JrWjM1OVhkMXA3blFtWEJzUUJTMWstaGkycnNZc2s2YUJ5eXBfZmEzY3JQMVpmcUY5QTUxcFBfLVlQd1Q5czRjTEFuakFhVFgwQXhvYmM5MnVTdV80NHpybkZmRTBNZzJwTGhGUTE1U09TNnNnaWZZaUZvLWd2QnUxbGpGZUp2QkpWdjNlaldCVTR5Z2doQ2x0Q3M3WUZPONIBmAJBVV95cUxNVWp0c2NPaUlkTGxzaW9aMDFhRl9mUzZ3TjVoc2hsMV9pMXRTckdnbENxU0tIMi1ObkdHZmd2MklFbkwtelhnbkNiRXluSXZqcEhhYW1iZGtaM094Q3hmTmlKQ21nU19xTTZKZHN6NFNULXlxZHdzZ2xhc2lCaHVERmN5dU5uQUZEd2ZXVmFPOTN2RFFlVFM5cWU0R2szQ080YXdHdGRNQXd0cVJ5T0Nic1pHR0dxVXk0emZJTzJfNk5ac25XallBOW56bUpKbUpiclEtY0g1dERiREhJLTdCNE5MY3FYSTdEVUppZ0lnTGwxdnF5RkhlUGRkSV9YUVRTRUV2dEN2MXJqa193RmVTcFRmenBCd3Ry?oc=5) - _Livemint, 08 Nov 2026, 12:45 PM IST_
-- [Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-08-nov-2026/liveblog/135649888.cms) - _Economic Times, 08 Nov 2026, 08:15 AM IST_
 - [Bharti Airtel reclaims 2nd spot in mcap rankings, overtakes Jio Platforms](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNFJKSG9YRUFnU2l4a090ZGZZTDVqalR3V3l3R2hkd1pLSE1tOVlFZkxsRDlSUlhKTzY0NXN5V2dLcG0tTmsyYnY3RVBBSjA4MTA3bGlkNVNTdEhPSHE3TEFjZ3dOY3RKYzhmQlZTTkp3c2wtZFZaWnZaaHl1R3dubTZyeFZpcXdReGEwUDJ5T25IVE50bFNHUC0yUURqVjV3S0pJRy1pM0FZb2ctLTFkRFVCM3p0aUNBeEotU2RCSDdtVkZ0Q1A0NTRHb3liN3VnelpoYThabGjSAd4BQVVfeXFMTkRKQ1NnUE9UV1RrcEVpZkhlQWtQN3VNd284NDFPM0pSLU5pS3p2VUUydnFDOUZOUE1DLWJlN1Nnc2ZGVlJVR093R1R0bEYyM2xvUEtoZlJESkltckhSYlhLVm1CZnlXek1TZ3pENEFhQU5xUkozM0ZrYjZoX3hEbVBLUTh5YlVCMXFOWlpuaGExbU1uT1pCMDdwZ0pmcExZVkotLUFRWlFEeGlqSkIxWU1nT2tOSGlySkRjaGYzR19pR1hMS3l1WV9LUmhiVVlOZ2NTa0RpN0tMVHpNaGZB?oc=5) - _Business Standard, 06 Nov 2026, 05:47 PM IST_
 - [Bharti Airtel reclaims No. 2 spot among India's most valuable companies, overtakes Jio Platforms](https://news.google.com/rss/articles/CBMilwJBVV95cUxOMDFoT29LN1NUTXRwd25icnlDaXVRS2pFSkUza253cy1JMlRjdEZ1T0ktNFQtaG5pWXVMRU9UaS1FUDBLelhrMWo3MU1aTmZ1NlJta3gzRWZkSEFfaUJYcUYwVVFGQ0RfbC0xTzBwMjdSekRnci1rbHNGSnNjeTVWaTBCVl9pZzFZZEd1N0VwOWlPeG9qc1FGdFdKeUxkWEpjN0liS25wOS1ub1pBbjdJa1NaS0xwdmMyZDlRR2dYbFFPZ0cyZTFpQVczRDd6d2ZrMVhzbUZaWUNjb3p4RGx4M1A0bTJuLUxkc3FSZ1plc25Rd3hFV2NaM09tV2lMNkxLLVNJR2g3S0FabEZlRzhwdkdlUmxfRE3SAZwCQVVfeXFMTk1JN01YLTZaTzhnRUNUeUtzSkZMUVZYUHozYUtWT3F6ZDVScXJwMlp3eTQzMUt4cWt3SWJFSDQwU2JYVWJTY3U2dVVfNHVYckRXUWNIeWVESXJ0N2lxSFhiazA2bW90QTdvdEJaR1J1bEpOcUZXeC1CYngxempXbFBXd3lBNUVVOExIN20zc0hycjZ6THVSVGtIcWhyZFVQSG1SWXVaSnpyeE1ES3dBUlZVN0pzTVlCSjVxajJfdVFhQ1l0RE1LUkMwbmMwdlg4LWRyRGZzbzMydm51M1QzUEhiRDNXbTZDZ2pHQzMwcWZCa3NjSUkwcGtTVVlyLWU3cHFjNVkzX1BRZ2U3WTVVVDNBY1oyM2Z6TjFXdXk?oc=5) - _The Economic Times, 06 Nov 2026, 04:50 PM IST_
 - [Quant Small Cap Fund adds Jio Platforms and 4 others; increases stake in Adani Power, 5 more](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYnpxQ2ROY0pnZjJraXhUU1UwQkREM2F5VndLSzhkeFcxT2JOdzRSOThkYzN4cjhJUUNvTG9rWm05bUlBTHpsSVdJXzNOMzJ6OW5PZDVDMUFnOTdKWE1YVDJnSUhHOG5zNGFSNWRPa3JnOWlhbTQyZTZfbTBuVG9qbUxHUnp3UjdBOGtFZ2J3dTR5U1gxWUpsRkdzSFg0NTRVWU92SlMyTlhXT21IalhnNlQ1TmNULVhScmp5cVplQUtmcTZZVGd2dWtPUXBhTUhORzAxamV0TUJtYTctWGRkM2Exa2cxdHJBZnZ4b9IB8gFBVV95cUxPZlBud2F4OE11cDNzcFlNbzVUZTVjdE5jM25pc3hxVVBxeW1NTnVidkhFN241T3ZadFVtQV81VWVMNF9XYjhieW13WVFuNkhkYWZ6dzBzQnpsTEFFb1c1bHZIMDRDQUQ1OTQ2cWtZTnpab0hBWnJvMi1pdzZZSlZIWGg5MUxyb3VCWmZWX3ZlYlNDOEFYM255S09waHo0c2VUamFVUUo0R28wSHlMeW1PU1JGam0wa3B0UWYyV0tnQkpWSDRZQnNlVU9WRTlyT21ZYk1qNkNzNzVoak4xcXlpMGZsek9zOFFZR1ptOHpBVnI1dw?oc=5) - _The Economic Times, 06 Nov 2026, 04:12 PM IST_
