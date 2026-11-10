@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 10 Nov 2026, 01:33 PM IST  |  **Market data as of:** 2026-11-09  |  **Start date:** 2026-10-16
+**Last updated:** 10 Nov 2026, 02:32 PM IST  |  **Market data as of:** 2026-11-09  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -56,7 +56,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 10 Nov 2026, 01:33 PM IST)
+## Performance (as on 10 Nov 2026, 02:32 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -116,7 +116,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹12,928.00 | +1.40% | ₹12,657.00 - ₹12,929.00 | 557,936 | 517,606 | 1.08x | 27.04% | ₹11,170.00 - ₹17,292.00 |
+| ₹12,928.00 | +1.40% | ₹12,657.00 - ₹12,929.00 | 558,028 | 517,606 | 1.08x | 27.04% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -162,7 +162,6 @@ _▲ buy · ▼ sell_
 
 - [Ashok Leyland, Paytm down after 6-day rally; analyst flags positive charts](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd29GYXd0RHg5a0Y3MnJ3NkgyX2h1X1hmSTd4SWJLc0ZNam1YOHF5QXNnWmZnMU01RGl1QnZoSGdZQVNuckVlaDJRRFlKYWNINWlILV92UVN2cWpmUEhQSldQM3JlaGhyc2wwQmExUWJWV3JfRDZfbktjbWVneWtqMzVpTmZDNWtwU1lKMm9QTHFYRVZfQlhGYVhCVWVLYVd3NXFnUGt5VEhHWmZQdXN0V0JhZnlLSHhjeTgyU3FyLUt5YnRqdWtNNDdacm5oNkFNcTh5OURn0gHbAUFVX3lxTE9ZUGpHd2NZZU5oWnJTM284eTduUXdZUWE5U3RvbE1lOFNGeWNENFZmdXdZYVdzV1lCZG1qLV9sSGl3WnRYWDdWV1VHVmN6ZFlrU0VCWHVwUzN2N3Q5Zm1iY1hRLV9tM1BEdV9RcjdaUnBENnJNNHVTLXFKWUhYLTAwLXlocTBWOUlEUC12MWI3ZDg5QWtQVDBMM2kxWklNRExlMnZBN0tpcDhFOU5Db01hbkxiTXJod0ZQX0R0QWxEN3c3LVBzT2tsSHNlbTctSDhOVkllRnRXSWtUbw?oc=5) - _Business Standard, 09 Nov 2026, 02:17 PM IST_
 - [Diwali Muhurat Trading Stock Picks 2026 under ₹200: Start Samvat 2083 with Ashok Leyland, Swiggy, PNB | By Anand Rathi](https://news.google.com/rss/articles/CBMikwJBVV95cUxNTk9KRFpTVEdHaEZTazl3OTZTS2JFLTgtWUgxaE9SMnY5bkR1NVNWeVZEM3BsRE9yOHl3R1ZZa3U5WXJGZkZxRDUxZURQbmluXzlTaEtOYlBkX0gweXFrVFNqdjM5OHBIRnR1bzcxa3VlRWVfc0hCUERjVzl0TXdkTmdMMW1ham9ybFBVSDd1YXNQNXZiQnZMMFdkVVUyNlI1Uy1SakFDQU1JRi1seFZrcUhRWk82WXhtTXh3enktQThBY0pKWXlQbkJzUHhQdk10UEVFQklrcEltanpYZWFSVW5ZVWZZamJGdUlqYW5XV05IZjBWTXl2Wks0OUdYRGhJNms0bTBOVWVuRlRGOEdBM0J6d9IBmAJBVV95cUxNWU8wWE5KLXVxYS1lWDdXbk9DbDRaS1UtY0k1Z1VqbXU5bi1XcTJxaGxVVUZGSnNnanBwMzVsQk9DQTJ3TjNqSENLVUpmeEtDQl83b2J4ZmY5bUdhVDhyWlQ5akhfUVAxZXdtVVU3aGhIank2V0VyZnF1RWRVTEN3VTc3cENNaTN1d1ByS0ViU0l4V3RqZHQwSTE3UUxkUldYLVZ3UEF0aFZfY2NMWFF6WnlGbWM0NFlESElaYlpHY1A1QU5MUWdMdVB5VXRKbGZKT1ZydzR0RXRHLUNIbDQzUGVzcnhMLVNyUm9abGkwVG5ZOEhEQnQtbml2Z3FEZkhoaGY2ZzNsa3pqOFhTa2YwLUxEMW5Ld3U1?oc=5) - _Livemint, 08 Nov 2026, 11:31 AM IST_
-- [Ashok Leyland - Concurrent Gainers: 9 stocks gain for 5 days in a row](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQmhtbVRIbVNrbC1HbkpjZlpxQW1ZSktiSVJ6VUd5ZXBoQ3c1S2lYTW1hMnVocDNwQ0t3WHdJam5sajZMWVhPVm1NRUZfa0o3aHluMHN1RmhWWHV4QXhNZWl5VW0wR1RSMW9GUDRFZERiNmhxS2FsVktfb2JLUnlNY1RmMEJqYVNuZDN2X2ZXQmxVamRLaGlIUmNfT3hmUEJWaDBaT2lCSWtCVXphazZKNXBybnBJd05CR1djMXBoaXhWZ002MzdWb1JaSDVrdlllek9nWA?oc=5) - _The Economic Times, 07 Nov 2026, 02:24 PM IST_
 
 </details>
 
