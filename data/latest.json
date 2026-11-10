@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "10 Nov 2026, 02:32 PM IST",
+  "generated_at_ist": "10 Nov 2026, 08:33 PM IST",
   "as_of": "2026-11-09",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -55,14 +55,7 @@
         "pnl_inr": 417310.0,
         "pnl_pct": 12.53
       },
-      "news": [
-        {
-          "title": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History",
-          "source": "Economic Times",
-          "published": "09 Nov 2026, 08:31 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-09-nov-2026/liveblog/135669242.cms"
-        }
-      ],
+      "news": [],
       "announcements": [],
       "weight_pct": 14.65
     },
@@ -96,6 +89,12 @@
         "pnl_pct": 18.37
       },
       "news": [
+        {
+          "title": "Ashok Leyland Dividend: Board To Mull Payout On November 14 | Details Inside",
+          "source": "NDTV Profit",
+          "published": "10 Nov 2026, 02:44 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHRRWktzYWI3Z3RQY01nczgtZ2l0WUZPSXlzd1BYVTZUVmZwanBRX2dIb0JtajM3MXNFZmJ1ZE9FcEVUa3JZZV80eFRNbWhHVTA5aGZKU0pXcmpQZnRIM0VJUFkyWVdydlVkR2QwRktoaUcyd1hQbkVVeTB2RktsV3cyNS1XNGQtYUtXNXdWU2lTdTJMZnJaR2F3a1BSVGcwM0NTMVZremFVM1FlallUaFdRUGg5WENQ0gHAAUFVX3lxTE1VNDhRSjRid1B1TWxhVVRSTHJ2T3JjM1h5S2dvY1NEeC1aZk9GNlk4Yk9kSzM4QTAybFZjVVg4bm1iTS1tUnM3d1VIWUN3OTUwVlpycWF5U1VITE1ncDlHLUdVaW9wN0MtUlAzcW5FQzlJNmNsRnZhVXVKM3NMTkJZaTI5OTNjUF9JQ2FlZGZSR2duOURpRWJFSFdnM1F6dzctWEpBVmlxc0k2N1c2Qk5MbEZEWlNXY3VCSGZrYmlwQw?oc=5"
+        },
         {
           "title": "Ashok Leyland, Paytm down after 6-day rally; analyst flags positive charts",
           "source": "Business Standard",
@@ -255,12 +254,6 @@
       },
       "news": [
         {
-          "title": "Chemplast Sanmar shares jump over 11% in biggest single-day gain in 10 months as Q2 rally gathers pace",
-          "source": "Mint",
-          "published": "09 Nov 2026, 06:44 PM IST",
-          "link": "https://www.livemint.com/market/stock-market-news/chemplast-sanmar-shares-jump-over-11-in-biggest-single-day-gain-in-10-months-as-q2-rally-gathers-pace-11794229336025.html"
-        },
-        {
           "title": "Top 3 stocks to buy this week: Union Bank, Ather Energy, Laurus Labs by market expert; check stop-loss, target price",
           "source": "Livemint",
           "published": "09 Nov 2026, 05:52 PM IST",
@@ -311,14 +304,7 @@
         "pnl_inr": 13670.0,
         "pnl_pct": 10.41
       },
-      "news": [
-        {
-          "title": "State Bank of India expands US footprint with new branch in Texas",
-          "source": "The Economic Times",
-          "published": "07 Nov 2026, 05:45 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUVJRWmdPMXBZMzBHenNUUE9UVnd5dlZXYlR0djkyaXJrRndvSEcwcEg5S2JYWVBYcUd2dWNPT1RSTVhKRHg5ckVRU1lSVFZTZlhEYXZxbmZxbzJYNndYcjRCQjBtamFJY21SUWVqQ2l1Rld3XzVXdE9BdjVUQ3hvZ1lEOV9UNDF0OWtwdmVxMmdCRDhUd0tUd1daak5WSW1TckRxbXlNNnVGTlNaUVRUZVdFbmxpN2VYcVB0NWlNSmVnN2tfWEszVDZ6aWVaMXU1UV9vWER6MXZyU2p3Z0Q1Xy1hOWxURVJmY09WMzJVbFF6NkHSAewBQVVfeXFMTnBEUUhULU1iQ2lWRkdyQk5XVW1IQXhGSnJYZlN3OTNDcFBjcGZaSlpKZE55YVdNZnlrT2V0eEQ4VUJqWVVqb2NuRmNzOWRLRlowY2paVkh5anlWY2lzY2FMV042aUNhaW1FOGhFbW5LSmxLU2lmY2pYcDhQc3YwV0taVXFsUDhDWXRra29JNjMtM3VPYzc0SVowVkVHbnFESGtjYThleTFuZGFOTFo1V1BTUXBpWHVKc0xYSUhLbWhYUzRLajF4ekJMRWJZX2NKN0diazUzZ1lFRFJNMTd5ajVaN2Vrc3RPclU5Sng?oc=5"
-        }
-      ],
+      "news": [],
       "announcements": [],
       "weight_pct": 0.57
     },

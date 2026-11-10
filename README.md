@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 10 Nov 2026, 02:32 PM IST  |  **Market data as of:** 2026-11-09  |  **Start date:** 2026-10-16
+**Last updated:** 10 Nov 2026, 08:33 PM IST  |  **Market data as of:** 2026-11-09  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -56,7 +56,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 10 Nov 2026, 02:32 PM IST)
+## Performance (as on 10 Nov 2026, 08:33 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -131,7 +131,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-09-nov-2026/liveblog/135669242.cms) - _Economic Times, 09 Nov 2026, 08:31 AM IST_
+- No fresh headlines from trusted sources in the last few days.
 
 </details>
 
@@ -160,6 +160,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Ashok Leyland Dividend: Board To Mull Payout On November 14 | Details Inside](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHRRWktzYWI3Z3RQY01nczgtZ2l0WUZPSXlzd1BYVTZUVmZwanBRX2dIb0JtajM3MXNFZmJ1ZE9FcEVUa3JZZV80eFRNbWhHVTA5aGZKU0pXcmpQZnRIM0VJUFkyWVdydlVkR2QwRktoaUcyd1hQbkVVeTB2RktsV3cyNS1XNGQtYUtXNXdWU2lTdTJMZnJaR2F3a1BSVGcwM0NTMVZremFVM1FlallUaFdRUGg5WENQ0gHAAUFVX3lxTE1VNDhRSjRid1B1TWxhVVRSTHJ2T3JjM1h5S2dvY1NEeC1aZk9GNlk4Yk9kSzM4QTAybFZjVVg4bm1iTS1tUnM3d1VIWUN3OTUwVlpycWF5U1VITE1ncDlHLUdVaW9wN0MtUlAzcW5FQzlJNmNsRnZhVXVKM3NMTkJZaTI5OTNjUF9JQ2FlZGZSR2duOURpRWJFSFdnM1F6dzctWEpBVmlxc0k2N1c2Qk5MbEZEWlNXY3VCSGZrYmlwQw?oc=5) - _NDTV Profit, 10 Nov 2026, 02:44 PM IST_
 - [Ashok Leyland, Paytm down after 6-day rally; analyst flags positive charts](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd29GYXd0RHg5a0Y3MnJ3NkgyX2h1X1hmSTd4SWJLc0ZNam1YOHF5QXNnWmZnMU01RGl1QnZoSGdZQVNuckVlaDJRRFlKYWNINWlILV92UVN2cWpmUEhQSldQM3JlaGhyc2wwQmExUWJWV3JfRDZfbktjbWVneWtqMzVpTmZDNWtwU1lKMm9QTHFYRVZfQlhGYVhCVWVLYVd3NXFnUGt5VEhHWmZQdXN0V0JhZnlLSHhjeTgyU3FyLUt5YnRqdWtNNDdacm5oNkFNcTh5OURn0gHbAUFVX3lxTE9ZUGpHd2NZZU5oWnJTM284eTduUXdZUWE5U3RvbE1lOFNGeWNENFZmdXdZYVdzV1lCZG1qLV9sSGl3WnRYWDdWV1VHVmN6ZFlrU0VCWHVwUzN2N3Q5Zm1iY1hRLV9tM1BEdV9RcjdaUnBENnJNNHVTLXFKWUhYLTAwLXlocTBWOUlEUC12MWI3ZDg5QWtQVDBMM2kxWklNRExlMnZBN0tpcDhFOU5Db01hbkxiTXJod0ZQX0R0QWxEN3c3LVBzT2tsSHNlbTctSDhOVkllRnRXSWtUbw?oc=5) - _Business Standard, 09 Nov 2026, 02:17 PM IST_
 - [Diwali Muhurat Trading Stock Picks 2026 under ₹200: Start Samvat 2083 with Ashok Leyland, Swiggy, PNB | By Anand Rathi](https://news.google.com/rss/articles/CBMikwJBVV95cUxNTk9KRFpTVEdHaEZTazl3OTZTS2JFLTgtWUgxaE9SMnY5bkR1NVNWeVZEM3BsRE9yOHl3R1ZZa3U5WXJGZkZxRDUxZURQbmluXzlTaEtOYlBkX0gweXFrVFNqdjM5OHBIRnR1bzcxa3VlRWVfc0hCUERjVzl0TXdkTmdMMW1ham9ybFBVSDd1YXNQNXZiQnZMMFdkVVUyNlI1Uy1SakFDQU1JRi1seFZrcUhRWk82WXhtTXh3enktQThBY0pKWXlQbkJzUHhQdk10UEVFQklrcEltanpYZWFSVW5ZVWZZamJGdUlqYW5XV05IZjBWTXl2Wks0OUdYRGhJNms0bTBOVWVuRlRGOEdBM0J6d9IBmAJBVV95cUxNWU8wWE5KLXVxYS1lWDdXbk9DbDRaS1UtY0k1Z1VqbXU5bi1XcTJxaGxVVUZGSnNnanBwMzVsQk9DQTJ3TjNqSENLVUpmeEtDQl83b2J4ZmY5bUdhVDhyWlQ5akhfUVAxZXdtVVU3aGhIank2V0VyZnF1RWRVTEN3VTc3cENNaTN1d1ByS0ViU0l4V3RqZHQwSTE3UUxkUldYLVZ3UEF0aFZfY2NMWFF6WnlGbWM0NFlESElaYlpHY1A1QU5MUWdMdVB5VXRKbGZKT1ZydzR0RXRHLUNIbDQzUGVzcnhMLVNyUm9abGkwVG5ZOEhEQnQtbml2Z3FEZkhoaGY2ZzNsa3pqOFhTa2YwLUxEMW5Ld3U1?oc=5) - _Livemint, 08 Nov 2026, 11:31 AM IST_
 
@@ -275,7 +276,6 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Chemplast Sanmar shares jump over 11% in biggest single-day gain in 10 months as Q2 rally gathers pace](https://www.livemint.com/market/stock-market-news/chemplast-sanmar-shares-jump-over-11-in-biggest-single-day-gain-in-10-months-as-q2-rally-gathers-pace-11794229336025.html) - _Mint, 09 Nov 2026, 06:44 PM IST_
 - [Top 3 stocks to buy this week: Union Bank, Ather Energy, Laurus Labs by market expert; check stop-loss, target price](https://news.google.com/rss/articles/CBMijgJBVV95cUxQOTNGbUE0MzZrclo0QlNvVGVjcTlTM19IdlVYUEp2RGhHY1prYV9oQlc4bmNYNTYzb1djVU5lMUdza3RTclZvSkR3T1dfSzRyTE5rbTZzVEdQcVJwenZWV2NIb2tpb3BmaGtuMnE4MnRXN0JJcUF3SmV5S2psVGhNZEoyMUIwM3pjbWlxQVZwbUpZWUZzWHFtc3A4Si1TeE5vRHVWb3R6dlg2eDJOM1dDSUtPMlJTNTg5NTRpanh5cnpDRUNBSmZFaU5hbHB1SFJ6S0dMdThMM0E1SXcxVVVLcVRfR28xcHlhdTU5MjdyN0I4ekRPM1ZyTkRrWm01bUxXTU1tMjlwdjhxWkdwMVHSAZMCQVVfeXFMT2dsbGR2c1drdnVrLWFSWEozU1hpa0lkQnZZd3d6Y25zdW5DaUY1cTduSlBiXzNPLUl3ZU5fRHNkbUV6dGVhZlU0bFRJd041ZHVMQl9XaVJwSy1FYWIwOWc1cFk5TTdCWlN1UWpaSkpCQXdlaHA2TnJyd3hKbXpTQjJFSGpZSlFRYTBIMTNRcWptcmV3b2k1OV93VFlNbE0wYmVqVk9BNjhoRkpua0x4Q3VpeUxuS0lfSnozaGIxLWZYVnJxY2x5ak9wRGRMY1paMmtGV0l1alJMVUhuc1VrcThPc2UwYjFsQTE1ZnZMOUFjTEJLdDFEbVQtamZFR2wxQVZ1WktaMC1CM1lUOVpoOHdRa2c?oc=5) - _Livemint, 09 Nov 2026, 05:52 PM IST_
 - [Ather Energy - L&T Finance among 6 stocks that dropped below their VWAPs](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb3Z6alJ3T2RmRUZQakhLRjlCT3dTdG9tX0F2UHc4aUQ3bjBZSkJLeG9MSkNSMkpkdkRTVWdDNkljZUtaNGJ5TktfUERGMVl5T0RUckEyVkRCbzNHczdyLW04VjFfa1dDNVpLN0Z6VUQyWWVydHpUWWg3Ni1qcFdFMS1HQUd0V0lkZVpGQW4taGI1VkJIZFBJZFFFV1hqYmhnMkFBWDhFQWdVSkoyY1NVbE01RUxtaTdEMXc3bzhZaFNwWUV0cDdFc29vNmVwRGNVUzFHTzJ5UG13Vy1U?oc=5) - _The Economic Times, 09 Nov 2026, 09:23 AM IST_
 - [Ather Energy Ltd. - Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%](https://news.google.com/rss/articles/CBMilAJBVV95cUxQUVBMZGpDMmN3TTk4TjMxTDYzbHpoSVNzRUhPSWk2WGtmRzdwb0dRYm5zazF0Sk5UZjVZWDVTVFRzeGJpY1ZubUh1UjJTMVJlY1MzQXlySjl3NGZIZXBISV9BOVNOX0otbmRGVTI2TFQtcW02aUpjdGtEV3JWc0JSTVoyNm9DUjJMWC1zX0wzVC0ycjNHcGM0dC1LRVJMWWZwXzZxLV9McGdsUS1vclVoQmJVLTRuVzhIaWRhQkc1X0FJbXExMGVTSWx1VTIzTDFDaWNvUkg4RjNYTnhiQWFwZ1NqNi1GbWdqWTJjSWVQdWtRNzFOSEFXY1hjTlh6Ykd4VWppcVQycHJFaUFGdDJ1TjQ0YUw?oc=5) - _The Economic Times, 08 Nov 2026, 11:48 AM IST_
@@ -306,7 +306,7 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [State Bank of India expands US footprint with new branch in Texas](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUVJRWmdPMXBZMzBHenNUUE9UVnd5dlZXYlR0djkyaXJrRndvSEcwcEg5S2JYWVBYcUd2dWNPT1RSTVhKRHg5ckVRU1lSVFZTZlhEYXZxbmZxbzJYNndYcjRCQjBtamFJY21SUWVqQ2l1Rld3XzVXdE9BdjVUQ3hvZ1lEOV9UNDF0OWtwdmVxMmdCRDhUd0tUd1daak5WSW1TckRxbXlNNnVGTlNaUVRUZVdFbmxpN2VYcVB0NWlNSmVnN2tfWEszVDZ6aWVaMXU1UV9vWER6MXZyU2p3Z0Q1Xy1hOWxURVJmY09WMzJVbFF6NkHSAewBQVVfeXFMTnBEUUhULU1iQ2lWRkdyQk5XVW1IQXhGSnJYZlN3OTNDcFBjcGZaSlpKZE55YVdNZnlrT2V0eEQ4VUJqWVVqb2NuRmNzOWRLRlowY2paVkh5anlWY2lzY2FMV042aUNhaW1FOGhFbW5LSmxLU2lmY2pYcDhQc3YwV0taVXFsUDhDWXRra29JNjMtM3VPYzc0SVowVkVHbnFESGtjYThleTFuZGFOTFo1V1BTUXBpWHVKc0xYSUhLbWhYUzRLajF4ekJMRWJZX2NKN0diazUzZ1lFRFJNMTd5ajVaN2Vrc3RPclU5Sng?oc=5) - _The Economic Times, 07 Nov 2026, 05:45 PM IST_
+- No fresh headlines from trusted sources in the last few days.
 
 </details>
 
