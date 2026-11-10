@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "09 Nov 2026, 06:04 PM IST",
+  "generated_at_ist": "10 Nov 2026, 11:35 AM IST",
   "as_of": "2026-11-09",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
@@ -61,18 +61,6 @@
           "source": "Economic Times",
           "published": "09 Nov 2026, 08:31 AM IST",
           "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-09-nov-2026/liveblog/135669242.cms"
-        },
-        {
-          "title": "Maruti Suzuki rides Dhanteras demand with 30,000 deliveries in one day, eyes 12-15% festive growth",
-          "source": "Livemint",
-          "published": "06 Nov 2026, 07:20 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRjliMTRZeWFYNklZTTFOcVRnVmExb0dOX1U1cktuRGcxWmFVbHR4cFNRVlFuOVNyeTh1cEszTmlib2dPUTRIYkh3RkJfUGJFeGJvLU16NUc4WjNGTXQ0b0JWUEVSemhGZ2t5X1BXbkpFd19icXJWMEdLNHl5X2sxMWVmUk02bjEtRG9kQ0ZHNXlUN2kwckVnaEZTN1lKdjZGMmhQY2VDVXJ2SEJsWmdMb015Yk9OOU5STkRIZnJmRFlhZ0lMZXVzR19KbmNfcExCem92VUdHMkxuN3FlSmttSjFhbXB4d9IB6wFBVV95cUxQNkh4SVFNWHc0RE16OWtTSnRmdjZUOVhhTzEzcnFyaFB2VDUyYzFvUWhpenFUeVlpN3M3a2pWMGRfdl9mSFF4QzkwcWIyUGNqVXg1RWNSMmdFNjI4WlA0MTVUc1BINDZWcTBlYm40TDNMOXl5dlQ4TXR1ZE5TbVhzbGdodGN0VjN1Yl9FRldjeGlYanJWYmxRTFllYUIzUWQ2d3hMdlJRX2dyWEpuQ0Q1eFBPbkpfSmZQZ0c1NEdYRzNodE1Rb1ItbFNZOVlpUDhObzJfY0gtVS1LbGZHeEdaWFR4Tm5haVVJZFY0?oc=5"
-        },
-        {
-          "title": "Festive demand remains strong as Maruti Suzuki expects 30,000 Dhanteras deliveries, Hyundai targets 16,000",
-          "source": "Moneycontrol.com",
-          "published": "06 Nov 2026, 07:17 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMGhTeHg0N2dJSzVsZC1UYzAyMC1wOGpQUmFlRFdqWWFaTFh3MnFvRXlVVE1Xa3BoNUl3UVF4Vi15dU9MQTQ3aU9MenNGQ3BWOWlPS3JRNVBIbXJVd2Rpa2N4OUktR2pVdVZJdEV5cDZTVGVXZmIzal9vRjg4NmhoWUV0WTFWRlJ6ODVVVC16WlA3aTBsNU85dzB0dV9sdkEtaU01Sk5NUVBqZDg5MVhLZDdTdkdGMmxOeU1XdGwxRmpvM1N3UEJ2QjE5QjRTeENHRzhMLTJYbkJJS2lBaUh5SDdpT05UTlRFdFR1Qlhta1LSAfYBQVVfeXFMTmpVdlFyd1VhdnE3NmhROWNzNFFnZHJGZk90NXhxVlFkUnVQWTdLVENrWEVDN0ZiS0I4YUtlOGQ3M1lSOEZBczFkUVFKY3dUUG9hYlREMThrVTRVN3Z4Yk5OUVR4V3gzQjBUQXNULXBCNVF1cGg2MnpVN1h1TXo0WHRaWXFkNVFSTmNhMXJvZS1EN2NmaHRvY19XSUVUX0YtVFJLNGRVM3dQcGF1NHFTUjdOcGw2X3Jtc3BJZTdSZFBpNjNBVHh2WHJsUHQ5YXhqM1kwMkxqTGMzR0lCZVV1TjZqZnBiQWNobjJacVpvclc0eVg2aHJR?oc=5"
         }
       ],
       "announcements": [],
@@ -95,7 +83,7 @@
         "high": 178.83,
         "low": 173.23,
         "intraday_range_pct": 3.25,
-        "volume": 27080476,
+        "volume": 27089610,
         "avg_volume_20d": 18805470,
         "volume_vs_avg": 1.44,
         "volatility_20d_annualised_pct": 42.12,
@@ -112,7 +100,7 @@
           "title": "Ashok Leyland, Paytm down after 6-day rally; analyst flags positive charts",
           "source": "Business Standard",
           "published": "09 Nov 2026, 02:17 PM IST",
-          "link": "https://www.business-standard.com/markets/news/ashok-leyland-paytm-down-after-6-day-rally-analyst-flags-positive-charts-126110900526_1.html"
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd29GYXd0RHg5a0Y3MnJ3NkgyX2h1X1hmSTd4SWJLc0ZNam1YOHF5QXNnWmZnMU01RGl1QnZoSGdZQVNuckVlaDJRRFlKYWNINWlILV92UVN2cWpmUEhQSldQM3JlaGhyc2wwQmExUWJWV3JfRDZfbktjbWVneWtqMzVpTmZDNWtwU1lKMm9QTHFYRVZfQlhGYVhCVWVLYVd3NXFnUGt5VEhHWmZQdXN0V0JhZnlLSHhjeTgyU3FyLUt5YnRqdWtNNDdacm5oNkFNcTh5OURn0gHbAUFVX3lxTE9ZUGpHd2NZZU5oWnJTM284eTduUXdZUWE5U3RvbE1lOFNGeWNENFZmdXdZYVdzV1lCZG1qLV9sSGl3WnRYWDdWV1VHVmN6ZFlrU0VCWHVwUzN2N3Q5Zm1iY1hRLV9tM1BEdV9RcjdaUnBENnJNNHVTLXFKWUhYLTAwLXlocTBWOUlEUC12MWI3ZDg5QWtQVDBMM2kxWklNRExlMnZBN0tpcDhFOU5Db01hbkxiTXJod0ZQX0R0QWxEN3c3LVBzT2tsSHNlbTctSDhOVkllRnRXSWtUbw?oc=5"
         },
         {
           "title": "Diwali Muhurat Trading Stock Picks 2026 under ₹200: Start Samvat 2083 with Ashok Leyland, Swiggy, PNB | By Anand Rathi",
@@ -161,6 +149,12 @@
       },
       "news": [
         {
+          "title": "Royal Enfield Just Bolted Its Biggest Modern-Era Engine Into the Himalayan 750",
+          "source": "HiConsumption",
+          "published": "10 Nov 2026, 03:10 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kemszdy1OakdxanFEc2RNUmRrNnA2MTNGeTNjQzhmQ0RHWDM2YUpIUC1YWThLS2FNc3hZNTAyVXplcE5VVzdsdVNISVp5aVk0LU1zNEc4dzcwbnJfWmZ0NXg0Q3FfR1BWa0ZiZjJnLTgyZl9x?oc=5"
+        },
+        {
           "title": "Royal Enfield takes Flying Flea electric motorcycle to Chennai, plans 14 sales and service touchpoints",
           "source": "Livemint",
           "published": "07 Nov 2026, 11:49 PM IST",
@@ -187,7 +181,7 @@
         "high": 6854.5,
         "low": 6629.5,
         "intraday_range_pct": 3.28,
-        "volume": 41363,
+        "volume": 41373,
         "avg_volume_20d": 41156,
         "volume_vs_avg": 1.01,
         "volatility_20d_annualised_pct": 51.43,
@@ -253,7 +247,7 @@
         "high": 1871.8,
         "low": 1808.6,
         "intraday_range_pct": 3.47,
-        "volume": 1728816,
+        "volume": 1728917,
         "avg_volume_20d": 3709508,
         "volume_vs_avg": 0.47,
         "volatility_20d_annualised_pct": 64.32,
@@ -266,6 +260,12 @@
         "pnl_pct": 10.89
       },
       "news": [
+        {
+          "title": "Chemplast Sanmar shares jump over 11% in biggest single-day gain in 10 months as Q2 rally gathers pace",
+          "source": "Mint",
+          "published": "09 Nov 2026, 06:44 PM IST",
+          "link": "https://www.livemint.com/market/stock-market-news/chemplast-sanmar-shares-jump-over-11-in-biggest-single-day-gain-in-10-months-as-q2-rally-gathers-pace-11794229336025.html"
+        },
         {
           "title": "Top 3 stocks to buy this week: Union Bank, Ather Energy, Laurus Labs by market expert; check stop-loss, target price",
           "source": "Livemint",
@@ -305,7 +305,7 @@
         "high": 145.0,
         "low": 138.75,
         "intraday_range_pct": 4.51,
-        "volume": 14915046,
+        "volume": 14916043,
         "avg_volume_20d": 8691156,
         "volume_vs_avg": 1.72,
         "volatility_20d_annualised_pct": 39.67,
@@ -318,12 +318,6 @@
         "pnl_pct": 10.41
       },
       "news": [
-        {
-          "title": "State Bank Of India Share Price, Stock Price - NSE/BSE Live",
-          "source": "NDTV Profit",
-          "published": "09 Nov 2026, 09:15 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LRlpNamxha3p1eVRuMDFHVUVfbmJ2ZTdTajh6dC1ZS3NGYlZkcVlpVndsWnczUmo0SGNaMWFVR2FEbmpZX01LckdnREZYbnNYbzVCbmRSc2VSVGN1VDNtSjJFN28?oc=5"
-        },
         {
           "title": "State Bank of India expands US footprint with new branch in Texas",
           "source": "The Economic Times",
@@ -351,7 +345,7 @@
         "high": 1421.5,
         "low": 1406.7,
         "intraday_range_pct": 1.05,
-        "volume": 1772516,
+        "volume": 1773973,
         "avg_volume_20d": 38691641,
         "volume_vs_avg": 0.05,
         "volatility_20d_annualised_pct": 12.84,
@@ -365,10 +359,16 @@
       },
       "news": [
         {
-          "title": "Airtel's subscriber additions plunge as Jio gains, despite ARPU growth",
-          "source": "Mint",
-          "published": "09 Nov 2026, 02:31 PM IST",
-          "link": "https://www.livemint.com/market/mark-to-market/airtels-subscriber-additions-plunge-as-jio-gains-despite-arpu-growth-11794207042610.html"
+          "title": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",
+          "source": "Livemint",
+          "published": "10 Nov 2026, 10:45 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIcE5BbllZQnNwVkdwQjhHY1RlLUdiZkFQQVNVRUpib2RtS0JHWl9wc3g4SENfR0FBRU9zTW5kWWIzVUVLWHpPWVFsYzhEN1lSNWlWWGNzTU12S3NOUkpIcnFma1l5M1pnbExVdzZsWUlBVFpmY1VJTFB4cEFUWG1QcmIyLS1tS0daYVcxdmFsRGZYWGh5X2RuOWhBQXRRYU9NTWo0SUtSdnhuekhnSVhLaEM1Y2RKSDZNT01rMS1SdEMtZkp1S1pzSGJY0gGSAkFVX3lxTE5qMjViLVhCT25leGM1T2xES25oVzlKbjRXT2lJVmE5Sk5HbUJ2UnVLQlBBUEhrdVJMeW16TU9aOTlZaGFsV3ZLN0lpa1hLc0t3cGVMQVVuekl5S0ZfVTFLQWdkZmpka01DVG40QjN6RDMySkVZQ2dCVHh6WE9tUTN3aGljVXFCbTB6WW4yZktwTlViV1BFYzR6c2dkMGtBdVNiVVgtYmVCNmo5b2lsNFNBb21UdnFVbl83N2ZiazlmaTlmQk1jMllEd3p0d1ZVMDhqTFl3STh5azIzR0JoOXpKX1RTUE5GTHRscWt6QzAtUkgxaTd2MmlwdkVzcE1GekdLNkFRUTR2UWw4eVUtR2Iycnc?oc=5"
+        },
+        {
+          "title": "Jio Platforms Nine Monthly Results, Nine Monthly Earnings for Jio Platforms",
+          "source": "The Economic Times",
+          "published": "10 Nov 2026, 06:42 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOby1FRmk3U0lOeG50dERIWmY4UFJ4aE9jT1pxVzJMMjNSb2VrcTNCU2tPTjQwdEluZ2xpaEJNNXpWbWJldnNNMUFFR0ZzRUlWTHRUWVNGaVB4TTlyLTF0eFEtdTdHUzh3eUxEVzVscF9fSG81bWItSGFmSWtDb1pwQ3VGUzk2dw?oc=5"
         },
         {
           "title": "Quant Small Cap Fund: Jio Platforms, Adani Power and Bandhan Bank among stocks bought and sold in October",
@@ -387,12 +387,6 @@
           "source": "The Economic Times",
           "published": "09 Nov 2026, 11:14 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWmozd3h4c3FMUGNQMVNicU01VUFlcWZjendUSy1tR2tEdWZqNEFZeXlRcDNFRm5aUE84d0lRa1pJeFJkTU94VVR5WDVfM0FvazJzQ3ZGbVpLZ2pRS3NlNk9nSW1SamcybFdqOFRxVmNqMGRiUXFodVowWTZCUjJzV292djVJY1VCZlZiLV9FNlJnMkh0aVRrd2lPTHpCYWlmR0FscXRSTmFoWHNUQWdxbmprRWlyekRLbEp5ejItNUtCZGpaeWNNeWxQNnR4TXFvVkdhSmJnbXBqREd4SXUzTlk4UDJaYk1Mb19PRGlTdDZyU2hnQmfSAfsBQVVfeXFMTzAxNkFhRlpES3B6OXFtNVFJR2J3QXVaanJVMEZRM0VyV3ViSUY0c2ZpNllIRy1oMHQxLUthOElETFJ5WGJDclFYMXpILUxvb3F0bjVVY3NuamZPSGFfYkM2UFdXd0lIY21kaVVFTWVaZDJfU3lqYWpCY2xzWllBOElPM2Jld05KcmFjRHZKaUR1NXh6dzVSYjhzUVhwYVdtWC1UdHpFS1p5Zjd2OXh1em5FRGE5aTR6dnNXdm00Q2ZIR3RuZ2ZiNll4M3BMQ2pOQS1OU1F6Vk91bGV2bzkzcWk5TmxwUzNYdnRBVG40cDhSVGlFTG1sYXEtMEU?oc=5"
-        },
-        {
-          "title": "Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History",
-          "source": "Economic Times",
-          "published": "09 Nov 2026, 09:33 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-09-nov-2026/liveblog/135670421.cms"
         }
       ],
       "announcements": [],
