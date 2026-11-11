@@ -2,11 +2,9 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 11 Nov 2026, 05:12 PM IST  |  **Market data as of:** 2026-11-11  |  **Start date:** 2026-10-16
+**Last updated:** 11 Nov 2026, 06:30 PM IST  |  **Market data as of:** 2026-11-11  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
+**Snapshot type:** End-of-day final snapshot
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -32,14 +30,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹13,185.00 | - | ₹12,928.00 | +1.99% | ₹38,23,650 | 14.9% | ₹4,91,840 | +14.76% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹173.90 | - | ₹174.86 | -0.55% | ₹1,73,900 | 0.7% | ₹26,180 | +17.72% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,592.00 | - | ₹7,629.00 | -0.48% | ₹75,92,000 | 29.6% | ₹3,26,000 | +4.49% |
-| Linde India | 500 | ₹5,961.00 | ₹6,822.50 | - | ₹6,794.50 | +0.41% | ₹34,11,250 | 13.3% | ₹4,30,750 | +14.45% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹89.88 | - | ₹88.01 | +2.12% | ₹89,880 | 0.3% | ₹4,880 | +5.74% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,868.20 | - | ₹1,859.80 | +0.45% | ₹18,68,200 | 7.3% | ₹1,91,000 | +11.39% |
-| Bank of India | 1,000 | ₹131.33 | ₹150.60 | - | ₹145.00 | +3.86% | ₹1,50,600 | 0.6% | ₹19,270 | +14.67% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,403.50 | - | ₹1,412.70 | -0.65% | ₹14,03,500 | 5.5% | -₹35,700 | -2.48% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹13,185.00 | ₹13,185.00 | ₹12,928.00 | +1.99% | ₹38,23,650 | 14.9% | ₹4,91,840 | +14.76% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹173.90 | ₹173.90 | ₹174.86 | -0.55% | ₹1,73,900 | 0.7% | ₹26,180 | +17.72% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,592.00 | ₹7,592.00 | ₹7,629.00 | -0.48% | ₹75,92,000 | 29.6% | ₹3,26,000 | +4.49% |
+| Linde India | 500 | ₹5,961.00 | ₹6,822.50 | ₹6,822.50 | ₹6,794.50 | +0.41% | ₹34,11,250 | 13.3% | ₹4,30,750 | +14.45% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹89.88 | ₹89.88 | ₹88.01 | +2.12% | ₹89,880 | 0.3% | ₹4,880 | +5.74% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,868.20 | ₹1,868.20 | ₹1,859.80 | +0.45% | ₹18,68,200 | 7.3% | ₹1,91,000 | +11.39% |
+| Bank of India | 1,000 | ₹131.33 | ₹150.60 | ₹150.60 | ₹145.00 | +3.86% | ₹1,50,600 | 0.6% | ₹19,270 | +14.67% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,403.50 | ₹1,403.50 | ₹1,412.70 | -0.65% | ₹14,03,500 | 5.5% | -₹35,700 | -2.48% |
 
 **Best since buy:** Ashok Leyland (+17.72%)  ·  **Worst since buy:** Jio Platforms (-2.48%)  ·  **Biggest mover today:** Bank of India (+3.86%)
 
@@ -58,7 +56,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 11 Nov 2026, 05:12 PM IST)
+## Performance (as on 11 Nov 2026, 06:30 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -162,6 +160,8 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Ashok Leyland targets 33% CV market share in 2-3 years](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcG1xWERGSVJzWERUc0tKVDdZWEp5akw2dTZaQWFyN3pVNi12cUNlRGQxUVpwU1Jlc09KZi1FRVNkZE5qQ2hCT0J6NWprQzFCOEpBVFIyTS14dXNyVEVIakp4SWk2YndQdEN0bWtxdmNwRkN0UVByejN4XzNZYkdJNVZ6bm1iaFc3b2RwQ184TkZtVUxxckRHd25oUlh4Zlp1SUFSMEczb0nSAa8BQVVfeXFMTXR2Q1UxWkNWZnpBZ3NOcEVqX3RvV1JrLXJOa3BkZWw2R1RHRk83ZC1GdFotZE5GMWp1dV90T0ZzWlUyMVNvZkVTUjFhVnNIZThSeTlZVXN6YmJyTFBlTm9UZy00Y2dnRjc1WUVPOGFzdUR3Ny1yeXNWWDJ3YjZQODVJX1V5TG5xWlVybVZyWXg5aGk4Sm90bVZHMkprNWFlOHZEWjJaTXo5MDZWa1F1WQ?oc=5) - _The Financial Express, 11 Nov 2026, 05:29 PM IST_
+- [Ashok Leyland - These 12 midcap stocks rally up to 30% in just one month](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTjNDcFB2MUljeFpDeTg3YjhmSTdicWxac3pqNENTbWVtNUNmWkJfY2VjdjcteC1rN092eGFQNEllaTBWNmduNGdkaDlUaVRoelp6S3pHRjJZdUdTczJJZ01LTVlEd09lc01WV1VWSGlvUGpTZzZLb3ViSjlHZGJZMm56WG05M1FoNjQyWS1BNFQ5VkFwbkN2NzM1YWlLLTNXdGNZWTZfZFhpNjE4d0Yzb2xxZkZfSlM0cmlOMEttMFk3NjhVc2l2cFRaSFVvandXQVRzTkVSM24?oc=5) - _The Economic Times, 11 Nov 2026, 04:36 PM IST_
 - [Ashok Leyland Dividend: Board To Mull Payout On November 14 | Details Inside](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHRRWktzYWI3Z3RQY01nczgtZ2l0WUZPSXlzd1BYVTZUVmZwanBRX2dIb0JtajM3MXNFZmJ1ZE9FcEVUa3JZZV80eFRNbWhHVTA5aGZKU0pXcmpQZnRIM0VJUFkyWVdydlVkR2QwRktoaUcyd1hQbkVVeTB2RktsV3cyNS1XNGQtYUtXNXdWU2lTdTJMZnJaR2F3a1BSVGcwM0NTMVZremFVM1FlallUaFdRUGg5WENQ0gHAAUFVX3lxTE1VNDhRSjRid1B1TWxhVVRSTHJ2T3JjM1h5S2dvY1NEeC1aZk9GNlk4Yk9kSzM4QTAybFZjVVg4bm1iTS1tUnM3d1VIWUN3OTUwVlpycWF5U1VITE1ncDlHLUdVaW9wN0MtUlAzcW5FQzlJNmNsRnZhVXVKM3NMTkJZaTI5OTNjUF9JQ2FlZGZSR2duOURpRWJFSFdnM1F6dzctWEpBVmlxc0k2N1c2Qk5MbEZEWlNXY3VCSGZrYmlwQw?oc=5) - _NDTV Profit, 10 Nov 2026, 02:44 PM IST_
 - [Ashok Leyland, Paytm down after 6-day rally; analyst flags positive charts](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd29GYXd0RHg5a0Y3MnJ3NkgyX2h1X1hmSTd4SWJLc0ZNam1YOHF5QXNnWmZnMU01RGl1QnZoSGdZQVNuckVlaDJRRFlKYWNINWlILV92UVN2cWpmUEhQSldQM3JlaGhyc2wwQmExUWJWV3JfRDZfbktjbWVneWtqMzVpTmZDNWtwU1lKMm9QTHFYRVZfQlhGYVhCVWVLYVd3NXFnUGt5VEhHWmZQdXN0V0JhZnlLSHhjeTgyU3FyLUt5YnRqdWtNNDdacm5oNkFNcTh5OURn0gHbAUFVX3lxTE9ZUGpHd2NZZU5oWnJTM284eTduUXdZUWE5U3RvbE1lOFNGeWNENFZmdXdZYVdzV1lCZG1qLV9sSGl3WnRYWDdWV1VHVmN6ZFlrU0VCWHVwUzN2N3Q5Zm1iY1hRLV9tM1BEdV9RcjdaUnBENnJNNHVTLXFKWUhYLTAwLXlocTBWOUlEUC12MWI3ZDg5QWtQVDBMM2kxWklNRExlMnZBN0tpcDhFOU5Db01hbkxiTXJod0ZQX0R0QWxEN3c3LVBzT2tsSHNlbTctSDhOVkllRnRXSWtUbw?oc=5) - _Business Standard, 09 Nov 2026, 02:17 PM IST_
 
@@ -337,7 +337,7 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Jio Financial Services Share Price Live Updates: Market Movement: Jio Financial Services](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-live-updates-11-nov-2026/liveblog/135723494.cms) - _Economic Times, 11 Nov 2026, 08:16 AM IST_
+- [Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-live-updates-11-nov-2026/liveblog/135723494.cms) - _Economic Times, 11 Nov 2026, 08:16 AM IST_
 - [IPO Lock-in Expiry: $35 billion in shares set to unlock across 116 companies; Jio, NSE, Zetwerk in focus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOEkxWkhGUjhsRUE2LTVjSU9Ubkk0RnJrZjZCdW9WaS1uT1RVbEFfaDlWM1R2YktiTGdOTmI3YjNLOXluN29iRU5fMjdUWGZQVUJ5aVNfWGRJQVg5LUNWWWRFMEpBU0lUVm5JNWtwMTZFZ2EwbkdIYk9BelFldkluV2w0bXByZnJ5WXg4MnVRYmlRWnpiWmFtclcwYl9FVmE4VnRzWG1RSl8wOVpINWNDa3hGazZPeHlBRzhSMWtwNWV4SW1ZUjRjVngtckE3eFBiRXM1OW9HTVFON1RhQ1VQMERMZlNqd9IB6wFBVV95cUxNakhxRmgwWnZYVHEyNVVIOU5SWGltb2tfcHZCUkZsbkNhR2Ruam1LZVhIZVlqaXZ2dC1uSklldDh4U0tRbkhUdGN3bzFzSDd0ckxaNG1oQWxZNmxiaE1senFTZW9jVjBad0pPM2VxTGdHeG5ZbXNoR3B4UzhKSEw5ZGZOb283WUVwbUJDYUdBN3R2X2Z3eTZQcTlaNVRNZ1ZyTnlTTFRBYVB0Wl9DU2h1Vm9SNzQyQVlHUXVsUXhIWjdja0pVcG1ZY1dqb0RFb1VRcUFIWjc3XzhHWUt2U3ltWktsQjNLTUZ4NnFZ?oc=5) - _Livemint, 10 Nov 2026, 11:47 AM IST_
 - [AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?](https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIcE5BbllZQnNwVkdwQjhHY1RlLUdiZkFQQVNVRUpib2RtS0JHWl9wc3g4SENfR0FBRU9zTW5kWWIzVUVLWHpPWVFsYzhEN1lSNWlWWGNzTU12S3NOUkpIcnFma1l5M1pnbExVdzZsWUlBVFpmY1VJTFB4cEFUWG1QcmIyLS1tS0daYVcxdmFsRGZYWGh5X2RuOWhBQXRRYU9NTWo0SUtSdnhuekhnSVhLaEM1Y2RKSDZNT01rMS1SdEMtZkp1S1pzSGJY0gGSAkFVX3lxTE5qMjViLVhCT25leGM1T2xES25oVzlKbjRXT2lJVmE5Sk5HbUJ2UnVLQlBBUEhrdVJMeW16TU9aOTlZaGFsV3ZLN0lpa1hLc0t3cGVMQVVuekl5S0ZfVTFLQWdkZmpka01DVG40QjN6RDMySkVZQ2dCVHh6WE9tUTN3aGljVXFCbTB6WW4yZktwTlViV1BFYzR6c2dkMGtBdVNiVVgtYmVCNmo5b2lsNFNBb21UdnFVbl83N2ZiazlmaTlmQk1jMllEd3p0d1ZVMDhqTFl3STh5azIzR0JoOXpKX1RTUE5GTHRscWt6QzAtUkgxaTd2MmlwdkVzcE1GekdLNkFRUTR2UWw4eVUtR2Iycnc?oc=5) - _Livemint, 10 Nov 2026, 10:45 AM IST_
 - [Quant Small Cap Fund: Jio Platforms, Adani Power and Bandhan Bank among stocks bought and sold in October](https://news.google.com/rss/articles/CBMihwJBVV95cUxNSlE2TXNoNm9TZ253LVVBUDRoQTV5a2FYWU9GN005STRmN2hpYTk4WkljLUg3aHBQRWxkSXhyWkxNc2twZXRCcFA2SjEyTkdzcGtpWmFNSHBmcm1tQUV1QnBBSDl0YWRUcnkteV83Y0x5U2szdVBXbkhFMC1ZZ2gtLTBrbUxZSnFrSXJudWkxd3V2X2hrdktoRUVJMU0yaFI4V3BuSmF3ZF9ka1pvc1hRaUNHMXQwU2pzcjA3Rks3eldkSTBnM3JEcEZMMDZJRDdxbXY0ZUptOTdsNndQWV91a3d0M3NwWi1sU2lacm5HVDUyakFmdUZJZFFqWndVQUtxX1pEalNoSQ?oc=5) - _The Economic Times, 09 Nov 2026, 01:04 PM IST_

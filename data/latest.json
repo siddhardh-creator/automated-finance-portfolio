@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "11 Nov 2026, 05:12 PM IST",
+  "generated_at_ist": "11 Nov 2026, 06:30 PM IST",
   "as_of": "2026-11-11",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
@@ -89,6 +89,18 @@
         "pnl_pct": 17.72
       },
       "news": [
+        {
+          "title": "Ashok Leyland targets 33% CV market share in 2-3 years",
+          "source": "The Financial Express",
+          "published": "11 Nov 2026, 05:29 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcG1xWERGSVJzWERUc0tKVDdZWEp5akw2dTZaQWFyN3pVNi12cUNlRGQxUVpwU1Jlc09KZi1FRVNkZE5qQ2hCT0J6NWprQzFCOEpBVFIyTS14dXNyVEVIakp4SWk2YndQdEN0bWtxdmNwRkN0UVByejN4XzNZYkdJNVZ6bm1iaFc3b2RwQ184TkZtVUxxckRHd25oUlh4Zlp1SUFSMEczb0nSAa8BQVVfeXFMTXR2Q1UxWkNWZnpBZ3NOcEVqX3RvV1JrLXJOa3BkZWw2R1RHRk83ZC1GdFotZE5GMWp1dV90T0ZzWlUyMVNvZkVTUjFhVnNIZThSeTlZVXN6YmJyTFBlTm9UZy00Y2dnRjc1WUVPOGFzdUR3Ny1yeXNWWDJ3YjZQODVJX1V5TG5xWlVybVZyWXg5aGk4Sm90bVZHMkprNWFlOHZEWjJaTXo5MDZWa1F1WQ?oc=5"
+        },
+        {
+          "title": "Ashok Leyland - These 12 midcap stocks rally up to 30% in just one month",
+          "source": "The Economic Times",
+          "published": "11 Nov 2026, 04:36 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTjNDcFB2MUljeFpDeTg3YjhmSTdicWxac3pqNENTbWVtNUNmWkJfY2VjdjcteC1rN092eGFQNEllaTBWNmduNGdkaDlUaVRoelp6S3pHRjJZdUdTczJJZ01LTVlEd09lc01WV1VWSGlvUGpTZzZLb3ViSjlHZGJZMm56WG05M1FoNjQyWS1BNFQ5VkFwbkN2NzM1YWlLLTNXdGNZWTZfZFhpNjE4d0Yzb2xxZkZfSlM0cmlOMEttMFk3NjhVc2l2cFRaSFVvandXQVRzTkVSM24?oc=5"
+        },
         {
           "title": "Ashok Leyland Dividend: Board To Mull Payout On November 14 | Details Inside",
           "source": "NDTV Profit",
@@ -352,7 +364,7 @@
       },
       "news": [
         {
-          "title": "Jio Financial Services Share Price Live Updates: Market Movement: Jio Financial Services",
+          "title": "Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History",
           "source": "Economic Times",
           "published": "11 Nov 2026, 08:16 AM IST",
           "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-live-updates-11-nov-2026/liveblog/135723494.cms"
