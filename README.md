@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 12 Nov 2026, 11:32 AM IST  |  **Market data as of:** 2026-11-12  |  **Start date:** 2026-10-16
+**Last updated:** 12 Nov 2026, 12:32 PM IST  |  **Market data as of:** 2026-11-12  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,13 +14,13 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,55,90,272** |
-| Total P&L | **₹9,91,542 (+4.03%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | ₹13,90,030 |
+| Current value | **₹2,55,37,412** |
+| Total P&L | **₹9,38,682 (+3.82%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | ₹13,37,170 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
-| Today's change | -₹62,320 (-0.24%) |
-| Nifty 50 since start (same money invested) | +9.84% |
-| Outperformance vs Nifty 50 | -5.81% |
+| Today's change | -₹1,15,180 (-0.45%) |
+| Nifty 50 since start (same money invested) | +9.61% |
+| Outperformance vs Nifty 50 | -5.79% |
 | Cash (uninvested) | ₹71,41,482 |
 | Virtual money put in | ₹2,45,98,730 |
 
@@ -32,16 +32,16 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹13,113.00 | - | ₹13,185.00 | -0.55% | ₹38,02,770 | 14.9% | ₹4,70,960 | +14.14% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹174.11 | - | ₹173.90 | +0.12% | ₹1,74,110 | 0.7% | ₹26,390 | +17.86% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,553.00 | - | ₹7,592.00 | -0.51% | ₹75,53,000 | 29.5% | ₹2,87,000 | +3.95% |
-| Linde India | 500 | ₹5,961.00 | ₹6,763.00 | - | ₹6,822.50 | -0.87% | ₹33,81,500 | 13.2% | ₹4,01,000 | +13.45% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹91.40 | - | ₹88.01 | +3.85% | ₹91,400 | 0.4% | ₹6,400 | +7.53% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,895.60 | - | ₹1,868.20 | +1.47% | ₹18,95,600 | 7.4% | ₹2,18,400 | +13.02% |
-| Bank of India | 1,000 | ₹131.33 | ₹150.51 | - | ₹150.60 | -0.06% | ₹1,50,510 | 0.6% | ₹19,180 | +14.60% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,399.90 | - | ₹1,403.50 | -0.26% | ₹13,99,900 | 5.5% | -₹39,300 | -2.73% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹12,968.00 | - | ₹13,185.00 | -1.65% | ₹37,60,720 | 14.7% | ₹4,28,910 | +12.87% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹173.84 | - | ₹173.90 | -0.03% | ₹1,73,840 | 0.7% | ₹26,120 | +17.68% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,528.50 | - | ₹7,592.00 | -0.84% | ₹75,28,500 | 29.5% | ₹2,62,500 | +3.61% |
+| Linde India | 500 | ₹5,961.00 | ₹6,765.00 | - | ₹6,822.50 | -0.84% | ₹33,82,500 | 13.2% | ₹4,02,000 | +13.49% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹89.87 | - | ₹88.01 | +2.11% | ₹89,870 | 0.3% | ₹4,870 | +5.73% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,911.30 | - | ₹1,868.20 | +2.31% | ₹19,11,300 | 7.5% | ₹2,34,100 | +13.96% |
+| Bank of India | 1,000 | ₹131.33 | ₹150.70 | - | ₹150.60 | +0.07% | ₹1,50,700 | 0.6% | ₹19,370 | +14.75% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,398.50 | - | ₹1,403.50 | -0.36% | ₹13,98,500 | 5.5% | -₹40,700 | -2.83% |
 
-**Best since buy:** Ashok Leyland (+17.86%)  ·  **Worst since buy:** Jio Platforms (-2.73%)  ·  **Biggest mover today:** Linc Ltd (+3.85%)
+**Best since buy:** Ashok Leyland (+17.68%)  ·  **Worst since buy:** Jio Platforms (-2.83%)  ·  **Biggest mover today:** Ather Energy (+2.31%)
 
 ## Allocation
 
@@ -49,16 +49,16 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,34,25,480 | 52.5% |
-| Cash | ₹71,41,482 | 27.9% |
-| Industrial Gases | ₹33,81,500 | 13.2% |
-| Telecom & Digital Services | ₹13,99,900 | 5.5% |
-| Financials | ₹1,50,510 | 0.6% |
-| Stationery & Writing Instruments | ₹91,400 | 0.4% |
+| Automobiles | ₹1,33,74,360 | 52.4% |
+| Cash | ₹71,41,482 | 28.0% |
+| Industrial Gases | ₹33,82,500 | 13.2% |
+| Telecom & Digital Services | ₹13,98,500 | 5.5% |
+| Financials | ₹1,50,700 | 0.6% |
+| Stationery & Writing Instruments | ₹89,870 | 0.3% |
 
 <a name="performance"></a>
 
-## Performance (as on 12 Nov 2026, 11:32 AM IST)
+## Performance (as on 12 Nov 2026, 12:32 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -118,7 +118,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹13,113.00 | -0.55% | ₹13,014.00 - ₹13,215.00 | 223,631 | 559,824 | 0.4x | 26.74% | ₹11,170.00 - ₹17,292.00 |
+| ₹12,968.00 | -1.65% | ₹12,956.00 - ₹13,215.00 | 398,104 | 559,824 | 0.71x | 27.73% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -147,7 +147,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹174.11 | +0.12% | ₹172.25 - ₹175.99 | 5,802,455 | 19,778,596 | 0.29x | 41.98% | ₹138.58 - ₹211.92 |
+| ₹173.84 | -0.03% | ₹172.25 - ₹175.99 | 7,310,115 | 19,778,596 | 0.37x | 42.02% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -179,7 +179,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,553.00 | -0.51% | ₹7,502.00 - ₹7,696.00 | 282,732 | 446,442 | 0.63x | 24.36% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,528.50 | -0.84% | ₹7,502.00 - ₹7,696.00 | 407,463 | 446,442 | 0.91x | 24.52% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -209,7 +209,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,763.00 | -0.87% | ₹6,726.50 - ₹6,878.50 | 7,940 | 43,876 | 0.18x | 51.65% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,765.00 | -0.84% | ₹6,726.50 - ₹6,878.50 | 9,294 | 43,876 | 0.21x | 51.63% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -237,7 +237,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹91.40 | +3.85% | ₹89.48 - ₹92.65 | 14,045 | 63,724 | 0.22x | 108.69% | ₹76.41 - ₹125.23 |
+| ₹89.87 | +2.11% | ₹89.48 - ₹92.65 | 18,870 | 63,724 | 0.3x | 108.21% | ₹76.41 - ₹125.23 |
 
 **Research reports**
 
@@ -265,7 +265,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,895.60 | +1.47% | ₹1,869.00 - ₹1,907.70 | 918,950 | 3,528,877 | 0.26x | 62.11% | ₹601.35 - ₹1,895.60 |
+| ₹1,911.30 | +2.31% | ₹1,869.00 - ₹1,914.90 | 1,222,057 | 3,528,877 | 0.35x | 62.21% | ₹601.35 - ₹1,911.30 |
 
 **Research reports**
 
@@ -279,7 +279,6 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks](https://www.business-standard.com/markets/news/at-new-highs-eternal-groww-adani-ports-ather-16-more-nse-500-stocks-126111100312_1.html) - _Business Standard, 11 Nov 2026, 11:12 AM IST_
 - [Top 3 stocks to buy this week: Union Bank, Ather Energy, Laurus Labs by market expert; check stop-loss, target price](https://news.google.com/rss/articles/CBMikwJBVV95cUxPZ2xsZHZzV2t2dWstYVJYSjNTWGlrSWRCdll3d3pjbnN1bkNpRjVxN25KUGJfM08tSXdlTl9Ec2RtRXp0ZWFmVTRsVEl3TjVkdUxCX1dpUnBLLUVhYjA5ZzVwWTlNN0JaU3VRalpKSkJBd2VocDZOcnJ3eEptelNCMkVIallKUVFhMEgxM1Fxam1yZXdvaTU5X3dUWU1sTTBiZWpWT0E2OGhGSm5rTHhDdWl5TG5LSV9KejNoYjEtZlhWcnFjbHlqT3BEZExjWloya0ZXSXVqUkxVSG5zVWtxOE9zZTBiMWxBMTVmdkw5QWNMQkt0MURtVC1qZkVHbDFBVnVaS1owLUIzWVQ5Wmg4d1FrZ9IBkwJBVV95cUxPZ2xsZHZzV2t2dWstYVJYSjNTWGlrSWRCdll3d3pjbnN1bkNpRjVxN25KUGJfM08tSXdlTl9Ec2RtRXp0ZWFmVTRsVEl3TjVkdUxCX1dpUnBLLUVhYjA5ZzVwWTlNN0JaU3VRalpKSkJBd2VocDZOcnJ3eEptelNCMkVIallKUVFhMEgxM1Fxam1yZXdvaTU5X3dUWU1sTTBiZWpWT0E2OGhGSm5rTHhDdWl5TG5LSV9KejNoYjEtZlhWcnFjbHlqT3BEZExjWloya0ZXSXVqUkxVSG5zVWtxOE9zZTBiMWxBMTVmdkw5QWNMQkt0MURtVC1qZkVHbDFBVnVaS1owLUIzWVQ5Wmg4d1FrZw?oc=5) - _Livemint, 09 Nov 2026, 05:52 PM IST_
 
 </details>
@@ -294,7 +293,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹150.51 | -0.06% | ₹149.23 - ₹151.95 | 4,076,597 | 9,779,454 | 0.42x | 41.28% | ₹126.32 - ₹177.20 |
+| ₹150.70 | +0.07% | ₹149.23 - ₹151.95 | 4,991,798 | 9,779,454 | 0.51x | 41.26% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -324,7 +323,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,399.90 | -0.26% | ₹1,397.10 - ₹1,417.80 | 1,657,553 | 31,407,705 | 0.05x | 11.76% | ₹1,399.90 - ₹1,437.40 |
+| ₹1,398.50 | -0.36% | ₹1,397.10 - ₹1,417.80 | 1,890,700 | 31,407,705 | 0.06x | 11.80% | ₹1,398.50 - ₹1,437.40 |
 
 **Research reports**
 
@@ -338,7 +337,7 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Jio Financial Services Share Price Live Updates: Jio Financial Services Surges Above 100-Day SMA](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-12-nov-2026/liveblog/135753130.cms) - _Economic Times, 12 Nov 2026, 08:25 AM IST_
+- [Jio Financial Services Share Price Live Updates: Jio Financial Services Volume and Price Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-12-nov-2026/liveblog/135753130.cms) - _Economic Times, 12 Nov 2026, 08:25 AM IST_
 - [Offshore crypto contract tied to Jio Platforms exposes India's regulatory gaps](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUlhEelNXdmZtWTRjVGtvSFN3a1ZsUGl5emZ4RDhFc1laZ1pzRUg2c3B3Y1B6TTk5dldWV2lYaEsyZFlQeW85b0xsdEJXNHdOZnVPNFBpczdPTkY0aDljaWt6WG14WlFSc2NLRnNDdXpnN1F5cU9ULU1TOENnNlpjU2xQS2hSOXRfOHM1ZEpOSC1BZ2hTQUI5RlN3aUgzajFXb1Nzc3F4ZjNzRnpndE9IMXNIX1BFSkFnYkdMX0M1RFEyMDVYNkhCRjRucHBNeFNrdFROa2JfYVAtWnfSAeABQVVfeXFMTmVOcmwwcVpDbm9DUjI5OXlTa0I2RnNTanZhZ09NMVpQU3pOZko5Ql92RDYwYmE1ZXhUQURwLVlDZ3dzdnFfMlNvS2tCWlhtOUxzcTRQZ2VXenVkY0JsV3k1Tnd4YmpSTjVIN2VpcTRWS1FXNWd5OWpDWnRjTy1uRWZ4ZmZoZDBRVlo0NzFJNEVZd0ZDaC1HbVJSckt1RE1SVmRySGx5Q1BVaVotbks4c3ZUWlZFNVNBcDlMSE1nOS1MZ3BUZGJRdlZnVFpORHBIc1hWTVlNOHdZc093M01vcGk?oc=5) - _Livemint, 11 Nov 2026, 05:42 PM IST_
 - [IPO Lock-in Expiry: $35 billion in shares set to unlock across 116 companies; Jio, NSE, Zetwerk in focus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOEkxWkhGUjhsRUE2LTVjSU9Ubkk0RnJrZjZCdW9WaS1uT1RVbEFfaDlWM1R2YktiTGdOTmI3YjNLOXluN29iRU5fMjdUWGZQVUJ5aVNfWGRJQVg5LUNWWWRFMEpBU0lUVm5JNWtwMTZFZ2EwbkdIYk9BelFldkluV2w0bXByZnJ5WXg4MnVRYmlRWnpiWmFtclcwYl9FVmE4VnRzWG1RSl8wOVpINWNDa3hGazZPeHlBRzhSMWtwNWV4SW1ZUjRjVngtckE3eFBiRXM1OW9HTVFON1RhQ1VQMERMZlNqd9IB6wFBVV95cUxNakhxRmgwWnZYVHEyNVVIOU5SWGltb2tfcHZCUkZsbkNhR2Ruam1LZVhIZVlqaXZ2dC1uSklldDh4U0tRbkhUdGN3bzFzSDd0ckxaNG1oQWxZNmxiaE1senFTZW9jVjBad0pPM2VxTGdHeG5ZbXNoR3B4UzhKSEw5ZGZOb283WUVwbUJDYUdBN3R2X2Z3eTZQcTlaNVRNZ1ZyTnlTTFRBYVB0Wl9DU2h1Vm9SNzQyQVlHUXVsUXhIWjdja0pVcG1ZY1dqb0RFb1VRcUFIWjc3XzhHWUt2U3ltWktsQjNLTUZ4NnFZ?oc=5) - _Livemint, 10 Nov 2026, 11:47 AM IST_
 - [AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?](https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIcE5BbllZQnNwVkdwQjhHY1RlLUdiZkFQQVNVRUpib2RtS0JHWl9wc3g4SENfR0FBRU9zTW5kWWIzVUVLWHpPWVFsYzhEN1lSNWlWWGNzTU12S3NOUkpIcnFma1l5M1pnbExVdzZsWUlBVFpmY1VJTFB4cEFUWG1QcmIyLS1tS0daYVcxdmFsRGZYWGh5X2RuOWhBQXRRYU9NTWo0SUtSdnhuekhnSVhLaEM1Y2RKSDZNT01rMS1SdEMtZkp1S1pzSGJY0gGSAkFVX3lxTE5qMjViLVhCT25leGM1T2xES25oVzlKbjRXT2lJVmE5Sk5HbUJ2UnVLQlBBUEhrdVJMeW16TU9aOTlZaGFsV3ZLN0lpa1hLc0t3cGVMQVVuekl5S0ZfVTFLQWdkZmpka01DVG40QjN6RDMySkVZQ2dCVHh6WE9tUTN3aGljVXFCbTB6WW4yZktwTlViV1BFYzR6c2dkMGtBdVNiVVgtYmVCNmo5b2lsNFNBb21UdnFVbl83N2ZiazlmaTlmQk1jMllEd3p0d1ZVMDhqTFl3STh5azIzR0JoOXpKX1RTUE5GTHRscWt6QzAtUkgxaTd2MmlwdkVzcE1GekdLNkFRUTR2UWw4eVUtR2Iycnc?oc=5) - _Livemint, 10 Nov 2026, 10:45 AM IST_
