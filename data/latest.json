@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "12 Nov 2026, 05:27 PM IST",
+  "generated_at_ist": "12 Nov 2026, 05:45 PM IST",
   "as_of": "2026-11-12",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
@@ -56,6 +56,12 @@
         "pnl_pct": 13.36
       },
       "news": [
+        {
+          "title": "Maruti Victoris closes in on Creta in mid-size SUV race",
+          "source": "The Financial Express",
+          "published": "12 Nov 2026, 05:03 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjVzVWVYbnF1UDNqcTVueGFnTk9wNHROVXM4MTJIWUFqR0lJN3ZqeHJ0YTZZNG05NWYzTUttZTZobk1jWGM2MG55aUE0a1E1M0ljVEhaaTdoLUV4UExESVotZ1dpMEpKMkVINE96S1J1aS1lbFdOemhrV3VTOUFHNjhOdHJHbmRIcmpRMG9nV2ZQNDJ4SjVOZEFrdjhqUWJiUXFSeXFCb0ZSWTNuUDZCX9IBtwFBVV95cUxNMFBSRmEyU1lGQ2dqekdTRFV5eXlPazd5akltcUh3bHR4bERoVjNtZ2NYN0VuRFA4SHhJU3JVaktYdWFzWVlsRlgzWFpTTFN4VDMyNjhnQUNWWi0xQkVOWW5ZMlVYeW1nSDhyQ2lUNmFYdDJQMXY3aHpPYlNfYXRidmM3Z29uZU1vT2xmTTBuM21UUk1BYUExeUZMd3gyNWVBc0JOM3JZRkZacXloZmd2c3ZCeTQ4ZDg?oc=5"
+        },
         {
           "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Price Movement Today",
           "source": "Economic Times",

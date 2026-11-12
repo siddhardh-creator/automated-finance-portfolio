@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 12 Nov 2026, 05:27 PM IST  |  **Market data as of:** 2026-11-12  |  **Start date:** 2026-10-16
+**Last updated:** 12 Nov 2026, 05:45 PM IST  |  **Market data as of:** 2026-11-12  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -30,14 +32,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹13,024.00 | ₹13,024.00 | ₹13,185.00 | -1.22% | ₹37,76,960 | 14.8% | ₹4,45,150 | +13.36% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹173.95 | ₹173.95 | ₹173.90 | +0.03% | ₹1,73,950 | 0.7% | ₹26,230 | +17.76% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,549.00 | ₹7,549.00 | ₹7,592.00 | -0.57% | ₹75,49,000 | 29.5% | ₹2,83,000 | +3.89% |
-| Linde India | 500 | ₹5,961.00 | ₹6,804.50 | ₹6,804.50 | ₹6,822.50 | -0.26% | ₹34,02,250 | 13.3% | ₹4,21,750 | +14.15% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹89.99 | ₹89.99 | ₹89.88 | +0.12% | ₹89,990 | 0.3% | ₹4,990 | +5.87% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,923.00 | ₹1,923.00 | ₹1,868.20 | +2.93% | ₹19,23,000 | 7.5% | ₹2,45,800 | +14.66% |
-| Bank of India | 1,000 | ₹131.33 | ₹151.41 | ₹151.41 | ₹150.60 | +0.54% | ₹1,51,410 | 0.6% | ₹20,080 | +15.29% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,395.90 | ₹1,395.90 | ₹1,403.50 | -0.54% | ₹13,95,900 | 5.5% | -₹43,300 | -3.01% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹13,024.00 | - | ₹13,185.00 | -1.22% | ₹37,76,960 | 14.8% | ₹4,45,150 | +13.36% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹173.95 | - | ₹173.90 | +0.03% | ₹1,73,950 | 0.7% | ₹26,230 | +17.76% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,549.00 | - | ₹7,592.00 | -0.57% | ₹75,49,000 | 29.5% | ₹2,83,000 | +3.89% |
+| Linde India | 500 | ₹5,961.00 | ₹6,804.50 | - | ₹6,822.50 | -0.26% | ₹34,02,250 | 13.3% | ₹4,21,750 | +14.15% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹89.99 | - | ₹89.88 | +0.12% | ₹89,990 | 0.3% | ₹4,990 | +5.87% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,923.00 | - | ₹1,868.20 | +2.93% | ₹19,23,000 | 7.5% | ₹2,45,800 | +14.66% |
+| Bank of India | 1,000 | ₹131.33 | ₹151.41 | - | ₹150.60 | +0.54% | ₹1,51,410 | 0.6% | ₹20,080 | +15.29% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,395.90 | - | ₹1,403.50 | -0.54% | ₹13,95,900 | 5.5% | -₹43,300 | -3.01% |
 
 **Best since buy:** Ashok Leyland (+17.76%)  ·  **Worst since buy:** Jio Platforms (-3.01%)  ·  **Biggest mover today:** Ather Energy (+2.93%)
 
@@ -56,7 +58,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 12 Nov 2026, 05:27 PM IST)
+## Performance (as on 12 Nov 2026, 05:45 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -131,6 +133,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Maruti Victoris closes in on Creta in mid-size SUV race](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjVzVWVYbnF1UDNqcTVueGFnTk9wNHROVXM4MTJIWUFqR0lJN3ZqeHJ0YTZZNG05NWYzTUttZTZobk1jWGM2MG55aUE0a1E1M0ljVEhaaTdoLUV4UExESVotZ1dpMEpKMkVINE96S1J1aS1lbFdOemhrV3VTOUFHNjhOdHJHbmRIcmpRMG9nV2ZQNDJ4SjVOZEFrdjhqUWJiUXFSeXFCb0ZSWTNuUDZCX9IBtwFBVV95cUxNMFBSRmEyU1lGQ2dqekdTRFV5eXlPazd5akltcUh3bHR4bERoVjNtZ2NYN0VuRFA4SHhJU3JVaktYdWFzWVlsRlgzWFpTTFN4VDMyNjhnQUNWWi0xQkVOWW5ZMlVYeW1nSDhyQ2lUNmFYdDJQMXY3aHpPYlNfYXRidmM3Z29uZU1vT2xmTTBuM21UUk1BYUExeUZMd3gyNWVBc0JOM3JZRkZacXloZmd2c3ZCeTQ4ZDg?oc=5) - _The Financial Express, 12 Nov 2026, 05:03 PM IST_
 - [Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Price Movement Today](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-12-nov-2026/liveblog/135753015.cms) - _Economic Times, 12 Nov 2026, 08:18 AM IST_
 
 </details>
