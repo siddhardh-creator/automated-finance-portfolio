@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "16 Nov 2026, 03:32 PM IST",
+  "generated_at_ist": "16 Nov 2026, 07:58 PM IST",
   "as_of": "2026-11-16",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -43,9 +43,9 @@
         "high": 12990.0,
         "low": 12535.0,
         "intraday_range_pct": 3.54,
-        "volume": 672696,
+        "volume": 662297,
         "avg_volume_20d": 559180,
-        "volume_vs_avg": 1.2,
+        "volume_vs_avg": 1.18,
         "volatility_20d_annualised_pct": 28.95,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
@@ -57,7 +57,13 @@
       },
       "news": [
         {
-          "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Stock Price Analysis",
+          "title": "Maruti 800, once every middle-class family's dream car, becomes first Indian vehicle to win FIVA heritage",
+          "source": "The Economic Times",
+          "published": "16 Nov 2026, 07:18 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOU0tmYVp4Rk1NOW91RF90QlZSbVdWaVlFVEhBejJ0TGpaa1BjSUF1eW1NQ2habVRfa3hNWUdMOEo1bkRsanhoYmM0eFNhU1NyeFk2Z19IOXFxS1dyMk01Tzh0SW42SS1XN3hETmRHN3RNNkNDZkZTYjlja2IteUYzTi14WVBZTHVCZFlHVHU0NkFUd1VkMk5KOUNXZzBNRmtKaDZoVlVmWnNWeUJvWmNVUXBTQ2hvT28zb1otejFkdGNtTjExLVdGb2Mzak04NTNjSmNaanY4bkZjaFR2Y3VDQWFEQ2R2clNqM1F0dWRxQWo4MFRFcm82WEF3aFdTZHp1OUpGU3hXY2ctODJxUk1qbDRQbGHSAZoCQVVfeXFMTkZzSXRQNUhPdUR3Y3M0S0FXczdONzU3ZVlTYjRGWXFlbmdWMVhLaV9iMnJud1dwclRhWHhtZkg2NHBDMnVuTFNqOWhJSHpMS3hmUm16cEVhQ0ZpaFBVd2t3NUpoX1JiNUVuWEUxLThmNlZkOF9ueHVDSG5oT2RzS2lGeEcwbzlXb0pQWTRLQk83aTU0WXQyaWFWOHdDWFRUdDVWQlk2c3Z6a1h3LVJMVFZoNmN3NWRoNmJiZHVrbGFZaDlOUHZxSzc2Rm1yN2pGdE5yOHA1X1cyZFN1WHVQTXJSbVA2V2VRTTREaEpVMzN2NVpVUlVJRk0yZFF6OVJPUVNLenk5dkFDRnZDSGFKODRleGtwU0cyalZB?oc=5"
+        },
+        {
+          "title": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History",
           "source": "Economic Times",
           "published": "16 Nov 2026, 09:05 AM IST",
           "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-16-nov-2026/liveblog/135871604.cms"
@@ -79,12 +85,6 @@
           "source": "Livemint",
           "published": "14 Nov 2026, 11:51 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ2xnZi1XQ2hDbE9LZFdXd21RZXo2YVhYZlJaZ3pCZXJ5ZG5JY1prY2l4NmFOZmFmQXpuRVNMUE05RUQzUXc2VnB2OEtrTHozdUpvRjE4VDBZV21kbXRJbDlLd0lfUlVVa0lhVDZ4NGF3ZEk4WFhBdFl3QVdWSGNMdUIzcXR2SE5mckRlU202aFZ0RlM2bFNMZ19BZ1pZMGd6ZHRtbXVDcURCMFlQYURPQmFOMUJGUklLblBNZjNfUmVOVWp6VGN3ZG1RakNIM0JrZEt4NHBfc1hGWm9xOTJyNENXODBKWDRMY0RqNVdqTUVCQdIB9wFBVV95cUxQRm12NFdlSEc1NGpTVlp5bUNPcEFtX0lrZm1mMC1QUGt4b0R6X2VYMHd0NExUemNSbkdBcThabldUdDR0S1Vab25wSHVGTHY0VFZVaDNZOG9nTG54YzgydFlmWEVRaUxJRlhITlliUm9ENFhfY1RYS3BScm1GTkVOcVM3UVA1OXhzb1RMaTlPcHJWeFh6X3BwYm5YcW1QYkZyVU5EbHRjdkFIWXVkR25yWnlYZHVJRURrRUM5X1J1LTZZdHhmNUEzTzlxTEJPNlAzLXd6SjJyLUpqbS1paEo0dTJmRzFRWDBDRjhNTXdsemlfQWxOTHBv?oc=5"
-        },
-        {
-          "title": "Maruti vs M&M vs Hyundai vs Tata Motors PV: Which stock offers growth at a better price?",
-          "source": "The Financial Express",
-          "published": "14 Nov 2026, 05:15 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZExtc3d3emlYMk1BR1J4TzRLRjVhd29hRnJXaVMwa1AwYW1tdWpFbFR1eGpOMmh5eEZ3M2luNmljRmNWREszVUFFTzVSMnhlRUlRTlJzWGNWQ2JGd21WOGNFbU1rNmdBZjgzT1B4VWRVTEh3UVpvZ0RRYWRSRm1lMTFRa1VsbUtfeVVXOFdDejNiUE9SUWtFMVpQR0NqQXBMSWpTOFVveDlwVC1nNW52RTh0RDZrQTM1V2FkdzVRMmZIZ2N4WWVfRnc2RXlEd2Y1QmY0ZEZEQ0NfamxyZ2w4VkhlMNIB6gFBVV95cUxQYkdiUm45NmVXM1UwZDUtNHpaRTdSV3p4UjVUVWd4S1dEdnctSm4wVF9GOV9XUU85dGx0Z0xMZXB4QWRzQTE4Q3luTXdWelRlQUZSUVhDUmpYczBGZmdFTjMzMU02WVJnb0FnTHJxbnR6dzMyWmw0SEFHVDJFM1h1bV95TXBKM0lpZ2pIeVNId2dsQkpIZzlXYnBvT3k5SWl5ZmltMHBDZHdoRXFKSFBBcUEtekZqdXVKWEhwX2ZpM1lZcVJMN1lMZWMwWnYwSFl1QVRhUzVnZXRBQ25qcUFxTFZrV2RVSllZUFE?oc=5"
         }
       ],
       "announcements": [],
@@ -107,9 +107,9 @@
         "high": 172.76,
         "low": 167.3,
         "intraday_range_pct": 3.23,
-        "volume": 23315506,
+        "volume": 23075362,
         "avg_volume_20d": 19665739,
-        "volume_vs_avg": 1.19,
+        "volume_vs_avg": 1.17,
         "volatility_20d_annualised_pct": 43.19,
         "high_52w": 211.92,
         "low_52w": 138.58,
@@ -121,7 +121,13 @@
       },
       "news": [
         {
-          "title": "Earnings call transcript: Ashok Leyland posts Q2 2026 revenue beat as margin pressure lingers By Investing.com",
+          "title": "Broker’s call: Ashok Leyland (Hold)",
+          "source": "BusinessLine",
+          "published": "16 Nov 2026, 06:19 PM IST",
+          "link": "https://www.thehindubusinessline.com/markets/brokers-call-ashok-leyland-hold/article71707959.ece"
+        },
+        {
+          "title": "Earnings call transcript: Ashok Leyland posts Q2 2026 revenue beat as margin pressure lingers",
           "source": "Investing.com India",
           "published": "16 Nov 2026, 12:20 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPblN0Skk0TWR3UWducEFOQmQ1RWN1aVZaY2FTb25EOUtrYkRZU05QU0o2eWxPYzZ2UHo5dTBxQVl4VjJha2tjUFlpTWdFbUpCS2M3a09mM2Fzcm9lWVkySXQ2QklDRW5DSFVjakpVVmdYNUlUWGwzejdOMlNlR2h5SGtjQ0kyaWpybUY3ZUEzYXVzSHowd3AyOWRzWWtVOUVhd1FFd0FNUG1BZnh3WnRxNGszOTJ6dzFzUHBvZkpGbjlxaFhvcEhPd1VqWHVxaHpjU3lQNzhmWVQ4YmduUHFUVUt0eFM2NWxm?oc=5"
@@ -143,12 +149,6 @@
           "source": "NDTV Profit",
           "published": "16 Nov 2026, 06:55 AM IST",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPN0J1U3g2VkFfckc3VUd6TzVlUzNKeXQ3d0tLcjBDeXRSeWJYT3RHaG5QSF9aYjhjOXlfV0VlZVFTSUxsNW5CdHZlUlZkRnJWSGtKZXQ5ZHphY09DNEtQbi1jNHpYdGhCNVdvRjlWLTBaalFoSVBjb2VBbDVSV214MXIxcTBQSVZIZ0RRZ0lSRWVkSmc5S1dtVWRrTVBQZUNSczZBd1RSR0pxY250ZHUtd3JFa0EzZTlSV2VFRkR0MkZudndBOXJGM1lUaVdSZ2h6SzI5MXJpbjF4RjVvUWtSeXdLR3dhS2VyV2ZzallsRWlERXlmY1h4N19BMGNiN2ZZTG44QTBNVU1PTThNcWJhb1VibG0zX3FGOFRVSnVvWdIBpwJBVV95cUxPMHBPb2dyNnpQMHhyN3JTSzNBcElJNEp2Wm1DRzhPckw0Zm1kOHJ0U0RuTkN5YzlpSS1lNjUwZkNZTUpRR2kwYmEzNER2TkItQU9VdVp6MGttaXhBeWxWMERnWUFrMlNLZEVFZFRMZExhZ3R6YTBFUmhaSkNwWW9CVi13ZVhiNUkwWjZzR0dQTlJ2SFBnTkdQa19sRWNZeVB2cnhHQ2dCRENUa0NCNURVTFMtVjRiSzdFajRFN2tfTzRtOUhvMGVWcFlzcnJmX3BBSUVRb1ZjaC1jR091OHRTX2tRLVlCUFN3aWZzWHZZN2pRSnMyUTVIS05RNmEtWDRfZllsYkY0QmdsS0dfZ1VEek1iT2xlMTdJTXJxRGpuWTZZUHktcUYw?oc=5"
-        },
-        {
-          "title": "Stock Radar: Ashok Leyland stock showing signs of recovery after falling by about 20% from highs; what sho",
-          "source": "The Economic Times",
-          "published": "16 Nov 2026, 05:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPM1JRSlliLUY5Zk42TTN2UnlQYWZFN3VLQ1BOajR5a2tqR2tpVnN3WlNTVzVtYXdVTTdFUnF4c0N4eDczOWJPbVZBaDJnM24ySTZwMXNfQXFWcnF0cUdDRTJpNHVPWnMwNkJhYlRkU3VtdV94bHV1eURrYW9DYzh4cVYtU283QWpNT2NndzB3cXJNRm5RaUtFTjNxOThzU0pvMjc5ZTFUTWppN05Qdm9hY0ViN0U0VjNURXoweGVqdHlwUmU5MDBCbEFlVzlkNGRDb1pfelVKMVZicGRpd3lEaVdMSXhGRVlNRDVPSE9FYmRvVnR3V1hnY2ozS2E2QjBiTEUwYUJSNnh3ZDJiajBwNUo5X1VUNnBlTGNTWG1n0gGjAkFVX3lxTE5CY0xRTXlCdThYejN0TkRRNUQ4QUE3ZURZdFZfcTJhTjBJWmR5aVZmeFBqRFdMQloyY0QxbXhaMGhoaXlya09wMzU1M3E5V0dRc3NQWU1TRDJEZ3E1SVQ2SHVyc0s1VHJLUWxOWlI1UFRqOEFKTzB5Y0swZHhHdVh0VjdWcmRlTndTekxWYmF6ZWx5VTZoaHZ2emtvMnFHd0EwOWdGdjVKMkVIU0dNTEZCbE83MUZVTVBTWnRvS0xNN0RWS1RvV0FyTm9WZmJPUjBXMFBFYmRieXNQNTJMVmYwZGpsOTA0WDEtc25Ra3c1MWlDZTEzcy1nZkNqaUNwbFpIb0RUbUxkTUUycGVzWWdiRXZ2cGFUMXFucVNZYTRSVTNkYw?oc=5"
         }
       ],
       "announcements": [],
@@ -171,9 +171,9 @@
         "high": 7947.0,
         "low": 7534.0,
         "intraday_range_pct": 5.4,
-        "volume": 1746751,
+        "volume": 1719821,
         "avg_volume_20d": 468559,
-        "volume_vs_avg": 3.73,
+        "volume_vs_avg": 3.67,
         "volatility_20d_annualised_pct": 23.56,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
@@ -184,6 +184,18 @@
         "pnl_pct": 4.58
       },
       "news": [
+        {
+          "title": "New Royal Enfield Interceptor 650 Coming In 2027, Here's What Could Change",
+          "source": "NDTV Profit",
+          "published": "16 Nov 2026, 07:08 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1RSRHNzT0dNRmtheHRaNkVha1NnNmllRExkXzlDVEtyVDY1SUFIV3d2UnM0THN4ZDIwak5hVDhKMHJqbVh5cDF5T1QxRW9SaXhWelFUTnp5R0piRnFCcGhhVUlaZUlyRjZPV1NtQURVbnp0ejRSQ1VCbHNrN01IZU5SSFY1dEVlVy04Nk53Y2FEeVdKb2xLaUNOOFU3amM3OV92WFZzeDZVSWtQbjQ1VmZoc0djUDNs0gHAAUFVX3lxTE1YcV9MNHhxM3RkVExtMXBIVHhzN2xVZzRoMDJoNVRiVzM1VFpjbVBOVXJocTR2V18zb2o3bEJtOGVNNmh4a0hXblJiRUhlRk5jQnB2SGkzcld5R3UxSHRTRDRMQjRnYkNfSl9mVTZ4X2hJWlBVX1psLTJOTm5VZ3A3X3g3WTI1bmFTX29nS0NvR05LTHo4aVFRRWoxWHo4Rmx0ZmNGOEpyYjZsLVo2azlIMlJoclhsMHQ3X21wX19VNQ?oc=5"
+        },
+        {
+          "title": "Eicher Motors margins under pressure despite strong Royal Enfield demand",
+          "source": "Business Standard",
+          "published": "16 Nov 2026, 04:49 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmhKZzVyT29uMWtUV3NVTHVldHdzQjJxQTRtellxcmdVdnNPTlByejdnTktLVDc5dk5aSkNnVmxkZkdudTI1Y19EbnVQN0h3R0VEZ2VxWFJsSVh3VzBUX2daNWcwb3NwblFyWVJ6c1hwZzR3US1HbmJoblhDc1o0MFg5bVdLTE5hU051QmdXbmJzc25CZVA0UE01REV0c2xLdjZWcGRfaEJua3RMVDdXa1lhZTFtZ0RSSzVzSGFIS0x5S2RLZ0RSR3M3Z2xtbFMtZENyTzV30gHbAUFVX3lxTE9nal9vZ1UzNmR1ODJ3dEtvTEZlQVBZamJ5cTA3aFQ4bU82UFIwWVRMN2VpXzVSenJiV3gtbVJLZWxpVWt3NzIyaGVNeEhqN2tOWENING16Y0htVTItUkNfRERiYlh2bHA1TTdlY19VczQ4ZWtfUW51WjBiSjBFVmlMX1dXbldDRW1iN2Fsa2wtdnI1cnlRRHl4MF9ZQV9WYWFZcGFjLUhwNXhXYnJ1bklLaUQxd0NRQ0toa19xV0hIQTY3T01YOEwzOFpYY25wUllKeFZrUDJ1aEZVSQ?oc=5"
+        },
         {
           "title": "Live: Market breadth negative; Tata Motors PV, Eicher Motors drop post Q2 | Closing Bell",
           "source": "Moneycontrol.com",
@@ -201,18 +213,6 @@
           "source": "Moneycontrol.com",
           "published": "16 Nov 2026, 01:12 PM IST",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHV6aDFrYWJ5SlM3bThEOTNMS1JVTXJycUhMbFJfUnVSUHNFTnp6aW14M0lUMUx4UldFOUxQNkhvdFBqZ2ZVdkVZYm5iM1Jzb2xDb2ZQbkhzcG53Y0I3NXlROU5ZZ25Oc0hZRGJlN21wbVg2OEI4RFdnU3lkamwwWHQ4Y3ZtLWlpblFTdjZyVXJXUndNalhxNGNwY21PNE1ZS3htUC0tVFFNSEpSM2JuZG5HUTl3M1XSAbwBQVVfeXFMTmx0STdXZFlGYlFVSTZjSGwtNDJYVlNxWklYRFkxM0d2eEh5SEwxcWJub2VOaUtIbTVORkxWZTc5VUFkamJpS0ZtcWZFek1EVDFkZ2lpeXhMQTVaVHNMcUM2cE55YWZLNThBdVU2akVuQVVSNkk4azRWX292VjJwQk5pTm5jZU9SanRMXzJ2Mm1wSXlGcFJKLUhVX2ZhOEktcHRfdWozUkdabnNGU3EzdFZFckxfdFdsQk90bm8?oc=5"
-        },
-        {
-          "title": "Buy Eicher Motors; target of Rs 9100: Emkay Global Financial",
-          "source": "Moneycontrol.com",
-          "published": "16 Nov 2026, 12:22 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmIzb1o2MzNpTXpOOGxfZUJxYmpTTDg5X2xER3djM3lUc3ZEcWtjUUtWTmdKenI3bnptRUJnZHRzV3lBU3d2aVQ0TjA0S29DMDZxemtRV1E2ejVfUml2cDBfSDdtT0o4dHFZbU16c3RwUklzM3FKRF9mN0hJeVVZa0hNY2hWMzhuMlRXdEhXNzNHY29GVlVkUGMtY2VidHdrWGtKQ0o0SVotamlQWWJ6WmE5Yk9LeUFTZ3N6ZHVsYw?oc=5"
-        },
-        {
-          "title": "Eicher Motors, Oil India And More Q2 Review: Check PL Capital's Revised Target Prices, Ratings",
-          "source": "NDTV Profit",
-          "published": "16 Nov 2026, 12:14 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGJfVXNFVEVWZnZ0ZzNJZWR5NHpuaGZZa2lCYk1WcE5xVlh4RkVKeTJZR1h2WTJ5RjlPSGdmUG5HLW9IRUlpVVRILU5uRzVFcWpaVndYVWN2ZDFtWWlNV2JhUVRBZklxQkR5cHpXRWdnY1NaSldBczJSUGNXR2pIVWRXOW9SZzc4Rl9Va0wyT0ZUcU1JeEhneTYzSUx3NWdfUkFxUDRidUp2VURQTlkwNDFEd1pWVGVTNnpzaVZPa1hFY2pWWGQyTExxenkyemZOdTQyVzlqaEhmUQ?oc=5"
         }
       ],
       "announcements": [],
@@ -235,7 +235,7 @@
         "high": 6994.5,
         "low": 6830.0,
         "intraday_range_pct": 2.4,
-        "volume": 39749,
+        "volume": 39700,
         "avg_volume_20d": 45298,
         "volume_vs_avg": 0.88,
         "volatility_20d_annualised_pct": 51.29,
@@ -268,7 +268,7 @@
         "high": 89.86,
         "low": 87.0,
         "intraday_range_pct": 3.21,
-        "volume": 8632,
+        "volume": 8625,
         "avg_volume_20d": 62077,
         "volume_vs_avg": 0.14,
         "volatility_20d_annualised_pct": 107.22,
@@ -301,7 +301,7 @@
         "high": 2021.5,
         "low": 1929.5,
         "intraday_range_pct": 4.73,
-        "volume": 4429831,
+        "volume": 4417762,
         "avg_volume_20d": 3530727,
         "volume_vs_avg": 1.25,
         "volatility_20d_annualised_pct": 61.4,
@@ -318,7 +318,7 @@
           "title": "Ola Electric vs Ather Energy: Ather shines, Ola struggles in Q2; which EV stock offers better upside?",
           "source": "Livemint",
           "published": "16 Nov 2026, 03:18 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObkF2dlpDTWtQWEhHaXlDa0pSQUh1T3pUSEl0MDJjQVFWazFJdG5VM1RkbXVLNG94LUs4LUFzZDRVSl81T01qbk5SN2tRak1Gd0t5SWRmU2ZxUkctOW1XU0lpeUxvVDFaUDdVZWRucUVZd00xbnp4d3ZBclBsRVoxS1M1TFhLZkk2Vi1TeVpTb2dyU1VOc0JrSXdmV0xuLTdnUTNKN3BvNnpzVXF5R01FRlgxOXBBTGdhcHdnd1RESGM4ek9WVC00b1ozWVhJMjRiRS1ZbXBXbDQzeWdpbXotZHV1QWtqMFRyV3M3Q0JMVVhBbzRHVUpXZkF5ZE13UGlM0gGAAkFVX3lxTE5uQXZ2WkNNa1BYSEdpeUNrSlJBSHVPelRISXQwMmNBUVZrMUl0blUzVGRtdUs0b3gtSzgtQXNkNFVKXzVPTWpuTlI3a1FqTUZ3S3lJZGZTZnFSRy05bVdTSWl5TG9UMVpQN1VlZG5xRVl3TTFuenh3dkFyUGxFWjFLUzVMWEtmSTZWLVN5WlNvZ3JTVU5zQmtJd2ZXTG4tN2dRM0o3cG82enNVcXlHTUVGWDE5cEFMZ2Fwd2d3VERIYzh6T1ZULTRvWjNZWEkyNGJFLVltcFdsNDN5Z2ltei1kdXVBa2owVHJXczdDQkxVWEFvNEdVSldmQXlkTXdQaUw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQVgwb2RhM3F5ZTdFNWZIOEdXcGNSem9OczdEVXFPWmVsMUphTkI2eExnbHpPS1d1dWZLSjRYYjZyTHhnTXNsY2VOcldlbVNTdU0wVGpEdFJqRS11OWtQNGo3bzNwWTk5MHV4Xy0wMFlQWHFZVGk2dWJFWWtvbjRtYmhHQl94MkwwckZIaXZSMGRhRVdYNUFMenJWTkFTLXoyVVpaRjNvdUZudHJJaFRkaXJ3cTBGNmdsVUx1Z2ROOEVWcTEzdUNPNmF4eHdJTVMxYUhLeWV0elpuUHpDTnQyVEVMc3Noa3BiZmVMS3pnTjRIdGFmT0pNa3dfc9IBgAJBVV95cUxObkF2dlpDTWtQWEhHaXlDa0pSQUh1T3pUSEl0MDJjQVFWazFJdG5VM1RkbXVLNG94LUs4LUFzZDRVSl81T01qbk5SN2tRak1Gd0t5SWRmU2ZxUkctOW1XU0lpeUxvVDFaUDdVZWRucUVZd00xbnp4d3ZBclBsRVoxS1M1TFhLZkk2Vi1TeVpTb2dyU1VOc0JrSXdmV0xuLTdnUTNKN3BvNnpzVXF5R01FRlgxOXBBTGdhcHdnd1RESGM4ek9WVC00b1ozWVhJMjRiRS1ZbXBXbDQzeWdpbXotZHV1QWtqMFRyV3M3Q0JMVVhBbzRHVUpXZkF5ZE13UGlM?oc=5"
         },
         {
           "title": "Markets poised for a breather after sharp rally",
@@ -337,12 +337,6 @@
           "source": "The Economic Times",
           "published": "13 Nov 2026, 09:34 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPemJ0TmRBcFRkWHFJQ3pBeVhpZXRMVENoQXl1cUJGRmNFNDdkS3c3LVFlN2VxXzZydzJxY3NmRXFneUhTZGZMUF9WQmQ3c1NUOUZsMmtJcThsZmxEMmJOVExEOHlzUmJCMm1oOEhWTEN3RGJyd3Vuc2U4OTZnRDk4QmZ6QjZRU1JIOXRkNTJVQVRpalZWWXc0MHhfUlY0MHJfdHJyeGJ6ZXRMVlpSUFN5bHRXTUhDZlhoWUthNUlDaDd0SU5ucGotRXF0NFJpWmVQMDFRT0dvSXdQSFBYQ0czWFFEcUd1blJ4TmVlWEhuWHFmTjFJbnFR?oc=5"
-        },
-        {
-          "title": "Ather Energy Has A Demand Problem It Would Love To Have. But Can It Fix Supply Fast Enough?",
-          "source": "NDTV Profit",
-          "published": "13 Nov 2026, 04:12 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlZJQUNjZFZyUm8wbGZMWXhLTHVDNWh6YUFSbzBOdjdrejAwX3M0MDZzb3VkQ2V2MGF2U1FjUDZMQkFsTWhvZmpkYjBBQl9uSVhjVEdndnRMaHZzMnIzazItSldYTGhaYWttMXNZdFNZMVhha3hLZ2lZbnJ2YldfbXV2T2dRV1JVdUFfY0RrNWRCYlJRODRsNWFDaktkQ05FbkpnY2Q4MW83bzBLaWZ4ODd1aHZKNUlPRTRvc3NEZ3FnYlE2cTNlNDNZaEFRaUnSAdcBQVVfeXFMT01TNl9COGRwRGxhM1dsaUVmSVpRS21mcmh4ckhEa2k0SGhTMklSXzQ4Q2U1UGxudnp4MDBfVXNQR2xZdVBhY1NNNTVRb0J2NF9POW1HTjdrSFhzNXdSZ1R1QWRBamdycFhHcXlZejVGb2o4Wm9oWUZBcm5pcHZYRk9SSlZlTXdTX0lSbXRCVXFnUmM4S3BOZURfeXV5dFV5QkJGejlodkF1cm1nMHEzQl8wMzVhTG1vVkpCR0RfeDU1NkFrQ2JtTzJ3QWFUTEpicU5hUzEtNmc?oc=5"
         }
       ],
       "announcements": [],
@@ -365,9 +359,9 @@
         "high": 156.78,
         "low": 151.37,
         "intraday_range_pct": 3.51,
-        "volume": 13018728,
+        "volume": 12827375,
         "avg_volume_20d": 10436429,
-        "volume_vs_avg": 1.25,
+        "volume_vs_avg": 1.23,
         "volatility_20d_annualised_pct": 39.35,
         "high_52w": 177.2,
         "low_52w": 126.32,
@@ -383,6 +377,12 @@
           "source": "Moneycontrol.com",
           "published": "16 Nov 2026, 12:07 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMXhPOERVMmF5NGc2UzhhWmdRelB1NFR2TlJSYTl6ZUVScjVaR2V2aG1KZktPUWUtTHhnaTI1dVpCUmJWQ1hlZTVXLVQtYmJPMl9vZzZuc0VuTzBrSk5CcFJDNGpnMTN5eTNwTklwQ2hMbDFvVm5RazBhUTNwemdFQWVUaWhKd3RlQWpqTjVCWlYxaW9FRWl0SFJXQjBINXRrRGlCdW1MWjRsUVE4Zy14QkxSakpYMS1wb1dTYW5fMzJzbkFGZVV0OUEtOEdXMEd6TDhBU2V4cGpxMTlIa1NwM2xfOEl6VnhSamVUSmZySHdRSWFSX3FB0gH3AUFVX3lxTE0xeE84RFUyYXk0ZzZTOGFaZ1F6UHU0VHZOUlJhOXplRVJyNVpHZXZobUpmS09RZS1MeGdpMjV1WkJSYlZDWGVlNVctVC1iYk8yX29nNm5zRW5PMGtKTkJwUkM0amcxM3l5M3BOSXBDaExsMW9WblFrMGFRM3B6Z0VBZVRpaEp3dGVBampONUJaVjFpb0VFaXRIUldCMEg1dGtEaUJ1bUxaNGxRUThnLXhCTFJqSlgxLXBvV1Nhbl8zMnNuQUZlVXQ5QS04R1cwR3pMOEFTZXhwanExOUhrU3AzbF84SXpWeFJqZVRKZnJId1FJYVJfcUE?oc=5"
+        },
+        {
+          "title": "Bank of India - Suzlon Energy among 5 midcap stocks that saw highest mutual fund buying in October",
+          "source": "The Economic Times",
+          "published": "15 Nov 2026, 09:38 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObGRtTVVrbHJselpCUzdVcm8tQVpnenRQSkFKNW5qWlkzNDZseHBnR09UOXdkWld1TUdEQnhlUlJkUEROVktEZHJEdVlFODZOdTFLM05aOC1SSFZwdDRpUUxkbzdEZzFaczJ6cUhlT2lyUWcyYWJFQ1BTZTI0RlM5dmhrQzdRXzA4aC1yNDg1eV82cEh6VnlGdHl6SlBncjFvdjlWbWFfMHhsa2NHLVVZU1g0VENEdjlxUlhnaTBCcUVibHhFb0FMSmoxQkdDTXhUWm44NEthOGp5d2NaVUI4WWdNTUR4MXRqenNLYmEtTE1xZw?oc=5"
         },
         {
           "title": "SCoR, Central Bank of India ink pact to extend welfare facilities for railway staff",
@@ -411,7 +411,7 @@
         "high": 1434.0,
         "low": 1399.0,
         "intraday_range_pct": 2.5,
-        "volume": 6741773,
+        "volume": 6741771,
         "avg_volume_20d": 26766707,
         "volume_vs_avg": 0.25,
         "volatility_20d_annualised_pct": 11.06,
@@ -443,16 +443,16 @@
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZlA2bFdGaG1zcno3UkljblhTNXFxazFSbDV5SlJCTmZ3ek9qSng0MFN6RVRfUVR3cTNJR0NRaXhMS09fMmE0YWp5YTkwM2lXZEZPaHBPX3RYdW1mWjFvRTlPNndTLW9MTnlwWm5VZnZBQkZmaEFaRFJUdmdYRVdVYVdVZmg3bUpEc1pSaHVJZkRsQm42RU5jRnRrYi1kNkR4ai1EM0taOUsxZTFrcnNHcldQNnJHc1Z3cnp6cTEwc0N2Wml4SXhWSVlrbUtzUUZ1VWROUmhuN3lLdzdDODFjcTJxYlRMRW93bEkzZVBmc3dMeVB1dWw4RVJFQ0o4Mm11WmpKY2MySG5FUVXSAZMCQVVfeXFMT3FlczhJSkF3VWlMdzFqdTFaWmUyYVhPeUJZa0FHZTdNa3UwUmJEcEdSQlhvZWdheGpaLUk3djVxRmdQdGlsLW1ITHY5YTl6TGd5dC1jazlaV2Z6blJneTZVV044eGFkRzNPV0d5UlBXdUxHbi1nV01sMEFSeFJXZGhLMlloUno1XzRJNDVTMHJGUzlLaUlUck1kMnhUcVpHWk9VQVhiUDZreTVXeGNDWlhlTmRhMHlhOS1WcEI0SnN5Z3JtOXhaRk5lWVBpRm5KZEF5SzVUQ2ZqcG5fdnBuQ1FVYy1mQU5lUTFlTTZvTndhRXd2aktrT2d3czNjbWhLTWpubE1PdWFianZ0Y0VBeGFoQVE?oc=5"
         },
         {
-          "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services experiences a downturn",
-          "source": "Economic Times",
-          "published": "16 Nov 2026, 08:10 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-16-nov-2026/liveblog/135870485.cms"
+          "title": "Jio Platforms begins talks with Indian firms for satellite launch- Mint By Investing.com",
+          "source": "Investing.com South Africa",
+          "published": "16 Nov 2026, 09:50 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXgxSmpEYmhBU1NNM3A2YWw1TlhmXzlialR0Mmw3bXExeDVldmNhTi1RSGZ3YlNPVHRucWhkZVZna1ZWbzVuNHVyUHFFVTl6VmEyaXZaNkJLdFk1MDZUSmMzUHNtaGVpc3FaMHlyTDloU2VrZTNnVlRkWGFrazByOHJOZnJyNU5aUDhVeGJ2ZElZLTd4OU5rdXZXUGZFM2Zoa2pnbmV2RExReTNEMDZYMUZFRHk3aFdaZ3VFZ3RESVZPNGNqS19pM2h3RQ?oc=5"
         },
         {
-          "title": "Jio Platforms begins talks with Indian firms for satellite launch- Mint",
-          "source": "Investing.com",
-          "published": "16 Nov 2026, 06:49 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN1lEV090ekdMNmM2TXl4YWk0VzM2Q0dRUmE2T1R4dVhfX1FBRGRXdnA1SmZuVVJBcXNOMy1VYjZaZWdLOFRlaEtjM3dlaklTZ0lkYi1rdXROMkFSNEJhSUw1SzFvWXJiakQwemRqdnRQVzF1S3QxanphY2VQQURIX201WXVoYVZlM2ZJVEV3dkFVejR4Q2JvcU1XQmNYNWZJa3hGc3pqWUdKakd0ZFZscWZITktLODJtaXFyS01ISkRoOGNkYU9tbDV2RHQ?oc=5"
+          "title": "Jio explores Indian launch partners for satellite constellation; rocket capacity a hurdle",
+          "source": "Livemint",
+          "published": "16 Nov 2026, 05:48 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelVlMEZZTEo3ZjUzNjI2aDR2SUdzR3ZjWEpCMEdUZ2E3bXFRMTBlX3JHWWptQjdJcFQ5Q1lWWHNhT3ZNclR3S0huMkhsSWFvQUFCR3VHcjFqOGZndFVEbGVMSHBYT0JpcE1SOVFJZXJjWmIyTnhHTk5MZGhHd1RUdXJVb0prNEROdDFNRnQyeDZ1SndkeHZYUHFVQWVNTTBaNHF2N3djLVJlUVdraC1WN9IBtgFBVV95cUxQV3hqN2J1Z0VvTVVUeE9KNWNYdnRxSS1Fc1NXbHlVMXpucTV0M3NPZm1aZ0FnVktaOFJKb2lXYklqUDg0VlBxYXFBRV9xZS0waFNSNmlKZjMtcFd4cVVjVXdYOUdNVlVpVlQxRGJKMTE3akpjTHc5YS1lM0MxNjQ4S3hpcFFJQ0RuUW1Kak5nTHdMaDdQZkUyVFN0OVhPb05PaFJTZkhJanJDR2F6QkczdjBvNjg5dw?oc=5"
         }
       ],
       "announcements": [],
