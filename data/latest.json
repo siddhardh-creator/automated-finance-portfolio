@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "17 Nov 2026, 06:19 PM IST",
+  "generated_at_ist": "17 Nov 2026, 08:11 PM IST",
   "as_of": "2026-11-17",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
@@ -103,6 +103,18 @@
       },
       "news": [
         {
+          "title": "Ashok Leyland flags loan discrepancies at HLF, orders independent review",
+          "source": "Business Standard",
+          "published": "17 Nov 2026, 07:43 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmJjNV9XSjhrVWdLMjByVXNER3pKQmhxNkMzQ1RYREhtMTNFYmlHQnpBM2I2bkhuTU9SRHJ3V19WOUkxUndLdjVTR2FtQ1FJZmtqelRGVTNrWm9zUVYtd3RDcXVla2JzMEwxZzJHX0loVnFCaHlCZXVZZG85Vmx5ZkVMekxWX3pNQ3ZYV3lwTHRSaFFVSVRxZDVfSUFIRHZmcGZRQktualgweG5JVHhHeHFBSjFVc3lTWUhQOTl1QWxEa2pCM2Y5aEtCQkJvcDE4X21Za1lhd9IB3AFBVV95cUxOaHpaSWRibmhwd1JLVGFPTGlETUFISnJkZ2tSVVBtWjNMV2dyeWd4OTVvbWwwRkJFOFF0RFJkYmZHcldqUE5lemVkdUw4Zy1wVVQ4M1c0RzZqZVBrNFA4LUJqZS10VXdHZVhyMlgwS3dpd3FpWld3dF82WXRvamtMRXlSYmtlVF9LbmtuTjcycDVIUHZQdzhLamFDRUZKQ3VfdzRYM0drS3BSc3l0cElHVng3Wm1SMExRUFB3TkRlc0pjNkVwUFljeFlnSUJ4M0t2M2h1Q2czb01icWFX?oc=5"
+        },
+        {
+          "title": "Ashok Leyland says manufacturing utilisation reaches 90%, greenfield capacity under consideration",
+          "source": "BusinessLine",
+          "published": "17 Nov 2026, 06:59 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZnQ1U244eXpJdUN2RS1BWWJrYzh2OHMwVjNMbkxXZFg5cnJoR0VXdlFQMFBZc2owcHY5SURkUVIyeUw2WU9oOU5zNG9PVlFqSlItTmt3YWh5MmVTYjJ1SUtKcS1JNmZZczRybkRfQ1ZVVU1qWmhDMnI2MnFaZ2lxRGtNNFpXWlMzZXBJXzhLVFhoUy1ZZXdvbDM3enI4bHZ6TVVvUWRJaXdXQUp2VFlKdUVsZE44VjRENWJLZmRCLVNZYWY5ZVRMcDZacldycDJUQ2p3ODd1Ql9TWUlsSjVJMG1hNWxoM0dES29mU2doN1NzWDNR0gH7AUFVX3lxTFA4T041ZG4xZmQtRVIyXzQwZXdHZkg5R2plNFRCVl9xVkM3WUdQcWstX2Y4R19zZlhxM1JrV2VYLXJsTHI0cmRSOGtmbURpRDNrbkxYaWJ6VndRajVpcEt4X0FiY01jSXpfcXZ4T0ZBZ2I0REhwai1FWDdVTUdnRlBTV0dRZjFLbGQtQ3Zpc1NXQjlWWDV1c0JBVXFCckU3Q0pyQy1BZ29sTGVWWkRhUExIc21zczRUeFpxQ2FsNTROWnV6UUhaMUFyUFZKdk1JZlByWmZHaTM0LVUtUXFjeEZtanJ5cDFJVWozRFVuekRpeFBxMTJ3NHRhdHdz?oc=5"
+        },
+        {
           "title": "Volume outlook remains healthy for Ashok Leyland despite margin pressures",
           "source": "Business Standard",
           "published": "17 Nov 2026, 05:05 PM IST",
@@ -119,18 +131,6 @@
           "source": "Moneycontrol.com",
           "published": "17 Nov 2026, 11:18 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQXzlCZnVpc1BPUmpTTnVqRjdEUTYxZnI4NjFnaFRXcE1ibENHRjV3SHdpTUZHOVRVaGF5aHRBelJpNkxTWmJhb09xa0Q1UFNlTUc2dVVDX2pFdlQtVzYybi1nWFRRLU9meWs3RkY5Yjl6RXhZbXhuOXlGZllZWndvemV6STF6ZF9xRDlxSlE3UEJFdk90cVVQSHQ3WHlpQXBpc2Z0WkxXcXd4VE1CNmo1MHg2T3M4R2x1cWVpNUU2VF83Y24yTmF2Q0dZdk1MTDFjUmc3WG9SWDc2cDNKTnhIMFJaMXk4RG1zNEltUUloRTBKdkJL0gH6AUFVX3lxTE81cTQ3NEIxTFVKVGhVWFRabVpGZXFfMXVEN2RrQ3JiS054aUJ5NEpRVHcybUQ5UXltTGo5bDVYcm1pVGVPNXh1TU00RWE5bkE2VUVlLV9HSmRIQjNSQ05HRk44dmd0Z0ctdFRfTkg0ZE55WkFRT2VES3JwU0VuNS03eWw1cTd6VVpTUUIxZ3pPanNsSmpmYWxwSFBjTFNMdU51WWdZQnRwVW9EZk1jVGotLS1JU1puTG05UnhDSUlHbXgtVUkxNkhsUnMtU0k0MlhPckhUM2pHRzhEV1NhYjJVV2RQTTJIeUViZ1VKT1NfaFhsaW5WcDd0SXc?oc=5"
-        },
-        {
-          "title": "Buy Ashok Leyland; target of Rs 195: Motilal Oswal",
-          "source": "Moneycontrol.com",
-          "published": "17 Nov 2026, 10:42 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGlhbV9kSEg3YjNiaDJYWHdhcEpwNlJhRFZ3aktZcUtyMm4zSU9aRXdaNEFlbC1iQVlWYWMweEQwQ280NG9ubWEzYXF2dXpkUTNzSFdScG5PWTB6Q241cGhOQ3R3ZjFGdFFXbFpzWm1LZEphaWNDTFpKcmdXbkpRWmtUaXZsX1ZGWVB2TWstZDZMYThTc0pPNHpXeGxDbjgyV3p1R1VaRnRqR1VJcHVzTEgyOFI3RmvSAbcBQVVfeXFMTnBpYW1fZEhIN2IzYmgyWFh3YXBKcDZSYURWd2pLWXFLcjJuM0lPWkV3WjRBZWwtYkFZVmFjMHhEMENvNDRvbm1hM2FxdnV6ZFEzc0hXUnBuT1kwekNuNXBoTkN0d2YxRnRRV2xac1ptS2RKYWljQ0xaSnJnV25KUVprVGl2bF9WRllQdk1rLWQ2TGE4U3NKTzR6V3hsQ244Mld6dUdVWkZ0akdVSXB1c0xIMjhSN0Zr?oc=5"
-        },
-        {
-          "title": "Ashok Leyland Q2 FY27: CV demand picks up speed",
-          "source": "Moneycontrol.com",
-          "published": "17 Nov 2026, 10:20 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlcxM25rUnlDeXg5OWhPYlZvVGxYVWZaMDNXNFdtN19zMWZfSWs3ZXRRMHo4TlhPcGl5QXExR3dvVVlRRkdXek03MVR5akhNME9UeWN1T3hveE85V09BUDladU42bWREcTVZeGNTaTRyUHk1STIzd0wxeGZYMFJ6MXNPc1hlVGdXSVhIMkFJbkVIQ1pqeGpZbVo5VHBJUDhaampMWDkzN1c2MzM0cnY0aW02QWdHVXYydWJsNXFNRVZqM2fSAcgBQVVfeXFMTzZGdnN4ekNDcmw5VmlYbTVObWdBZTNWVE12OG9OM2thcndFUk9yVW0zWXhEZElaTk00N3ZCb2gta1N1ajJ5U3ptemk1TkhLTnhlNzJJLUctSG1FQnVXWHVJdVFoWm5kdXl5TXMzOXc1QXBKZlZSZ0NhaUpFVXRUYkJPdGJ4S0ZSNWVHNF85dlFraXExWVBzUEtDYnhISXhrejFJZ1NoVHlaQzc4WmNwS2IzQ3pUNVhvaEozbWhKOUhRU3RLaDE5cW0?oc=5"
         }
       ],
       "announcements": [],
@@ -167,10 +167,10 @@
       },
       "news": [
         {
-          "title": "Market wrap: Adani Ent, Eicher Motors, HCL Tech, Power Grid top gainers and losers on Nifty and Sensex on",
+          "title": "Market wrap: Adani Ent, Eicher Motors, HCL Tech, Power Grid top gainers and losers on Nifty and Sensex on Tuesday",
           "source": "The Economic Times",
           "published": "17 Nov 2026, 05:56 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPSGplVlA4WU5xTHRFd1Ixbm1FZjM2dFdYaHNXVEE1S0F1cE05MTc5Z2hSb2tmeVVINUduaXJiNnpXQXlaQlRNN09WcmdfbzNOM3JydFpRTkhKUXBkMUdBREdWVDhPSjMwc0xOdHpjZnVZYXVjTXVJeVcxOThQSkpjWGRvOHRIclNMWHNFRlVtb3dKTUlqZ2F4Rjl4ZFpxX19ULWZCeDdJRC1ucUUzelFsZWJMMzBTT3E5TW14UzR3VHJIQ0RwODZFN2xIMDVRZjNlYjJKYjZsVmVUaHJUV0N6bTFpMktUeVNfRUI0bW5PbzdTblhwWlIyZjV3cnUtdTgtSm1HdjBSMVZ1VVhmUXRtRm90S05qaDNPaEl6VtIBlgJBVV95cUxOYUlHaWZTVVNDRmJ3VEVLNlhhUUdTS3NwZC1SQmZ2NGhUZ1h6X1l3RUM5Z1JIcXZiOWVvQ01tWGx4OVFxamZ0SENIRENqbVlMUTZiN2FKWG5sWFo5Y09SeVJ2OWZJUTNmMldvZWpHZHFzeEh5ZXIxanJBa3VIcnJ3cXpxVmRBX3BjWnJjM3NaVHdLNm5DWmUxdjlLM21nNk1BQW9VekRQUXE3Wm1OTGlhNGMyaUJpME5xVGZhdnNxZUV6b241aHd5Sll1bGdtWVNENFNBdFlOVnpCeUlnRjNqS2tnSmxtUGJrODFMMjBnTlplYk83OUtRZkxSQ2FHT0p4VUR6V0VRZW43RnRmRW5RS2FVMzRnUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLXpVSVRiR3JVSENDWEUxOXJNNkRXVVhMbWhaWFNWQzI5bDlBWnNJQl9OWVY0VXdHVHN4bWJWNU1DM1hjbnBGVFJHa1p0azZUX3lIbGZFZmVnbUVpVkpodDFteVQxVDlHQmd1OHBHVGhVYnh3dFNFdVVDcXBaZWE4SEZKVFFjcjJZUVhscldxOU5FQlBrUzVKUUEyV09HRTN3S242bmZQWkFGVS1pMVhPZzRaWlRJZlN4OW92YzlhWFlyRUcwYnBRZlpJV0NwbFdxTHpFNExieTRrOFRudWpMXzJpUGJfVlhjWkFkWGd2ajVhVXVnWUVxTi1zOTZtOVUyRU9lVnFEWmNiUmFWZmVXRg?oc=5"
         },
         {
           "title": "Eicher Motors jumps 3%, stock top gainer in Nifty Auto; brokerages upbeat",
@@ -185,16 +185,16 @@
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZW9XTTRCS1BGamN6TzhzOWYyangtRGVNdERKQThkV3ljZzZNVDYzcThQTUswZ01yMENjOFV0ZXhVTWY1TzBxYVJSSWQ4WDBzRl9BUFQ4RC1YN0hFLWptR3BkWDZFSHdHcWFHdHotVkNfR0o2M2J0eUdpUGRoV2JYdHBJbXNMYWdmSUthODdsdDRIUEJ4bWlhWGRxbnhUcmVXcDZGcHFjeVgtdUtEOUE1T0ZHTkYyVVNsakZwTW9DdGJob1VlZmt5R25iRGthMHM3QWI0YlVvN1BTM1c1N2VLaWFWWjRfSTRyZjR4bnZB0gHuAUFVX3lxTE9lb1dNNEJLUEZqY3pPOHM5ZjJqeC1EZU10REpBOGRXeWNnNk1UNjNxOFBNSzBnTXIwQ2M4VXRleFVNZjVPMHFhUlJJZDhYMHNGX0FQVDhELVg3SEUtam1HcGRYNkVId0dxYUd0ei1WQ19HSjYzYnR5R2lQZGhXYlh0cEltc0xhZ2ZJS2E4N2x0NEhQQnhtaWFYZHFueFRyZVdwNkZwcWN5WC11S0Q5QTVPRkdORjJVU2xqRnBNb0N0YmhvVWVma3lHbmJEa2EwczdBYjRiVW83UFMzVzU3ZUtpYVZaNF9JNHJmNHhudkE?oc=5"
         },
         {
-          "title": "Eicher Motors Share Price Highlights: Eicher Motors Stock Price History",
-          "source": "Economic Times",
-          "published": "17 Nov 2026, 08:15 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-live-updates-17-nov-2026/liveblog/135908095.cms"
-        },
-        {
           "title": "Eicher Motors margins under pressure despite strong Royal Enfield demand",
           "source": "Business Standard",
           "published": "16 Nov 2026, 04:49 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmhKZzVyT29uMWtUV3NVTHVldHdzQjJxQTRtellxcmdVdnNPTlByejdnTktLVDc5dk5aSkNnVmxkZkdudTI1Y19EbnVQN0h3R0VEZ2VxWFJsSVh3VzBUX2daNWcwb3NwblFyWVJ6c1hwZzR3US1HbmJoblhDc1o0MFg5bVdLTE5hU051QmdXbmJzc25CZVA0UE01REV0c2xLdjZWcGRfaEJua3RMVDdXa1lhZTFtZ0RSSzVzSGFIS0x5S2RLZ0RSR3M3Z2xtbFMtZENyTzV30gHbAUFVX3lxTE9nal9vZ1UzNmR1ODJ3dEtvTEZlQVBZamJ5cTA3aFQ4bU82UFIwWVRMN2VpXzVSenJiV3gtbVJLZWxpVWt3NzIyaGVNeEhqN2tOWENING16Y0htVTItUkNfRERiYlh2bHA1TTdlY19VczQ4ZWtfUW51WjBiSjBFVmlMX1dXbldDRW1iN2Fsa2wtdnI1cnlRRHl4MF9ZQV9WYWFZcGFjLUhwNXhXYnJ1bklLaUQxd0NRQ0toa19xV0hIQTY3T01YOEwzOFpYY25wUllKeFZrUDJ1aEZVSQ?oc=5"
+        },
+        {
+          "title": "Live: Market breadth negative; Tata Motors PV, Eicher Motors drop post Q2 | Closing Bell",
+          "source": "Moneycontrol.com",
+          "published": "16 Nov 2026, 03:00 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPelVNZVpHWHJ3RG5XbGhpMC1SYUNIUVRjcGFIbEpnam5kMjdZblJZelA3aW0wME1YT2RNMFpxa2JpZnY5cHgyel9HWW84dHFleHhLd0R4M0o5R1FueDduYnp4YkEyWjNvck5MWXMwbzNOX0xwSHp4bU5PMWt0eWE2ZXNia1JDOVVlaHNubEtZWGpscTgtclFXNmdHV0ZMWFZJbktGQW5mNm04REVsbXhkR293SXhlNU54R3QxNHVJUmFGWjQ5c0ZuektvV1VPeGZaY09OQzlxNVpZcmpUR2ZEUjZNX05QbHFQalE0NtIB8gFBVV95cUxOaXNhdFlfVnhFU2Q1RS1TY0FpZV8tcHRBZ25JOTIwcXE2emNXVEJzZTZ0aGtTZlVhQ3YzdmJiRjRwMEUwSDFpSDB2UE5oQ0xjZk4yaHVjaWFIVXFSVGFKWXp6NU4xOGVrZkhpRE9ZbDF4Tkh1Sk1ORUtfTDR0SHhjVURudFE4MVRfRHExVlI3V0FPYVZzWEU3dnJCYTF1QW9PUmZFUkpjQzZhdDNldmJpMThhcU9vbWRnQUdRdnhRa08wUTNTTG9CZnNUV0V6VDRaUWh2SkhnYUx1SnBCTExqdXYxRFhoOERhS3phTUpOdjJPdw?oc=5"
         }
       ],
       "announcements": [],
@@ -350,12 +350,6 @@
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMXhPOERVMmF5NGc2UzhhWmdRelB1NFR2TlJSYTl6ZUVScjVaR2V2aG1KZktPUWUtTHhnaTI1dVpCUmJWQ1hlZTVXLVQtYmJPMl9vZzZuc0VuTzBrSk5CcFJDNGpnMTN5eTNwTklwQ2hMbDFvVm5RazBhUTNwemdFQWVUaWhKd3RlQWpqTjVCWlYxaW9FRWl0SFJXQjBINXRrRGlCdW1MWjRsUVE4Zy14QkxSakpYMS1wb1dTYW5fMzJzbkFGZVV0OUEtOEdXMEd6TDhBU2V4cGpxMTlIa1NwM2xfOEl6VnhSamVUSmZySHdRSWFSX3FB0gH3AUFVX3lxTE0xeE84RFUyYXk0ZzZTOGFaZ1F6UHU0VHZOUlJhOXplRVJyNVpHZXZobUpmS09RZS1MeGdpMjV1WkJSYlZDWGVlNVctVC1iYk8yX29nNm5zRW5PMGtKTkJwUkM0amcxM3l5M3BOSXBDaExsMW9WblFrMGFRM3B6Z0VBZVRpaEp3dGVBampONUJaVjFpb0VFaXRIUldCMEg1dGtEaUJ1bUxaNGxRUThnLXhCTFJqSlgxLXBvV1Nhbl8zMnNuQUZlVXQ5QS04R1cwR3pMOEFTZXhwanExOUhrU3AzbF84SXpWeFJqZVRKZnJId1FJYVJfcUE?oc=5"
         },
         {
-          "title": "Bank of India - Suzlon Energy among 5 midcap stocks that saw highest mutual fund buying in October",
-          "source": "The Economic Times",
-          "published": "15 Nov 2026, 09:38 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObGRtTVVrbHJselpCUzdVcm8tQVpnenRQSkFKNW5qWlkzNDZseHBnR09UOXdkWld1TUdEQnhlUlJkUEROVktEZHJEdVlFODZOdTFLM05aOC1SSFZwdDRpUUxkbzdEZzFaczJ6cUhlT2lyUWcyYWJFQ1BTZTI0RlM5dmhrQzdRXzA4aC1yNDg1eV82cEh6VnlGdHl6SlBncjFvdjlWbWFfMHhsa2NHLVVZU1g0VENEdjlxUlhnaTBCcUVibHhFb0FMSmoxQkdDTXhUWm44NEthOGp5d2NaVUI4WWdNTUR4MXRqenNLYmEtTE1xZw?oc=5"
-        },
-        {
           "title": "SCoR, Central Bank of India ink pact to extend welfare facilities for railway staff",
           "source": "The Hindu",
           "published": "14 Nov 2026, 11:49 PM IST",
@@ -397,33 +391,15 @@
       "news": [
         {
           "title": "Jio Platforms, BLS Polymers, Shiprocket, more: 23 stocks to watch as anchor lock-in expires this week | List",
-          "source": "Livemint",
+          "source": "Mint",
           "published": "17 Nov 2026, 12:55 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWmFMajAwMU1USWsxeDB5Vk41c3hUbExRVENJTFpBM1UwblZpWnhzQXE3YUFGNmdGbzhHeEFfUV9HNWlDWDVCWDhSZ2V0cEpvTC1mMjJxTVVaZXFkRWVQa0tCZVBEN1cwd1FKem43V1M3WjY5ajhLb0gxUzE1OFZ5aFVfVjZoZmVfd1Q0UENxNkdEWi1HSzh6WVMxcTZSRWxNNjhrSS1DX1BjRFltMDBvWUdlLTdQSDZNU2tOckQ5Ql83Q3NnNExwaWpFYlIwLWs4cTRDaUpQem1rMGczN1ZNMFliQmRnMFUxSkZ1endrQdIB9AFBVV95cUxNUjF5c0UzYTBVamQyZGF0TUk2bFBiV2RmQTh6Y1gwNWlzeVNHNC1FOTZfLXVZMTYwSmVkajdMY0pYdWpoaVpDYkVtQXJRY2s2N1N2TkZ4RkFlTVlmUWgxUWFvU05Mb0pFM0UzeVI0LWprZjkzRkZDOW9semU1RGxjMVhqQk81Uy00U3hnRVlYSXc0SU5ZUjRaRWpuelV1bFVjcGFZYzJhY0t0RlZVNFRvWTE2aTVuOHVka200eXcxbk93aWZwMUZNTGRYRUxrUVNnLVFnX1dQbEttQUhjNWRWa1locTdlRGQ2ckE1RWFMT1BRTlZi?oc=5"
-        },
-        {
-          "title": "Mutual funds deployed over Rs 15,000 crore across 10 IPOs in October, Jio Platforms leads in investment",
-          "source": "The Economic Times",
-          "published": "17 Nov 2026, 12:06 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVWxFVmxLckZ2MU8yeG91ZXluckJIMWNHOW9MZHJtZEF5aEpvMDdCZzVnQ09POVZTWG1RYl9UMXdTY1Q1aF94ZlpfbzVRZ3NyMFpkUWxZbWJGTld0cEtFRU9PQ3hGUmpIWXRtMzlMZ3JYdzY1TW03NGJPb29TUW5DSHlIam5faVByaWdMQlBSV0RVM0M3NTB2QXBXck84Y05JOUhlMTN5VW43bTloNXhIN1JZVHlsd20tUVFGQlQyenl2WXdRTG00cXRKM0NINUFkUm5hM2o1eXR0X292WkJHeTFUZmVra3E0SGpGbVpyYWpmMWo3TEZ2dlNucklxcm1pVGt1aw?oc=5"
+          "link": "https://www.livemint.com/market/ipo/jio-platforms-bls-polymers-shiprocket-more-23-stocks-to-watch-as-anchor-lock-in-expires-this-week-list-11794896708353.html"
         },
         {
           "title": "Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History",
           "source": "Economic Times",
           "published": "17 Nov 2026, 08:27 AM IST",
           "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-17-nov-2026/liveblog/135908364.cms"
-        },
-        {
-          "title": "23 companies to see IPO lock-in expiry by Nov-end; Jio Platforms in focus",
-          "source": "Business Standard",
-          "published": "16 Nov 2026, 11:49 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXF4c3ppMEZXcjJweGg1MzlMZ1JsWHFqdmx5U3BHUjZESWZjRUZDb1FLNzlmaktta3BjZ1VXYi1BYXNIYVZxbXF5SVo2UENBSjVHU1l0RmNrRzg1YmxscmJYWS1lMUpXOGI5WGdUbkFYX1JkTFltbE5VU2RwYWpSWms5UzFFVlNLa2ZlSmFSY1hzVEJQR2duQlJCQVlhN3BpcmdYUzNldEJ1RGxuMmliemR4V3huTWtZVzlkYVdtNUV2aFAwSC1QRjE3clktRWt3dlhWVi1B0gHbAUFVX3lxTE9iLXVxYWMzSEp5WjExaGlwc2RLQ2x1SHJNc2UtVS01OFoxcWJHTFlJcC1HN1ljWEVWbVRfNUZFd01pQnVzSWljTVJ3WTkzQmNXOXhtUU9mbENjbWFScWZhVWZuVTZjUGJQbE9JakpyZURXVTd2LU1GcEJpbGJPNVlIWVdGRi0yMGkzZ2hIZkh2ajc3WVdueFU1eEhXcTVwZHZsWFNDeE5SWHNvSHpxNnV2VlY2NEZoQXdFWnpCU25hMXViSTlNSGRWbUJJZEFmTXpIaXJ1SVg3NWdkUQ?oc=5"
-        },
-        {
-          "title": "Video | Mutual Funds' October Stock Picks: Jio Platforms, Airtel Among Top Buys; HDFC Bank Sold",
-          "source": "NDTV Profit",
-          "published": "16 Nov 2026, 11:28 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOE1FN3VaWlZzSkxQU05oTkMyVU5uQmlIbnluVXFjQnduYTJJWWlwVGZKcHBISjBHV01mbnRnTXNkZDVNVkM1T1Mwb0Q0emhNWVlMVmpkTXRzcnhXSmtUb3RidTdJNk5ycW9iajhIV18tRm9YWVNWRG1yR1NaQ2EzWUlmcGpSTWZ6UkpnR0tlbFJkOGxGUk1LanBadXcza1RmT0FrOTJMOG9JOFl6WGJoWlBQUDFtX2xrVkVDaGdGaw?oc=5"
         }
       ],
       "announcements": [],
