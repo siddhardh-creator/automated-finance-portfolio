@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "17 Nov 2026, 10:32 AM IST",
+  "generated_at_ist": "17 Nov 2026, 11:32 AM IST",
   "as_of": "2026-11-17",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,23 +7,23 @@
     "capital": 24598730.0,
     "initial_capital": 10000000,
     "invested": 17058760.0,
-    "holdings_value": 18495110.03,
+    "holdings_value": 18526069.93,
     "cash": 7141481.89,
-    "value": 25636591.93,
-    "pnl_inr": 1037861.93,
-    "pnl_pct": 4.22,
-    "unrealised_pnl_inr": 1436350.03,
+    "value": 25667551.82,
+    "pnl_inr": 1068821.82,
+    "pnl_pct": 4.35,
+    "unrealised_pnl_inr": 1467309.93,
     "realised_pnl_inr": -398488.11,
     "dividends_received_inr": 0.0,
-    "day_pnl_inr": -7349.94,
-    "day_pnl_pct": -0.03,
+    "day_pnl_inr": 23609.95,
+    "day_pnl_pct": 0.09,
     "open_positions": 8
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 25388.5,
-    "return_pct": 10.32,
-    "day_change_pct": 0.39
+    "close": 25444.7,
+    "return_pct": 10.57,
+    "day_change_pct": 0.61
   },
   "stocks": [
     {
@@ -36,28 +36,47 @@
       "first_buy": "2026-10-16",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 12656.0,
+        "close": 12660.0,
         "prev_close": 12571.0,
-        "day_change_pct": 0.68,
+        "day_change_pct": 0.71,
         "open": 12600.0,
         "high": 12815.0,
         "low": 12600.0,
         "intraday_range_pct": 1.71,
-        "volume": 79353,
+        "volume": 142968,
         "avg_volume_20d": 566617,
-        "volume_vs_avg": 0.14,
+        "volume_vs_avg": 0.25,
         "volatility_20d_annualised_pct": 28.95,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 3670240.0,
-        "pnl_inr": 338430.0,
-        "pnl_pct": 10.16
+        "market_value": 3671400.0,
+        "pnl_inr": 339590.0,
+        "pnl_pct": 10.19
       },
-      "news": [],
+      "news": [
+        {
+          "title": "Maruti 800, once every middle-class family's dream car, becomes first Indian vehicle to win FIVA heritage",
+          "source": "The Economic Times",
+          "published": "16 Nov 2026, 07:18 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOU0tmYVp4Rk1NOW91RF90QlZSbVdWaVlFVEhBejJ0TGpaa1BjSUF1eW1NQ2habVRfa3hNWUdMOEo1bkRsanhoYmM0eFNhU1NyeFk2Z19IOXFxS1dyMk01Tzh0SW42SS1XN3hETmRHN3RNNkNDZkZTYjlja2IteUYzTi14WVBZTHVCZFlHVHU0NkFUd1VkMk5KOUNXZzBNRmtKaDZoVlVmWnNWeUJvWmNVUXBTQ2hvT28zb1otejFkdGNtTjExLVdGb2Mzak04NTNjSmNaanY4bkZjaFR2Y3VDQWFEQ2R2clNqM1F0dWRxQWo4MFRFcm82WEF3aFdTZHp1OUpGU3hXY2ctODJxUk1qbDRQbGHSAZoCQVVfeXFMTkZzSXRQNUhPdUR3Y3M0S0FXczdONzU3ZVlTYjRGWXFlbmdWMVhLaV9iMnJud1dwclRhWHhtZkg2NHBDMnVuTFNqOWhJSHpMS3hmUm16cEVhQ0ZpaFBVd2t3NUpoX1JiNUVuWEUxLThmNlZkOF9ueHVDSG5oT2RzS2lGeEcwbzlXb0pQWTRLQk83aTU0WXQyaWFWOHdDWFRUdDVWQlk2c3Z6a1h3LVJMVFZoNmN3NWRoNmJiZHVrbGFZaDlOUHZxSzc2Rm1yN2pGdE5yOHA1X1cyZFN1WHVQTXJSbVA2V2VRTTREaEpVMzN2NVpVUlVJRk0yZFF6OVJPUVNLenk5dkFDRnZDSGFKODRleGtwU0cyalZB?oc=5"
+        },
+        {
+          "title": "Maruti drives car exports as rivals lose ground",
+          "source": "The Financial Express",
+          "published": "15 Nov 2026, 07:26 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYzBKdjd3TlFEMEF2ekxvd21TV2Zpb3VqTjdubWRudHZwRjZOdE9jT0lVYjJsNDBaN3hUNU1WZXZhY1dDQnFYMUFzWThnTHZyWTFUMUlHWHhnM0tRME1INy1hRG5LZmFsVzlrVF9MWDFpS1NmRXNnR1NFbkg1YnNpalBQc28wd096TXdSYTNJb2dNNWhMS2U2dExUdkhTS3VCOS1Yd2p30gGsAUFVX3lxTE1HSXdyeDJKbHZzTFctU21FS296NzVpemlwRkZ5MDdtN2ZPYWJxQXh4ZlBVXzFUanJLdUY3NHZkRWVPQldZbXd4OFA3dEhTRENfdU9GMGYxaWg0aFZsLUpmVklHQUJ3LWtQTGRBZzVuOGgybmRsRUFkN0hLQ2prRC10WXE5WllfZU8xVGVQTEFfUnpiZDVSNjA1UkFoaEllN2RTSGcxczNYdEVhT1A?oc=5"
+        },
+        {
+          "title": "Planning to buy a new Maruti Suzuki car? Here’s a list of top five highest-selling cars in October | Details",
+          "source": "Livemint",
+          "published": "14 Nov 2026, 11:51 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ2xnZi1XQ2hDbE9LZFdXd21RZXo2YVhYZlJaZ3pCZXJ5ZG5JY1prY2l4NmFOZmFmQXpuRVNMUE05RUQzUXc2VnB2OEtrTHozdUpvRjE4VDBZV21kbXRJbDlLd0lfUlVVa0lhVDZ4NGF3ZEk4WFhBdFl3QVdWSGNMdUIzcXR2SE5mckRlU202aFZ0RlM2bFNMZ19BZ1pZMGd6ZHRtbXVDcURCMFlQYURPQmFOMUJGUklLblBNZjNfUmVOVWp6VGN3ZG1RakNIM0JrZEt4NHBfc1hGWm9xOTJyNENXODBKWDRMY0RqNVdqTUVCQdIB9wFBVV95cUxQRm12NFdlSEc1NGpTVlp5bUNPcEFtX0lrZm1mMC1QUGt4b0R6X2VYMHd0NExUemNSbkdBcThabldUdDR0S1Vab25wSHVGTHY0VFZVaDNZOG9nTG54YzgydFlmWEVRaUxJRlhITlliUm9ENFhfY1RYS3BScm1GTkVOcVM3UVA1OXhzb1RMaTlPcHJWeFh6X3BwYm5YcW1QYkZyVU5EbHRjdkFIWXVkR25yWnlYZHVJRURrRUM5X1J1LTZZdHhmNUEzTzlxTEJPNlAzLXd6SjJyLUpqbS1paEo0dTJmRzFRWDBDRjhNTXdsemlfQWxOTHBv?oc=5"
+        }
+      ],
       "announcements": [],
-      "weight_pct": 14.32
+      "weight_pct": 14.3
     },
     {
       "key": "ashok",
@@ -69,50 +88,26 @@
       "first_buy": "2026-10-19",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 166.18,
+        "close": 166.3,
         "prev_close": 167.49,
-        "day_change_pct": -0.78,
+        "day_change_pct": -0.71,
         "open": 168.51,
         "high": 172.8,
-        "low": 166.14,
-        "intraday_range_pct": 3.98,
-        "volume": 19594347,
+        "low": 165.85,
+        "intraday_range_pct": 4.15,
+        "volume": 25504346,
         "avg_volume_20d": 19764289,
-        "volume_vs_avg": 0.99,
-        "volatility_20d_annualised_pct": 43.48,
+        "volume_vs_avg": 1.29,
+        "volatility_20d_annualised_pct": 43.45,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 166179.99,
-        "pnl_inr": 18459.99,
-        "pnl_pct": 12.5
+        "market_value": 166300.0,
+        "pnl_inr": 18580.0,
+        "pnl_pct": 12.58
       },
       "news": [
-        {
-          "title": "Ashok Leyland Q2 FY27: CV demand picks up speed",
-          "source": "Moneycontrol.com",
-          "published": "17 Nov 2026, 10:20 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlcxM25rUnlDeXg5OWhPYlZvVGxYVWZaMDNXNFdtN19zMWZfSWs3ZXRRMHo4TlhPcGl5QXExR3dvVVlRRkdXek03MVR5akhNME9UeWN1T3hveE85V09BUDladU42bWREcTVZeGNTaTRyUHk1STIzd0wxeGZYMFJ6MXNPc1hlVGdXSVhIMkFJbkVIQ1pqeGpZbVo5VHBJUDhaampMWDkzN1c2MzM0cnY0aW02QWdHVXYydWJsNXFNRVZqM2fSAcgBQVVfeXFMTzZGdnN4ekNDcmw5VmlYbTVObWdBZTNWVE12OG9OM2thcndFUk9yVW0zWXhEZElaTk00N3ZCb2gta1N1ajJ5U3ptemk1TkhLTnhlNzJJLUctSG1FQnVXWHVJdVFoWm5kdXl5TXMzOXc1QXBKZlZSZ0NhaUpFVXRUYkJPdGJ4S0ZSNWVHNF85dlFraXExWVBzUEtDYnhISXhrejFJZ1NoVHlaQzc4WmNwS2IzQ3pUNVhvaEozbWhKOUhRU3RLaDE5cW0?oc=5"
-        },
-        {
-          "title": "Ashok Leyland shares rise 2.5% as strong CV outlook offsets margin concerns; brokerages eye up to 12%...",
-          "source": "Moneycontrol.com",
-          "published": "17 Nov 2026, 09:55 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUVl0aFRqM1c0czE5QmlMUTdGQ1pVWG1CbFoydlFlVk15SUlvU3BtNlJtTGJxZWdZMkVvVldhMEdfd0ozNDduRThGcG9EajhCYzZUZ0JjV1lGT2dUVGxqVXFUaTk5X0c2dWs1UnlYUXpKdldGbmZleVl4bHR5Mi1MeUlQMXNWNXY2X1BvamxSZW1TaHM3OVh1UnN3cmpYeDNXMnV1U1NkamJNdmhKLUx0cmlFZ0hRMHFiTS1fWkhKRDFhdlIzRThEYjNQVU9Qems1Q1JaMXhUWXVfNHlQbzFONXh5VFdMX3hTYnRIY3BZT0ZEUHg0UzRseGhJcWJscXfSAYQCQVVfeXFMUGUxa0MwQTRMOGFNN21aaDdmNk01MjJ2TjNydWdZeWxBYXVPd2RzRFAzUHFkLVNRWXMxQWlNM29EeHplNVE2VE5BbHpQVlpfZU1ia1gzcTdXazJiS1luX0prSUhwcnBsNnZVQ1VZYlk2TWxfUVc4LVRqRVk5bWs3STZLOUU3ZUNONTdIbUhVTGV4RnoxYi1WdHBRNkE2OXI5T3lhV2dNUjUyYkhhcFRRVXJwM3V6aFd5NTQ4cFNlUXdxdmxFNTV2cGZQbHJhMTJ0UVIwU2hUX3VIM0pZM2daai1MdmZMTnJ1MlRycC1kc1diWXZpU09DTlVVVU5xbENuVVZPQ0U?oc=5"
-        },
-        {
-          "title": "Ashok Leyland Q2 Review: Kotak Downgrades Stock As Commodity Costs Weigh On Margin | Check Target Price",
-          "source": "NDTV Profit",
-          "published": "17 Nov 2026, 07:55 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXpWQUFXa1VOMVZYOVNTUnppMUhmQ01pRFpGRTZyUHlLVEVOY053MzAySUFSWW1rX0tHWVM1SHZwMHpNU3dPNUc0SzBWYnNkTmI1VGc1dUdpUjRXNmpIejNFLUotOWdzam41cGJudk8zTUdVTFptTTdrS3VVVlF0YzhiTGVPSkJONXRxS043VkNldmhzNHY2M0FCS1A3UFNJZ0xJelF0eDRaWTdkOGFUaFB3dXFFNlZtN21uXzkxZHRnamhB0gHMAUFVX3lxTE5Ic1cyQmhrTGdlajFyY3VZbmRoZW9CRUIyVHk1Mks4Rk1wWjdfUlpZMkJHTGJjcWdaeTROcTdyeTA4M1pidGp1UGh0YTIxalVJWjJGNGdxblU0MDRXRHlpOVVwVHl2NkFkYVdYcFVscmlsYjlibW1mM3lFVUpsc0JjN3Rwb2ktNHlEcjdWSDZYckl0SU1pdmlUN1FTMEdGOXQwNWdFa0FWV0JJNzdhLWdnVGlqcF9kLUsyQ25XWTZ6dzhOejNadmNaUXE5dg?oc=5"
-        },
-        {
-          "title": "Stock Picks Today: ABB India, Cummins, Ashok Leyland, Tech Mahindra, Astral, And More On Brokerages' Radar",
-          "source": "NDTV Profit",
-          "published": "17 Nov 2026, 06:50 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNOXNVcWNNbk51eEE5R1p2S3lkVmxvTVlMNVFhcnRzbzY3SW0tcmRIMWNmc3U3eEJteTFHLTRja0FTMml4MUh5dXh4XzZlUkhiekVQemM1b19Wd2U4YUlNQlZDemluUmRqaGx0RExUUUI0Q2ZqQnA4a25NQ3BXQ1o3Vm1UQmF4eUxNMUlKM0V1S21MT29HNV9EQUR6MS13WU5PWENmSXdOT0RTU2ZxM2hHdHBHdndIZjEyZjlqZXg5ZWRmYjFoUjJXUW0zMzZZak1HYUh1OWtDSGhmNEdlTF9GVnR4dVN5UHFKZ2JxZHJWZmUyaEdzWVE4MEdIY0luVzVDSURMVndDS2dqZE45LWdZTkhVUzRYTlVNZDVJSDFDVdIBpwJBVV95cUxQNDcyWUFQaDhHZktPSUhFWUVXLU1UdDQ0MkpYeTV2MzRwSzlMX3EzLUZadVQtX1N4UjktVTM5NUJHUDFrR0ROOFlDMmhBcl82REdsNVlvU1lDbHA2eWIyX0xpQU4xM1hlZ3RJZTEwRVBxR3dmWnNadXNyd3M0djFBeVlKR0VZR21jUmVxT1NaTFgxUk9EUXlUemtzN0RJUzl5Z3d3ZFQ0a09sLVdnczduNy1jVTJVNFBvOTdLVTloUnFOMzd2THpobVZDVlNNOGZzSmZKWWtDSV9FUjJUS19UQ0t5NFlUNmM1WnRqQm5KVHBPb09IQ011bkhkNlU0NmstamRucmg0QlNXRXFVQ0FMcnFVdy1zaVNqTm5VZEQ0WW1uRGlMMlFn?oc=5"
-        },
         {
           "title": "Broker’s call: Ashok Leyland (Hold)",
           "source": "BusinessLine",
@@ -133,35 +128,59 @@
       "first_buy": "2026-10-21",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 7657.5,
+        "close": 7686.0,
         "prev_close": 7650.0,
-        "day_change_pct": 0.1,
+        "day_change_pct": 0.47,
         "open": 7610.5,
         "high": 7729.5,
         "low": 7610.5,
         "intraday_range_pct": 1.56,
-        "volume": 162933,
+        "volume": 200444,
         "avg_volume_20d": 468559,
-        "volume_vs_avg": 0.35,
-        "volatility_20d_annualised_pct": 23.32,
+        "volume_vs_avg": 0.43,
+        "volatility_20d_annualised_pct": 23.31,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 7657500.0,
-        "pnl_inr": 391500.0,
-        "pnl_pct": 5.39
+        "market_value": 7686000.0,
+        "pnl_inr": 420000.0,
+        "pnl_pct": 5.78
       },
       "news": [
         {
+          "title": "Eicher Motors: Nomura maintains 'Neutral', cuts target price to Rs 8,022 after 2Q margin miss",
+          "source": "Moneycontrol.com",
+          "published": "17 Nov 2026, 09:40 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZW9XTTRCS1BGamN6TzhzOWYyangtRGVNdERKQThkV3ljZzZNVDYzcThQTUswZ01yMENjOFV0ZXhVTWY1TzBxYVJSSWQ4WDBzRl9BUFQ4RC1YN0hFLWptR3BkWDZFSHdHcWFHdHotVkNfR0o2M2J0eUdpUGRoV2JYdHBJbXNMYWdmSUthODdsdDRIUEJ4bWlhWGRxbnhUcmVXcDZGcHFjeVgtdUtEOUE1T0ZHTkYyVVNsakZwTW9DdGJob1VlZmt5R25iRGthMHM3QWI0YlVvN1BTM1c1N2VLaWFWWjRfSTRyZjR4bnZB0gHuAUFVX3lxTE9lb1dNNEJLUEZqY3pPOHM5ZjJqeC1EZU10REpBOGRXeWNnNk1UNjNxOFBNSzBnTXIwQ2M4VXRleFVNZjVPMHFhUlJJZDhYMHNGX0FQVDhELVg3SEUtam1HcGRYNkVId0dxYUd0ei1WQ19HSjYzYnR5R2lQZGhXYlh0cEltc0xhZ2ZJS2E4N2x0NEhQQnhtaWFYZHFueFRyZVdwNkZwcWN5WC11S0Q5QTVPRkdORjJVU2xqRnBNb0N0YmhvVWVma3lHbmJEa2EwczdBYjRiVW83UFMzVzU3ZUtpYVZaNF9JNHJmNHhudkE?oc=5"
+        },
+        {
+          "title": "New Royal Enfield Interceptor 650 Coming In 2027, Here's What Could Change",
+          "source": "NDTV Profit",
+          "published": "16 Nov 2026, 07:08 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1RSRHNzT0dNRmtheHRaNkVha1NnNmllRExkXzlDVEtyVDY1SUFIV3d2UnM0THN4ZDIwak5hVDhKMHJqbVh5cDF5T1QxRW9SaXhWelFUTnp5R0piRnFCcGhhVUlaZUlyRjZPV1NtQURVbnp0ejRSQ1VCbHNrN01IZU5SSFY1dEVlVy04Nk53Y2FEeVdKb2xLaUNOOFU3amM3OV92WFZzeDZVSWtQbjQ1VmZoc0djUDNs0gHAAUFVX3lxTE1YcV9MNHhxM3RkVExtMXBIVHhzN2xVZzRoMDJoNVRiVzM1VFpjbVBOVXJocTR2V18zb2o3bEJtOGVNNmh4a0hXblJiRUhlRk5jQnB2SGkzcld5R3UxSHRTRDRMQjRnYkNfSl9mVTZ4X2hJWlBVX1psLTJOTm5VZ3A3X3g3WTI1bmFTX29nS0NvR05LTHo4aVFRRWoxWHo4Rmx0ZmNGOEpyYjZsLVo2azlIMlJoclhsMHQ3X21wX19VNQ?oc=5"
+        },
+        {
+          "title": "Eicher Motors margins under pressure despite strong Royal Enfield demand",
+          "source": "Business Standard",
+          "published": "16 Nov 2026, 04:49 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmhKZzVyT29uMWtUV3NVTHVldHdzQjJxQTRtellxcmdVdnNPTlByejdnTktLVDc5dk5aSkNnVmxkZkdudTI1Y19EbnVQN0h3R0VEZ2VxWFJsSVh3VzBUX2daNWcwb3NwblFyWVJ6c1hwZzR3US1HbmJoblhDc1o0MFg5bVdLTE5hU051QmdXbmJzc25CZVA0UE01REV0c2xLdjZWcGRfaEJua3RMVDdXa1lhZTFtZ0RSSzVzSGFIS0x5S2RLZ0RSR3M3Z2xtbFMtZENyTzV30gHbAUFVX3lxTE9nal9vZ1UzNmR1ODJ3dEtvTEZlQVBZamJ5cTA3aFQ4bU82UFIwWVRMN2VpXzVSenJiV3gtbVJLZWxpVWt3NzIyaGVNeEhqN2tOWENING16Y0htVTItUkNfRERiYlh2bHA1TTdlY19VczQ4ZWtfUW51WjBiSjBFVmlMX1dXbldDRW1iN2Fsa2wtdnI1cnlRRHl4MF9ZQV9WYWFZcGFjLUhwNXhXYnJ1bklLaUQxd0NRQ0toa19xV0hIQTY3T01YOEwzOFpYY25wUllKeFZrUDJ1aEZVSQ?oc=5"
+        },
+        {
+          "title": "Live: Market breadth negative; Tata Motors PV, Eicher Motors drop post Q2 | Closing Bell",
+          "source": "Moneycontrol.com",
+          "published": "16 Nov 2026, 03:00 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPelVNZVpHWHJ3RG5XbGhpMC1SYUNIUVRjcGFIbEpnam5kMjdZblJZelA3aW0wME1YT2RNMFpxa2JpZnY5cHgyel9HWW84dHFleHhLd0R4M0o5R1FueDduYnp4YkEyWjNvck5MWXMwbzNOX0xwSHp4bU5PMWt0eWE2ZXNia1JDOVVlaHNubEtZWGpscTgtclFXNmdHV0ZMWFZJbktGQW5mNm04REVsbXhkR293SXhlNU54R3QxNHVJUmFGWjQ5c0ZuektvV1VPeGZaY09OQzlxNVpZcmpUR2ZEUjZNX05QbHFQalE0NtIB8gFBVV95cUxOaXNhdFlfVnhFU2Q1RS1TY0FpZV8tcHRBZ25JOTIwcXE2emNXVEJzZTZ0aGtTZlVhQ3YzdmJiRjRwMEUwSDFpSDB2UE5oQ0xjZk4yaHVjaWFIVXFSVGFKWXp6NU4xOGVrZkhpRE9ZbDF4Tkh1Sk1ORUtfTDR0SHhjVURudFE4MVRfRHExVlI3V0FPYVZzWEU3dnJCYTF1QW9PUmZFUkpjQzZhdDNldmJpMThhcU9vbWRnQUdRdnhRa08wUTNTTG9CZnNUV0V6VDRaUWh2SkhnYUx1SnBCTExqdXYxRFhoOERhS3phTUpOdjJPdw?oc=5"
+        },
+        {
           "title": "Tata Motors PV vs Eicher Motors: Which auto stock is set to race ahead, and which should you buy after Q2 results?",
-          "source": "Mint",
+          "source": "Livemint",
           "published": "16 Nov 2026, 02:12 PM IST",
-          "link": "https://www.livemint.com/market/stock-market-news/tata-motors-pv-vs-eicher-motors-which-auto-stock-is-set-to-race-ahead-and-which-should-you-buy-after-q2-results-11794815971549.html"
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONGw0eE55S29NaE80UWUwYXhUaUE1U1MwMnhjblE5NEJhd3lZNzljN3F6RUduQk9kWE11Vkk4V3hRbDVoVlk2aGdWVDVHRXp0ZmRpQWRHOFctX21TalNHUHpEOW0tcFdFenRtQzJkR0FJX2UzdExTZWRMa1prN0huNDVUVTZRc3VXUWtpNDhLYk9vSDF3bHUtTHNEOG5zX3hrMnJOV2g0dFlCa1BRMU1UR3lRem82MDRsREtwZWdtMEp6eUhuYmZSVkJIbVlBNHYtSzAwNmZFS3hFZ3dvWXFjZllFTlVPYk9JVnRLVksxckV0U1BWbTQ4ZXAyb19CaENiVS1sQzM1MWpWY0pwNHfSAZMCQVVfeXFMTmFzMEVqMlRHM1hxZ2ZJeDNCQnN6TklmQ2w3N19kTUJfcUVHTEpUYzlMU1kybkE3WWlXUUw5clNIMWpmajRLNEJzRlFvR1RVWUZjbHBrdlVnVmxkY0ZIM2FuQ2Mwc1V1dFpaQmNCYVdrbXFidUNTSm5RVTVCSFIzRXNiM2V3d052UXpRbExRTE1pdGNNRThsekRwOHljaWwySmozelQ0Slg1Qko2Y0xFUTMwSHozQ2N2cmNCTXFNbXVsRVByVlNFcGVodl9KeTE0ajZ2aXhyNDNUR1p6Y0E2ZDJoMzNuTzlCNkVUMnFZU2dvX3p1SS0yQTZXUVdoNFJaSEV6WEN4YmpwQnE3R2ZVd2paVTQ?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 29.87
+      "weight_pct": 29.94
     },
     {
       "key": "linde",
@@ -173,28 +192,28 @@
       "first_buy": "2026-10-21",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 6867.5,
+        "close": 6848.0,
         "prev_close": 6911.5,
-        "day_change_pct": -0.64,
+        "day_change_pct": -0.92,
         "open": 6916.5,
         "high": 7009.5,
-        "low": 6865.0,
-        "intraday_range_pct": 2.09,
-        "volume": 10920,
+        "low": 6848.0,
+        "intraday_range_pct": 2.34,
+        "volume": 12423,
         "avg_volume_20d": 46741,
-        "volume_vs_avg": 0.23,
-        "volatility_20d_annualised_pct": 50.73,
+        "volume_vs_avg": 0.27,
+        "volatility_20d_annualised_pct": 50.83,
         "high_52w": 7847.5,
         "low_52w": 5632.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 3433750.0,
-        "pnl_inr": 453250.0,
-        "pnl_pct": 15.21
+        "market_value": 3424000.0,
+        "pnl_inr": 443500.0,
+        "pnl_pct": 14.88
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 13.39
+      "weight_pct": 13.34
     },
     {
       "key": "linc",
@@ -206,28 +225,28 @@
       "first_buy": "2026-10-22",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 88.81,
+        "close": 87.1,
         "prev_close": 89.06,
-        "day_change_pct": -0.28,
+        "day_change_pct": -2.2,
         "open": 87.05,
         "high": 90.48,
         "low": 86.7,
         "intraday_range_pct": 4.24,
-        "volume": 2337,
+        "volume": 3189,
         "avg_volume_20d": 62077,
-        "volume_vs_avg": 0.04,
-        "volatility_20d_annualised_pct": 106.88,
+        "volume_vs_avg": 0.05,
+        "volatility_20d_annualised_pct": 107.21,
         "high_52w": 125.23,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 88810.0,
-        "pnl_inr": 3810.0,
-        "pnl_pct": 4.48
+        "market_value": 87100.0,
+        "pnl_inr": 2100.0,
+        "pnl_pct": 2.47
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.35
+      "weight_pct": 0.34
     },
     {
       "key": "ather",
@@ -239,35 +258,35 @@
       "first_buy": "2026-10-27",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 1917.4,
+        "close": 1930.7,
         "prev_close": 1939.6,
-        "day_change_pct": -1.14,
+        "day_change_pct": -0.46,
         "open": 1940.0,
         "high": 1972.0,
-        "low": 1911.9,
-        "intraday_range_pct": 3.1,
-        "volume": 831893,
+        "low": 1906.0,
+        "intraday_range_pct": 3.4,
+        "volume": 1109731,
         "avg_volume_20d": 3681631,
-        "volume_vs_avg": 0.23,
-        "volatility_20d_annualised_pct": 61.89,
+        "volume_vs_avg": 0.3,
+        "volatility_20d_annualised_pct": 61.57,
         "high_52w": 1945.0,
         "low_52w": 601.35,
         "shares": 1000,
         "base_price": 1677.2,
-        "market_value": 1917400.02,
-        "pnl_inr": 240200.02,
-        "pnl_pct": 14.32
+        "market_value": 1930699.95,
+        "pnl_inr": 253499.95,
+        "pnl_pct": 15.11
       },
       "news": [
         {
           "title": "Ola Electric vs Ather Energy: Ather shines, Ola struggles in Q2; which EV stock offers better upside?",
-          "source": "Mint",
+          "source": "Livemint",
           "published": "16 Nov 2026, 03:18 PM IST",
-          "link": "https://www.livemint.com/market/stock-market-news/ola-electric-vs-ather-energy-ather-shines-ola-struggles-in-q2-which-ev-stock-offers-better-upside-11794821623526.html"
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQVgwb2RhM3F5ZTdFNWZIOEdXcGNSem9OczdEVXFPWmVsMUphTkI2eExnbHpPS1d1dWZLSjRYYjZyTHhnTXNsY2VOcldlbVNTdU0wVGpEdFJqRS11OWtQNGo3bzNwWTk5MHV4Xy0wMFlQWHFZVGk2dWJFWWtvbjRtYmhHQl94MkwwckZIaXZSMGRhRVdYNUFMenJWTkFTLXoyVVpaRjNvdUZudHJJaFRkaXJ3cTBGNmdsVUx1Z2ROOEVWcTEzdUNPNmF4eHdJTVMxYUhLeWV0elpuUHpDTnQyVEVMc3Noa3BiZmVMS3pnTjRIdGFmT0pNa3dfc9IBgAJBVV95cUxObkF2dlpDTWtQWEhHaXlDa0pSQUh1T3pUSEl0MDJjQVFWazFJdG5VM1RkbXVLNG94LUs4LUFzZDRVSl81T01qbk5SN2tRak1Gd0t5SWRmU2ZxUkctOW1XU0lpeUxvVDFaUDdVZWRucUVZd00xbnp4d3ZBclBsRVoxS1M1TFhLZkk2Vi1TeVpTb2dyU1VOc0JrSXdmV0xuLTdnUTNKN3BvNnpzVXF5R01FRlgxOXBBTGdhcHdnd1RESGM4ek9WVC00b1ozWVhJMjRiRS1ZbXBXbDQzeWdpbXotZHV1QWtqMFRyV3M3Q0JMVVhBbzRHVUpXZkF5ZE13UGlM?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 7.48
+      "weight_pct": 7.52
     },
     {
       "key": "boi",
@@ -279,24 +298,24 @@
       "first_buy": "2026-10-27",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 158.33,
+        "close": 158.97,
         "prev_close": 152.97,
-        "day_change_pct": 3.5,
+        "day_change_pct": 3.92,
         "open": 153.53,
         "high": 159.2,
         "low": 153.21,
         "intraday_range_pct": 3.92,
-        "volume": 7449961,
+        "volume": 10599821,
         "avg_volume_20d": 10501603,
-        "volume_vs_avg": 0.71,
-        "volatility_20d_annualised_pct": 40.43,
+        "volume_vs_avg": 1.01,
+        "volatility_20d_annualised_pct": 40.8,
         "high_52w": 177.2,
         "low_52w": 126.32,
         "shares": 1000,
         "base_price": 131.33,
-        "market_value": 158330.0,
-        "pnl_inr": 27000.0,
-        "pnl_pct": 20.56
+        "market_value": 158970.0,
+        "pnl_inr": 27640.0,
+        "pnl_pct": 21.05
       },
       "news": [
         {
@@ -331,24 +350,24 @@
       "first_buy": "2026-11-04",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 1402.9,
+        "close": 1401.6,
         "prev_close": 1402.0,
-        "day_change_pct": 0.06,
+        "day_change_pct": -0.03,
         "open": 1403.1,
         "high": 1408.3,
-        "low": 1402.0,
-        "intraday_range_pct": 0.45,
-        "volume": 947736,
+        "low": 1400.5,
+        "intraday_range_pct": 0.56,
+        "volume": 1127849,
         "avg_volume_20d": 25226815,
         "volume_vs_avg": 0.04,
-        "volatility_20d_annualised_pct": 10.61,
+        "volatility_20d_annualised_pct": 10.6,
         "high_52w": 1437.4,
         "low_52w": 1395.9,
         "shares": 1000,
         "base_price": 1439.2,
-        "market_value": 1402900.02,
-        "pnl_inr": -36299.98,
-        "pnl_pct": -2.52
+        "market_value": 1401599.98,
+        "pnl_inr": -37600.02,
+        "pnl_pct": -2.61
       },
       "news": [
         {
@@ -383,85 +402,85 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 5.47
+      "weight_pct": 5.46
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 13411320.01,
-      "weight_pct": 52.31
+      "value": 13454399.95,
+      "weight_pct": 52.42
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 27.86
+      "weight_pct": 27.82
     },
     {
       "sector": "Industrial Gases",
-      "value": 3433750.0,
-      "weight_pct": 13.39
+      "value": 3424000.0,
+      "weight_pct": 13.34
     },
     {
       "sector": "Telecom & Digital Services",
-      "value": 1402900.02,
-      "weight_pct": 5.47
+      "value": 1401599.98,
+      "weight_pct": 5.46
     },
     {
       "sector": "Financials",
-      "value": 158330.0,
+      "value": 158970.0,
       "weight_pct": 0.62
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 88810.0,
-      "weight_pct": 0.35
+      "value": 87100.0,
+      "weight_pct": 0.34
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 13411320.01,
-      "weight_pct": 52.31
+      "value": 13454399.95,
+      "weight_pct": 52.42
     },
     {
       "sector": "Cash",
       "value": 7141481.89,
-      "weight_pct": 27.86
+      "weight_pct": 27.82
     },
     {
       "sector": "Industrial Gases",
-      "value": 3433750.0,
-      "weight_pct": 13.39
+      "value": 3424000.0,
+      "weight_pct": 13.34
     },
     {
       "sector": "Telecom & Digital Services",
-      "value": 1402900.02,
-      "weight_pct": 5.47
+      "value": 1401599.98,
+      "weight_pct": 5.46
     },
     {
       "sector": "Financials",
-      "value": 158330.0,
+      "value": 158970.0,
       "weight_pct": 0.62
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 88810.0,
-      "weight_pct": 0.35
+      "value": 87100.0,
+      "weight_pct": 0.34
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Bank of India",
-      "pct": 20.56
+      "pct": 21.05
     },
     "worst_since_buy": {
       "name": "Jio Platforms",
-      "pct": -2.52
+      "pct": -2.61
     },
     "top_mover_today": {
       "name": "Bank of India",
-      "pct": 3.5
+      "pct": 3.92
     }
   },
   "transactions": [
