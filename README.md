@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 17 Nov 2026, 12:32 PM IST  |  **Market data as of:** 2026-11-17  |  **Start date:** 2026-10-16
+**Last updated:** 17 Nov 2026, 02:32 PM IST  |  **Market data as of:** 2026-11-17  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,13 +14,13 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,57,11,992** |
-| Total P&L | **₹11,13,262 (+4.53%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | ₹15,11,750 |
+| Current value | **₹2,57,45,682** |
+| Total P&L | **₹11,46,952 (+4.66%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | ₹15,45,440 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
-| Today's change | ₹68,050 (+0.27%) |
-| Nifty 50 since start (same money invested) | +10.76% |
-| Outperformance vs Nifty 50 | -6.23% |
+| Today's change | ₹1,54,750 (+0.60%) |
+| Nifty 50 since start (same money invested) | +10.61% |
+| Outperformance vs Nifty 50 | -5.95% |
 | Cash (uninvested) | ₹71,41,482 |
 | Virtual money put in | ₹2,45,98,730 |
 
@@ -32,16 +32,16 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹12,712.00 | - | ₹12,571.00 | +1.12% | ₹36,86,480 | 14.3% | ₹3,54,670 | +10.64% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹167.15 | - | ₹167.49 | -0.20% | ₹1,67,150 | 0.7% | ₹19,430 | +13.15% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,724.50 | - | ₹7,650.00 | +0.97% | ₹77,24,500 | 30.0% | ₹4,58,500 | +6.31% |
-| Linde India | 500 | ₹5,961.00 | ₹6,812.00 | - | ₹6,911.50 | -1.44% | ₹34,06,000 | 13.2% | ₹4,25,500 | +14.28% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹87.68 | - | ₹89.06 | -1.55% | ₹87,680 | 0.3% | ₹2,680 | +3.15% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,939.90 | - | ₹1,939.60 | +0.02% | ₹19,39,900 | 7.5% | ₹2,62,700 | +15.66% |
-| Bank of India | 1,000 | ₹131.33 | ₹159.00 | - | ₹152.97 | +3.94% | ₹1,59,000 | 0.6% | ₹27,670 | +21.07% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,399.80 | - | ₹1,402.00 | -0.16% | ₹13,99,800 | 5.4% | -₹39,400 | -2.74% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹12,637.00 | - | ₹12,571.00 | +0.53% | ₹36,64,730 | 14.2% | ₹3,32,920 | +9.99% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹164.30 | - | ₹167.49 | -1.90% | ₹1,64,300 | 0.6% | ₹16,580 | +11.22% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹7,813.00 | - | ₹7,599.00 | +2.82% | ₹78,13,000 | 30.4% | ₹5,47,000 | +7.53% |
+| Linde India | 500 | ₹5,961.00 | ₹6,807.00 | - | ₹6,911.50 | -1.51% | ₹34,03,500 | 13.2% | ₹4,23,000 | +14.19% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹87.92 | - | ₹87.05 | +1.00% | ₹87,920 | 0.3% | ₹2,920 | +3.44% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,915.30 | - | ₹1,939.60 | -1.25% | ₹19,15,300 | 7.4% | ₹2,38,100 | +14.20% |
+| Bank of India | 1,000 | ₹131.33 | ₹159.55 | - | ₹152.97 | +4.30% | ₹1,59,550 | 0.6% | ₹28,220 | +21.49% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,395.90 | - | ₹1,402.00 | -0.44% | ₹13,95,900 | 5.4% | -₹43,300 | -3.01% |
 
-**Best since buy:** Bank of India (+21.07%)  ·  **Worst since buy:** Jio Platforms (-2.74%)  ·  **Biggest mover today:** Bank of India (+3.94%)
+**Best since buy:** Bank of India (+21.49%)  ·  **Worst since buy:** Jio Platforms (-3.01%)  ·  **Biggest mover today:** Bank of India (+4.30%)
 
 ## Allocation
 
@@ -49,16 +49,16 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,35,18,030 | 52.6% |
-| Cash | ₹71,41,482 | 27.8% |
-| Industrial Gases | ₹34,06,000 | 13.2% |
-| Telecom & Digital Services | ₹13,99,800 | 5.4% |
-| Financials | ₹1,59,000 | 0.6% |
-| Stationery & Writing Instruments | ₹87,680 | 0.3% |
+| Automobiles | ₹1,35,57,330 | 52.7% |
+| Cash | ₹71,41,482 | 27.7% |
+| Industrial Gases | ₹34,03,500 | 13.2% |
+| Telecom & Digital Services | ₹13,95,900 | 5.4% |
+| Financials | ₹1,59,550 | 0.6% |
+| Stationery & Writing Instruments | ₹87,920 | 0.3% |
 
 <a name="performance"></a>
 
-## Performance (as on 17 Nov 2026, 12:32 PM IST)
+## Performance (as on 17 Nov 2026, 02:32 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -118,7 +118,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹12,712.00 | +1.12% | ₹12,600.00 - ₹12,815.00 | 193,547 | 566,617 | 0.34x | 29.03% | ₹11,170.00 - ₹17,292.00 |
+| ₹12,637.00 | +0.53% | ₹12,600.00 - ₹12,815.00 | 350,528 | 566,617 | 0.62x | 28.94% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -148,7 +148,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹167.15 | -0.20% | ₹165.77 - ₹172.80 | 30,140,227 | 19,764,289 | 1.52x | 43.29% | ₹138.58 - ₹211.92 |
+| ₹164.30 | -1.90% | ₹163.59 - ₹172.80 | 45,500,344 | 19,764,289 | 2.3x | 44.13% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -167,7 +167,7 @@ _▲ buy · ▼ sell_
 - [Buy Ashok Leyland; target of Rs 195: Motilal Oswal](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGlhbV9kSEg3YjNiaDJYWHdhcEpwNlJhRFZ3aktZcUtyMm4zSU9aRXdaNEFlbC1iQVlWYWMweEQwQ280NG9ubWEzYXF2dXpkUTNzSFdScG5PWTB6Q241cGhOQ3R3ZjFGdFFXbFpzWm1LZEphaWNDTFpKcmdXbkpRWmtUaXZsX1ZGWVB2TWstZDZMYThTc0pPNHpXeGxDbjgyV3p1R1VaRnRqR1VJcHVzTEgyOFI3RmvSAbcBQVVfeXFMTnBpYW1fZEhIN2IzYmgyWFh3YXBKcDZSYURWd2pLWXFLcjJuM0lPWkV3WjRBZWwtYkFZVmFjMHhEMENvNDRvbm1hM2FxdnV6ZFEzc0hXUnBuT1kwekNuNXBoTkN0d2YxRnRRV2xac1ptS2RKYWljQ0xaSnJnV25KUVprVGl2bF9WRllQdk1rLWQ2TGE4U3NKTzR6V3hsQ244Mld6dUdVWkZ0akdVSXB1c0xIMjhSN0Zr?oc=5) - _Moneycontrol.com, 17 Nov 2026, 10:42 AM IST_
 - [Ashok Leyland Q2 FY27: CV demand picks up speed](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlcxM25rUnlDeXg5OWhPYlZvVGxYVWZaMDNXNFdtN19zMWZfSWs3ZXRRMHo4TlhPcGl5QXExR3dvVVlRRkdXek03MVR5akhNME9UeWN1T3hveE85V09BUDladU42bWREcTVZeGNTaTRyUHk1STIzd0wxeGZYMFJ6MXNPc1hlVGdXSVhIMkFJbkVIQ1pqeGpZbVo5VHBJUDhaampMWDkzN1c2MzM0cnY0aW02QWdHVXYydWJsNXFNRVZqM2fSAcgBQVVfeXFMTzZGdnN4ekNDcmw5VmlYbTVObWdBZTNWVE12OG9OM2thcndFUk9yVW0zWXhEZElaTk00N3ZCb2gta1N1ajJ5U3ptemk1TkhLTnhlNzJJLUctSG1FQnVXWHVJdVFoWm5kdXl5TXMzOXc1QXBKZlZSZ0NhaUpFVXRUYkJPdGJ4S0ZSNWVHNF85dlFraXExWVBzUEtDYnhISXhrejFJZ1NoVHlaQzc4WmNwS2IzQ3pUNVhvaEozbWhKOUhRU3RLaDE5cW0?oc=5) - _Moneycontrol.com, 17 Nov 2026, 10:20 AM IST_
 - [Ashok Leyland shares rise 2.5% as strong CV outlook offsets margin concerns; brokerages eye up to 12%...](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUVl0aFRqM1c0czE5QmlMUTdGQ1pVWG1CbFoydlFlVk15SUlvU3BtNlJtTGJxZWdZMkVvVldhMEdfd0ozNDduRThGcG9EajhCYzZUZ0JjV1lGT2dUVGxqVXFUaTk5X0c2dWs1UnlYUXpKdldGbmZleVl4bHR5Mi1MeUlQMXNWNXY2X1BvamxSZW1TaHM3OVh1UnN3cmpYeDNXMnV1U1NkamJNdmhKLUx0cmlFZ0hRMHFiTS1fWkhKRDFhdlIzRThEYjNQVU9Qems1Q1JaMXhUWXVfNHlQbzFONXh5VFdMX3hTYnRIY3BZT0ZEUHg0UzRseGhJcWJscXfSAYQCQVVfeXFMUGUxa0MwQTRMOGFNN21aaDdmNk01MjJ2TjNydWdZeWxBYXVPd2RzRFAzUHFkLVNRWXMxQWlNM29EeHplNVE2VE5BbHpQVlpfZU1ia1gzcTdXazJiS1luX0prSUhwcnBsNnZVQ1VZYlk2TWxfUVc4LVRqRVk5bWs3STZLOUU3ZUNONTdIbUhVTGV4RnoxYi1WdHBRNkE2OXI5T3lhV2dNUjUyYkhhcFRRVXJwM3V6aFd5NTQ4cFNlUXdxdmxFNTV2cGZQbHJhMTJ0UVIwU2hUX3VIM0pZM2daai1MdmZMTnJ1MlRycC1kc1diWXZpU09DTlVVVU5xbENuVVZPQ0U?oc=5) - _Moneycontrol.com, 17 Nov 2026, 09:55 AM IST_
-- [Ashok Leyland Q2 Review: Kotak Downgrades Stock As Commodity Costs Weigh On Margin | Check Target Price](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXpWQUFXa1VOMVZYOVNTUnppMUhmQ01pRFpGRTZyUHlLVEVOY053MzAySUFSWW1rX0tHWVM1SHZwMHpNU3dPNUc0SzBWYnNkTmI1VGc1dUdpUjRXNmpIejNFLUotOWdzam41cGJudk8zTUdVTFptTTdrS3VVVlF0YzhiTGVPSkJONXRxS043VkNldmhzNHY2M0FCS1A3UFNJZ0xJelF0eDRaWTdkOGFUaFB3dXFFNlZtN21uXzkxZHRnamhB0gHMAUFVX3lxTE5Ic1cyQmhrTGdlajFyY3VZbmRoZW9CRUIyVHk1Mks4Rk1wWjdfUlpZMkJHTGJjcWdaeTROcTdyeTA4M1pidGp1UGh0YTIxalVJWjJGNGdxblU0MDRXRHlpOVVwVHl2NkFkYVdYcFVscmlsYjlibW1mM3lFVUpsc0JjN3Rwb2ktNHlEcjdWSDZYckl0SU1pdmlUN1FTMEdGOXQwNWdFa0FWV0JJNzdhLWdnVGlqcF9kLUsyQ25XWTZ6dzhOejNadmNaUXE5dg?oc=5) - _NDTV Profit, 17 Nov 2026, 07:55 AM IST_
+- [Ashok Leyland Review: Kotak Downgrades Stock To Add, Goldman Sachs Maintains Neutral](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXpWQUFXa1VOMVZYOVNTUnppMUhmQ01pRFpGRTZyUHlLVEVOY053MzAySUFSWW1rX0tHWVM1SHZwMHpNU3dPNUc0SzBWYnNkTmI1VGc1dUdpUjRXNmpIejNFLUotOWdzam41cGJudk8zTUdVTFptTTdrS3VVVlF0YzhiTGVPSkJONXRxS043VkNldmhzNHY2M0FCS1A3UFNJZ0xJelF0eDRaWTdkOGFUaFB3dXFFNlZtN21uXzkxZHRnamhB0gHMAUFVX3lxTE5Ic1cyQmhrTGdlajFyY3VZbmRoZW9CRUIyVHk1Mks4Rk1wWjdfUlpZMkJHTGJjcWdaeTROcTdyeTA4M1pidGp1UGh0YTIxalVJWjJGNGdxblU0MDRXRHlpOVVwVHl2NkFkYVdYcFVscmlsYjlibW1mM3lFVUpsc0JjN3Rwb2ktNHlEcjdWSDZYckl0SU1pdmlUN1FTMEdGOXQwNWdFa0FWV0JJNzdhLWdnVGlqcF9kLUsyQ25XWTZ6dzhOejNadmNaUXE5dg?oc=5) - _NDTV Profit, 17 Nov 2026, 07:55 AM IST_
 
 </details>
 
@@ -181,7 +181,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,724.50 | +0.97% | ₹7,610.50 - ₹7,731.00 | 284,137 | 468,559 | 0.61x | 23.42% | ₹6,586.00 - ₹8,190.00 |
+| ₹7,813.00 | +2.82% | ₹7,610.50 - ₹7,848.00 | 555,600 | 533,605 | 1.04x | 25.20% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -196,7 +196,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Eicher Motors Share Price Live Updates: Eicher Motors Shows Positive Movement](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-live-updates-17-nov-2026/liveblog/135908095.cms) - _Economic Times, 17 Nov 2026, 08:15 AM IST_
+- [Eicher Motors: Nomura maintains 'Neutral', cuts target price to Rs 8,022 after 2Q margin miss](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZW9XTTRCS1BGamN6TzhzOWYyangtRGVNdERKQThkV3ljZzZNVDYzcThQTUswZ01yMENjOFV0ZXhVTWY1TzBxYVJSSWQ4WDBzRl9BUFQ4RC1YN0hFLWptR3BkWDZFSHdHcWFHdHotVkNfR0o2M2J0eUdpUGRoV2JYdHBJbXNMYWdmSUthODdsdDRIUEJ4bWlhWGRxbnhUcmVXcDZGcHFjeVgtdUtEOUE1T0ZHTkYyVVNsakZwTW9DdGJob1VlZmt5R25iRGthMHM3QWI0YlVvN1BTM1c1N2VLaWFWWjRfSTRyZjR4bnZB0gHuAUFVX3lxTE9lb1dNNEJLUEZqY3pPOHM5ZjJqeC1EZU10REpBOGRXeWNnNk1UNjNxOFBNSzBnTXIwQ2M4VXRleFVNZjVPMHFhUlJJZDhYMHNGX0FQVDhELVg3SEUtam1HcGRYNkVId0dxYUd0ei1WQ19HSjYzYnR5R2lQZGhXYlh0cEltc0xhZ2ZJS2E4N2x0NEhQQnhtaWFYZHFueFRyZVdwNkZwcWN5WC11S0Q5QTVPRkdORjJVU2xqRnBNb0N0YmhvVWVma3lHbmJEa2EwczdBYjRiVW83UFMzVzU3ZUtpYVZaNF9JNHJmNHhudkE?oc=5) - _Moneycontrol.com, 17 Nov 2026, 09:40 AM IST_
+- [Eicher Motors Share Price Live Updates: Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-live-updates-17-nov-2026/liveblog/135908095.cms) - _Economic Times, 17 Nov 2026, 08:15 AM IST_
+- [New Royal Enfield Interceptor 650 Coming In 2027, Here's What Could Change](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1RSRHNzT0dNRmtheHRaNkVha1NnNmllRExkXzlDVEtyVDY1SUFIV3d2UnM0THN4ZDIwak5hVDhKMHJqbVh5cDF5T1QxRW9SaXhWelFUTnp5R0piRnFCcGhhVUlaZUlyRjZPV1NtQURVbnp0ejRSQ1VCbHNrN01IZU5SSFY1dEVlVy04Nk53Y2FEeVdKb2xLaUNOOFU3amM3OV92WFZzeDZVSWtQbjQ1VmZoc0djUDNs0gHAAUFVX3lxTE1YcV9MNHhxM3RkVExtMXBIVHhzN2xVZzRoMDJoNVRiVzM1VFpjbVBOVXJocTR2V18zb2o3bEJtOGVNNmh4a0hXblJiRUhlRk5jQnB2SGkzcld5R3UxSHRTRDRMQjRnYkNfSl9mVTZ4X2hJWlBVX1psLTJOTm5VZ3A3X3g3WTI1bmFTX29nS0NvR05LTHo4aVFRRWoxWHo4Rmx0ZmNGOEpyYjZsLVo2azlIMlJoclhsMHQ3X21wX19VNQ?oc=5) - _NDTV Profit, 16 Nov 2026, 07:08 PM IST_
+- [Eicher Motors margins under pressure despite strong Royal Enfield demand](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmhKZzVyT29uMWtUV3NVTHVldHdzQjJxQTRtellxcmdVdnNPTlByejdnTktLVDc5dk5aSkNnVmxkZkdudTI1Y19EbnVQN0h3R0VEZ2VxWFJsSVh3VzBUX2daNWcwb3NwblFyWVJ6c1hwZzR3US1HbmJoblhDc1o0MFg5bVdLTE5hU051QmdXbmJzc25CZVA0UE01REV0c2xLdjZWcGRfaEJua3RMVDdXa1lhZTFtZ0RSSzVzSGFIS0x5S2RLZ0RSR3M3Z2xtbFMtZENyTzV30gHbAUFVX3lxTE9nal9vZ1UzNmR1ODJ3dEtvTEZlQVBZamJ5cTA3aFQ4bU82UFIwWVRMN2VpXzVSenJiV3gtbVJLZWxpVWt3NzIyaGVNeEhqN2tOWENING16Y0htVTItUkNfRERiYlh2bHA1TTdlY19VczQ4ZWtfUW51WjBiSjBFVmlMX1dXbldDRW1iN2Fsa2wtdnI1cnlRRHl4MF9ZQV9WYWFZcGFjLUhwNXhXYnJ1bklLaUQxd0NRQ0toa19xV0hIQTY3T01YOEwzOFpYY25wUllKeFZrUDJ1aEZVSQ?oc=5) - _Business Standard, 16 Nov 2026, 04:49 PM IST_
+- [Live: Market breadth negative; Tata Motors PV, Eicher Motors drop post Q2 | Closing Bell](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPelVNZVpHWHJ3RG5XbGhpMC1SYUNIUVRjcGFIbEpnam5kMjdZblJZelA3aW0wME1YT2RNMFpxa2JpZnY5cHgyel9HWW84dHFleHhLd0R4M0o5R1FueDduYnp4YkEyWjNvck5MWXMwbzNOX0xwSHp4bU5PMWt0eWE2ZXNia1JDOVVlaHNubEtZWGpscTgtclFXNmdHV0ZMWFZJbktGQW5mNm04REVsbXhkR293SXhlNU54R3QxNHVJUmFGWjQ5c0ZuektvV1VPeGZaY09OQzlxNVpZcmpUR2ZEUjZNX05QbHFQalE0NtIB8gFBVV95cUxOaXNhdFlfVnhFU2Q1RS1TY0FpZV8tcHRBZ25JOTIwcXE2emNXVEJzZTZ0aGtTZlVhQ3YzdmJiRjRwMEUwSDFpSDB2UE5oQ0xjZk4yaHVjaWFIVXFSVGFKWXp6NU4xOGVrZkhpRE9ZbDF4Tkh1Sk1ORUtfTDR0SHhjVURudFE4MVRfRHExVlI3V0FPYVZzWEU3dnJCYTF1QW9PUmZFUkpjQzZhdDNldmJpMThhcU9vbWRnQUdRdnhRa08wUTNTTG9CZnNUV0V6VDRaUWh2SkhnYUx1SnBCTExqdXYxRFhoOERhS3phTUpOdjJPdw?oc=5) - _Moneycontrol.com, 16 Nov 2026, 03:00 PM IST_
 
 </details>
 
@@ -210,7 +214,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,812.00 | -1.44% | ₹6,794.00 - ₹7,009.50 | 13,784 | 46,741 | 0.29x | 51.07% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,807.00 | -1.51% | ₹6,783.50 - ₹7,009.50 | 17,208 | 46,741 | 0.37x | 51.10% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -238,7 +242,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹87.68 | -1.55% | ₹86.70 - ₹90.48 | 5,430 | 62,077 | 0.09x | 107.05% | ₹76.41 - ₹125.23 |
+| ₹87.92 | +1.00% | ₹86.70 - ₹90.48 | 7,537 | 59,318 | 0.13x | 107.26% | ₹76.41 - ₹125.23 |
 
 **Research reports**
 
@@ -266,7 +270,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,939.90 | +0.02% | ₹1,906.00 - ₹1,972.00 | 1,422,135 | 3,681,631 | 0.39x | 61.39% | ₹601.35 - ₹1,945.00 |
+| ₹1,915.30 | -1.25% | ₹1,906.00 - ₹1,972.00 | 1,931,960 | 3,681,631 | 0.52x | 61.95% | ₹601.35 - ₹1,945.00 |
 
 **Research reports**
 
@@ -280,7 +284,7 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- No fresh headlines from trusted sources in the last few days.
+- [Ola Electric vs Ather Energy: Ather shines, Ola struggles in Q2; which EV stock offers better upside?](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQVgwb2RhM3F5ZTdFNWZIOEdXcGNSem9OczdEVXFPWmVsMUphTkI2eExnbHpPS1d1dWZLSjRYYjZyTHhnTXNsY2VOcldlbVNTdU0wVGpEdFJqRS11OWtQNGo3bzNwWTk5MHV4Xy0wMFlQWHFZVGk2dWJFWWtvbjRtYmhHQl94MkwwckZIaXZSMGRhRVdYNUFMenJWTkFTLXoyVVpaRjNvdUZudHJJaFRkaXJ3cTBGNmdsVUx1Z2ROOEVWcTEzdUNPNmF4eHdJTVMxYUhLeWV0elpuUHpDTnQyVEVMc3Noa3BiZmVMS3pnTjRIdGFmT0pNa3dfc9IBgAJBVV95cUxObkF2dlpDTWtQWEhHaXlDa0pSQUh1T3pUSEl0MDJjQVFWazFJdG5VM1RkbXVLNG94LUs4LUFzZDRVSl81T01qbk5SN2tRak1Gd0t5SWRmU2ZxUkctOW1XU0lpeUxvVDFaUDdVZWRucUVZd00xbnp4d3ZBclBsRVoxS1M1TFhLZkk2Vi1TeVpTb2dyU1VOc0JrSXdmV0xuLTdnUTNKN3BvNnpzVXF5R01FRlgxOXBBTGdhcHdnd1RESGM4ek9WVC00b1ozWVhJMjRiRS1ZbXBXbDQzeWdpbXotZHV1QWtqMFRyV3M3Q0JMVVhBbzRHVUpXZkF5ZE13UGlM?oc=5) - _Livemint, 16 Nov 2026, 03:18 PM IST_
 
 </details>
 
@@ -294,7 +298,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹159.00 | +3.94% | ₹153.21 - ₹159.30 | 12,636,449 | 10,501,603 | 1.2x | 40.82% | ₹126.32 - ₹177.20 |
+| ₹159.55 | +4.30% | ₹153.21 - ₹159.91 | 17,834,837 | 10,501,603 | 1.7x | 41.19% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -324,7 +328,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,399.80 | -0.16% | ₹1,396.60 - ₹1,408.30 | 2,107,079 | 25,226,815 | 0.08x | 10.60% | ₹1,395.90 - ₹1,437.40 |
+| ₹1,395.90 | -0.44% | ₹1,392.00 - ₹1,408.30 | 5,455,997 | 25,226,815 | 0.22x | 10.70% | ₹1,395.90 - ₹1,437.40 |
 
 **Research reports**
 
@@ -338,7 +342,11 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Jio Platforms, BLS Polymers, Shiprocket, more: 23 stocks to watch as anchor lock-in expires this week | List](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWmFMajAwMU1USWsxeDB5Vk41c3hUbExRVENJTFpBM1UwblZpWnhzQXE3YUFGNmdGbzhHeEFfUV9HNWlDWDVCWDhSZ2V0cEpvTC1mMjJxTVVaZXFkRWVQa0tCZVBEN1cwd1FKem43V1M3WjY5ajhLb0gxUzE1OFZ5aFVfVjZoZmVfd1Q0UENxNkdEWi1HSzh6WVMxcTZSRWxNNjhrSS1DX1BjRFltMDBvWUdlLTdQSDZNU2tOckQ5Ql83Q3NnNExwaWpFYlIwLWs4cTRDaUpQem1rMGczN1ZNMFliQmRnMFUxSkZ1endrQdIB9AFBVV95cUxNUjF5c0UzYTBVamQyZGF0TUk2bFBiV2RmQTh6Y1gwNWlzeVNHNC1FOTZfLXVZMTYwSmVkajdMY0pYdWpoaVpDYkVtQXJRY2s2N1N2TkZ4RkFlTVlmUWgxUWFvU05Mb0pFM0UzeVI0LWprZjkzRkZDOW9semU1RGxjMVhqQk81Uy00U3hnRVlYSXc0SU5ZUjRaRWpuelV1bFVjcGFZYzJhY0t0RlZVNFRvWTE2aTVuOHVka200eXcxbk93aWZwMUZNTGRYRUxrUVNnLVFnX1dQbEttQUhjNWRWa1locTdlRGQ2ckE1RWFMT1BRTlZi?oc=5) - _Livemint, 17 Nov 2026, 12:55 PM IST_
+- [Mutual funds deployed over Rs 15,000 crore across 10 IPOs in October, Jio Platforms leads in investment](https://news.google.com/rss/articles/CBMihAJBVV95cUxNVWxFVmxLckZ2MU8yeG91ZXluckJIMWNHOW9MZHJtZEF5aEpvMDdCZzVnQ09POVZTWG1RYl9UMXdTY1Q1aF94ZlpfbzVRZ3NyMFpkUWxZbWJGTld0cEtFRU9PQ3hGUmpIWXRtMzlMZ3JYdzY1TW03NGJPb29TUW5DSHlIam5faVByaWdMQlBSV0RVM0M3NTB2QXBXck84Y05JOUhlMTN5VW43bTloNXhIN1JZVHlsd20tUVFGQlQyenl2WXdRTG00cXRKM0NINUFkUm5hM2o1eXR0X292WkJHeTFUZmVra3E0SGpGbVpyYWpmMWo3TEZ2dlNucklxcm1pVGt1aw?oc=5) - _The Economic Times, 17 Nov 2026, 12:06 PM IST_
 - [Jio Financial Services Share Price Live Updates: Current Status of Jio Financial Services](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-17-nov-2026/liveblog/135908364.cms) - _Economic Times, 17 Nov 2026, 08:27 AM IST_
+- [23 companies to see IPO lock-in expiry by Nov-end; Jio Platforms in focus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXF4c3ppMEZXcjJweGg1MzlMZ1JsWHFqdmx5U3BHUjZESWZjRUZDb1FLNzlmaktta3BjZ1VXYi1BYXNIYVZxbXF5SVo2UENBSjVHU1l0RmNrRzg1YmxscmJYWS1lMUpXOGI5WGdUbkFYX1JkTFltbE5VU2RwYWpSWms5UzFFVlNLa2ZlSmFSY1hzVEJQR2duQlJCQVlhN3BpcmdYUzNldEJ1RGxuMmliemR4V3huTWtZVzlkYVdtNUV2aFAwSC1QRjE3clktRWt3dlhWVi1B0gHbAUFVX3lxTE9iLXVxYWMzSEp5WjExaGlwc2RLQ2x1SHJNc2UtVS01OFoxcWJHTFlJcC1HN1ljWEVWbVRfNUZFd01pQnVzSWljTVJ3WTkzQmNXOXhtUU9mbENjbWFScWZhVWZuVTZjUGJQbE9JakpyZURXVTd2LU1GcEJpbGJPNVlIWVdGRi0yMGkzZ2hIZkh2ajc3WVdueFU1eEhXcTVwZHZsWFNDeE5SWHNvSHpxNnV2VlY2NEZoQXdFWnpCU25hMXViSTlNSGRWbUJJZEFmTXpIaXJ1SVg3NWdkUQ?oc=5) - _Business Standard, 16 Nov 2026, 11:49 AM IST_
+- [Video | Mutual Funds' October Stock Picks: Jio Platforms, Airtel Among Top Buys; HDFC Bank Sold](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOE1FN3VaWlZzSkxQU05oTkMyVU5uQmlIbnluVXFjQnduYTJJWWlwVGZKcHBISjBHV01mbnRnTXNkZDVNVkM1T1Mwb0Q0emhNWVlMVmpkTXRzcnhXSmtUb3RidTdJNk5ycW9iajhIV18tRm9YWVNWRG1yR1NaQ2EzWUlmcGpSTWZ6UkpnR0tlbFJkOGxGUk1LanBadXcza1RmT0FrOTJMOG9JOFl6WGJoWlBQUDFtX2xrVkVDaGdGaw?oc=5) - _NDTV Profit, 16 Nov 2026, 11:28 AM IST_
 
 </details>
 
