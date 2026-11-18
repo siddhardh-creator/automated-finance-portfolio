@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 18 Nov 2026, 06:12 PM IST  |  **Market data as of:** 2026-11-18  |  **Start date:** 2026-10-16
+**Last updated:** 18 Nov 2026, 11:57 PM IST  |  **Market data as of:** 2026-11-18  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -58,7 +58,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 18 Nov 2026, 06:12 PM IST)
+## Performance (as on 18 Nov 2026, 11:57 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -133,7 +133,8 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Price and EMA3 Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-18-nov-2026/liveblog/135947001.cms) - _Economic Times, 18 Nov 2026, 08:40 AM IST_
+- [Hyundai Venue vs Maruti Brezza: Which 1.0-litre turbo-petrol SUV is faster from 0-100 kmph? Test reveals winner](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc0NNQmhSV1BobmVNaEppcmktVzg1Z1gzUHoxZmJCQnlEWWtJOFpqWXUxcl91dzh0LWROV0c5OUhvWVNGSENudFBnQnBHNE5JbFdUMEEyN2tDLXlSVnJOTFZ4VS1zWTdJSzBZU2t4RTVjSDJDRDBoTDFheTJPMHM5NVo0Zkt2dUIyRXZwa2xsSGNZOEJESnBNSjVneE1oS2ZwY0gzLTN5d0trZHU3Z0pXOWpsM0RJbEV4RktRVTZVS2NzVkdqMDhXLVE1dG5TZF9sV3ZOVkZsS0dVUHB4cW9XV2ZIMFpaeE9yRndkc1dMbVY0S0FGclo00gH8AUFVX3lxTE1SazM2dWdhcEVCTng0SDRraGJHOXh1NTVOVG9scW1fcWN1UG5uUWJqOXA3NGpQZ010WHVwRVFaTk14Z2tIV0doRGZzR3Q5ZzdJak9lcnZWeWxxR1ZMcTBYNGJ5RFllMm1La1BuLVJULTRZLUt3cTN6bFVCNmltVGJuMXpORnljQm56VDVIczFJaXAxN2llRjlBMTVNVmJuSXVmSTdWUVhudldVMzk5MlZlWXgwY2ZrRHhsVVplUG9yQ045MkI4YmJqRDhQUS1uY0Q2Vm9mV294Rl9mYjltYzFBS0VQNDZGeHE3TXB5aXNKVm85dnJrNnpQQThKQw?oc=5) - _Livemint, 18 Nov 2026, 09:23 PM IST_
+- [Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-18-nov-2026/liveblog/135947001.cms) - _Economic Times, 18 Nov 2026, 08:40 AM IST_
 - [Maruti 800, once every middle-class family's dream car, becomes first Indian vehicle to win FIVA heritage](https://news.google.com/rss/articles/CBMilAJBVV95cUxOU0tmYVp4Rk1NOW91RF90QlZSbVdWaVlFVEhBejJ0TGpaa1BjSUF1eW1NQ2habVRfa3hNWUdMOEo1bkRsanhoYmM0eFNhU1NyeFk2Z19IOXFxS1dyMk01Tzh0SW42SS1XN3hETmRHN3RNNkNDZkZTYjlja2IteUYzTi14WVBZTHVCZFlHVHU0NkFUd1VkMk5KOUNXZzBNRmtKaDZoVlVmWnNWeUJvWmNVUXBTQ2hvT28zb1otejFkdGNtTjExLVdGb2Mzak04NTNjSmNaanY4bkZjaFR2Y3VDQWFEQ2R2clNqM1F0dWRxQWo4MFRFcm82WEF3aFdTZHp1OUpGU3hXY2ctODJxUk1qbDRQbGHSAZoCQVVfeXFMTkZzSXRQNUhPdUR3Y3M0S0FXczdONzU3ZVlTYjRGWXFlbmdWMVhLaV9iMnJud1dwclRhWHhtZkg2NHBDMnVuTFNqOWhJSHpMS3hmUm16cEVhQ0ZpaFBVd2t3NUpoX1JiNUVuWEUxLThmNlZkOF9ueHVDSG5oT2RzS2lGeEcwbzlXb0pQWTRLQk83aTU0WXQyaWFWOHdDWFRUdDVWQlk2c3Z6a1h3LVJMVFZoNmN3NWRoNmJiZHVrbGFZaDlOUHZxSzc2Rm1yN2pGdE5yOHA1X1cyZFN1WHVQTXJSbVA2V2VRTTREaEpVMzN2NVpVUlVJRk0yZFF6OVJPUVNLenk5dkFDRnZDSGFKODRleGtwU0cyalZB?oc=5) - _The Economic Times, 16 Nov 2026, 07:18 PM IST_
 
 </details>
@@ -196,8 +197,8 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [NEUTRAL | Autos | Eicher Motors - UltraTech, ABB India, Grasim, Amber, Eicher, OIL, Vi & Tata Motors PV: Which stocks to Buy, Hold or Sell After Q2 FY27 results](https://news.google.com/rss/articles/CBMiwAJBVV95cUxOMVlGNkRocGtLaHk3ai1WQkRFa0t3VDNRZnFQelc5a1haNVlvcEdic0hXZVBRcHUwMTFiM0tkSnVGRG1xd3BnUV9lSkN4d1doVHRyZUxuSzFzQlVGZkNFcm5RdVFMdmxBSzh6Q2R2LWNLQVB0TnZPRk9fRldpWHdKeElWMVdmSGN2UzFUNnVwbjV1VVZMWTRPNnI2S3A5Wm9UQ04yYkNqY21GWmJxRUFPaHEyNDhrMkhNdUZJZTBaNS1QUEdOYW1mNTJoa2FVaEhxOW1JT2Q2eWl1MVhQLTF2aVBESGVYc2Q3OTJ6bERwYzE5OHlOUlpZNGxaaDJPYjhMVTVBQVgxNHpBZ2pMN3cwT1IzRjRuYXRGZXEtM0hPWFExMXJ1RUYybWNJUHFydTdGdDlCaHlVRWl0MXI4Umk1WQ?oc=5) - _The Economic Times, 18 Nov 2026, 10:17 AM IST_
-- [Eicher Motors Share Price Live Updates: Eicher Motors sees a price adjustment](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-updates-18-nov-2026/liveblog/135948917.cms) - _Economic Times, 18 Nov 2026, 09:56 AM IST_
+- [NEUTRAL | Autos | Eicher Motors - UltraTech, ABB India, Grasim, Amber, Eicher, OIL, Vi & Tata Motors PV: Which stocks to Buy, Hold or Sell After Q2 FY27 results](https://news.google.com/rss/articles/CBMitAJBVV95cUxPVmhoTzJ4RUhFOERTVXdrNUtnWERnekFjRUs0VVZuc0JPY0lEYVdRWGhEZkVQeHRqX0ZvNXZDdDBDM1dGYnctYkQxZmpFSDhOSlBheFIxNlpsRExHN0RPbG1mWWMxZkk2U1F5TmthYzVGdkFfUDdCaXVUMWlpa1VTalBiMXpIMmg5dXVMTDNfQ0lxbkYtY1MtNlNHMzdFVW1veXQwNmRRZk1PVkplVjRGYnNBbTF3a0o4Y0Z2alVMVm8tbjdvaGhYbDFMenlGZlJqMkpmemRGSFljVUc2YUFyUkxtM1pxODlvRi1saVZHTEtFU1VTbmliMWdkQUJ2QUx6eTh5SUJONUZxTXVGelVtZnFqaU5lTjNFTHNyNjN3NGhJb2I1aE81a240MjdSTzA2V3FFRA?oc=5) - _The Economic Times, 18 Nov 2026, 10:45 AM IST_
+- [Eicher Motors Share Price Highlights: Eicher Motors Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-updates-18-nov-2026/liveblog/135948917.cms) - _Economic Times, 18 Nov 2026, 09:56 AM IST_
 - [Market wrap: Adani Ent, Eicher Motors, HCL Tech, Power Grid top gainers and losers on Nifty and Sensex on](https://news.google.com/rss/articles/CBMikAJBVV95cUxQLXpVSVRiR3JVSENDWEUxOXJNNkRXVVhMbWhaWFNWQzI5bDlBWnNJQl9OWVY0VXdHVHN4bWJWNU1DM1hjbnBGVFJHa1p0azZUX3lIbGZFZmVnbUVpVkpodDFteVQxVDlHQmd1OHBHVGhVYnh3dFNFdVVDcXBaZWE4SEZKVFFjcjJZUVhscldxOU5FQlBrUzVKUUEyV09HRTN3S242bmZQWkFGVS1pMVhPZzRaWlRJZlN4OW92YzlhWFlyRUcwYnBRZlpJV0NwbFdxTHpFNExieTRrOFRudWpMXzJpUGJfVlhjWkFkWGd2ajVhVXVnWUVxTi1zOTZtOVUyRU9lVnFEWmNiUmFWZmVXRtIBlgJBVV95cUxOYUlHaWZTVVNDRmJ3VEVLNlhhUUdTS3NwZC1SQmZ2NGhUZ1h6X1l3RUM5Z1JIcXZiOWVvQ01tWGx4OVFxamZ0SENIRENqbVlMUTZiN2FKWG5sWFo5Y09SeVJ2OWZJUTNmMldvZWpHZHFzeEh5ZXIxanJBa3VIcnJ3cXpxVmRBX3BjWnJjM3NaVHdLNm5DWmUxdjlLM21nNk1BQW9VekRQUXE3Wm1OTGlhNGMyaUJpME5xVGZhdnNxZUV6b241aHd5Sll1bGdtWVNENFNBdFlOVnpCeUlnRjNqS2tnSmxtUGJrODFMMjBnTlplYk83OUtRZkxSQ2FHT0p4VUR6V0VRZW43RnRmRW5RS2FVMzRnUQ?oc=5) - _The Economic Times, 17 Nov 2026, 05:56 PM IST_
 - [Eicher Motors jumps 3%, stock top gainer in Nifty Auto; brokerages upbeat](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZno3empRUVBld01TRW1NbTN0STNpaTgycDB4aDlQYUd3RDFxTnFvSFF1ZGlPZk5NYmNUNm90clhoUll4WDJfYkp0OUl1R0pfTmJZay03NkFKREZWa2xSMzZiYUNPTTFPRlhkazMtbmhPeHJvTE5tNmZNNElYR3dMYzh3d2VuYzYtNjg3X2dRTzRzWTJUdFVBczZ2VDhleWhtN3NrRDdWTHg2YUVyRmUwNU90T2VrNmN6Mks4R1FxUXp5RkFUaFdGRlc3c1c5SUpXRS1F0gHYAUFVX3lxTE1FMW5NUHlMM0JpSURXMUQ0S3ZubVF2VldtbkhYcmJSZ0hXamlJUGZ5RXZkZ19fNnV2WDY3Y1RKcFVLY1hMM1ZKS2JKZTJGMHJyb290N2tGcjZ1NzJwdG5HNmwyZHlqVnBrUkFWVEVCVkc1YzI1WldsNHBRWjhVY0RtUTRhRlNza2VUSmVSM29HVmhPRUdIeVJSNEx5ZnVWQVBEcXNzdFhXbHBxay01QjBaSDRjb24yZmRJNnlwWVZhOUhtMDdneXBJS0ZxUlFIaDRuVkhNbDg0bw?oc=5) - _Business Standard, 17 Nov 2026, 03:03 PM IST_
 - [Eicher Motors: Nomura maintains 'Neutral', cuts target price to Rs 8,022 after 2Q margin miss](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONDREaXZTSmQtVWZzaFdtZ2xaQ2JYeDFpQkR0MGVnN3pDMkVReEtqVzlJTHdYdzdLN2xIblBjRFFfUkIxMkdBLXlBVlhGMUd1cTRSMmpXZEpzYjdFbVlIR1lXVkdrRkVXVE9YQUVhQlAzeVg2dWhUc0ZxaUNXbXU0QkVBY3RjUDN5ay1ZM0txMlBObndkbWpqR0xCSE9CT1IyMXpBUlUya2FVU1RrbkRvYUVCSzBlX0lObnNFelNhUWJLMi05MzlmSWZwVUNqaXRkQklBUUlCUGJZZE9jQmhxNDlwYWdZTm9X0gHuAUFVX3lxTE9lb1dNNEJLUEZqY3pPOHM5ZjJqeC1EZU10REpBOGRXeWNnNk1UNjNxOFBNSzBnTXIwQ2M4VXRleFVNZjVPMHFhUlJJZDhYMHNGX0FQVDhELVg3SEUtam1HcGRYNkVId0dxYUd0ei1WQ19HSjYzYnR5R2lQZGhXYlh0cEltc0xhZ2ZJS2E4N2x0NEhQQnhtaWFYZHFueFRyZVdwNkZwcWN5WC11S0Q5QTVPRkdORjJVU2xqRnBNb0N0YmhvVWVma3lHbmJEa2EwczdBYjRiVW83UFMzVzU3ZUtpYVZaNF9JNHJmNHhudkE?oc=5) - _Moneycontrol.com, 17 Nov 2026, 09:40 AM IST_
