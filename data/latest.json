@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "18 Nov 2026, 03:32 PM IST",
+  "generated_at_ist": "18 Nov 2026, 05:26 PM IST",
   "as_of": "2026-11-18",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -43,9 +43,9 @@
         "high": 12828.0,
         "low": 12584.0,
         "intraday_range_pct": 1.93,
-        "volume": 594887,
+        "volume": 576766,
         "avg_volume_20d": 568160,
-        "volume_vs_avg": 1.05,
+        "volume_vs_avg": 1.02,
         "volatility_20d_annualised_pct": 28.9,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
@@ -83,9 +83,9 @@
         "high": 162.45,
         "low": 156.16,
         "intraday_range_pct": 3.92,
-        "volume": 32934021,
+        "volume": 32304354,
         "avg_volume_20d": 21840687,
-        "volume_vs_avg": 1.51,
+        "volume_vs_avg": 1.48,
         "volatility_20d_annualised_pct": 46.31,
         "high_52w": 211.92,
         "low_52w": 138.58,
@@ -112,7 +112,7 @@
           "title": "Ashok Leyland flags loan discrepancies at HLF, orders independent review",
           "source": "Business Standard",
           "published": "17 Nov 2026, 07:43 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmJjNV9XSjhrVWdLMjByVXNER3pKQmhxNkMzQ1RYREhtMTNFYmlHQnpBM2I2bkhuTU9SRHJ3V19WOUkxUndLdjVTR2FtQ1FJZmtqelRGVTNrWm9zUVYtd3RDcXVla2JzMEwxZzJHX0loVnFCaHlCZXVZZG85Vmx5ZkVMekxWX3pNQ3ZYV3lwTHRSaFFVSVRxZDVfSUFIRHZmcGZRQktualgweG5JVHhHeHFBSjFVc3lTWUhQOTl1QWxEa2pCM2Y5aEtCQkJvcDE4X21Za1lhd9IB3AFBVV95cUxOaHpaSWRibmhwd1JLVGFPTGlETUFISnJkZ2tSVVBtWjNMV2dyeWd4OTVvbWwwRkJFOFF0RFJkYmZHcldqUE5lemVkdUw4Zy1wVVQ4M1c0RzZqZVBrNFA4LUJqZS10VXdHZVhyMlgwS3dpd3FpWld3dF82WXRvamtMRXlSYmtlVF9LbmtuTjcycDVIUHZQdzhLamFDRUZKQ3VfdzRYM0drS3BSc3l0cElHVng3Wm1SMExRUFB3TkRlc0pjNkVwUFljeFlnSUJ4M0t2M2h1Q2czb01icWFX?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHpaSWRibmhwd1JLVGFPTGlETUFISnJkZ2tSVVBtWjNMV2dyeWd4OTVvbWwwRkJFOFF0RFJkYmZHcldqUE5lemVkdUw4Zy1wVVQ4M1c0RzZqZVBrNFA4LUJqZS10VXdHZVhyMlgwS3dpd3FpWld3dF82WXRvamtMRXlSYmtlVF9LbmtuTjcycDVIUHZQdzhLamFDRUZKQ3VfdzRYM0drS3BSc3l0cElHVng3Wm1SMExRUFB3TkRlc0pjNkVwUFljeFlnSUJ4M0t2M2h1Q2czb01icWFX0gHcAUFVX3lxTE5oelpJZGJuaHB3UktUYU9MaURNQUhKcmRna1JVUG1aM0xXZ3J5Z3g5NW9tbDBGQkU4UXREUmRiZkdyV2pQTmV6ZWR1TDhnLXBVVDgzVzRHNmplUGs0UDgtQmplLXRVd0dlWHIyWDBLd2l3cWlaV3d0XzZZdG9qa0xFeVJia2VUX0tua25ONzJwNUhQdlB3OEtqYUNFRkpDdV93NFgzR2tLcFJzeXRwSUdWeDdabVIwTFFQUHdORGVzSmM2RXBQWWN4WWdJQngzS3YzaHVDZzNvTWJxYVc?oc=5"
         },
         {
           "title": "Ashok Leyland says manufacturing utilisation reaches 90%, greenfield capacity under consideration",
@@ -147,9 +147,9 @@
         "high": 7795.5,
         "low": 7670.0,
         "intraday_range_pct": 1.6,
-        "volume": 548122,
+        "volume": 523557,
         "avg_volume_20d": 552298,
-        "volume_vs_avg": 0.99,
+        "volume_vs_avg": 0.95,
         "volatility_20d_annualised_pct": 26.34,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
@@ -211,7 +211,7 @@
         "high": 6918.5,
         "low": 6759.5,
         "intraday_range_pct": 2.31,
-        "volume": 17431,
+        "volume": 17430,
         "avg_volume_20d": 46550,
         "volume_vs_avg": 0.37,
         "volatility_20d_annualised_pct": 49.08,
@@ -223,7 +223,20 @@
         "pnl_inr": 452000.0,
         "pnl_pct": 15.17
       },
-      "news": [],
+      "news": [
+        {
+          "title": "Linde India Investor Analysis | StockIQ",
+          "source": "The Economic Times",
+          "published": "18 Nov 2026, 02:51 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE9OU3JlUkpUMGRUZ2NRSEdMWUtRTzhzZWNDYmFxRHQ1TjM5RnhVU3M4b3RZUWdNQl94N0cwUkliamRheG8tWWhrWVNORWNCS3BGZEZ0emVXTi1FNkVJUGZ5elFsR2dYRC11OFlUREJ6NXN4NGdoMmdGYzBjbUZtbVl6QXBOU2NXMFFZ?oc=5"
+        },
+        {
+          "title": "Linde India to gain 133 tpd ASU through $13m Airtech acquisition",
+          "source": "gasworld",
+          "published": "17 Nov 2026, 05:56 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb3JSQ2ZjYlBMR09wWXdLTk1MLW1fYXdYVmpHb1lSQmp1endFRmQxZDNVNm1kOVZDRWh0TkxxWVc1Q05jVXhBRm1EMW5JaXFGZ3RUbHgya0l5R0F4M0gwRVZtekNFLWgxbTB5QXFTQThOQmNhVnNUdFk3U2NuSXpxTDdMdE1DSU5wNFVXM1Fnc2pBaFVqRGNhal90WUY2QW9GZEZKSkpUS0t5RFFWdFQ5WA?oc=5"
+        }
+      ],
       "announcements": [],
       "weight_pct": 13.39
     },
@@ -244,7 +257,7 @@
         "high": 88.19,
         "low": 84.1,
         "intraday_range_pct": 4.66,
-        "volume": 8941,
+        "volume": 8939,
         "avg_volume_20d": 59080,
         "volume_vs_avg": 0.15,
         "volatility_20d_annualised_pct": 106.21,
@@ -277,9 +290,9 @@
         "high": 1955.4,
         "low": 1901.1,
         "intraday_range_pct": 2.85,
-        "volume": 1399315,
+        "volume": 1377197,
         "avg_volume_20d": 3726653,
-        "volume_vs_avg": 0.38,
+        "volume_vs_avg": 0.37,
         "volatility_20d_annualised_pct": 62.01,
         "high_52w": 1945.0,
         "low_52w": 601.35,
@@ -317,9 +330,9 @@
         "high": 158.92,
         "low": 156.85,
         "intraday_range_pct": 1.3,
-        "volume": 12702244,
+        "volume": 12522559,
         "avg_volume_20d": 11363532,
-        "volume_vs_avg": 1.12,
+        "volume_vs_avg": 1.1,
         "volatility_20d_annualised_pct": 40.45,
         "high_52w": 177.2,
         "low_52w": 126.32,
@@ -329,7 +342,14 @@
         "pnl_inr": 26670.0,
         "pnl_pct": 20.31
       },
-      "news": [],
+      "news": [
+        {
+          "title": "Bank of India waives 100% processing charges on home, four-wheeler loans till March 2027",
+          "source": "Moneycontrol.com",
+          "published": "16 Nov 2026, 12:07 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMXhPOERVMmF5NGc2UzhhWmdRelB1NFR2TlJSYTl6ZUVScjVaR2V2aG1KZktPUWUtTHhnaTI1dVpCUmJWQ1hlZTVXLVQtYmJPMl9vZzZuc0VuTzBrSk5CcFJDNGpnMTN5eTNwTklwQ2hMbDFvVm5RazBhUTNwemdFQWVUaWhKd3RlQWpqTjVCWlYxaW9FRWl0SFJXQjBINXRrRGlCdW1MWjRsUVE4Zy14QkxSakpYMS1wb1dTYW5fMzJzbkFGZVV0OUEtOEdXMEd6TDhBU2V4cGpxMTlIa1NwM2xfOEl6VnhSamVUSmZySHdRSWFSX3FB0gH3AUFVX3lxTE0xeE84RFUyYXk0ZzZTOGFaZ1F6UHU0VHZOUlJhOXplRVJyNVpHZXZobUpmS09RZS1MeGdpMjV1WkJSYlZDWGVlNVctVC1iYk8yX29nNm5zRW5PMGtKTkJwUkM0amcxM3l5M3BOSXBDaExsMW9WblFrMGFRM3B6Z0VBZVRpaEp3dGVBampONUJaVjFpb0VFaXRIUldCMEg1dGtEaUJ1bUxaNGxRUThnLXhCTFJqSlgxLXBvV1Nhbl8zMnNuQUZlVXQ5QS04R1cwR3pMOEFTZXhwanExOUhrU3AzbF84SXpWeFJqZVRKZnJId1FJYVJfcUE?oc=5"
+        }
+      ],
       "announcements": [],
       "weight_pct": 0.62
     },
@@ -350,7 +370,7 @@
         "high": 1413.5,
         "low": 1381.3,
         "intraday_range_pct": 2.31,
-        "volume": 6615842,
+        "volume": 6615829,
         "avg_volume_20d": 23920442,
         "volume_vs_avg": 0.28,
         "volatility_20d_annualised_pct": 10.43,
@@ -365,9 +385,33 @@
       "news": [
         {
           "title": "Jio Platforms shares gain over 26% from IPO price: Should investors hold, buy more or book profits? What experts say",
-          "source": "Mint",
+          "source": "Livemint",
           "published": "18 Nov 2026, 01:50 PM IST",
-          "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-shares-gain-over-26-from-ipo-price-should-investors-hold-buy-more-or-book-profits-what-experts-say-11794985144658.html"
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPcFNlcW5JLXBzZ3Z2Ump2YVA3X1dKT1ZsWHlrNXMtc1d0UThzQnlGUEI4ZDZhWHhKUE90TWQ1SjdEVmJXMnRCdi1IZkkzckxOM3pkMU80YkllNmxGSW5DWEZKN3hHNE5mRkNXRXJYU195RnBHQU9xX1dhQ1NSS2xNVU56Z0ljczlBQlpwUnU5a1E2VnJMV1ZVc2wySlREVjc0R1Rmd2MtUVF6VEpheUEzc2hTUGVfTWNOTG9feDZnRGdPVTVVOXREaEV5bEJRdUU5OGpwMXZFdU1xTlZIOHcxVW5XVEJBOHZ1VWgtakhwb2lnb1Jla1lBZ290d3FZM1A4R2RjWUhtSVlxN3FlMFJN0gGUAkFVX3lxTFBMMURoQ3pMeUpoNVJ2VUw0ekhEWm82WkdPREo4OVY0WVdsTnVVTmZfckQwWkJ6QVJEZS01Tm9DcWZHUVhqRDl2eE5xU3FyY1JmRVR2NDFIbnpqYnVQWnk4TC1IQ01wbzlrOHJCSzByTXg4cnUzaGFjakNEZjlrNEk5Wk5ZNzJTMjVhcmFySVJxSWlQb0x0aTNKNk8xY3g5Z0tmQW9XZUtsXzBfWUVzSWFmM3VpYmlMZnlBMVhBdDlZczBwUGRXaWRaU0F1WGZlM0F5NTl4OFVBOEt2Z3NpVnhLVnp3TVVTMGpQUVRqQU5EVjdtNEFMbkh3WFQtLWJ1ZlctbTJOcG5ISXdRWjBpa2pJb2ZYWA?oc=5"
+        },
+        {
+          "title": "Jio Platforms Investor Analysis | StockIQ",
+          "source": "The Economic Times",
+          "published": "17 Nov 2026, 08:35 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObFFWZDBYazlPX1pvOFJ5QnFzZ2FidE5hYVNWQ21hd1Vxb19IZUZlTmVEVUZRM3lvNV9hSVo4X1BHLTFqRjJTZkZONzl5SGlmUEZ0MmloaXVJNVNHM2lUTEZRaHBUdDd3dldHRzJiSW51MGlpRmlmZ0JyS1I5d1FaRWpxOV9RMDgtYXpRYlI5RWY?oc=5"
+        },
+        {
+          "title": "Jio Platforms, BLS Polymers, Shiprocket, more: 23 stocks to watch as anchor lock-in expires this week | List",
+          "source": "Livemint",
+          "published": "17 Nov 2026, 12:55 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWmFMajAwMU1USWsxeDB5Vk41c3hUbExRVENJTFpBM1UwblZpWnhzQXE3YUFGNmdGbzhHeEFfUV9HNWlDWDVCWDhSZ2V0cEpvTC1mMjJxTVVaZXFkRWVQa0tCZVBEN1cwd1FKem43V1M3WjY5ajhLb0gxUzE1OFZ5aFVfVjZoZmVfd1Q0UENxNkdEWi1HSzh6WVMxcTZSRWxNNjhrSS1DX1BjRFltMDBvWUdlLTdQSDZNU2tOckQ5Ql83Q3NnNExwaWpFYlIwLWs4cTRDaUpQem1rMGczN1ZNMFliQmRnMFUxSkZ1endrQdIB9AFBVV95cUxNUjF5c0UzYTBVamQyZGF0TUk2bFBiV2RmQTh6Y1gwNWlzeVNHNC1FOTZfLXVZMTYwSmVkajdMY0pYdWpoaVpDYkVtQXJRY2s2N1N2TkZ4RkFlTVlmUWgxUWFvU05Mb0pFM0UzeVI0LWprZjkzRkZDOW9semU1RGxjMVhqQk81Uy00U3hnRVlYSXc0SU5ZUjRaRWpuelV1bFVjcGFZYzJhY0t0RlZVNFRvWTE2aTVuOHVka200eXcxbk93aWZwMUZNTGRYRUxrUVNnLVFnX1dQbEttQUhjNWRWa1locTdlRGQ2ckE1RWFMT1BRTlZi?oc=5"
+        },
+        {
+          "title": "Mutual funds deployed over Rs 15,000 crore across 10 IPOs in October, Jio Platforms leads in investment",
+          "source": "The Economic Times",
+          "published": "17 Nov 2026, 12:06 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVWxFVmxLckZ2MU8yeG91ZXluckJIMWNHOW9MZHJtZEF5aEpvMDdCZzVnQ09POVZTWG1RYl9UMXdTY1Q1aF94ZlpfbzVRZ3NyMFpkUWxZbWJGTld0cEtFRU9PQ3hGUmpIWXRtMzlMZ3JYdzY1TW03NGJPb29TUW5DSHlIam5faVByaWdMQlBSV0RVM0M3NTB2QXBXck84Y05JOUhlMTN5VW43bTloNXhIN1JZVHlsd20tUVFGQlQyenl2WXdRTG00cXRKM0NINUFkUm5hM2o1eXR0X292WkJHeTFUZmVra3E0SGpGbVpyYWpmMWo3TEZ2dlNucklxcm1pVGt1aw?oc=5"
+        },
+        {
+          "title": "23 companies to see IPO lock-in expiry by Nov-end; Jio Platforms in focus",
+          "source": "Business Standard",
+          "published": "16 Nov 2026, 11:49 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXF4c3ppMEZXcjJweGg1MzlMZ1JsWHFqdmx5U3BHUjZESWZjRUZDb1FLNzlmaktta3BjZ1VXYi1BYXNIYVZxbXF5SVo2UENBSjVHU1l0RmNrRzg1YmxscmJYWS1lMUpXOGI5WGdUbkFYX1JkTFltbE5VU2RwYWpSWms5UzFFVlNLa2ZlSmFSY1hzVEJQR2duQlJCQVlhN3BpcmdYUzNldEJ1RGxuMmliemR4V3huTWtZVzlkYVdtNUV2aFAwSC1QRjE3clktRWt3dlhWVi1B0gHbAUFVX3lxTE9iLXVxYWMzSEp5WjExaGlwc2RLQ2x1SHJNc2UtVS01OFoxcWJHTFlJcC1HN1ljWEVWbVRfNUZFd01pQnVzSWljTVJ3WTkzQmNXOXhtUU9mbENjbWFScWZhVWZuVTZjUGJQbE9JakpyZURXVTd2LU1GcEJpbGJPNVlIWVdGRi0yMGkzZ2hIZkh2ajc3WVdueFU1eEhXcTVwZHZsWFNDeE5SWHNvSHpxNnV2VlY2NEZoQXdFWnpCU25hMXViSTlNSGRWbUJJZEFmTXpIaXJ1SVg3NWdkUQ?oc=5"
         }
       ],
       "announcements": [],
