@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 19 Nov 2026, 05:26 PM IST  |  **Market data as of:** 2026-11-19  |  **Start date:** 2026-10-16
+**Last updated:** 19 Nov 2026, 06:02 PM IST  |  **Market data as of:** 2026-11-19  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -30,14 +32,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹13,589.00 | ₹13,589.00 | ₹12,632.00 | +7.58% | ₹39,40,810 | 15.0% | ₹6,09,000 | +18.28% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹166.15 | ₹166.15 | ₹162.45 | +2.28% | ₹1,66,150 | 0.6% | ₹18,430 | +12.48% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,058.50 | ₹8,058.50 | ₹7,700.00 | +4.66% | ₹80,58,500 | 30.7% | ₹7,92,500 | +10.91% |
-| Linde India | 500 | ₹5,961.00 | ₹6,742.00 | ₹6,742.00 | ₹6,865.00 | -1.79% | ₹33,71,000 | 12.8% | ₹3,90,500 | +13.10% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹86.41 | ₹86.41 | ₹86.72 | -0.36% | ₹86,410 | 0.3% | ₹1,410 | +1.66% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,924.90 | ₹1,924.90 | ₹1,901.10 | +1.25% | ₹19,24,900 | 7.3% | ₹2,47,700 | +14.77% |
-| Bank of India | 1,000 | ₹131.33 | ₹161.90 | ₹161.90 | ₹158.00 | +2.47% | ₹1,61,900 | 0.6% | ₹30,570 | +23.28% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,396.00 | ₹1,396.00 | ₹1,388.50 | +0.54% | ₹13,96,000 | 5.3% | -₹43,200 | -3.00% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹13,589.00 | - | ₹12,632.00 | +7.58% | ₹39,40,810 | 15.0% | ₹6,09,000 | +18.28% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹166.15 | - | ₹162.45 | +2.28% | ₹1,66,150 | 0.6% | ₹18,430 | +12.48% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,058.50 | - | ₹7,700.00 | +4.66% | ₹80,58,500 | 30.7% | ₹7,92,500 | +10.91% |
+| Linde India | 500 | ₹5,961.00 | ₹6,742.00 | - | ₹6,865.00 | -1.79% | ₹33,71,000 | 12.8% | ₹3,90,500 | +13.10% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹86.41 | - | ₹86.72 | -0.36% | ₹86,410 | 0.3% | ₹1,410 | +1.66% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,924.90 | - | ₹1,901.10 | +1.25% | ₹19,24,900 | 7.3% | ₹2,47,700 | +14.77% |
+| Bank of India | 1,000 | ₹131.33 | ₹161.90 | - | ₹158.00 | +2.47% | ₹1,61,900 | 0.6% | ₹30,570 | +23.28% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,396.00 | - | ₹1,388.50 | +0.54% | ₹13,96,000 | 5.3% | -₹43,200 | -3.00% |
 
 **Best since buy:** Bank of India (+23.28%)  ·  **Worst since buy:** Jio Platforms (-3.00%)  ·  **Biggest mover today:** Maruti Suzuki (+7.58%)
 
@@ -56,7 +58,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 19 Nov 2026, 05:26 PM IST)
+## Performance (as on 19 Nov 2026, 06:02 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -167,8 +169,8 @@ _▲ buy · ▼ sell_
 - [Dividend record date, Nov 19: Last day to buy today to qualify- Oil India, Ashok Leyland, more - Who pays the highest?](https://news.google.com/rss/articles/CBMijAJBVV95cUxPS2xfRTN2YlltSjVXR1U1U21zWXdLWlF5eTBkblJJM3dJZVVsMGZKanNYcDJUYlNRYjYxNE9hRmlQR2V5OXpLQTBvZGw4bUxITmUtTm1RaXVYQzNJZHhaSE5iS3Z2SmR4dUUtaG0zX2FBMWI2VE9ub2N1eC16elpZZi1tcHBrQ296TVdFMVNVaThqbmNaNHJRbVlqTnJpd2NmcUJ3Y1gyQVp5Mm8yZ3owSVBCdWNLRlNkVlNoZjQyWk1URFZSMnpxcFZ3eHFLWDA0dlFmaGpjTTJ4cE11LU5lSGk0Y29wR0RCX0NwNVpYZEt3bWRnd01yNmVQdG5nUGRqeVlGUXRIZUNpZzh30gGSAkFVX3lxTE5vM2RNcU4yN1Btamwyc0MtVVF4QU1BOVczY19pcGd3eDlzX01McG15dnprVldvMTBHZkp1a2xielRMend5X0hveXJLSWlTZXExVmhraWNXRFNnY0VmT28zUVlXRzRWOTAwT2xEVmNERV9PSGdjZHJNOGNzNlo4RTN6WlhrdWNGOFQwS3pwNEpBZlFuODctSW43QVlrS08teDgtSUFrd0NvX24tRXVoUS11U1RESG9uTkQzeHVuVVJySFltcE5heE5Ub1ExbEJzN1ZvVGdQYkxOLVhEUWV4a0tHOWJ6Zi01bktkMEhJNGlYQ183VTFvdHZNWVRaS1pETGZJTFNERG9QbmdxX1JZTkU2U1E?oc=5) - _Livemint, 19 Nov 2026, 08:38 AM IST_
 - [Dividend alert! Last day to buy Oil India, Ashok Leyland among 17 stocks for dividend rewards. Do you own](https://news.google.com/rss/articles/CBMijAJBVV95cUxOZEdhUXJhVTRIbkViRTg5d01vTWVFVVl6ZVlJUWk2ekxtUk1sYlY1eU1MU2I5M3FtTHc3SWNHRm1mbUZ5ZTVNRlNpUHl0MlZBUG4tUzVSN2l2bXViMUFacUh4N3B1VHlMQklqRXpnbEM0aEFCVHV3X0xFbFFFNHhkTk40THFMMEZnakFOS2ZkQXFVVDJaSklPTEg0QWVYS1N6dkVDTnhPc1ZJNVZkMkZxMkpueGxBWU5aNzFYYmxoWHo5TGxCY2RWTTRVcGR4YjlSVVVJTzVWZzRmNTBucXpreUQ5c1oxM0pabVExVG5pblU1ZmFnV01nRWNMTFltTlF2dmp4Y1lYdlhiUjhC0gGSAkFVX3lxTE1Ia0ZKR2oxUGhVd25VOXpwRGItcGNTdGlZMjNUaGFINWFrRFU4eHZhZ0paV2xZSUFSMGl2aktBYlhsOElJbnJoOWl2LXVCQlFQNTB1bEpCZ2Fzck50bkJpcE5hZndkUW5TZHJiSWFpSHktc0FrZWhObjJkT3Q4dk9mbFFCemVPQTRobGhGQ3FOSmU4Y2Y4NW1ISXhfTWpmOXVvamgyYnRzZDNudUljYmlIa05XNG1JdGxNUzNMeVdNY2ZTQV9sSG85ZzlHbUM1VExoMVlzQ0gzd1dTSHRhQXUxZEllMU9hWkVTZVp4LXgzX2ZlN0hwUDYzbWV2RFhtXzVDREZVVWxKQUIwUnY3Zkg3T0E?oc=5) - _The Economic Times, 19 Nov 2026, 07:23 AM IST_
 - [Why Ashok Leyland’s investors are wary despite robust demand](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDNuUXdiZjNDa3kxdzFDSF81X2VabGZ3YnB2aVhvV2Y5aURkVFRfLWZ0SlhFY2xBSXhPN3lrcFFwekwwbHl1VWNOa1hWNjk0emVhSjhTcmRjRm16ekhMOU1TSGFBaXp1cWU3QjFlcDU4dnlzY0d5b3cwRHhEMG9UUmhpLVpENzhNQUZKLWk3UllEZzRCa2dLS01NSEprZldheFVydUVJdXN6aHNhZF96NFFQT08xU2tHeEoyT1U5N3E1UdIBxwFBVV95cUxNT1NkWjFnYzh6WFNHRzA1bGZaUEl1RGtXMFFRVDBEbG1iZzE0azZpcmhpNFJfYkpZa25xTkNtbVRvQnR6Z01IdHgxdElyQml3UC1VbHdyTW9HaVFWeHcya00zb3d4WWV4WWxORkxmRU0yX2ljd3BGck1DY3A2eW0xemtVNHBiMGpCWWw4UmJwNHhHZEFuR2lpLXV5cWVidzYxQU5pemtibFdtOTg1MzFrUTBsS001Q3d3ZkN3ZVNPcVNZUHFHaHRF?oc=5) - _Livemint, 18 Nov 2026, 12:38 PM IST_
-- [Ashok Leyland initiates system audit amid discrepancies at Hinduja Leyland Finance](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQmhmU1FJZE9HX1kzUVZ2QWZ3VjRIeW5Id3c5MlVQNmJKZ3ZyQkd2cGxmY1dNbVRmYW9scS1RUVYzTDV4bjlneE93OUo5djd6ZXZNeHdfSUxPb1dPNEJ5d183dnZqMUFEQ1lhMGlRc0NXMk1NWUJ3VVNuOU9PYUszaW1FSnFOQV9wTTFrdnpqZ01KZE5Vbzh4UFNkRWtyS1plc21sLUlBM1h0M1Y1RldWUmFaYlR6MUVfOVQ2cUR2VUFXVXduTDBwcWx0STVQeVZNVG9ZSNIB2wFBVV95cUxNb0RfOFMtS3hmaHVBUXVlOTlCN3NSZ1R3VUFLVTVTR2VTc0xjc2p2c3A5ZThEYzBydEl1T19YM05XZW54eE44SDVZQzFJNm9sNzhkSHpQOTFKSFI0MllYVTVoOXZBZ1l0Vk1ZWHdYNEFSVlBqR1gyZVdTWDl6Si1LY3Z6cW80REh1cHpoS0IybDFZeUViTEpSSERRSnhEQ3dqYVRIWUc5YW1yYXRQTkVrZHBwTkVWaWp1VUhpM2tCS2UtZjJyRGd2UUQ3Y0tGOUJ5bW9TZjB0YzJpNkE?oc=5) - _The Financial Express, 17 Nov 2026, 08:51 PM IST_
 - [Ashok Leyland flags loan discrepancies at HLF, orders independent review](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmJjNV9XSjhrVWdLMjByVXNER3pKQmhxNkMzQ1RYREhtMTNFYmlHQnpBM2I2bkhuTU9SRHJ3V19WOUkxUndLdjVTR2FtQ1FJZmtqelRGVTNrWm9zUVYtd3RDcXVla2JzMEwxZzJHX0loVnFCaHlCZXVZZG85Vmx5ZkVMekxWX3pNQ3ZYV3lwTHRSaFFVSVRxZDVfSUFIRHZmcGZRQktualgweG5JVHhHeHFBSjFVc3lTWUhQOTl1QWxEa2pCM2Y5aEtCQkJvcDE4X21Za1lhd9IB3AFBVV95cUxOaHpaSWRibmhwd1JLVGFPTGlETUFISnJkZ2tSVVBtWjNMV2dyeWd4OTVvbWwwRkJFOFF0RFJkYmZHcldqUE5lemVkdUw4Zy1wVVQ4M1c0RzZqZVBrNFA4LUJqZS10VXdHZVhyMlgwS3dpd3FpWld3dF82WXRvamtMRXlSYmtlVF9LbmtuTjcycDVIUHZQdzhLamFDRUZKQ3VfdzRYM0drS3BSc3l0cElHVng3Wm1SMExRUFB3TkRlc0pjNkVwUFljeFlnSUJ4M0t2M2h1Q2czb01icWFX?oc=5) - _Business Standard, 17 Nov 2026, 07:43 PM IST_
+- [Ashok Leyland says manufacturing utilisation reaches 90%, greenfield capacity under consideration](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZnQ1U244eXpJdUN2RS1BWWJrYzh2OHMwVjNMbkxXZFg5cnJoR0VXdlFQMFBZc2owcHY5SURkUVIyeUw2WU9oOU5zNG9PVlFqSlItTmt3YWh5MmVTYjJ1SUtKcS1JNmZZczRybkRfQ1ZVVU1qWmhDMnI2MnFaZ2lxRGtNNFpXWlMzZXBJXzhLVFhoUy1ZZXdvbDM3enI4bHZ6TVVvUWRJaXdXQUp2VFlKdUVsZE44VjRENWJLZmRCLVNZYWY5ZVRMcDZacldycDJUQ2p3ODd1Ql9TWUlsSjVJMG1hNWxoM0dES29mU2doN1NzWDNR0gH7AUFVX3lxTFA4T041ZG4xZmQtRVIyXzQwZXdHZkg5R2plNFRCVl9xVkM3WUdQcWstX2Y4R19zZlhxM1JrV2VYLXJsTHI0cmRSOGtmbURpRDNrbkxYaWJ6VndRajVpcEt4X0FiY01jSXpfcXZ4T0ZBZ2I0REhwai1FWDdVTUdnRlBTV0dRZjFLbGQtQ3Zpc1NXQjlWWDV1c0JBVXFCckU3Q0pyQy1BZ29sTGVWWkRhUExIc21zczRUeFpxQ2FsNTROWnV6UUhaMUFyUFZKdk1JZlByWmZHaTM0LVUtUXFjeEZtanJ5cDFJVWozRFVuekRpeFBxMTJ3NHRhdHdz?oc=5) - _BusinessLine, 17 Nov 2026, 06:59 PM IST_
 
 </details>
 
@@ -229,8 +231,8 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Linde India Investor Analysis | StockIQ](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE9OU3JlUkpUMGRUZ2NRSEdMWUtRTzhzZWNDYmFxRHQ1TjM5RnhVU3M4b3RZUWdNQl94N0cwUkliamRheG8tWWhrWVNORWNCS3BGZEZ0emVXTi1FNkVJUGZ5elFsR2dYRC11OFlUREJ6NXN4NGdoMmdGYzBjbUZtbVl6QXBOU2NXMFFZ?oc=5) - _The Economic Times, 19 Nov 2026, 04:16 PM IST_
 - [Kepler Cheuvreux upgrades Linde stock rating on margin recovery outlook By Investing.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1NFLUlZZnNOMlVHdWc1M2lSNXN0WmNrR3MybkhLbFRsWEJ0bXdfQldJQ25MZHlXNU03cENhZ2RXQ3lHZHBweUJ2aW1lYWRzTV9pdFZrQzMxQjcyczgzb0xmTFdQZTBOVllMQ3lPX2MxMGF2MjRJU2hDV29CVFpkRGtvNDRJdkMxdy1UelJfNUxVWU42Ym10YzZmSEd0MGdWZHJURjQ5czZqVktYemNmNmtKNHhlUWl3UDRTNkhFSV9ocHRERGdlalR3N2Y?oc=5) - _Investing.com India, 19 Nov 2026, 02:40 PM IST_
-- [Linde India Investor Analysis | StockIQ](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE9OU3JlUkpUMGRUZ2NRSEdMWUtRTzhzZWNDYmFxRHQ1TjM5RnhVU3M4b3RZUWdNQl94N0cwUkliamRheG8tWWhrWVNORWNCS3BGZEZ0emVXTi1FNkVJUGZ5elFsR2dYRC11OFlUREJ6NXN4NGdoMmdGYzBjbUZtbVl6QXBOU2NXMFFZ?oc=5) - _The Economic Times, 18 Nov 2026, 02:51 AM IST_
 - [Linde India to gain 133 tpd ASU through $13m Airtech acquisition](https://news.google.com/rss/articles/CBMisAFBVV95cUxOb3JSQ2ZjYlBMR09wWXdLTk1MLW1fYXdYVmpHb1lSQmp1endFRmQxZDNVNm1kOVZDRWh0TkxxWVc1Q05jVXhBRm1EMW5JaXFGZ3RUbHgya0l5R0F4M0gwRVZtekNFLWgxbTB5QXFTQThOQmNhVnNUdFk3U2NuSXpxTDdMdE1DSU5wNFVXM1Fnc2pBaFVqRGNhal90WUY2QW9GZEZKSkpUS0t5RFFWdFQ5WA?oc=5) - _gasworld, 17 Nov 2026, 05:56 PM IST_
 
 </details>
