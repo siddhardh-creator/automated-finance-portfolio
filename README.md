@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 19 Nov 2026, 03:32 PM IST  |  **Market data as of:** 2026-11-19  |  **Start date:** 2026-10-16
+**Last updated:** 19 Nov 2026, 05:26 PM IST  |  **Market data as of:** 2026-11-19  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -56,7 +56,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 19 Nov 2026, 03:32 PM IST)
+## Performance (as on 19 Nov 2026, 05:26 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -116,7 +116,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹13,589.00 | +7.58% | ₹12,602.00 - ₹13,617.00 | 1,384,944 | 574,311 | 2.41x | 36.37% | ₹11,170.00 - ₹17,292.00 |
+| ₹13,589.00 | +7.58% | ₹12,602.00 - ₹13,617.00 | 1,371,676 | 574,311 | 2.39x | 36.37% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -131,9 +131,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Auto stocks hit the accelerator! Nifty Auto jumps 4%; Maruti, M&amp;M, Hyundai lead the rally | What's behind the surge?](https://www.livemint.com/market/stock-market-news/auto-stocks-hit-the-accelerator-nifty-auto-jumps-4-maruti-m-m-tata-motors-pv-lead-rally-whats-behind-the-surg-11795070748708.html) - _Mint, 19 Nov 2026, 01:09 PM IST_
-- [Maruti, M&M, Hero Moto, Eicher rally up to 5%; what's driving auto stocks?](https://www.business-standard.com/markets/news/maruti-m-m-hero-moto-eicher-rally-up-to-5-what-s-driving-auto-stocks-126111900282_1.html) - _Business Standard, 19 Nov 2026, 10:46 AM IST_
-- [Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Price Movement Analysis](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135975911.cms) - _Economic Times, 19 Nov 2026, 08:20 AM IST_
+- [Auto stocks hit the accelerator! Nifty Auto jumps 4%; Maruti, M&M, Hyundai lead the rally | What's behind the surge?](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTEhwZXJHOFV4NF9OODNjZ2p4SVdVa012eUc3c05vckRSZ1VfaEZhd3M5d3ktZTdRVzVVdDN5MldrTldMdk5FZkRqY0JVTDJKZVhQaENRWEwwZWd4TlQyeE1rZnhOY09ORlFTVTI3NHluaFZtZzdWbDh5UWdMOWJ2SWtib1cwR2xCc2xybkFvWU55X0ZKVDRXSjNBN002N1pqanRPNnpfclFoUWNNTDVXRWdXek4tLUFvVERZUTQybnppd0FZc0UxV2F5NnQzMkFuaVNPdXBIOXZidXF3SHV1Vlo5OWlaZzZzX3Q0cXZTUGdlb1V2eDV4NExGNm9adW5LQTlIU2lmYUQzMnPSAZACQVVfeXFMUC1BdUdDX3R3bXo1NUVVU0cwSTJQOXVMZUZZbGRFSDZNVlRLc3JHcmVSdjgtVVpHYzVSNHIxcnVuZGNwS2N6clJ1WVpmUU9JWW0yYXlhWkdCcUUya2VSS1dFR0Q3aDBTRHBQbWxBakpmZVVoeHR0QV9XQTlST3ZZQnNCUFRLTlp6RnFjV3dNcDJtc185WW5QT1BRWDFja3BnZEpfeENvRUV1UnNQT2dJYXh1QWRuaXlGQ1hNb2hrSzVhWnNybGVZV3VhYVphMGFnYTBTTFp5WTQyaEJxVHBGSi1ocDNiRTJIVnpYejg0NnppVWVjZml4TjVROGozOUJuRkhONVBibXRSY1E4TDBDNUc?oc=5) - _Livemint, 19 Nov 2026, 01:09 PM IST_
+- [Tata Motors PV, Maruti Suzuki, and other auto stocks jump up to 4%. What’s driving the rally?](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTmJSSG96Zlp5VFhGWVh3bFlIUDNsUzg1YzJ0cGhiQVJlZ09XUE5EOE1mZmhqMWg5dE92dVlyZjFoTVU2ZnJVRjFoa2xsQndmQTluZ1VIdVYyMUx4dlRxQW9GUlBDNFN6dHMwc2txaDNTTW9BckRFRk92UUl0Rm5VeFl5VWwyZ214b3dCN1BtaWQ0bldrY3duZDBYR0pmZVlEME5ZWFQzLUIxeW9SS3o1dzBjd0xKdm5qNDBKeDhiUDQxTVFyVVNuU2tKd0c3bE84UmNFM1dhejFnTnhQTmxCWU5xMm9QRHlFaHRETl9SeG9fcGfSAfgBQVVfeXFMTkZSay1MYk9CMDJtVWN6OWhrR3psMm5weU1BY2s4Z1V4c1VQaVAyTU05MngteHExZ3dIWkF4Qm0tWGgxZGtRUm9kRDlvX3ZJRF9pbVA4d0VuVzdpU01iVE1qUTZCMmRwZTlNbzFLSkVYRk9COHU5TUtPdEVtU3VZMkZ2R0pmV2JkX2k3WmxJemVUbEF1UlpscTFLbWJSeWRqU2ZaMlpMWkpDR3BnTXROQmJFXzZ4NVBVU2hfWXZCRmxmVTZRS2FtUmxSdzVDV1E4UXM2aGEwTHJqcTlYTjM1WWtSY0NmdzJwZlVlRUtLQmxWZjk2c0NjOEY?oc=5) - _The Economic Times, 19 Nov 2026, 11:12 AM IST_
+- [Maruti, M&M, Hero Moto, Eicher rally up to 5%; what's driving auto stocks?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLWl5RXlRQy1SMFViZWFGLTRkZHQ4VkFGUEZjNmdSc0RQdmJCODFyVENjMlhDd19QS0N1b3lEYjh5MklBU3Z5MmZ5RjZlWV9wOWY0WlRtX3ZsaGo3bjNWc203UnFGaUFZM1M5bjB5YS1KZmRYY0EzX1dPdGk1Sk5QRm5leEUtYW52bjFreXd2MDhmVC1PQUZTYjlScEdxQ0JYUm9PTnVYWEFWTHN0X1NZZmFGeURwM0pCdHBaVXNfX0h5X3lBZlBDMG8tYUZpSUxW0gHWAUFVX3lxTE12ZHlNaXE3S20zUXRfNlhmbXR5QTQ1QUdiNHRxUTJXT2ZfZGh6TFpXb2pYME5SVHJEcy16dlZFdGtiSGNqY1Q4ZTJ2UTRxSzhJYUtqd0RCbTBQTnBpUnBlVVdoRnptLXotTk1jcEN0QmtFc1FZUzFLRmZzdXlMaWZXZzkxdkY0V0pxVzdEQ1NLRkNEczVoTlNCcUIwQy1FdnZQVzJLWXM0bkVSQlU1b3BtZ0dGb0VkZjFnX1d0YXcxODBTSTBLLTVURFF2YmdRZ2ludVducVE?oc=5) - _Business Standard, 19 Nov 2026, 10:46 AM IST_
+- [Maruti, M&M, Eicher In Fast Lane As Auto Stocks Rally Up To 5.5%; Citi Sees More Upside](https://news.google.com/rss/articles/CBMihAJBVV95cUxQcG95ZDBhZlZicGh1YzRuZk4wUDFLLWFGdzRoS2hqOUFYaERqUjR5M2t4Z3Z1aG9ySEJjOW5HM2hYMWlxUFZ6dGdwSlEwS0hpa0dyYTBvR083OXV6SHk0TUZ3LXhyNDF5NURsLWVPdWdvYVVEZmluUnk1U0VMZnhwLU9fSnU4RVFMNUZNbTh2Vm9rVDJFS2FtM0JlZ0tnV2U4U3QyNWpKZVB1YkZwakhreS1sTWtKc2xXb2JpMXFEN1dMNTBCYlBwN1c4alZCMWZ5dEp4RDJYLVNReFNFbHVtUUk3Qjd5NDZ0SkxVdEt2LVRYS25qbC1LT3NQN1laaXJnTWFwR9IBjAJBVV95cUxQX3V1WTFBSlo2X2tCSUpUWmc5UXF3d3BPTmh4dkM0MTd4RkxvWWhOZUtQb0VkYmdoRzdaU2hTanJpNWJJTl8zWHctMFByLW90UVlBaEZHbWUxU09jUkVvZ1dqdGRsaGtrOFJaZWQwdlZYc2VzYTM2U0FUdk9Nak1aSDYxRFVCZ2d0cEFGYi14Vkt0SVpCazVtR19YM20tei1PZnRVc2RDTHZCR0lkV3M2X01PMTRlVzBBczVRUFVVUVdDaVQwYmw2ZGwtWFZUbUF4LWxyNklJY1NMSElSb0N0bUs1eDBqOHY1blN3ajlNX0JYX2sxTGZucGFSYUdGRlZodUphWjZaNmR2djR2?oc=5) - _NDTV Profit, 19 Nov 2026, 10:34 AM IST_
+- [Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6%](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN21KNmJoLVNDaTBMM2pBS2lZZFNRMktzMUpUTlNNZzNxZWJTV1QycWV6UmVpQjNQRUlCeDZtZ3lxYXlHNmV4LUR2eVNEQXhDYXZNbTh1RkFLM0gzSG40clZqMGhkdzhVTUY0Q1BWck94R3EzdmJkSjg4S3J2Z1VDV0xHamZBbVE1TkMyMzRQUzM3TFpJYjJhWXRmTUlxbU5kV0dpcTVkRzBkaWtaNDBfcVYyU0ZlN2gzSW5lZ2l4RkloMVRuOXZ2OFNHdHI3WU9pMVpORThYOURBaTNnMG1IZG9rNVlqalU20gHuAUFVX3lxTFAzcVVIdzFRWWlLX3hDNjRyZjJ3b3VxR3NWQVJtNE1LaEJ1VGNDdWFQVzFvb21DNklmV2xhZTN1V1FxVFlDYjVwLTQ4U1NyUVNzaGgzaWVEalZRY2NMdVZvY1BYb092dFJDdW1oQmk2OVBGZlNXNl8wU3JpS1U0aTBqU1ZtV1R6dFZWcEYwMC1Bd0xJWVQ4TDdVZFV0SU8yZkkyeF9LX0d5anM2RHdHUUFoSmtWczBYNloyRFpkWUE2ZnhDRHdXOTJFTUZ0SnNlVGlnUnZsQVVEQmw5RnpvUHVWV1RfazF6R0VNWGpsYlE?oc=5) - _Moneycontrol.com, 19 Nov 2026, 10:31 AM IST_
 
 </details>
 
@@ -147,7 +149,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹166.15 | +2.28% | ₹160.96 - ₹167.70 | 28,708,428 | 23,031,283 | 1.25x | 46.50% | ₹138.58 - ₹211.92 |
+| ₹166.15 | +2.28% | ₹160.96 - ₹167.70 | 28,505,070 | 23,031,283 | 1.24x | 46.50% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -180,7 +182,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹8,058.50 | +4.66% | ₹7,675.00 - ₹8,072.50 | 905,529 | 553,973 | 1.63x | 28.70% | ₹6,586.00 - ₹8,190.00 |
+| ₹8,058.50 | +4.66% | ₹7,675.00 - ₹8,072.50 | 883,394 | 553,973 | 1.59x | 28.70% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -213,7 +215,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,742.00 | -1.79% | ₹6,720.00 - ₹6,879.00 | 10,687 | 46,810 | 0.23x | 48.92% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,742.00 | -1.79% | ₹6,720.00 - ₹6,879.00 | 10,685 | 46,810 | 0.23x | 48.92% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -243,7 +245,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹86.41 | -0.36% | ₹86.00 - ₹87.99 | 5,960 | 58,341 | 0.1x | 102.32% | ₹76.41 - ₹123.36 |
+| ₹86.41 | -0.36% | ₹86.00 - ₹87.99 | 5,959 | 58,341 | 0.1x | 102.32% | ₹76.41 - ₹123.36 |
 
 **Research reports**
 
@@ -271,7 +273,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,924.90 | +1.25% | ₹1,861.40 - ₹1,932.30 | 2,195,368 | 3,699,090 | 0.59x | 61.47% | ₹601.35 - ₹1,945.00 |
+| ₹1,924.90 | +1.25% | ₹1,861.40 - ₹1,932.30 | 2,185,144 | 3,699,090 | 0.59x | 61.47% | ₹601.35 - ₹1,945.00 |
 
 **Research reports**
 
@@ -299,7 +301,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹161.90 | +2.47% | ₹157.70 - ₹162.90 | 15,012,873 | 11,259,009 | 1.33x | 40.91% | ₹126.32 - ₹177.20 |
+| ₹161.90 | +2.47% | ₹157.70 - ₹162.90 | 14,919,660 | 11,259,009 | 1.33x | 40.91% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -327,7 +329,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,396.00 | +0.54% | ₹1,366.20 - ₹1,398.70 | 7,127,585 | 22,766,860 | 0.31x | 10.44% | ₹1,388.50 - ₹1,437.40 |
+| ₹1,396.00 | +0.54% | ₹1,366.20 - ₹1,398.70 | 7,127,575 | 22,766,860 | 0.31x | 10.44% | ₹1,388.50 - ₹1,437.40 |
 
 **Research reports**
 
