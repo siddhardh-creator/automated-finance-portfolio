@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 20 Nov 2026, 05:26 PM IST  |  **Market data as of:** 2026-11-20  |  **Start date:** 2026-10-16
+**Last updated:** 20 Nov 2026, 06:03 PM IST  |  **Market data as of:** 2026-11-20  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -31,14 +33,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,011.00 | ₹14,011.00 | ₹13,589.00 | +3.11% | ₹40,63,190 | 15.4% | ₹7,31,380 | +21.95% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹163.35 | ₹163.35 | ₹166.15 | -1.69% | ₹1,63,350 | 0.6% | ₹15,630 | +10.58% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,113.00 | ₹8,113.00 | ₹8,058.50 | +0.68% | ₹81,13,000 | 30.8% | ₹8,47,000 | +11.66% |
-| Linde India | 500 | ₹5,961.00 | ₹6,572.00 | ₹6,572.00 | ₹6,742.00 | -2.52% | ₹32,86,000 | 12.5% | ₹3,05,500 | +10.25% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹86.15 | ₹86.15 | ₹86.41 | -0.30% | ₹86,150 | 0.3% | ₹1,150 | +1.35% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,935.40 | ₹1,935.40 | ₹1,924.90 | +0.55% | ₹19,35,400 | 7.3% | ₹2,58,200 | +15.39% |
-| Bank of India | 1,000 | ₹131.33 | ₹164.70 | ₹164.70 | ₹161.90 | +1.73% | ₹1,64,700 | 0.6% | ₹33,370 | +25.41% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,387.20 | ₹1,387.20 | ₹1,396.00 | -0.63% | ₹13,87,200 | 5.3% | -₹52,000 | -3.61% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,011.00 | - | ₹13,589.00 | +3.11% | ₹40,63,190 | 15.4% | ₹7,31,380 | +21.95% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹163.35 | - | ₹166.15 | -1.69% | ₹1,63,350 | 0.6% | ₹15,630 | +10.58% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,113.00 | - | ₹8,058.50 | +0.68% | ₹81,13,000 | 30.8% | ₹8,47,000 | +11.66% |
+| Linde India | 500 | ₹5,961.00 | ₹6,572.00 | - | ₹6,742.00 | -2.52% | ₹32,86,000 | 12.5% | ₹3,05,500 | +10.25% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹86.15 | - | ₹86.41 | -0.30% | ₹86,150 | 0.3% | ₹1,150 | +1.35% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,935.40 | - | ₹1,924.90 | +0.55% | ₹19,35,400 | 7.3% | ₹2,58,200 | +15.39% |
+| Bank of India | 1,000 | ₹131.33 | ₹164.70 | - | ₹161.90 | +1.73% | ₹1,64,700 | 0.6% | ₹33,370 | +25.41% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,387.20 | - | ₹1,396.00 | -0.63% | ₹13,87,200 | 5.3% | -₹52,000 | -3.61% |
 
 **Best since buy:** Bank of India (+25.41%)  ·  **Worst since buy:** Jio Platforms (-3.61%)  ·  **Biggest mover today:** Maruti Suzuki (+3.11%)
 
@@ -57,7 +59,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 20 Nov 2026, 05:26 PM IST)
+## Performance (as on 20 Nov 2026, 06:03 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -201,9 +203,9 @@ _▲ buy · ▼ sell_
 
 - [Royal Enfield 250cc hybrid bikes in the works, 40–45 kmpl mileage expected: Price, launch details and more](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSE9JNWdpSnRRVXZYdXJ0OXk1ekNQdXNKWGE3Qkp3VDRHZm1BT1U4NlNZMHZvT25sZmUya29NZHdkTFA5ZmxXRktUNGNWZV9rUXVDMGk2NHhSUHZwNEpMSEk4c3d1NnhIekJWVUtVU1RqZzBlaUZYdVNLX1NfYmN2cTZQbUhscEdFdHF2a2NseFQ2WUtlTTJBS1VEWkRfMVMteVdDcVJlekhxeU1oX0RQZEJwcUtnZWU1QjNJdjZWZGlwWHRPLUdrQmxsMEYzVWtkZ1pvQkR2U1QxeGt4R2k2aGpoeVFZd0ZKQkQ3T3VGMNIB9AFBVV95cUxOSF9rZ3Z3V0FRd2tVM1JmZzBJMFk2VS00V1pJZVlPbFlPQVRLVFpOU01DY2hkUDJNVUljUHZKUjV3LW1zNERBdnd1V3Y3NFFlQmdNSzBMNlBxa01raEpnd0ktWk90Vjh4R1Bwa04xRkc4bEFMZzFQT0RPUzVOWFkwanpkOHp0bXJfVHJGYVhxQS1zZUFvZkcyWTdTbEVGSHVRWWFLOURva2lXWnFRUDM1Nm5mWS13eW5TWVZQV1U2VlA5b25ETnUwRUVCbmVyQ3RYUGEyRldfN0VPaDBFMXNTU3c5eEgtZ2QwQXJESU9NOUFRN1N1?oc=5) - _Livemint, 20 Nov 2026, 03:24 PM IST_
 - [Royal Enfield 250cc hybrid bike: RE plans affordable bike launch; expected price, mileage, engine and what](https://news.google.com/rss/articles/CBMimwJBVV95cUxOMUZJLW1Cd0N1VWhLVmM3WlhBYWltRkZqX1dpVlRvVnd0Zlo3Um5sYWVqR25ndGxDMmpmUE1nSlVHM0pJeTZ1T2ZDZGlXY245am83dEF5U3hjZ0tDREtMTjdUcWVrVG1zWG5Vc2pqNk9MTTVKcllrNFhqbTlNeEJSYmh6NExDLUVPRkVBWURFdDdmRTZsTDItaGUzVTYtaXQ2eEUzNmFHMW5jZk5salNoSlJUdk5rYWFzQ2kxZVJWdElZWlBXSUZfVHZrdkprTWRMbnZNTWdUMnRjWGhpMXFmQTNUYW1NTkpuek9peUVNd1pNZFYxV0NwbnZ0NUx0Ylp2clBzdS16UnZMYTVDa3RjSUhYanQ1Q2pFQXVZ0gGgAkFVX3lxTFBJbnFUdEgtQjEwRDhkcEppRnNST1ZzX3c2WEVjZXZOMUI2ZldseDNFXzg0X1Myd3dHcnJDcVhqV2xVWXJqQVlQNk1HRFlFWUpkdVAyQzhCeWRTREt2dE1QbUxFM3hzWHJjeUVoTEx5UDQ5aENnYWxtaTlHWVBoVHREWE1QWGE4VHRqOF9Wb0MwaHdmcFhhTHFYcVp4Q0Z0Z2JDRnpORkc3aTkwUzJqeUNxUFAxb0cxYnhYX2xhaFJVQjJhdEdEOF9oR2Z2ckZQeVJxX3h4Y3puYU1pZGV1MWhHVFBwdTVWUnlSejV2WDR5cUNGMlo3dzNBNE1Ia0k0VU5nZXJQMjRqbW9NV1BsVTdCQTU3SDV3ems3M1lfOExnZw?oc=5) - _The Economic Times, 20 Nov 2026, 09:14 AM IST_
-- [Eicher Motors Investor Analysis | StockIQ](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMVk3T0lOb0pBM3YtZk1jSDZ2TGVKbWtvRUNaNDlMVWs4UEdrbmFrbWNOeVF2R2pKeEFvVjAwbjJtczYxQkVBYXJmYURWWFZobnR0aTNVQXQ3djBMMkJxYzBjNGMwYWVnR1pSRzM1VlZKb1M3MXlSQWx4YVBzRjhEbDduRktGNjdHZV9MQ0RR?oc=5) - _The Economic Times, 20 Nov 2026, 03:51 AM IST_
-- [Market wrap: Maruti Suzuki, Eicher Motors, TCS, Tech Mahindra top gainers and losers on Nifty and Sensex o](https://news.google.com/rss/articles/CBMioAJBVV95cUxQNTNKWDVMNlI3Qjhkbzh5M3VEODZtZDlQcWxGRGxxM1Q4WlBYM0lzUjkyZWJwOGx4LVFaLWxnUGFCYmF1SFpaYUlHQ001d3ZJZHhEWHkxWW45UWlwN3hPWUxQRS1tNmlEa0pkejlmRjU5Um1BMGdma2JEZTNHc3VRemxkLUxXZTRZRkw1UW9hNVVWam5ybXBNRy01a0JycDV6NHBOS3ZmLVRwdG1UZ3BIaTFWVkpyN2tJdzV2Q05EVGdGeS1nTExSNjlCekJxS2ZPWUFyOEVVUkxpcFZDbXBkRTA4Vjc2THUwekVoSGwtZTU4d3hlVnk5TTJHOXBlcUVaMUJuc2VDeW5mVXY1VEZUbHlMazB1ZnFDeS1fWTFyemrSAZoCQVVfeXFMTnd1NGl0ZmJ5ZHlCYUswR3ZVWC1qOU04SHdOR0tDclhocFhudzlzcjF4RHE5UEdWanhLVG8xVW9pdHVjSmRUUnBoWTdXbU1NUEc3dm8wYUFpZ2pTdUJMMkJoeUVjR2dvVlN6ZzVLNVktbWlvVEo2Z2k2RjBQNi1tTnhPT2FGOVpZcUt6N3RFVTRrMjdOcXdvRXhkNjlueURLalVhZk0taUl6SE5uek11ZmNtZnA4X29RNVhMV1U5S3Blc1BnUFZoV1FvWnlteHkxY1YyR29jR3dpTDZvd1pVUjBwYTdld3pWTHU1MG50bnIwUml3MVFISXdDUWlOb2ZLNUZrRlAzX183bXNsREVhUGU1QWx5b2YyQ0xB?oc=5) - _The Economic Times, 19 Nov 2026, 06:06 PM IST_
+- [Market wrap: Maruti Suzuki, Eicher Motors, TCS, Tech Mahindra top gainers and losers on Nifty and Sensex o](https://news.google.com/rss/articles/CBMilAJBVV95cUxObkNUeVVzV1BveFhiOXZQY2FkcUhzSGpUTnNfbHR2YVNOUEEyUXFqX1pFdVZxZ3M5cDc4SnYwYkdKS0lpUU9YYTNoV2l1ZGstVUhWVXdCSEs2X0xnbm5oMGVydm4tSXRFWEFwR3BqV1NWdU9paGZaZ1FBeW9EVW5ieWpmR1JlNGxlb2RWQTZvc0g3YVl5NXR4YVczTzNab05kUFM2eTlfb29zV3FnZ2x1Y1Vpa3JDRXgwdENsaTNkTUhhZ08xRU9lb19fZU1tNkdPQWJhUFRzNm54UU93RzI4UE5HZjVkY1FGYTlXZ29YcmR3QUZtT09Kc25mang0cTEtckdJM0VxSWMtYUFpY3ZqUHFMSlPSAZoCQVVfeXFMTnd1NGl0ZmJ5ZHlCYUswR3ZVWC1qOU04SHdOR0tDclhocFhudzlzcjF4RHE5UEdWanhLVG8xVW9pdHVjSmRUUnBoWTdXbU1NUEc3dm8wYUFpZ2pTdUJMMkJoeUVjR2dvVlN6ZzVLNVktbWlvVEo2Z2k2RjBQNi1tTnhPT2FGOVpZcUt6N3RFVTRrMjdOcXdvRXhkNjlueURLalVhZk0taUl6SE5uek11ZmNtZnA4X29RNVhMV1U5S3Blc1BnUFZoV1FvWnlteHkxY1YyR29jR3dpTDZvd1pVUjBwYTdld3pWTHU1MG50bnIwUml3MVFISXdDUWlOb2ZLNUZrRlAzX183bXNsREVhUGU1QWx5b2YyQ0xB?oc=5) - _The Economic Times, 19 Nov 2026, 06:06 PM IST_
 - [Bullet on a budget? 'Dug-Dug' Royal Enfield may get into classic hunt for India's next million bikers](https://news.google.com/rss/articles/CBMi8gJBVV95cUxPZElwNVRSNmQ0cUZUeHBxaEwwQW80d0hnek9DRk52b1I2N05xcVdTWDZfNU9kRDlaN2xwWThyem9MUnRoZzJ1LTRkb29yQnpmZ1JGSTY0bGZxQUNBQkpsUzAzZ0lHYnVYUnpWU2pDOHpkcmItaFdSYjRFbTN5Wk5oS1RxckZXc3A5UUhScDJ4YkEtQjZDTVcwNjNwUDBmUlVnX3A4RDNPWHhuRm5Pd0M3S2lBOU9GTFVWNWZSckdUdmRhUzNwQ1NNamszUm16VUVpWEF3QXNMZWRkbFN0Q3E2NlA4MTdCQVJNNEdSTk9HU1dOZE1aVmxOeGJVQnp4V0hRTWkwODRDOFF3UERTakdDUnhKYjBkblBXbDJwcGdFRVh4NDlEZGw2S1VtQkRBWUd5TWl4WExRbkJBQUdubVdjaW9tcnh6dTVMcW16SkVkTU8wOG5DQjNLWTRyb2hPdC1ydHFkZkdkS3BXaWJNT1picWh30gH3AkFVX3lxTE9kWmF4VVRmOHh5REUzdmhKN0NJZm1SNU9SUVVTVDJKdTl4bnZaQWNzaDVUREVCcFIwNUI3bW5lTXRCS2pSMUJ0M0JONjZuSERza0JqTHZRWGk3akJsV2FDSTF2OWh2QmxPdUNIMFFtRTh3RjNnc1dzd19hc3lzeFRoZjlLVUhaVThzQlI3OWJsSW03cU1FRWxTa1NCZUh0X2FrekF1U2N0WUwtbkVOWGdBUGxmMlY5MEdYNlBSMWZzbHhRNjI0M1JSd0g2UGJjZFJCY3JsZlE3d0hBV25hTXptQUIyOUJtU3ZwLVd3VzlRNFpDaW9nRE5LdWd2eVpxSWZxOUtPcTZYcWpUYkUtdDBUVGJxMy1vZmxfNUlxOXk1b2VNNXdaSEt3Nksxb1JBTmxTTzlscEpkQVdNTlJmdElvRURfRE1nOFJDMUttVWFYZTNIRGEyMWFSMU45Q3Nla3lwLXltTmtxeDVWMko5clFVUFFPZ21Gbw?oc=5) - _The Economic Times, 19 Nov 2026, 01:45 PM IST_
+- [Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6%](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN21KNmJoLVNDaTBMM2pBS2lZZFNRMktzMUpUTlNNZzNxZWJTV1QycWV6UmVpQjNQRUlCeDZtZ3lxYXlHNmV4LUR2eVNEQXhDYXZNbTh1RkFLM0gzSG40clZqMGhkdzhVTUY0Q1BWck94R3EzdmJkSjg4S3J2Z1VDV0xHamZBbVE1TkMyMzRQUzM3TFpJYjJhWXRmTUlxbU5kV0dpcTVkRzBkaWtaNDBfcVYyU0ZlN2gzSW5lZ2l4RkloMVRuOXZ2OFNHdHI3WU9pMVpORThYOURBaTNnMG1IZG9rNVlqalU20gHuAUFVX3lxTFAzcVVIdzFRWWlLX3hDNjRyZjJ3b3VxR3NWQVJtNE1LaEJ1VGNDdWFQVzFvb21DNklmV2xhZTN1V1FxVFlDYjVwLTQ4U1NyUVNzaGgzaWVEalZRY2NMdVZvY1BYb092dFJDdW1oQmk2OVBGZlNXNl8wU3JpS1U0aTBqU1ZtV1R6dFZWcEYwMC1Bd0xJWVQ4TDdVZFV0SU8yZkkyeF9LX0d5anM2RHdHUUFoSmtWczBYNloyRFpkWUE2ZnhDRHdXOTJFTUZ0SnNlVGlnUnZsQVVEQmw5RnpvUHVWV1RfazF6R0VNWGpsYlE?oc=5) - _Moneycontrol.com, 19 Nov 2026, 10:31 AM IST_
 
 </details>
 
