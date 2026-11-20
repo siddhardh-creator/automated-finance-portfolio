@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "20 Nov 2026, 07:53 PM IST",
+  "generated_at_ist": "20 Nov 2026, 11:34 PM IST",
   "as_of": "2026-11-20",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
@@ -57,6 +57,12 @@
       },
       "news": [
         {
+          "title": "Maruti Suzuki - IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades",
+          "source": "The Economic Times",
+          "published": "20 Nov 2026, 01:56 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNW10aV9CTVdfcVdidlZ5VjAzWkkzRXBNdDBTYVVUNW5CQU9zSTZJVGNkUWduZE1qTkxHVlZQYWNuWVJGQlU3X3hrY1I2OWxNZDc5T1RlRUx5d1kzLXJrR0JGYy1DYnB4NWZEOUpTNTZBNG82TEhwcDFFUGpxbXlkYTNrS05KMjM1WXJobDhVSHNHMEJrR2NWRXZlY0k2Z3cwWWRYWk4zajRGNFQta3NrRHNSZEJSWXQ0SEdXRV9qcUFOS2hwRjJYRVQ1bFp5UVdtSE43VENVWTd6Mk5YeXZ3X280YjhfRVdCaE9HVA?oc=5"
+        },
+        {
           "title": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History",
           "source": "Economic Times",
           "published": "20 Nov 2026, 10:03 AM IST",
@@ -69,22 +75,16 @@
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQSFhFZ3UzY015aXZ5akh5amRGbUhCZ3huN25aMmxZX1pNbUxxeWtfWW1aOGJaejZObEI2YzBEYmNmTTEyX21Sd2JTZFJ4LVNJaHJZQTdleExSUUg0YWIxbFlja3A2QV9RcU1oRGpiNVZIS1hmY0dGZnViX3AxTG5fUG1lYW1QM0VoZV8yVVZzZkNFSHlDRE94dXNHRy1FVXV4bEd3WEVYVjFvXzBvZ0lXVVliOVpCdUJ1Z1FneFFJSERobEVyZ0dITGdQT29IbFlkNHotRzhxUWx6cjJWTXRKbDQ4M3ktTF9VLVBFSkJXemtSazhHbWFlLW1KOG90MlJ0d2I4Z1Y3QVVHTzJ2MC1vR2hOUWxlQjB0TDM1ejRlTQ?oc=5"
         },
         {
+          "title": "Maruti Suzuki India - Positive Breakout: These 5 stocks cross above their 200 DMAs",
+          "source": "The Economic Times",
+          "published": "20 Nov 2026, 07:31 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa2ZVa0VoNmtZcGNqOTF6MlZfME5yZm9MVkVZd1BVLVFzak5XUkMxUnlFOUtlN3JDdXBRSWVXQW9YQTh5MDk3MFUtUHFiZUZZeW1RZHZPQjVucVh3UmwyZ0l3U0toOFRSdnlFUDdBLVlRUDZhU2VneF9FelpzQ0xPRFFtTXdmOHpaY3BBWS16OXFPMThqOVEyM0Z3UnFSZmFnek9YX1Y5dUQ5aGNCRGkwNFhBNlVhSHlSOVZuOEpoN29zNFdGUkJNYjFpMUk3T2VpSGg4dFNnU3dBa2JkRm5McDdjZFRTdw?oc=5"
+        },
+        {
           "title": "Market wrap: Maruti Suzuki, Eicher Motors, TCS, Tech Mahindra top gainers and losers on Nifty and Sensex o",
           "source": "The Economic Times",
           "published": "19 Nov 2026, 06:06 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNTNKWDVMNlI3Qjhkbzh5M3VEODZtZDlQcWxGRGxxM1Q4WlBYM0lzUjkyZWJwOGx4LVFaLWxnUGFCYmF1SFpaYUlHQ001d3ZJZHhEWHkxWW45UWlwN3hPWUxQRS1tNmlEa0pkejlmRjU5Um1BMGdma2JEZTNHc3VRemxkLUxXZTRZRkw1UW9hNVVWam5ybXBNRy01a0JycDV6NHBOS3ZmLVRwdG1UZ3BIaTFWVkpyN2tJdzV2Q05EVGdGeS1nTExSNjlCekJxS2ZPWUFyOEVVUkxpcFZDbXBkRTA4Vjc2THUwekVoSGwtZTU4d3hlVnk5TTJHOXBlcUVaMUJuc2VDeW5mVXY1VEZUbHlMazB1ZnFDeS1fWTFyemrSAZoCQVVfeXFMTnd1NGl0ZmJ5ZHlCYUswR3ZVWC1qOU04SHdOR0tDclhocFhudzlzcjF4RHE5UEdWanhLVG8xVW9pdHVjSmRUUnBoWTdXbU1NUEc3dm8wYUFpZ2pTdUJMMkJoeUVjR2dvVlN6ZzVLNVktbWlvVEo2Z2k2RjBQNi1tTnhPT2FGOVpZcUt6N3RFVTRrMjdOcXdvRXhkNjlueURLalVhZk0taUl6SE5uek11ZmNtZnA4X29RNVhMV1U5S3Blc1BnUFZoV1FvWnlteHkxY1YyR29jR3dpTDZvd1pVUjBwYTdld3pWTHU1MG50bnIwUml3MVFISXdDUWlOb2ZLNUZrRlAzX183bXNsREVhUGU1QWx5b2YyQ0xB?oc=5"
-        },
-        {
-          "title": "Maruti, M&M, Hero Moto, Eicher rally up to 5%; what's driving auto stocks?",
-          "source": "Business Standard",
-          "published": "19 Nov 2026, 10:46 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLWl5RXlRQy1SMFViZWFGLTRkZHQ4VkFGUEZjNmdSc0RQdmJCODFyVENjMlhDd19QS0N1b3lEYjh5MklBU3Z5MmZ5RjZlWV9wOWY0WlRtX3ZsaGo3bjNWc203UnFGaUFZM1M5bjB5YS1KZmRYY0EzX1dPdGk1Sk5QRm5leEUtYW52bjFreXd2MDhmVC1PQUZTYjlScEdxQ0JYUm9PTnVYWEFWTHN0X1NZZmFGeURwM0pCdHBaVXNfX0h5X3lBZlBDMG8tYUZpSUxW0gHWAUFVX3lxTE12ZHlNaXE3S20zUXRfNlhmbXR5QTQ1QUdiNHRxUTJXT2ZfZGh6TFpXb2pYME5SVHJEcy16dlZFdGtiSGNqY1Q4ZTJ2UTRxSzhJYUtqd0RCbTBQTnBpUnBlVVdoRnptLXotTk1jcEN0QmtFc1FZUzFLRmZzdXlMaWZXZzkxdkY0V0pxVzdEQ1NLRkNEczVoTlNCcUIwQy1FdnZQVzJLWXM0bkVSQlU1b3BtZ0dGb0VkZjFnX1d0YXcxODBTSTBLLTVURFF2YmdRZ2ludVducVE?oc=5"
-        },
-        {
-          "title": "Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6%",
-          "source": "Moneycontrol.com",
-          "published": "19 Nov 2026, 10:31 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN21KNmJoLVNDaTBMM2pBS2lZZFNRMktzMUpUTlNNZzNxZWJTV1QycWV6UmVpQjNQRUlCeDZtZ3lxYXlHNmV4LUR2eVNEQXhDYXZNbTh1RkFLM0gzSG40clZqMGhkdzhVTUY0Q1BWck94R3EzdmJkSjg4S3J2Z1VDV0xHamZBbVE1TkMyMzRQUzM3TFpJYjJhWXRmTUlxbU5kV0dpcTVkRzBkaWtaNDBfcVYyU0ZlN2gzSW5lZ2l4RkloMVRuOXZ2OFNHdHI3WU9pMVpORThYOURBaTNnMG1IZG9rNVlqalU20gHuAUFVX3lxTFAzcVVIdzFRWWlLX3hDNjRyZjJ3b3VxR3NWQVJtNE1LaEJ1VGNDdWFQVzFvb21DNklmV2xhZTN1V1FxVFlDYjVwLTQ4U1NyUVNzaGgzaWVEalZRY2NMdVZvY1BYb092dFJDdW1oQmk2OVBGZlNXNl8wU3JpS1U0aTBqU1ZtV1R6dFZWcEYwMC1Bd0xJWVQ4TDdVZFV0SU8yZkkyeF9LX0d5anM2RHdHUUFoSmtWczBYNloyRFpkWUE2ZnhDRHdXOTJFTUZ0SnNlVGlnUnZsQVVEQmw5RnpvUHVWV1RfazF6R0VNWGpsYlE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObkNUeVVzV1BveFhiOXZQY2FkcUhzSGpUTnNfbHR2YVNOUEEyUXFqX1pFdVZxZ3M5cDc4SnYwYkdKS0lpUU9YYTNoV2l1ZGstVUhWVXdCSEs2X0xnbm5oMGVydm4tSXRFWEFwR3BqV1NWdU9paGZaZ1FBeW9EVW5ieWpmR1JlNGxlb2RWQTZvc0g3YVl5NXR4YVczTzNab05kUFM2eTlfb29zV3FnZ2x1Y1Vpa3JDRXgwdENsaTNkTUhhZ08xRU9lb19fZU1tNkdPQWJhUFRzNm54UU93RzI4UE5HZjVkY1FGYTlXZ29YcmR3QUZtT09Kc25mang0cTEtckdJM0VxSWMtYUFpY3ZqUHFMSlPSAZoCQVVfeXFMTnd1NGl0ZmJ5ZHlCYUswR3ZVWC1qOU04SHdOR0tDclhocFhudzlzcjF4RHE5UEdWanhLVG8xVW9pdHVjSmRUUnBoWTdXbU1NUEc3dm8wYUFpZ2pTdUJMMkJoeUVjR2dvVlN6ZzVLNVktbWlvVEo2Z2k2RjBQNi1tTnhPT2FGOVpZcUt6N3RFVTRrMjdOcXdvRXhkNjlueURLalVhZk0taUl6SE5uek11ZmNtZnA4X29RNVhMV1U5S3Blc1BnUFZoV1FvWnlteHkxY1YyR29jR3dpTDZvd1pVUjBwYTdld3pWTHU1MG50bnIwUml3MVFISXdDUWlOb2ZLNUZrRlAzX183bXNsREVhUGU1QWx5b2YyQ0xB?oc=5"
         }
       ],
       "announcements": [],
@@ -123,7 +123,7 @@
         {
           "title": "Ashok Leyland Investor Analysis | StockIQ",
           "source": "The Economic Times",
-          "published": "19 Nov 2026, 05:08 PM IST",
+          "published": "20 Nov 2026, 06:44 PM IST",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGlxVU9MY3ZCNGg5Wjc5djA2Mkhvckg1cW9QLXppd3BSdG5HVFdqcUdiVmtXcEtqREFIcXFLMUlSTEJ3UnhhNnQ1MUk3bG0wbm8xMGZUOV9mN2szX0NXZzBDUmVEOGMwN200Z0kxSHRNajlJdmxQbkU0Q3BSa3BZMU40VDBaRU5sWUtUN0NR?oc=5"
         },
         {
@@ -143,12 +143,6 @@
           "source": "Livemint",
           "published": "18 Nov 2026, 12:38 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDNuUXdiZjNDa3kxdzFDSF81X2VabGZ3YnB2aVhvV2Y5aURkVFRfLWZ0SlhFY2xBSXhPN3lrcFFwekwwbHl1VWNOa1hWNjk0emVhSjhTcmRjRm16ekhMOU1TSGFBaXp1cWU3QjFlcDU4dnlzY0d5b3cwRHhEMG9UUmhpLVpENzhNQUZKLWk3UllEZzRCa2dLS01NSEprZldheFVydUVJdXN6aHNhZF96NFFQT08xU2tHeEoyT1U5N3E1UdIBxwFBVV95cUxNT1NkWjFnYzh6WFNHRzA1bGZaUEl1RGtXMFFRVDBEbG1iZzE0azZpcmhpNFJfYkpZa25xTkNtbVRvQnR6Z01IdHgxdElyQml3UC1VbHdyTW9HaVFWeHcya00zb3d4WWV4WWxORkxmRU0yX2ljd3BGck1DY3A2eW0xemtVNHBiMGpCWWw4UmJwNHhHZEFuR2lpLXV5cWVidzYxQU5pemtibFdtOTg1MzFrUTBsS001Q3d3ZkN3ZVNPcVNZUHFHaHRF?oc=5"
-        },
-        {
-          "title": "Ashok Leyland initiates system audit amid discrepancies at Hinduja Leyland Finance",
-          "source": "The Financial Express",
-          "published": "17 Nov 2026, 08:51 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQmhmU1FJZE9HX1kzUVZ2QWZ3VjRIeW5Id3c5MlVQNmJKZ3ZyQkd2cGxmY1dNbVRmYW9scS1RUVYzTDV4bjlneE93OUo5djd6ZXZNeHdfSUxPb1dPNEJ5d183dnZqMUFEQ1lhMGlRc0NXMk1NWUJ3VVNuOU9PYUszaW1FSnFOQV9wTTFrdnpqZ01KZE5Vbzh4UFNkRWtyS1plc21sLUlBM1h0M1Y1RldWUmFaYlR6MUVfOVQ2cUR2VUFXVXduTDBwcWx0STVQeVZNVG9ZSNIB2wFBVV95cUxNb0RfOFMtS3hmaHVBUXVlOTlCN3NSZ1R3VUFLVTVTR2VTc0xjc2p2c3A5ZThEYzBydEl1T19YM05XZW54eE44SDVZQzFJNm9sNzhkSHpQOTFKSFI0MllYVTVoOXZBZ1l0Vk1ZWHdYNEFSVlBqR1gyZVdTWDl6Si1LY3Z6cW80REh1cHpoS0IybDFZeUViTEpSSERRSnhEQ3dqYVRIWUc5YW1yYXRQTkVrZHBwTkVWaWp1VUhpM2tCS2UtZjJyRGd2UUQ3Y0tGOUJ5bW9TZjB0YzJpNkE?oc=5"
         }
       ],
       "announcements": [],
@@ -259,12 +253,6 @@
           "source": "Investing.com India",
           "published": "19 Nov 2026, 03:14 PM IST",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1NFLUlZZnNOMlVHdWc1M2lSNXN0WmNrR3MybkhLbFRsWEJ0bXdfQldJQ25MZHlXNU03cENhZ2RXQ3lHZHBweUJ2aW1lYWRzTV9pdFZrQzMxQjcyczgzb0xmTFdQZTBOVllMQ3lPX2MxMGF2MjRJU2hDV29CVFpkRGtvNDRJdkMxdy1UelJfNUxVWU42Ym10YzZmSEd0MGdWZHJURjQ5czZqVktYemNmNmtKNHhlUWl3UDRTNkhFSV9ocHRERGdlalR3N2Y?oc=5"
-        },
-        {
-          "title": "Linde India to gain 133 tpd ASU through $13m Airtech acquisition",
-          "source": "gasworld",
-          "published": "17 Nov 2026, 05:56 PM IST",
-          "link": "https://www.gasworld.com/story/linde-india-to-gain-133-tpd-asu-through-13m-airtech-acquisition/2264317.article/"
         }
       ],
       "announcements": [],
@@ -444,16 +432,10 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObFFWZDBYazlPX1pvOFJ5QnFzZ2FidE5hYVNWQ21hd1Vxb19IZUZlTmVEVUZRM3lvNV9hSVo4X1BHLTFqRjJTZkZONzl5SGlmUEZ0MmloaXVJNVNHM2lUTEZRaHBUdDd3dldHRzJiSW51MGlpRmlmZ0JyS1I5d1FaRWpxOV9RMDgtYXpRYlI5RWY?oc=5"
         },
         {
-          "title": "Jio Financial, BlackRock invest Rs 246 crore in mutual fund JV",
-          "source": "The Economic Times",
-          "published": "19 Nov 2026, 07:23 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdnlrRE1LS2VPZ1FXMEkxZ0lXRTlUWHoydVRBcjYzcWxGM1E1dFRnQUpvOUIyd1ZRSUIybjVpbHdaUzZVNjk4LXFmLXNnV3dURmxZUV94Y1U3MmdyR3RkUFlJQmtoNG50ZTQxUnRnck1UdHZPRE9ZTUFzaWl6ZWJRQThBZXJubktKLU94aDgwTzJIX0FXdHBCcUNNN3AtQkRWX25zeVE1U1RRY2RmTENDNVBGakltcmtHM0tibnU0T1N6WnYzMTBoWXVWT2xFdHIxUUR3dzFn0gHWAUFVX3lxTE12eWtETUtLZU9nUVcwSTFnSVdFOVRYejJ1VEFyNjNxbEYzUTV0VGdBSm85QjJ3VlFJQjJuNWlsd1pTNlU2OTgtcWYtc2dXd1RGbFlRX3hjVTcyZ3JHdGRQWUlCa2g0bnRlNDFSdGdyTVR0dk9ET1lNQXNpaXplYlFBOEFlcm5uS0otT3hoODBPMkhfQVd0cEJxQ003cC1CRFZfbnN5UTVTVFFjZGZMQ0M1UEZqSW1ya0czS2JudTRPU3padjMxMGhZdVZPbEV0cjFRRHd3MWc?oc=5"
-        },
-        {
-          "title": "Stocks in news: Jio Financial Services, IIFL Finance, Nalco, LT Foods and Samvardhana Motherson",
-          "source": "The Economic Times",
-          "published": "19 Nov 2026, 06:00 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNc0I0YUJRSi1xX0s3cFRRMW41OGgzT2U4SVdxdUVjU2w1bWpiUnZsd3g2cDE1SWMwYzRQUmhnTnNTdXJYUmVLYUhobGRBSUJwck9oWXJZOU9Sb3lJQmdTZjlqSjg2ajZ6clJ1cGpiWW5ZMmpIbHVsSHBQWlRLVXN0dDNuaVVLR3Z6WGg1LWlYSFJpdmJuOXpNenRObTlFZXlhQ1FkLXRTYUVzU3NIZWhWM2g4Sl9sTUNEczZGM1VKSHVfQ2UydFRWYTlkT1dNeVkxR1lJcFU2bmhwejNBczU2THJfTzJMRXI0MEdNU1QzbHVHRlQwRE9jLURnaFVhQdIB_gFBVV95cUxNc0I0YUJRSi1xX0s3cFRRMW41OGgzT2U4SVdxdUVjU2w1bWpiUnZsd3g2cDE1SWMwYzRQUmhnTnNTdXJYUmVLYUhobGRBSUJwck9oWXJZOU9Sb3lJQmdTZjlqSjg2ajZ6clJ1cGpiWW5ZMmpIbHVsSHBQWlRLVXN0dDNuaVVLR3Z6WGg1LWlYSFJpdmJuOXpNenRObTlFZXlhQ1FkLXRTYUVzU3NIZWhWM2g4Sl9sTUNEczZGM1VKSHVfQ2UydFRWYTlkT1dNeVkxR1lJcFU2bmhwejNBczU2THJfTzJMRXI0MEdNU1QzbHVHRlQwRE9jLURnaFVhQQ?oc=5"
+          "title": "Jio Platforms shares gain over 26% from IPO price: Should investors hold, buy more or book profits? What experts say",
+          "source": "Livemint",
+          "published": "18 Nov 2026, 01:50 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPcFNlcW5JLXBzZ3Z2Ump2YVA3X1dKT1ZsWHlrNXMtc1d0UThzQnlGUEI4ZDZhWHhKUE90TWQ1SjdEVmJXMnRCdi1IZkkzckxOM3pkMU80YkllNmxGSW5DWEZKN3hHNE5mRkNXRXJYU195RnBHQU9xX1dhQ1NSS2xNVU56Z0ljczlBQlpwUnU5a1E2VnJMV1ZVc2wySlREVjc0R1Rmd2MtUVF6VEpheUEzc2hTUGVfTWNOTG9feDZnRGdPVTVVOXREaEV5bEJRdUU5OGpwMXZFdU1xTlZIOHcxVW5XVEJBOHZ1VWgtakhwb2lnb1Jla1lBZ290d3FZM1A4R2RjWUhtSVlxN3FlMFJN0gGUAkFVX3lxTFBMMURoQ3pMeUpoNVJ2VUw0ekhEWm82WkdPREo4OVY0WVdsTnVVTmZfckQwWkJ6QVJEZS01Tm9DcWZHUVhqRDl2eE5xU3FyY1JmRVR2NDFIbnpqYnVQWnk4TC1IQ01wbzlrOHJCSzByTXg4cnUzaGFjakNEZjlrNEk5Wk5ZNzJTMjVhcmFySVJxSWlQb0x0aTNKNk8xY3g5Z0tmQW9XZUtsXzBfWUVzSWFmM3VpYmlMZnlBMVhBdDlZczBwUGRXaWRaU0F1WGZlM0F5NTl4OFVBOEt2Z3NpVnhLVnp3TVVTMGpQUVRqQU5EVjdtNEFMbkh3WFQtLWJ1ZlctbTJOcG5ISXdRWjBpa2pJb2ZYWA?oc=5"
         }
       ],
       "announcements": [],
