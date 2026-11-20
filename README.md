@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 20 Nov 2026, 07:23 PM IST  |  **Market data as of:** 2026-11-20  |  **Start date:** 2026-10-16
+**Last updated:** 20 Nov 2026, 07:25 PM IST  |  **Market data as of:** 2026-11-20  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -57,7 +57,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 20 Nov 2026, 07:23 PM IST)
+## Performance (as on 20 Nov 2026, 07:25 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -232,6 +232,8 @@ _Research report coming soon._
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Linde India Investor Analysis | StockIQ](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE9OU3JlUkpUMGRUZ2NRSEdMWUtRTzhzZWNDYmFxRHQ1TjM5RnhVU3M4b3RZUWdNQl94N0cwUkliamRheG8tWWhrWVNORWNCS3BGZEZ0emVXTi1FNkVJUGZ5elFsR2dYRC11OFlUREJ6NXN4NGdoMmdGYzBjbUZtbVl6QXBOU2NXMFFZ?oc=5) - _The Economic Times, 20 Nov 2026, 01:27 PM IST_
+- [Kepler Cheuvreux upgrades Linde stock rating on margin recovery outlook By Investing.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1NFLUlZZnNOMlVHdWc1M2lSNXN0WmNrR3MybkhLbFRsWEJ0bXdfQldJQ25MZHlXNU03cENhZ2RXQ3lHZHBweUJ2aW1lYWRzTV9pdFZrQzMxQjcyczgzb0xmTFdQZTBOVllMQ3lPX2MxMGF2MjRJU2hDV29CVFpkRGtvNDRJdkMxdy1UelJfNUxVWU42Ym10YzZmSEd0MGdWZHJURjQ5czZqVktYemNmNmtKNHhlUWl3UDRTNkhFSV9ocHRERGdlalR3N2Y?oc=5) - _Investing.com India, 19 Nov 2026, 03:14 PM IST_
+- [Linde India to gain 133 tpd ASU through $13m Airtech acquisition](https://www.gasworld.com/story/linde-india-to-gain-133-tpd-asu-through-13m-airtech-acquisition/2264317.article/) - _gasworld, 17 Nov 2026, 05:56 PM IST_
 
 </details>
 
@@ -346,7 +348,6 @@ _Research report coming soon._
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Google Trend: Jio, Bonfiglioli to Mahanadi among 5 most searched IPOs in last 1 month](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3p5WjlDQUlMUUJFZ2tlTV9ZOTcwYXVhN01ydGVVSG1iZElRS25RY0Y2TFdoczI1OXVlUE5yS0NaV2lpWF9obEV0a3BobzRTRHE5NUF5eHdtaXlTYkFrWWZ5WDhNbV9oRDZnTGpMMzBFUC1TeVpPT0lsSmV5UWdwNFJMYVpCQlFNbnFhaVpVdUZXQTIxVE5uTlBoM0RDS0FqQmRjQnhUMHBuSjQxeXplNFl2TmZVcDBwYlB1RFN3Znpyb1pOSUEyRDhlOTdtZF9qOXA2Z2dDMm3SAd8BQVVfeXFMUDBiUmZhLXNLdHNiLXFiQU43V0M5U0NHb0cyMjAtbl81aXNRLXBoQ2ZWUXNRQ28zTHM2b0xzaDNpWHRuUzhBSmVEblp4bFpZVU9EbUJTTXlMXzU0Tm5nT1dGZXFfbHRMaFJ4Q2ZSR2ZDbDcyWUpuaUQzd3I2RWYzZXp6d0ZVUklSYVg2WFExcl90Yjd5VWs4MDlSb1cxWlpRX0Y3S3h0RXdOaUluM2xnZ3Q0NFIweDUyZTdqYnR6WnFHUm1JSVplOXphRThoLTA1N3g1bVRTRnhuVC11MC0wcw?oc=5) - _The Financial Express, 20 Nov 2026, 04:25 PM IST_
-- [Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-20-nov-2026/liveblog/136013310.cms) - _Economic Times, 20 Nov 2026, 10:01 AM IST_
 - [NSE, Jio to Shiprocket: $35 billion IPO lock-in expiry hits 116 stocks by Feb 2027](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYnI5WW15MFFtUkZxRG5CZmhzOUV6SFpyM3NERGZPbVo3U3JBM29uZ2QzSW9DRmpnaXlqS1NLQS1TcnNZbG90aW9wU0Y2NXctWTYtb1ZfU053Y1o0d1EzbEhxanB4dkg0UlNDODRvbEdaZUJ3dVZmRVBRMVhpQlJMZEYxNGFUaGpBc2dVUmZmSlh0TmtGTjZBTjYwRWJEZVBmc3JzcjhMVGVwRnBCbVhudkZmbUdycDFWMV9oZk9FaGRQdGlTMjF1YUZFQmZDZ9IBzgFBVV95cUxOYnI5WW15MFFtUkZxRG5CZmhzOUV6SFpyM3NERGZPbVo3U3JBM29uZ2QzSW9DRmpnaXlqS1NLQS1TcnNZbG90aW9wU0Y2NXctWTYtb1ZfU053Y1o0d1EzbEhxanB4dkg0UlNDODRvbEdaZUJ3dVZmRVBRMVhpQlJMZEYxNGFUaGpBc2dVUmZmSlh0TmtGTjZBTjYwRWJEZVBmc3JzcjhMVGVwRnBCbVhudkZmbUdycDFWMV9oZk9FaGRQdGlTMjF1YUZFQmZDZw?oc=5) - _The Financial Express, 20 Nov 2026, 05:58 AM IST_
 - [Jio Platforms Investor Analysis | StockIQ](https://news.google.com/rss/articles/CBMikAFBVV95cUxObFFWZDBYazlPX1pvOFJ5QnFzZ2FidE5hYVNWQ21hd1Vxb19IZUZlTmVEVUZRM3lvNV9hSVo4X1BHLTFqRjJTZkZONzl5SGlmUEZ0MmloaXVJNVNHM2lUTEZRaHBUdDd3dldHRzJiSW51MGlpRmlmZ0JyS1I5d1FaRWpxOV9RMDgtYXpRYlI5RWY?oc=5) - _The Economic Times, 20 Nov 2026, 05:13 AM IST_
 - [Jio Platforms shares gain over 26% from IPO price: Should investors hold, buy more or book profits? What experts say](https://news.google.com/rss/articles/CBMijwJBVV95cUxPcFNlcW5JLXBzZ3Z2Ump2YVA3X1dKT1ZsWHlrNXMtc1d0UThzQnlGUEI4ZDZhWHhKUE90TWQ1SjdEVmJXMnRCdi1IZkkzckxOM3pkMU80YkllNmxGSW5DWEZKN3hHNE5mRkNXRXJYU195RnBHQU9xX1dhQ1NSS2xNVU56Z0ljczlBQlpwUnU5a1E2VnJMV1ZVc2wySlREVjc0R1Rmd2MtUVF6VEpheUEzc2hTUGVfTWNOTG9feDZnRGdPVTVVOXREaEV5bEJRdUU5OGpwMXZFdU1xTlZIOHcxVW5XVEJBOHZ1VWgtakhwb2lnb1Jla1lBZ290d3FZM1A4R2RjWUhtSVlxN3FlMFJN0gGUAkFVX3lxTFBMMURoQ3pMeUpoNVJ2VUw0ekhEWm82WkdPREo4OVY0WVdsTnVVTmZfckQwWkJ6QVJEZS01Tm9DcWZHUVhqRDl2eE5xU3FyY1JmRVR2NDFIbnpqYnVQWnk4TC1IQ01wbzlrOHJCSzByTXg4cnUzaGFjakNEZjlrNEk5Wk5ZNzJTMjVhcmFySVJxSWlQb0x0aTNKNk8xY3g5Z0tmQW9XZUtsXzBfWUVzSWFmM3VpYmlMZnlBMVhBdDlZczBwUGRXaWRaU0F1WGZlM0F5NTl4OFVBOEt2Z3NpVnhLVnp3TVVTMGpQUVRqQU5EVjdtNEFMbkh3WFQtLWJ1ZlctbTJOcG5ISXdRWjBpa2pJb2ZYWA?oc=5) - _Livemint, 18 Nov 2026, 01:50 PM IST_
