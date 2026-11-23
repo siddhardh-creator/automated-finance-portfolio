@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "23 Nov 2026, 09:05 PM IST",
+  "generated_at_ist": "23 Nov 2026, 09:07 PM IST",
   "as_of": "2026-11-23",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -58,9 +58,9 @@
       "news": [
         {
           "title": "Crash proof stocks: Sensex, Nifty bleed but these shares come out in flying green colour - HCL, TCS, Infy, Maruti - List",
-          "source": "Livemint",
+          "source": "Mint",
           "published": "23 Nov 2026, 01:40 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYjhodGw4V29LV0FyQTBvOEJsREpQZlQyenlpdDFMU3JwQkpzNGt0ZEprNnl5NkNDTzlNUkZwckVqWk4zSUFmdUkwMzhEWFZNU3pOenhOX1lvVDhCeXVaUUVSSjZGd0FCNG5RWFpObTZERFkzNElEMHBRakRmeWhkN08tbi1fZHpPZ1FQSHJ0UHV4NVFRVEFoRTRrdVpIRVM2VnZ1Y0tXX1llQmpPUW55SHExOUpDZFEycXRzNlpUVzJRa2tGWmFtZkZ4cGNkbU55cnNDRlhnVGJvTWdsdmd6cnl2ZEY3X2w4RHo1aWlLdFVhV29jX2FUX1NIeFN5aFRwTDNONWVuT3Y0T0tpVnfSAZMCQVVfeXFMTWwzSjljMjB1OWY2TDBkdUROVlFuUHBKTzlSWmhVMThvZkZMRWx6UzV3OXpRVUNDZVRzRVY2S0ZUUWtTRWdtRnZ1MENPUl82emtZLVJJVTRtN0diQkhSOVAycDBWZlRhVGVQX21JOW5SRGNaTHBQTDFWTFZNQ3ZZNndCMVZHTDJ3aDg2QzduNjlIMENGenczZm9PRm1LWEFqc0p5dnZXM0hVQ18xbmd6cnNVMTZMckZMay1FdDY0NjV6dXdQektsM0hqS2lqcTEtcklWU1hoaFdkV25Fc1o5S1ZCdkN1NlpEd2RSREJYU09mOWZ0a0ZXdjB1Tkx6bzlSb0hIdE4zeG1INDVhajhldXF4RkE?oc=5"
+          "link": "https://www.livemint.com/market/stock-market-news/crash-proof-stocks-sensex-nifty-bleed-but-these-shares-come-out-in-flying-green-colour-hcl-tcs-infy-maruti-list-11795417938149.html"
         },
         {
           "title": "Maruti Suzuki gains 2% on price hike; stock up 14% in one week",
@@ -229,7 +229,14 @@
         "pnl_inr": 500250.0,
         "pnl_pct": 16.78
       },
-      "news": [],
+      "news": [
+        {
+          "title": "Linde India to gain 133 tpd ASU through $13m Airtech acquisition",
+          "source": "gasworld",
+          "published": "17 Nov 2026, 05:56 PM IST",
+          "link": "https://www.gasworld.com/story/linde-india-to-gain-133-tpd-asu-through-13m-airtech-acquisition/2264317.article/"
+        }
+      ],
       "announcements": [],
       "weight_pct": 13.08
     },
