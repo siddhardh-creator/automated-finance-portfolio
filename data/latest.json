@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "23 Nov 2026, 03:32 PM IST",
+  "generated_at_ist": "23 Nov 2026, 05:26 PM IST",
   "as_of": "2026-11-23",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -43,9 +43,9 @@
         "high": 14333.0,
         "low": 13989.0,
         "intraday_range_pct": 2.46,
-        "volume": 1281256,
+        "volume": 1251864,
         "avg_volume_20d": 685270,
-        "volume_vs_avg": 1.87,
+        "volume_vs_avg": 1.83,
         "volatility_20d_annualised_pct": 36.96,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
@@ -58,15 +58,15 @@
       "news": [
         {
           "title": "Crash proof stocks: Sensex, Nifty bleed but these shares come out in flying green colour - HCL, TCS, Infy, Maruti - List",
-          "source": "Livemint",
+          "source": "Mint",
           "published": "23 Nov 2026, 01:40 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYjhodGw4V29LV0FyQTBvOEJsREpQZlQyenlpdDFMU3JwQkpzNGt0ZEprNnl5NkNDTzlNUkZwckVqWk4zSUFmdUkwMzhEWFZNU3pOenhOX1lvVDhCeXVaUUVSSjZGd0FCNG5RWFpObTZERFkzNElEMHBRakRmeWhkN08tbi1fZHpPZ1FQSHJ0UHV4NVFRVEFoRTRrdVpIRVM2VnZ1Y0tXX1llQmpPUW55SHExOUpDZFEycXRzNlpUVzJRa2tGWmFtZkZ4cGNkbU55cnNDRlhnVGJvTWdsdmd6cnl2ZEY3X2w4RHo1aWlLdFVhV29jX2FUX1NIeFN5aFRwTDNONWVuT3Y0T0tpVnfSAZMCQVVfeXFMTWwzSjljMjB1OWY2TDBkdUROVlFuUHBKTzlSWmhVMThvZkZMRWx6UzV3OXpRVUNDZVRzRVY2S0ZUUWtTRWdtRnZ1MENPUl82emtZLVJJVTRtN0diQkhSOVAycDBWZlRhVGVQX21JOW5SRGNaTHBQTDFWTFZNQ3ZZNndCMVZHTDJ3aDg2QzduNjlIMENGenczZm9PRm1LWEFqc0p5dnZXM0hVQ18xbmd6cnNVMTZMckZMay1FdDY0NjV6dXdQektsM0hqS2lqcTEtcklWU1hoaFdkV25Fc1o5S1ZCdkN1NlpEd2RSREJYU09mOWZ0a0ZXdjB1Tkx6bzlSb0hIdE4zeG1INDVhajhldXF4RkE?oc=5"
+          "link": "https://www.livemint.com/market/stock-market-news/crash-proof-stocks-sensex-nifty-bleed-but-these-shares-come-out-in-flying-green-colour-hcl-tcs-infy-maruti-list-11795417938149.html"
         },
         {
           "title": "Maruti Suzuki gains 2% on price hike; stock up 14% in one week",
           "source": "Business Standard",
           "published": "23 Nov 2026, 11:01 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFNUZ1dFekdmN3N1ZDJkbkdQaHQ2S1BQZ3lQUjhZdkZaT0gxNDN2R3Q2dVA3ZG1tY2pWTEkzTFY5Ynd3dnFYTXpmMURVQXhCU1JXQTdCYW1ueU9BamowSF95bU5tcHdKdFIxNGpCZFZuMU9RMVBvSmdqcmhmb01EMmgwcExBUEhvcWJNS0pwODRTZDVVbjhYelgxMWZMcG1Ed21VTENMenJRc2w2azY5Zkt0Rk1BVzNBRkl6aS1PZ1FsajVJ0gHKAUFVX3lxTFBwZ1lMSmlYYURvbGIxbHNlR0hqdmRiWnhndDVpMmwyX1FTdEx6NXplUzV1RDdBcjNVdTE4eHgzeW5PSmhHZTNKYm41RG1oZ3JJRkZBTnN4WC04OVEtZVBrTmtWMjdzUHYzdDd1SlJjRmpEdDR3dUFqT3dwbnJoQS1vMmEzb0Rpb2F1Y3pZR2NRVkNtaEFHZWdBVFM3QngwU0w1Q1Z3RUljT2FTNl9lNjRzMTh1LUtPOXFsSHUwQjNOOGt5QlNxa2Zncnc?oc=5"
+          "link": "https://www.business-standard.com/markets/news/maruti-suzuki-jumps-2-on-price-hike-stock-up-14-in-one-week-126112300269_1.html"
         },
         {
           "title": "Stocks to watch: Tata Steel, Waaree, Adani Energy, Maruti, IndusInd Bank",
@@ -75,10 +75,10 @@
           "link": "https://www.business-standard.com/markets/news/stocks-to-watch-tata-steel-waaree-adani-energy-maruti-indusind-bank-126112300090_1.html"
         },
         {
-          "title": "Top stocks to watch today: Tata Steel, APL Apollo Tubes, Maruti Suzuki, RVNL, Waaree Energies & 17 others in focus",
-          "source": "Livemint",
+          "title": "Top stocks to watch today: Tata Steel, APL Apollo Tubes, Maruti Suzuki, RVNL, Waaree Energies &amp; 17 others in focus",
+          "source": "Mint",
           "published": "23 Nov 2026, 07:57 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjl2UFpxdnlUaVk1SkV1anJqQUtnRWFHU0k5b2V6dXlpTUNmN3hlcTBtM3Bjdk85OWVYbmdnbHoxTUpPZlplcGk4WlR0Q1VXSFpRRTUzTGxnTVdGRk9EdmdRakpjdGt3ak1nY0hJLTN2UjlIWDd3N0s2SEk5Y195ckhwcWl2NnVudW5neXNwTnI3UHlQcTRpME5nZ3Y0SzNlaE5hczhibGM4M1lTU0hyai1mREpJaFNWTUtWZUhMeWktUHRhZFV0YUhpVU02cDZWRHhQaWhQTEtMbDN5Z2dseC1zR1A2ci11R0xJQk5US3ZPME1zcG9Ya1puMDVuM2hPOXJUREdrU1HSAY4CQVVfeXFMT29ZeGRCS3MtajZndFZkeVhIQk9MUDlycnZJTU9LeXF0NUJtbE8zY20zUW9DLVJ1ZkRJU015UDFCc0VDeXFFbmJwSkJtcnVSWUhlcGRaVWtTcVUwYURSM0lZazZFa3J6ckdENk03T1ljcHJWZzhqY3pmS2F2TW1jeHNpV1pEYzZ4YmFmdHZVbnpHb2tZWnNieldrdEhHQktxTXZQd2paNkg3eEFrNmhiTXpFSjdZbjk4Zm9scGl6RnRLb2pLcTYxMjF1dktLS3JTQ3gxNnpxXzY3MTd5Sk1Pb2tRaEtaVWxmcks4OUZ4Z3pFNjFGSXpzXzkwT1JFM0V3TTdLb1RYTi1QYkJNSERB?oc=5"
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-apl-apollo-tubes-maruti-suzuki-rvnl-waaree-energies-17-others-in-focus-11795399384907.html"
         },
         {
           "title": "Stocks to watch, Nov 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies, Premier Explosives, Maruti Suzuki, Texmaco Rail, RVNL, Ashoka Buildcon",
@@ -107,9 +107,9 @@
         "high": 165.0,
         "low": 158.7,
         "intraday_range_pct": 3.86,
-        "volume": 20252215,
+        "volume": 19733136,
         "avg_volume_20d": 24298146,
-        "volume_vs_avg": 0.83,
+        "volume_vs_avg": 0.81,
         "volatility_20d_annualised_pct": 48.45,
         "high_52w": 211.92,
         "low_52w": 138.58,
@@ -120,30 +120,6 @@
         "pnl_pct": 7.43
       },
       "news": [
-        {
-          "title": "Two decades after Tata Nano exit, can Ashok Leyland bring industry back to Singur? What we know so far",
-          "source": "Livemint",
-          "published": "23 Nov 2026, 10:37 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSGNSRjRvN0h4WFRYTjBPaHVaZy1WdlVOVXNTSkdCZ2RUdXJuWHRqSmpCa2VTRDdCTkJldm13QWF1TnF4YlZpMFFzaDFCLUZDSlVKLUNaUzlWVnZvWUVhempXLWk4RDl5UDBDbnAtcGlrckI3bTAwejRTejhqMU1rWUVnT25ubUctZ3Qtd2xjWHlRakNuTkRiMkFEckhvOTF4eVFmUGlFNjRPSENMSGVxdjlTTWRhTDNtZ1RhT25nSlEtQk9XS214RzhjMjBhWlV0dzRCcUlaNGFEU3hnbkl5VW1jMUQ4Vm0tTjlIONIB8gFBVV95cUxQQXl3TmtJOXpHZ3dYZTdHaG1OUjgzaWNBU2c1NTJzWmtDVThHZ0FYTk9IM3B6Wm9tXzB3Z0pyYXBwOVNUWWZWQnpTaXhuajhnYk9BUUFhbURJZXFNdDlPN0xQa1lpOW5wbGZlY0JiRFZ2OFVtZmRjSlRLUm5HVzVXYlpWRVp5SDJOQ0REa2g3dDNwQ2RIalhGRVNnZzlfa0FLY0JMdGNKOVkzWHRTVkU4V0VPNG4xWHo4b2p5eVZtODM1bDBaNmtuMFUzcDZlUVo4dmRxS01XTm9Eb1NVX0ZxMThuUlFHTTJGN25WbXM0Y24zdw?oc=5"
-        },
-        {
-          "title": "Ashok Leyland expands EV push with order of 200 trucks for cement transport, eyes wider LCV market",
-          "source": "BusinessLine",
-          "published": "22 Nov 2026, 10:59 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMDJOY3E0T25CWWZqLXZaN0xXUEduZGxNQzl5ZmlWM1NuWmpPR0NwRHl0czJib09fYjRXbDFULU5ZWWNDbDI1NHVZeFBxd1RiVU9EV2F4VmVxbFNQUURmMkh1NVo0cW9qVnhqWjF0OUdKN1BnTHVzNVRTc242TnE2VHhjRG9tXzRaYnEzMnhuV2x6SDVUMzRXMXhac0U3akFrYlloQURDYWtDLUU5UktHV01lY20yN3JQZ0xCWmZ4VnlHdmZnQS1VQ1UzLUZxNEZmbXBCZWlFOXhJenR0ZlpNeWRzQzZ5RmtfcnVqbXhMUFRKTEVTdG1V0gH-AUFVX3lxTE5jXzdLQi0teV9qLWVpbWo3WWVMb0o4aWNLQldsNUR3VHp6V2pPa1RHaE1GdXRxeHBTX1BSNTJjRXR3LVEwc2dKYWFJakllcU5qSGlzMG9QTnRWblhsQXB4NUhWa0ZWM1N3dTl4VExLNlJNTEh0d3dwaFh1ZGZ0Q3VnNFZ3R0VVMUo4RU5KNlhqdTMzazJoS3lJdFNQUjJjLXlibElBWkZjZ3lLM0FBVFdNbDV1N3MxelN4SHBsbzdwYXc1YmFuZWJDcFpDRW1vT25iR0xhajVPUjUyc3p1LTVPcko0UW94ekV2TXp2X0ktVEppTkVVNVVtSkh3U3JR?oc=5"
-        },
-        {
-          "title": "Ashok Leyland truck plant to be set up in Singur, work to begin soon: Sukanta Majumdar",
-          "source": "BusinessLine",
-          "published": "21 Nov 2026, 07:28 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNWJlT1haZzBtUk5xOWpFR2xRV2cySXlJVEhpeVFKMmprUVdqS00yU1ZXXzRYQ3ZFbFBDQi1lY1BYTXd3Q3oycmZ4U0V1XzRnUF9Od3BBc0QtaVJ1RjFuMmxxbDByNjc1WktJd2t4R2xXQTRCd3RvZXZxSV9EM0RrZjV3c0JtcklSRV9oOEtmYzNXMzlLX2ZxWXhrZXFrQ3I3TDN1Nkh5cGljdkE1a055VGFNRm4wQU5WWFdJZGo0ZjFZVTJZV1E0cWFpc0x0Z2pvbkNtNDhMc2F1eFh2Tm1Xa3hzVDlSUdIB7AFBVV95cUxNTXpITXVKWFgwX3ZBZHd5YUpjbUwtdlN2YnRwRVZsR2h1eWJZQ012WXllYWdSb0dOWFNVZUdWaVl6SFJfdWxzX0VaMXhpVTJQUUFEd0k1T2FWd1VXcVdyRjZ3TDhCRnk2WmVXZm1jZ1ZfdXhSVjYzTUJzZS1mQUExbjBSaXA0NWxMNDdRZTNxYlh6blpnTUtRQ05kVUY1SDRfeVlOWnZvQjJ2WDZnRFhlcm5sZG5LNWVxclFVMEpPNlRvNVpKTDM5ZFR3WjRVVWk2cWo3OVJoYjZidGZ4NFl6WUM2WFliZ3FaQmtxNw?oc=5"
-        },
-        {
-          "title": "Stock Market Update: Stocks Radar Ashok Leyland, ONGC, Rain Industries",
-          "source": "NDTV Profit",
-          "published": "21 Nov 2026, 06:11 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGFGa28tSUpjSjljampOUk9fYVF6eFgtUXBRS0tMYUZfeGQ5SEFNSHhndWFmNTh6NG41ODJnVC1uVmRWQmlsMHJNcUY1RFR3b2ZQNjh0cERUR0Vzd0V3Wkt3ZXdxemdjM0tUQjJZV3dSZDc3S3VaT2M4YmNfOERmdDNVNFpTUHlfWmhUcDFYOUJteU15TFE?oc=5"
-        },
         {
           "title": "Ashok Leyland Celebrates Milestone Delivery of 1,000+ Vehicles to Thriveni Transport and Logistics",
           "source": "Ashok Leyland (official newsroom)",
@@ -171,9 +147,9 @@
         "high": 8275.0,
         "low": 8126.0,
         "intraday_range_pct": 1.84,
-        "volume": 792276,
+        "volume": 760967,
         "avg_volume_20d": 574796,
-        "volume_vs_avg": 1.38,
+        "volume_vs_avg": 1.32,
         "volatility_20d_annualised_pct": 27.67,
         "high_52w": 8190.0,
         "low_52w": 6586.0,
@@ -211,7 +187,7 @@
         "high": 7099.0,
         "low": 6567.0,
         "intraday_range_pct": 8.09,
-        "volume": 212371,
+        "volume": 212370,
         "avg_volume_20d": 46834,
         "volume_vs_avg": 4.53,
         "volatility_20d_annualised_pct": 51.77,
@@ -251,7 +227,7 @@
         "high": 86.79,
         "low": 85.0,
         "intraday_range_pct": 2.08,
-        "volume": 6142,
+        "volume": 6125,
         "avg_volume_20d": 46357,
         "volume_vs_avg": 0.13,
         "volatility_20d_annualised_pct": 70.55,
@@ -284,9 +260,9 @@
         "high": 1983.8,
         "low": 1936.0,
         "intraday_range_pct": 2.47,
-        "volume": 1431928,
+        "volume": 1415699,
         "avg_volume_20d": 3715231,
-        "volume_vs_avg": 0.39,
+        "volume_vs_avg": 0.38,
         "volatility_20d_annualised_pct": 57.87,
         "high_52w": 1979.2,
         "low_52w": 601.35,
@@ -297,6 +273,12 @@
         "pnl_pct": 18.01
       },
       "news": [
+        {
+          "title": "Rupee retreats with stocks as rally takes a breather, positive bias lingers",
+          "source": "Economic Times",
+          "published": "23 Nov 2026, 03:58 PM IST",
+          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-with-stocks-as-rally-takes-a-breather-positive-bias-lingers/articleshow/136098391.cms"
+        },
         {
           "title": "Bulls take a breather! Sensex dives 1,500 pts intraday; a short-term blip?",
           "source": "Business Standard",
@@ -342,7 +324,7 @@
         "high": 166.85,
         "low": 158.25,
         "intraday_range_pct": 5.22,
-        "volume": 16199005,
+        "volume": 16097503,
         "avg_volume_20d": 11787747,
         "volume_vs_avg": 1.37,
         "volatility_20d_annualised_pct": 39.64,
@@ -354,14 +336,7 @@
         "pnl_inr": 27679.99,
         "pnl_pct": 21.08
       },
-      "news": [
-        {
-          "title": "Best 3 stocks to buy under ₹200: Jammu and Kashmir Bank, Canara Bank, Bank of India by Mehul Kothari of Anand Rathi",
-          "source": "Livemint",
-          "published": "21 Nov 2026, 06:30 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOczZxZDkwdEZrYkxuVmZFaWN6WDAzakFXTnd2MDJiU29DQkViSmE2WnlCV2ZIckZTN3h3THF6UTU2eWplbE5feUFfMi1oVzJYTjNBZVpWUnlzU3kwTFZSaTQyT3UzYzExLXR6TjFIa0szLVJNbVhoTnllRkV5ZDdTc283VWpnc2Zza1lFRTBLY041WFNUT194bEpTV1lfaXBrZzR6SW5pWlZOYlZhX05zWkpUN09Wa1U1a2RvUDVyOEh6cnkzd2hTVG1lem5wR1Zpei1tQWNKejQ0Y1ZwZ3Z5empicDV4UW9fbWpORC1OZmhQdjVNZ3EwZXN6YjN2elp5a2NGTFlxSURGVzBGLV9WSld30gGXAkFVX3lxTE1CV2I2NG54MnRha3E2d3JiQkd4b2NMOC00T3JsRlJGRGo1YVZDZXBXSWx6Y2JmSGl2d0tfV0xRcGgzaG9hSTFQc0Z4TUxydmpjaGJxRmNDaEROTGsyRldHM1dKQmp2WEUxa080MURWR0tWUG5fVlExcEFGSmROQVQ3UkwzS01uSmlGMmhxTElnVnM0dXRscmlsUXdxVmxyVkkxeTl5Wm02SDFXcG9qdUlVQUdKclU3QkE4dGw3MGstbFdlWmR3QTlfQURNc3paMS13ejZSVGlnOXBjWlZZT3M4RXlUV3BVWTU5NFAyTUNrN3g4dEtrdlR4aGRHYXZsZ3N5ZVptdTFjQ1Q3bnFXeTh2MUxmMUZRWQ?oc=5"
-        }
-      ],
+      "news": [],
       "announcements": [],
       "weight_pct": 0.6
     },
@@ -382,7 +357,7 @@
         "high": 1394.0,
         "low": 1365.0,
         "intraday_range_pct": 2.09,
-        "volume": 2512704,
+        "volume": 2512685,
         "avg_volume_20d": 20910590,
         "volume_vs_avg": 0.12,
         "volatility_20d_annualised_pct": 10.95,
@@ -400,12 +375,6 @@
           "source": "The Economic Times",
           "published": "22 Nov 2026, 10:35 AM IST",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGFraVdhVlJ0ai1QTWxJTm0tRzgwdlBVX3B3SG4zTFJfWlljaWFSQjB5ZDg0VnFxZGdpLTM3TjV0aGJyUXFNeFZudV9INlRsNG9DLXplaEF1N1NyLVJkdHpCNU1DT0F3M0VIZ3Fqd0NPczQ4QVoyc2dPTlk5V1hDTkYzSmtjd2h2MWhCNnNHRDAtYTNLSThwVWJOMXQxVF9Ld09ub2U3dEtkbTZadUtJVmpBY05uSnFlNk5RY2lnTkFWUnd2Z0REN3Z5dE5wTnRZV0gwbVdBUjR4dVk?oc=5"
-        },
-        {
-          "title": "Google Trend: Jio, Bonfiglioli to Mahanadi among 5 most searched IPOs in last 1 month",
-          "source": "The Financial Express",
-          "published": "20 Nov 2026, 04:25 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3p5WjlDQUlMUUJFZ2tlTV9ZOTcwYXVhN01ydGVVSG1iZElRS25RY0Y2TFdoczI1OXVlUE5yS0NaV2lpWF9obEV0a3BobzRTRHE5NUF5eHdtaXlTYkFrWWZ5WDhNbV9oRDZnTGpMMzBFUC1TeVpPT0lsSmV5UWdwNFJMYVpCQlFNbnFhaVpVdUZXQTIxVE5uTlBoM0RDS0FqQmRjQnhUMHBuSjQxeXplNFl2TmZVcDBwYlB1RFN3Znpyb1pOSUEyRDhlOTdtZF9qOXA2Z2dDMm3SAd8BQVVfeXFMUDBiUmZhLXNLdHNiLXFiQU43V0M5U0NHb0cyMjAtbl81aXNRLXBoQ2ZWUXNRQ28zTHM2b0xzaDNpWHRuUzhBSmVEblp4bFpZVU9EbUJTTXlMXzU0Tm5nT1dGZXFfbHRMaFJ4Q2ZSR2ZDbDcyWUpuaUQzd3I2RWYzZXp6d0ZVUklSYVg2WFExcl90Yjd5VWs4MDlSb1cxWlpRX0Y3S3h0RXdOaUluM2xnZ3Q0NFIweDUyZTdqYnR6WnFHUm1JSVplOXphRThoLTA1N3g1bVRTRnhuVC11MC0wcw?oc=5"
         }
       ],
       "announcements": [],
