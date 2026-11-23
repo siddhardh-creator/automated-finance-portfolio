@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "23 Nov 2026, 12:32 PM IST",
+  "generated_at_ist": "23 Nov 2026, 01:32 PM IST",
   "as_of": "2026-11-23",
   "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
@@ -7,23 +7,23 @@
     "capital": 24598730.0,
     "initial_capital": 10000000,
     "invested": 17058760.0,
-    "holdings_value": 19539170.04,
+    "holdings_value": 19446869.98,
     "cash": 7142481.89,
-    "value": 26681651.94,
-    "pnl_inr": 2082921.94,
-    "pnl_pct": 8.47,
-    "unrealised_pnl_inr": 2480410.04,
+    "value": 26589351.86,
+    "pnl_inr": 1990621.86,
+    "pnl_pct": 8.09,
+    "unrealised_pnl_inr": 2388109.98,
     "realised_pnl_inr": -398488.11,
     "dividends_received_inr": 1000.0,
-    "day_pnl_inr": 340180.07,
-    "day_pnl_pct": 1.29,
+    "day_pnl_inr": 247879.99,
+    "day_pnl_pct": 0.94,
     "open_positions": 8
   },
   "benchmark": {
     "name": "Nifty 50",
-    "close": 25512.4,
-    "return_pct": 10.86,
-    "day_change_pct": -1.12
+    "close": 25464.35,
+    "return_pct": 10.65,
+    "day_change_pct": -1.3
   },
   "stocks": [
     {
@@ -36,31 +36,31 @@
       "first_buy": "2026-10-16",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 14252.0,
+        "close": 14140.0,
         "prev_close": 14011.0,
-        "day_change_pct": 1.72,
+        "day_change_pct": 0.92,
         "open": 14225.0,
         "high": 14333.0,
         "low": 13989.0,
         "intraday_range_pct": 2.46,
-        "volume": 933790,
+        "volume": 1042177,
         "avg_volume_20d": 685270,
-        "volume_vs_avg": 1.36,
-        "volatility_20d_annualised_pct": 36.76,
+        "volume_vs_avg": 1.52,
+        "volatility_20d_annualised_pct": 36.73,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
         "shares": 290,
         "base_price": 11489.0,
-        "market_value": 4133080.0,
-        "pnl_inr": 801270.0,
-        "pnl_pct": 24.05
+        "market_value": 4100600.0,
+        "pnl_inr": 768790.0,
+        "pnl_pct": 23.07
       },
       "news": [
         {
           "title": "Maruti Suzuki gains 2% on price hike; stock up 14% in one week",
           "source": "Business Standard",
           "published": "23 Nov 2026, 11:01 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFNUZ1dFekdmN3N1ZDJkbkdQaHQ2S1BQZ3lQUjhZdkZaT0gxNDN2R3Q2dVA3ZG1tY2pWTEkzTFY5Ynd3dnFYTXpmMURVQXhCU1JXQTdCYW1ueU9BamowSF95bU5tcHdKdFIxNGpCZFZuMU9RMVBvSmdqcmhmb01EMmgwcExBUEhvcWJNS0pwODRTZDVVbjhYelgxMWZMcG1Ed21VTENMenJRc2w2azY5Zkt0Rk1BVzNBRkl6aS1PZ1FsajVJ0gHKAUFVX3lxTFBwZ1lMSmlYYURvbGIxbHNlR0hqdmRiWnhndDVpMmwyX1FTdEx6NXplUzV1RDdBcjNVdTE4eHgzeW5PSmhHZTNKYm41RG1oZ3JJRkZBTnN4WC04OVEtZVBrTmtWMjdzUHYzdDd1SlJjRmpEdDR3dUFqT3dwbnJoQS1vMmEzb0Rpb2F1Y3pZR2NRVkNtaEFHZWdBVFM3QngwU0w1Q1Z3RUljT2FTNl9lNjRzMTh1LUtPOXFsSHUwQjNOOGt5QlNxa2Zncnc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFNUZ1dFekdmN3N1ZDJkbkdQaHQ2S1BQZ3lQUjhZdkZaT0gxNDN2R3Q2dVA3ZG1tY2pWTEkzTFY5Ynd3dnFYTXpmMURVQXhCU1JXQTdCYW1ueU9BamowSF95bU5tcHdKdFIxNGpCZFZuMU9RMVBvSmdqcmhmb01EMmgwcExBUEhvcWJNS0pwODRTZDVVbjhYelgxMWZMcG1Ed21VTENMenJRc2w2azY5Zkt0Rk1BVzNBRkl6aS1PZ1FsajVJ?oc=5"
         },
         {
           "title": "Stocks to watch: Tata Steel, Waaree, Adani Energy, Maruti, IndusInd Bank",
@@ -88,7 +88,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 15.49
+      "weight_pct": 15.42
     },
     {
       "key": "ashok",
@@ -100,24 +100,24 @@
       "first_buy": "2026-10-19",
       "dividends_received_inr": 1000.0,
       "metrics": {
-        "close": 160.42,
+        "close": 160.28,
         "prev_close": 163.35,
-        "day_change_pct": -1.79,
+        "day_change_pct": -1.88,
         "open": 165.0,
         "high": 165.0,
-        "low": 160.2,
-        "intraday_range_pct": 2.94,
-        "volume": 8420527,
+        "low": 159.86,
+        "intraday_range_pct": 3.15,
+        "volume": 12748888,
         "avg_volume_20d": 24298146,
-        "volume_vs_avg": 0.35,
-        "volatility_20d_annualised_pct": 47.62,
+        "volume_vs_avg": 0.52,
+        "volatility_20d_annualised_pct": 47.68,
         "high_52w": 211.92,
         "low_52w": 138.58,
         "shares": 1000,
         "base_price": 147.72,
-        "market_value": 160420.0,
-        "pnl_inr": 12700.0,
-        "pnl_pct": 8.6
+        "market_value": 160280.0,
+        "pnl_inr": 12560.0,
+        "pnl_pct": 8.5
       },
       "news": [
         {
@@ -164,35 +164,41 @@
       "first_buy": "2026-10-21",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 8193.0,
+        "close": 8152.0,
         "prev_close": 8113.0,
-        "day_change_pct": 0.99,
+        "day_change_pct": 0.48,
         "open": 8194.0,
         "high": 8275.0,
         "low": 8126.0,
         "intraday_range_pct": 1.84,
-        "volume": 443775,
+        "volume": 516898,
         "avg_volume_20d": 574796,
-        "volume_vs_avg": 0.77,
-        "volatility_20d_annualised_pct": 27.68,
-        "high_52w": 8193.0,
+        "volume_vs_avg": 0.9,
+        "volatility_20d_annualised_pct": 27.69,
+        "high_52w": 8190.0,
         "low_52w": 6586.0,
         "shares": 1000,
         "base_price": 7266.0,
-        "market_value": 8193000.0,
-        "pnl_inr": 927000.0,
-        "pnl_pct": 12.76
+        "market_value": 8152000.0,
+        "pnl_inr": 886000.0,
+        "pnl_pct": 12.19
       },
       "news": [
         {
           "title": "Eicher Motors hits all-time high; here's why stock rallied 17% in one month",
           "source": "Business Standard",
           "published": "23 Nov 2026, 10:12 AM IST",
-          "link": "https://www.business-standard.com/markets/news/eicher-motors-hits-all-time-high-here-s-why-stock-rallied-17-in-one-month-126112300208_1.html"
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWtZZGFDNzFOby1Nam5uY0w3RjZndnZFYjl2aFlncXhFNVNwVGdUNUJOQVY5dnFrRVVTVXIwRlRFbk9rM0t6X1lWZ09FUVB3NVl6R2pEWWR4NXlhR0Y2OHVWQTAyYks5TXV3ZGpwV29zak5Jc3RNRkh6Q25WWm1PV0t5Sl91WmRHLVd2Wk5laUJodnBnVHkxSnV3Uy1rVHlwcXpwREhYR0ctMy0tRkt5Rm5wQjNid0g3TnBQTV92ejFVb2dBaEp2Tmp3N3lVVHk4TnlQWVJ0d9IB3AFBVV95cUxQNnBEd1psRXcwZ1R3S056bm8yNk5vREFiMHpUVEJmUEZCdnMyQVpfb2VWN0VIVFhPdV9ia1QwdFRlOVdQTTlnOWdjRklvUlRoY2VvdEI4QV9NNVZDdVJlWjNYMFd1cGZhR2lxenU3TEw3N2FEcUNhb0dtOUpxOEFYRVZCcWJKNmZiQUFDZ2piUzZGSjc1VDFXWTgxemJ6N09zU2FEd2dyWFZRcU0wYklXQ1Fic01uUXY4R21VYk1sOGQ1M0U5SEpVYUdIcTd4eGRaWHdTQXJnTDJDVmxR?oc=5"
+        },
+        {
+          "title": "Royal Enfield 250cc hybrid bikes in the works, 40–45 kmpl mileage expected: Price, launch details and more",
+          "source": "Livemint",
+          "published": "20 Nov 2026, 03:24 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSE9JNWdpSnRRVXZYdXJ0OXk1ekNQdXNKWGE3Qkp3VDRHZm1BT1U4NlNZMHZvT25sZmUya29NZHdkTFA5ZmxXRktUNGNWZV9rUXVDMGk2NHhSUHZwNEpMSEk4c3d1NnhIekJWVUtVU1RqZzBlaUZYdVNLX1NfYmN2cTZQbUhscEdFdHF2a2NseFQ2WUtlTTJBS1VEWkRfMVMteVdDcVJlekhxeU1oX0RQZEJwcUtnZWU1QjNJdjZWZGlwWHRPLUdrQmxsMEYzVWtkZ1pvQkR2U1QxeGt4R2k2aGpoeVFZd0ZKQkQ3T3VGMNIB9AFBVV95cUxOSF9rZ3Z3V0FRd2tVM1JmZzBJMFk2VS00V1pJZVlPbFlPQVRLVFpOU01DY2hkUDJNVUljUHZKUjV3LW1zNERBdnd1V3Y3NFFlQmdNSzBMNlBxa01raEpnd0ktWk90Vjh4R1Bwa04xRkc4bEFMZzFQT0RPUzVOWFkwanpkOHp0bXJfVHJGYVhxQS1zZUFvZkcyWTdTbEVGSHVRWWFLOURva2lXWnFRUDM1Nm5mWS13eW5TWVZQV1U2VlA5b25ETnUwRUVCbmVyQ3RYUGEyRldfN0VPaDBFMXNTU3c5eEgtZ2QwQXJESU9NOUFRN1N1?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 30.71
+      "weight_pct": 30.66
     },
     {
       "key": "linde",
@@ -204,35 +210,35 @@
       "first_buy": "2026-10-21",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 6942.0,
+        "close": 6910.0,
         "prev_close": 6572.0,
-        "day_change_pct": 5.63,
+        "day_change_pct": 5.14,
         "open": 6627.5,
         "high": 7099.0,
         "low": 6567.0,
         "intraday_range_pct": 8.09,
-        "volume": 139435,
+        "volume": 155129,
         "avg_volume_20d": 46834,
-        "volume_vs_avg": 2.98,
-        "volatility_20d_annualised_pct": 51.41,
+        "volume_vs_avg": 3.31,
+        "volatility_20d_annualised_pct": 50.86,
         "high_52w": 7847.5,
         "low_52w": 5632.5,
         "shares": 500,
         "base_price": 5961.0,
-        "market_value": 3471000.0,
-        "pnl_inr": 490500.0,
-        "pnl_pct": 16.46
+        "market_value": 3455000.0,
+        "pnl_inr": 474500.0,
+        "pnl_pct": 15.92
       },
       "news": [
         {
-          "title": "Linde India Investor Analysis | StockIQ",
+          "title": "Linde India Trader Analysis | StockIQ",
           "source": "The Economic Times",
-          "published": "20 Nov 2026, 01:30 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE9OU3JlUkpUMGRUZ2NRSEdMWUtRTzhzZWNDYmFxRHQ1TjM5RnhVU3M4b3RZUWdNQl94N0cwUkliamRheG8tWWhrWVNORWNCS3BGZEZ0emVXTi1FNkVJUGZ5elFsR2dYRC11OFlUREJ6NXN4NGdoMmdGYzBjbUZtbVl6QXBOU2NXMFFZ?oc=5"
+          "published": "21 Nov 2026, 06:11 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnZnZkRNUnVWbnJwenZza3FXWmJFQmFFdHktRlJLcUdWckVsYm9ZTWtpTDMyb0xNNFNaY0x1SU5KdU1DbUlyb2N4cnIySWlJcWR1bG5jYzBDcFR2b0FNOHd2MFdWRTA1alRFVEN1SG9ZcDZKV0lrdzVaX0pYSXU2cTYtUmV3NEo3?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 13.01
+      "weight_pct": 12.99
     },
     {
       "key": "linc",
@@ -244,28 +250,28 @@
       "first_buy": "2026-10-22",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 86.79,
+        "close": 85.81,
         "prev_close": 86.15,
-        "day_change_pct": 0.74,
+        "day_change_pct": -0.39,
         "open": 85.0,
         "high": 86.79,
         "low": 85.0,
         "intraday_range_pct": 2.08,
-        "volume": 3649,
+        "volume": 4735,
         "avg_volume_20d": 46357,
-        "volume_vs_avg": 0.08,
-        "volatility_20d_annualised_pct": 70.61,
+        "volume_vs_avg": 0.1,
+        "volatility_20d_annualised_pct": 70.56,
         "high_52w": 123.36,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 86790.0,
-        "pnl_inr": 1790.0,
-        "pnl_pct": 2.11
+        "market_value": 85810.0,
+        "pnl_inr": 810.0,
+        "pnl_pct": 0.95
       },
       "news": [],
       "announcements": [],
-      "weight_pct": 0.33
+      "weight_pct": 0.32
     },
     {
       "key": "ather",
@@ -277,26 +283,32 @@
       "first_buy": "2026-10-27",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 1964.9,
+        "close": 1960.6,
         "prev_close": 1935.4,
-        "day_change_pct": 1.52,
+        "day_change_pct": 1.3,
         "open": 1941.6,
         "high": 1973.0,
         "low": 1936.0,
         "intraday_range_pct": 1.91,
-        "volume": 739610,
+        "volume": 832717,
         "avg_volume_20d": 3715231,
-        "volume_vs_avg": 0.2,
-        "volatility_20d_annualised_pct": 57.87,
-        "high_52w": 1964.9,
+        "volume_vs_avg": 0.22,
+        "volatility_20d_annualised_pct": 57.89,
+        "high_52w": 1960.6,
         "low_52w": 601.35,
         "shares": 1000,
         "base_price": 1677.2,
-        "market_value": 1964900.02,
-        "pnl_inr": 287700.02,
-        "pnl_pct": 17.15
+        "market_value": 1960599.98,
+        "pnl_inr": 283399.98,
+        "pnl_pct": 16.9
       },
       "news": [
+        {
+          "title": "Bulls take a breather! Sensex dives 1,000 pts intraday; a short-term blip?",
+          "source": "Business Standard",
+          "published": "23 Nov 2026, 12:56 PM IST",
+          "link": "https://www.business-standard.com/markets/news/bulls-take-a-breather-sensex-dives-1-000-pts-intraday-a-short-term-blip-126112300436_1.html"
+        },
         {
           "title": "Asia’s stock rescue efforts gather pace after Wall Street plunge",
           "source": "Economic Times",
@@ -323,7 +335,7 @@
         }
       ],
       "announcements": [],
-      "weight_pct": 7.36
+      "weight_pct": 7.37
     },
     {
       "key": "boi",
@@ -342,9 +354,9 @@
         "high": 166.85,
         "low": 158.25,
         "intraday_range_pct": 5.22,
-        "volume": 11763817,
+        "volume": 12374927,
         "avg_volume_20d": 11787747,
-        "volume_vs_avg": 1.0,
+        "volume_vs_avg": 1.05,
         "volatility_20d_annualised_pct": 38.34,
         "high_52w": 177.2,
         "low_52w": 126.32,
@@ -375,24 +387,24 @@
       "first_buy": "2026-11-04",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 1369.4,
+        "close": 1372.0,
         "prev_close": 1387.2,
-        "day_change_pct": -1.28,
+        "day_change_pct": -1.1,
         "open": 1387.2,
         "high": 1394.0,
         "low": 1365.0,
         "intraday_range_pct": 2.09,
-        "volume": 1702659,
+        "volume": 1874331,
         "avg_volume_20d": 20910590,
-        "volume_vs_avg": 0.08,
-        "volatility_20d_annualised_pct": 10.91,
+        "volume_vs_avg": 0.09,
+        "volatility_20d_annualised_pct": 10.64,
         "high_52w": 1437.4,
-        "low_52w": 1369.4,
+        "low_52w": 1372.0,
         "shares": 1000,
         "base_price": 1439.2,
-        "market_value": 1369400.02,
-        "pnl_inr": -69799.98,
-        "pnl_pct": -4.85
+        "market_value": 1372000.0,
+        "pnl_inr": -67200.0,
+        "pnl_pct": -4.67
       },
       "news": [
         {
@@ -406,38 +418,32 @@
           "source": "The Financial Express",
           "published": "20 Nov 2026, 04:25 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3p5WjlDQUlMUUJFZ2tlTV9ZOTcwYXVhN01ydGVVSG1iZElRS25RY0Y2TFdoczI1OXVlUE5yS0NaV2lpWF9obEV0a3BobzRTRHE5NUF5eHdtaXlTYkFrWWZ5WDhNbV9oRDZnTGpMMzBFUC1TeVpPT0lsSmV5UWdwNFJMYVpCQlFNbnFhaVpVdUZXQTIxVE5uTlBoM0RDS0FqQmRjQnhUMHBuSjQxeXplNFl2TmZVcDBwYlB1RFN3Znpyb1pOSUEyRDhlOTdtZF9qOXA2Z2dDMm3SAd8BQVVfeXFMUDBiUmZhLXNLdHNiLXFiQU43V0M5U0NHb0cyMjAtbl81aXNRLXBoQ2ZWUXNRQ28zTHM2b0xzaDNpWHRuUzhBSmVEblp4bFpZVU9EbUJTTXlMXzU0Tm5nT1dGZXFfbHRMaFJ4Q2ZSR2ZDbDcyWUpuaUQzd3I2RWYzZXp6d0ZVUklSYVg2WFExcl90Yjd5VWs4MDlSb1cxWlpRX0Y3S3h0RXdOaUluM2xnZ3Q0NFIweDUyZTdqYnR6WnFHUm1JSVplOXphRThoLTA1N3g1bVRTRnhuVC11MC0wcw?oc=5"
-        },
-        {
-          "title": "Jio Platforms Investor Analysis | StockIQ",
-          "source": "The Economic Times",
-          "published": "20 Nov 2026, 01:30 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObFFWZDBYazlPX1pvOFJ5QnFzZ2FidE5hYVNWQ21hd1Vxb19IZUZlTmVEVUZRM3lvNV9hSVo4X1BHLTFqRjJTZkZONzl5SGlmUEZ0MmloaXVJNVNHM2lUTEZRaHBUdDd3dldHRzJiSW51MGlpRmlmZ0JyS1I5d1FaRWpxOV9RMDgtYXpRYlI5RWY?oc=5"
         }
       ],
       "announcements": [],
-      "weight_pct": 5.13
+      "weight_pct": 5.16
     }
   ],
   "allocation_by_sector": [
     {
       "sector": "Automobiles",
-      "value": 14451400.02,
-      "weight_pct": 54.16
+      "value": 14373479.98,
+      "weight_pct": 54.06
     },
     {
       "sector": "Cash",
       "value": 7142481.89,
-      "weight_pct": 26.77
+      "weight_pct": 26.86
     },
     {
       "sector": "Industrial Gases",
-      "value": 3471000.0,
-      "weight_pct": 13.01
+      "value": 3455000.0,
+      "weight_pct": 12.99
     },
     {
       "sector": "Telecom & Digital Services",
-      "value": 1369400.02,
-      "weight_pct": 5.13
+      "value": 1372000.0,
+      "weight_pct": 5.16
     },
     {
       "sector": "Financials",
@@ -446,30 +452,30 @@
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 86790.0,
-      "weight_pct": 0.33
+      "value": 85810.0,
+      "weight_pct": 0.32
     }
   ],
   "sectors": [
     {
       "sector": "Automobiles",
-      "value": 14451400.02,
-      "weight_pct": 54.16
+      "value": 14373479.98,
+      "weight_pct": 54.06
     },
     {
       "sector": "Cash",
       "value": 7142481.89,
-      "weight_pct": 26.77
+      "weight_pct": 26.86
     },
     {
       "sector": "Industrial Gases",
-      "value": 3471000.0,
-      "weight_pct": 13.01
+      "value": 3455000.0,
+      "weight_pct": 12.99
     },
     {
       "sector": "Telecom & Digital Services",
-      "value": 1369400.02,
-      "weight_pct": 5.13
+      "value": 1372000.0,
+      "weight_pct": 5.16
     },
     {
       "sector": "Financials",
@@ -478,22 +484,22 @@
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 86790.0,
-      "weight_pct": 0.33
+      "value": 85810.0,
+      "weight_pct": 0.32
     }
   ],
   "performers": {
     "best_since_buy": {
       "name": "Maruti Suzuki",
-      "pct": 24.05
+      "pct": 23.07
     },
     "worst_since_buy": {
       "name": "Jio Platforms",
-      "pct": -4.85
+      "pct": -4.67
     },
     "top_mover_today": {
       "name": "Linde India",
-      "pct": 5.63
+      "pct": 5.14
     }
   },
   "transactions": [
