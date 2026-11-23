@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 23 Nov 2026, 01:32 PM IST  |  **Market data as of:** 2026-11-23  |  **Start date:** 2026-10-16
+**Last updated:** 23 Nov 2026, 02:32 PM IST  |  **Market data as of:** 2026-11-23  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,14 +14,14 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,65,89,352** |
-| Total P&L | **₹19,90,622 (+8.09%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | ₹23,88,110 |
+| Current value | **₹2,66,39,812** |
+| Total P&L | **₹20,41,082 (+8.30%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | ₹24,38,570 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
 | &nbsp;&nbsp;Dividends received (already inside Total P&L) | ₹1,000 |
-| Today's change | ₹2,47,880 (+0.94%) |
-| Nifty 50 since start (same money invested) | +10.65% |
-| Outperformance vs Nifty 50 | -2.56% |
+| Today's change | ₹2,98,340 (+1.13%) |
+| Nifty 50 since start (same money invested) | +10.61% |
+| Outperformance vs Nifty 50 | -2.31% |
 | Cash (uninvested) | ₹71,42,482 |
 | Virtual money put in | ₹2,45,98,730 |
 
@@ -33,16 +33,16 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,140.00 | - | ₹14,011.00 | +0.92% | ₹41,00,600 | 15.4% | ₹7,68,790 | +23.07% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹160.28 | - | ₹163.35 | -1.88% | ₹1,60,280 | 0.6% | ₹12,560 | +8.50% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,152.00 | - | ₹8,113.00 | +0.48% | ₹81,52,000 | 30.7% | ₹8,86,000 | +12.19% |
-| Linde India | 500 | ₹5,961.00 | ₹6,910.00 | - | ₹6,572.00 | +5.14% | ₹34,55,000 | 13.0% | ₹4,74,500 | +15.92% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹85.81 | - | ₹86.15 | -0.39% | ₹85,810 | 0.3% | ₹810 | +0.95% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,960.60 | - | ₹1,935.40 | +1.30% | ₹19,60,600 | 7.4% | ₹2,83,400 | +16.90% |
-| Bank of India | 1,000 | ₹131.33 | ₹160.58 | - | ₹164.70 | -2.50% | ₹1,60,580 | 0.6% | ₹29,250 | +22.27% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,372.00 | - | ₹1,387.20 | -1.10% | ₹13,72,000 | 5.2% | -₹67,200 | -4.67% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,118.00 | - | ₹14,011.00 | +0.76% | ₹40,94,220 | 15.4% | ₹7,62,410 | +22.88% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹159.55 | - | ₹163.35 | -2.33% | ₹1,59,550 | 0.6% | ₹11,830 | +8.01% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,176.50 | - | ₹8,113.00 | +0.78% | ₹81,76,500 | 30.7% | ₹9,10,500 | +12.53% |
+| Linde India | 500 | ₹5,961.00 | ₹6,958.50 | - | ₹6,572.00 | +5.88% | ₹34,79,250 | 13.1% | ₹4,98,750 | +16.73% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹85.96 | - | ₹86.15 | -0.22% | ₹85,960 | 0.3% | ₹960 | +1.13% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,966.50 | - | ₹1,935.40 | +1.61% | ₹19,66,500 | 7.4% | ₹2,89,300 | +17.25% |
+| Bank of India | 1,000 | ₹131.33 | ₹160.35 | - | ₹164.70 | -2.64% | ₹1,60,350 | 0.6% | ₹29,020 | +22.10% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,375.00 | - | ₹1,387.20 | -0.88% | ₹13,75,000 | 5.2% | -₹64,200 | -4.46% |
 
-**Best since buy:** Maruti Suzuki (+23.07%)  ·  **Worst since buy:** Jio Platforms (-4.67%)  ·  **Biggest mover today:** Linde India (+5.14%)
+**Best since buy:** Maruti Suzuki (+22.88%)  ·  **Worst since buy:** Jio Platforms (-4.46%)  ·  **Biggest mover today:** Linde India (+5.88%)
 
 ## Allocation
 
@@ -50,16 +50,16 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,43,73,480 | 54.1% |
-| Cash | ₹71,42,482 | 26.9% |
-| Industrial Gases | ₹34,55,000 | 13.0% |
-| Telecom & Digital Services | ₹13,72,000 | 5.2% |
-| Financials | ₹1,60,580 | 0.6% |
-| Stationery & Writing Instruments | ₹85,810 | 0.3% |
+| Automobiles | ₹1,43,96,770 | 54.0% |
+| Cash | ₹71,42,482 | 26.8% |
+| Industrial Gases | ₹34,79,250 | 13.1% |
+| Telecom & Digital Services | ₹13,75,000 | 5.2% |
+| Financials | ₹1,60,350 | 0.6% |
+| Stationery & Writing Instruments | ₹85,960 | 0.3% |
 
 <a name="performance"></a>
 
-## Performance (as on 23 Nov 2026, 01:32 PM IST)
+## Performance (as on 23 Nov 2026, 02:32 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -120,7 +120,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹14,140.00 | +0.92% | ₹13,989.00 - ₹14,333.00 | 1,042,177 | 685,270 | 1.52x | 36.73% | ₹11,170.00 - ₹17,292.00 |
+| ₹14,118.00 | +0.76% | ₹13,989.00 - ₹14,333.00 | 1,100,605 | 685,270 | 1.61x | 36.74% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -135,11 +135,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Crash proof stocks: Sensex, Nifty bleed but these shares come out in flying green colour - HCL, TCS, Infy, Maruti - List](https://www.livemint.com/market/stock-market-news/crash-proof-stocks-sensex-nifty-bleed-but-these-shares-come-out-in-flying-green-colour-hcl-tcs-infy-maruti-list-11795417938149.html) - _Mint, 23 Nov 2026, 01:40 PM IST_
 - [Maruti Suzuki gains 2% on price hike; stock up 14% in one week](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFNUZ1dFekdmN3N1ZDJkbkdQaHQ2S1BQZ3lQUjhZdkZaT0gxNDN2R3Q2dVA3ZG1tY2pWTEkzTFY5Ynd3dnFYTXpmMURVQXhCU1JXQTdCYW1ueU9BamowSF95bU5tcHdKdFIxNGpCZFZuMU9RMVBvSmdqcmhmb01EMmgwcExBUEhvcWJNS0pwODRTZDVVbjhYelgxMWZMcG1Ed21VTENMenJRc2w2azY5Zkt0Rk1BVzNBRkl6aS1PZ1FsajVJ?oc=5) - _Business Standard, 23 Nov 2026, 11:01 AM IST_
 - [Stocks to watch: Tata Steel, Waaree, Adani Energy, Maruti, IndusInd Bank](https://www.business-standard.com/markets/news/stocks-to-watch-tata-steel-waaree-adani-energy-maruti-indusind-bank-126112300090_1.html) - _Business Standard, 23 Nov 2026, 08:02 AM IST_
-- [Top stocks to watch today: Tata Steel, APL Apollo Tubes, Maruti Suzuki, RVNL, Waaree Energies & 17 others in focus](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjl2UFpxdnlUaVk1SkV1anJqQUtnRWFHU0k5b2V6dXlpTUNmN3hlcTBtM3Bjdk85OWVYbmdnbHoxTUpPZlplcGk4WlR0Q1VXSFpRRTUzTGxnTVdGRk9EdmdRakpjdGt3ak1nY0hJLTN2UjlIWDd3N0s2SEk5Y195ckhwcWl2NnVudW5neXNwTnI3UHlQcTRpME5nZ3Y0SzNlaE5hczhibGM4M1lTU0hyai1mREpJaFNWTUtWZUhMeWktUHRhZFV0YUhpVU02cDZWRHhQaWhQTEtMbDN5Z2dseC1zR1A2ci11R0xJQk5US3ZPME1zcG9Ya1puMDVuM2hPOXJUREdrU1HSAY4CQVVfeXFMT29ZeGRCS3MtajZndFZkeVhIQk9MUDlycnZJTU9LeXF0NUJtbE8zY20zUW9DLVJ1ZkRJU015UDFCc0VDeXFFbmJwSkJtcnVSWUhlcGRaVWtTcVUwYURSM0lZazZFa3J6ckdENk03T1ljcHJWZzhqY3pmS2F2TW1jeHNpV1pEYzZ4YmFmdHZVbnpHb2tZWnNieldrdEhHQktxTXZQd2paNkg3eEFrNmhiTXpFSjdZbjk4Zm9scGl6RnRLb2pLcTYxMjF1dktLS3JTQ3gxNnpxXzY3MTd5Sk1Pb2tRaEtaVWxmcks4OUZ4Z3pFNjFGSXpzXzkwT1JFM0V3TTdLb1RYTi1QYkJNSERB?oc=5) - _Livemint, 23 Nov 2026, 07:57 AM IST_
+- [Top stocks to watch today: Tata Steel, APL Apollo Tubes, Maruti Suzuki, RVNL, Waaree Energies &amp; 17 others in focus](https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-apl-apollo-tubes-maruti-suzuki-rvnl-waaree-energies-17-others-in-focus-11795399384907.html) - _Mint, 23 Nov 2026, 07:57 AM IST_
 - [Stocks to watch, Nov 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies, Premier Explosives, Maruti Suzuki, Texmaco Rail, RVNL, Ashoka Buildcon](https://www.thehindubusinessline.com/markets/stock-markets/stocks-to-watch-nov-23-tata-steel-apl-apollo-tubes-indusind-bank-nse-adani-energy-waaree-energies-premier-explosives-maruti-suzuki-texmaco-rail-rvnl-ashoka-buildcon/article71733190.ece) - _BusinessLine, 23 Nov 2026, 06:59 AM IST_
-- [Stocks in news: Adani Energy, Maruti Suzuki, RailTel, Waaree Energies and Indian Bank](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbG1LNVlQci11WVg5WW9wYTRRcVpRRFk3ZmM4dFlXeWc4TkZ2cno1WDNjdmRyWHBJSDhvT1FWUmNlcDFhVDhZTGZ3OXVIQ1JNQmFTaDUzQlJ3Q3JlcXlJR281MzRZSWlrT0ZFVUZjU3BLVjJLZXN4OGJlS2NtbjMyS0Q3YjJJWUtpX2pOczgyQzhxYnVtZXByUW9CMTlxLWE0U3NRdkJUbkMwQnpjVlc2YUxpbk1CZlpBZUVRWWd1a3REc2JRNGtMZTNveGx3WF9UNU43VFdRNGVxUFpxZlE3YkUtRHo0T1doeTFN0gHwAUFVX3lxTE41SUVpVWZtRmItZXhYR01qLS1yRW5ycnhiZ080aUhiYUtqQURzZi14VlppU1dkOGE4NGVYMkp1WnoybUFTQklHSjktN0dVTXhhUklnZERvZWRoeGJjWF81cGNZRzlrQ1gyTDUyUFZ6ajI2QTVHMEdEOU5rY3BILWd5WkVnZkMxWWxuekxXSkZyLU9vSUh4V2MzSl80RjFvLW5UcU5NOE55RjgxblFTd3ZaMGt1S2RDaXJaX2VnSlVTeG9Sd1BqWFRUeDlVSm8taFYwSmZLOUMyVTVTblVHV3I2LU5LNW9iSjRSX0xRWVpNdg?oc=5) - _The Economic Times, 23 Nov 2026, 06:00 AM IST_
 
 </details>
 
@@ -153,7 +153,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹160.28 | -1.88% | ₹159.86 - ₹165.00 | 12,748,888 | 24,298,146 | 0.52x | 47.68% | ₹138.58 - ₹211.92 |
+| ₹159.55 | -2.33% | ₹159.36 - ₹165.00 | 15,301,519 | 24,298,146 | 0.63x | 48.01% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -186,7 +186,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹8,152.00 | +0.48% | ₹8,126.00 - ₹8,275.00 | 516,898 | 574,796 | 0.9x | 27.69% | ₹6,586.00 - ₹8,190.00 |
+| ₹8,176.50 | +0.78% | ₹8,126.00 - ₹8,275.00 | 601,163 | 574,796 | 1.05x | 27.67% | ₹6,586.00 - ₹8,190.00 |
 
 **Research reports**
 
@@ -216,7 +216,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,910.00 | +5.14% | ₹6,567.00 - ₹7,099.00 | 155,129 | 46,834 | 3.31x | 50.86% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,958.50 | +5.88% | ₹6,567.00 - ₹7,099.00 | 178,600 | 46,834 | 3.81x | 51.71% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -231,6 +231,7 @@ _Research report coming soon._
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Linde India Trader Analysis | StockIQ](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnZnZkRNUnVWbnJwenZza3FXWmJFQmFFdHktRlJLcUdWckVsYm9ZTWtpTDMyb0xNNFNaY0x1SU5KdU1DbUlyb2N4cnIySWlJcWR1bG5jYzBDcFR2b0FNOHd2MFdWRTA1alRFVEN1SG9ZcDZKV0lrdzVaX0pYSXU2cTYtUmV3NEo3?oc=5) - _The Economic Times, 21 Nov 2026, 06:11 AM IST_
+- [Linde India to gain 133 tpd ASU through $13m Airtech acquisition](https://www.gasworld.com/story/linde-india-to-gain-133-tpd-asu-through-13m-airtech-acquisition/2264317.article/) - _gasworld, 17 Nov 2026, 05:56 PM IST_
 
 </details>
 
@@ -244,7 +245,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹85.81 | -0.39% | ₹85.00 - ₹86.79 | 4,735 | 46,357 | 0.1x | 70.56% | ₹76.41 - ₹123.36 |
+| ₹85.96 | -0.22% | ₹85.00 - ₹86.79 | 4,818 | 46,357 | 0.1x | 70.55% | ₹76.41 - ₹123.36 |
 
 **Research reports**
 
@@ -272,7 +273,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,960.60 | +1.30% | ₹1,936.00 - ₹1,973.00 | 832,717 | 3,715,231 | 0.22x | 57.89% | ₹601.35 - ₹1,960.60 |
+| ₹1,966.50 | +1.61% | ₹1,936.00 - ₹1,973.00 | 978,319 | 3,715,231 | 0.26x | 57.86% | ₹601.35 - ₹1,966.50 |
 
 **Research reports**
 
@@ -286,7 +287,7 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Bulls take a breather! Sensex dives 1,000 pts intraday; a short-term blip?](https://www.business-standard.com/markets/news/bulls-take-a-breather-sensex-dives-1-000-pts-intraday-a-short-term-blip-126112300436_1.html) - _Business Standard, 23 Nov 2026, 12:56 PM IST_
+- [Bulls take a breather! Sensex dives 1,300 pts intraday; a short-term blip?](https://www.business-standard.com/markets/news/bulls-take-a-breather-sensex-dives-1-000-pts-intraday-a-short-term-blip-126112300436_1.html) - _Business Standard, 23 Nov 2026, 12:56 PM IST_
 - [Asia’s stock rescue efforts gather pace after Wall Street plunge](https://economictimes.indiatimes.com/markets/us-stocks/news/asia-steps-up-stock-rescue-efforts-after-wall-street-rout/articleshow/136086374.cms) - _Economic Times, 23 Nov 2026, 06:53 AM IST_
 - [InvIT IPO rush gathers pace, 4-5 trusts likely to go public by Mar 2027](https://www.business-standard.com/markets/ipo/invit-ipo-rush-gathers-pace-4-5-trusts-likely-to-go-public-by-mar-2027-126112200225_1.html) - _Business Standard, 22 Nov 2026, 12:26 PM IST_
 - [​Ather Energy - Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices](https://news.google.com/rss/articles/CBMiigJBVV95cUxOSC1tZ0pkRFVjdDNUNE42U092cGRKQ013Rlc3LVd4b0pTTlpGV19mdnNrVmdybUhXWjRWRnhWOHdXbXlWUGJKd2ttdHhMVFZQWGlETmVLU3UyRTdBVk9SVENuUDA5UWNYT25SamxVRmIxZHItSXZxSVJ5QVFjWjdMX2RteGxqVW1UbGI5SnJmbV91MjNkN2l4MnhOTGJvNW43SmZobkNzdjNQb2VNNFFmR21oVE5heTVmOUFId241V1RaandiY3NhUTc1RGo5Z2FLUkdNZEl6RUo3N05SUHpabWhaeWRJVHF1bF83WXJjUUU3R1FYY1FCWkkwdThoclRiUUZzY2EtX0ppdw?oc=5) - _The Economic Times, 21 Nov 2026, 01:38 PM IST_
@@ -304,7 +305,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹160.58 | -2.50% | ₹158.25 - ₹166.85 | 12,374,927 | 11,787,747 | 1.05x | 38.34% | ₹126.32 - ₹177.20 |
+| ₹160.35 | -2.64% | ₹158.25 - ₹166.85 | 14,180,990 | 11,787,747 | 1.2x | 38.51% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -318,7 +319,7 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Best 3 stocks to buy under ₹200: Jammu and Kashmir Bank, Canara Bank, Bank of India by Mehul Kothari of Anand Rathi](https://news.google.com/rss/articles/CBMikgJBVV95cUxOczZxZDkwdEZrYkxuVmZFaWN6WDAzakFXTnd2MDJiU29DQkViSmE2WnlCV2ZIckZTN3h3THF6UTU2eWplbE5feUFfMi1oVzJYTjNBZVpWUnlzU3kwTFZSaTQyT3UzYzExLXR6TjFIa0szLVJNbVhoTnllRkV5ZDdTc283VWpnc2Zza1lFRTBLY041WFNUT194bEpTV1lfaXBrZzR6SW5pWlZOYlZhX05zWkpUN09Wa1U1a2RvUDVyOEh6cnkzd2hTVG1lem5wR1Zpei1tQWNKejQ0Y1ZwZ3Z5empicDV4UW9fbWpORC1OZmhQdjVNZ3EwZXN6YjN2elp5a2NGTFlxSURGVzBGLV9WSld30gGXAkFVX3lxTE1CV2I2NG54MnRha3E2d3JiQkd4b2NMOC00T3JsRlJGRGo1YVZDZXBXSWx6Y2JmSGl2d0tfV0xRcGgzaG9hSTFQc0Z4TUxydmpjaGJxRmNDaEROTGsyRldHM1dKQmp2WEUxa080MURWR0tWUG5fVlExcEFGSmROQVQ3UkwzS01uSmlGMmhxTElnVnM0dXRscmlsUXdxVmxyVkkxeTl5Wm02SDFXcG9qdUlVQUdKclU3QkE4dGw3MGstbFdlWmR3QTlfQURNc3paMS13ejZSVGlnOXBjWlZZT3M4RXlUV3BVWTU5NFAyTUNrN3g4dEtrdlR4aGRHYXZsZ3N5ZVptdTFjQ1Q3bnFXeTh2MUxmMUZRWQ?oc=5) - _Livemint, 21 Nov 2026, 06:30 AM IST_
+- No fresh headlines from trusted sources in the last few days.
 
 </details>
 
@@ -332,7 +333,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,372.00 | -1.10% | ₹1,365.00 - ₹1,394.00 | 1,874,331 | 20,910,590 | 0.09x | 10.64% | ₹1,372.00 - ₹1,437.40 |
+| ₹1,375.00 | -0.88% | ₹1,365.00 - ₹1,394.00 | 2,006,283 | 20,910,590 | 0.1x | 10.38% | ₹1,375.00 - ₹1,437.40 |
 
 **Research reports**
 
