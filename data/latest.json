@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "23 Nov 2026, 09:11 PM IST",
+  "generated_at_ist": "23 Nov 2026, 10:16 PM IST",
   "as_of": "2026-11-23",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -72,7 +72,7 @@
           "title": "Stocks to watch: Tata Steel, Waaree, Adani Energy, Maruti, IndusInd Bank",
           "source": "Business Standard",
           "published": "23 Nov 2026, 08:02 AM IST",
-          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-tata-steel-waaree-adani-energy-maruti-indusind-bank-126112300090_1.html"
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUlqakNqMDkzdjRWR1liX2pGRGF0U1BqVENQWUNiLVpSMGZUVDhuazhVSFBVbXRmRTFVREJqOXY1R1k4SDQ2S19SU2w4MmxzM0hIZS1JZXhnZXVWeTJTSWdaSFhSZnl1eHZja01BM2ViSm8yVzUydWVyWEZHVjVieDBhc1JQZG9Fc05Mc0JxRTVyTXhRSG1wVC0yWjBjMEt3ZGNRS0NVRmVwRjItcGJXRWk2SjBpZ2hCWm1nSlZSMUg4c1J1cEIzRjZiYjZFbFHSAdQBQVVfeXFMTzFZRGZMZmNuSjY3SXpFT1AyX1hqaENLV0xMREF3R2RwcUhydEI2bzBOVHBsYmxQLWd4RHRUUGVVNXdiTGV1M0NMUTRoRVF3VE43N2lXem5sbE05Q0ZQUWhXd0FNUWNVOXNubWxjblhfeE9oVWxIYUlXRWJtQ3ozWjJ0YXdlTnZsSWtSQU1VZVJLa2RfbmNKVkVEbFRRRzA0TFlOUEotTUl0NnZjRW95cHBnb084dmJyZHZMWTViX0V0NTFXS0VBdmJyelF2UHFkcUFndU8?oc=5"
         },
         {
           "title": "Top stocks to watch today: Tata Steel, APL Apollo Tubes, Maruti Suzuki, RVNL, Waaree Energies & 17 others in focus",
@@ -121,12 +121,6 @@
       },
       "news": [
         {
-          "title": "Ashok Leyland Trader Analysis | StockIQ",
-          "source": "The Economic Times",
-          "published": "23 Nov 2026, 04:29 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXpCcWYyZnN0aFQxZHBnZW00Z0tsMlJqbjJZZFZwNkNNU1NLR2RYOVZaVDl1S0lWd2E2bWQtc1FRbGJodE1GSUVxOTNaUmxUd0NBMXdJbE9GSWhNcHF1QWVEYmFSa2FBc3laZEJWamdBZF9BWE1rb1Q3Q09BNzFyNkZaSFFTUGpyQXI0?oc=5"
-        },
-        {
           "title": "Two decades after Tata Nano exit, can Ashok Leyland bring industry back to Singur? What we know so far",
           "source": "Livemint",
           "published": "23 Nov 2026, 10:37 AM IST",
@@ -149,6 +143,12 @@
           "source": "NDTV Profit",
           "published": "21 Nov 2026, 06:11 PM IST",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGFGa28tSUpjSjljampOUk9fYVF6eFgtUXBRS0tMYUZfeGQ5SEFNSHhndWFmNTh6NG41ODJnVC1uVmRWQmlsMHJNcUY1RFR3b2ZQNjh0cERUR0Vzd0V3Wkt3ZXdxemdjM0tUQjJZV3dSZDc3S3VaT2M4YmNfOERmdDNVNFpTUHlfWmhUcDFYOUJteU15TFE?oc=5"
+        },
+        {
+          "title": "Ashok Leyland Celebrates Milestone Delivery of 1,000+ Vehicles to Thriveni Transport and Logistics",
+          "source": "Ashok Leyland (official newsroom)",
+          "published": "17 Nov 2026",
+          "link": "https://www.ashokleyland.com/in/pressrelease/ashok-leyland-celebrates-milestone-delivery-of-1000-vehicles-to-thriveni-transport-and-logistics"
         }
       ],
       "announcements": [],
@@ -229,7 +229,14 @@
         "pnl_inr": 500250.0,
         "pnl_pct": 16.78
       },
-      "news": [],
+      "news": [
+        {
+          "title": "Linde India to gain 133 tpd ASU through $13m Airtech acquisition",
+          "source": "gasworld",
+          "published": "17 Nov 2026, 05:56 PM IST",
+          "link": "https://www.gasworld.com/story/linde-india-to-gain-133-tpd-asu-through-13m-airtech-acquisition/2264317.article/"
+        }
+      ],
       "announcements": [],
       "weight_pct": 13.08
     },
