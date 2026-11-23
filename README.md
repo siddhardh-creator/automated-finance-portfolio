@@ -2,11 +2,9 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 23 Nov 2026, 07:34 PM IST  |  **Market data as of:** 2026-11-23  |  **Start date:** 2026-10-16
+**Last updated:** 23 Nov 2026, 09:05 PM IST  |  **Market data as of:** 2026-11-23  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
+**Snapshot type:** End-of-day final snapshot
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -33,14 +31,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,010.00 | - | ₹14,011.00 | -0.01% | ₹40,62,900 | 15.3% | ₹7,31,090 | +21.94% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹158.70 | - | ₹163.35 | -2.85% | ₹1,58,700 | 0.6% | ₹10,980 | +7.43% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,172.50 | - | ₹8,113.00 | +0.73% | ₹81,72,500 | 30.7% | ₹9,06,500 | +12.48% |
-| Linde India | 500 | ₹5,961.00 | ₹6,961.50 | - | ₹6,572.00 | +5.93% | ₹34,80,750 | 13.1% | ₹5,00,250 | +16.78% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹86.13 | - | ₹86.15 | -0.02% | ₹86,130 | 0.3% | ₹1,130 | +1.33% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,979.20 | - | ₹1,935.40 | +2.26% | ₹19,79,200 | 7.4% | ₹3,02,000 | +18.01% |
-| Bank of India | 1,000 | ₹131.33 | ₹159.01 | - | ₹164.70 | -3.45% | ₹1,59,010 | 0.6% | ₹27,680 | +21.08% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,369.10 | - | ₹1,387.20 | -1.30% | ₹13,69,100 | 5.1% | -₹70,100 | -4.87% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,010.00 | ₹14,010.00 | ₹14,011.00 | -0.01% | ₹40,62,900 | 15.3% | ₹7,31,090 | +21.94% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹158.70 | ₹158.70 | ₹163.35 | -2.85% | ₹1,58,700 | 0.6% | ₹10,980 | +7.43% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,172.50 | ₹8,172.50 | ₹8,113.00 | +0.73% | ₹81,72,500 | 30.7% | ₹9,06,500 | +12.48% |
+| Linde India | 500 | ₹5,961.00 | ₹6,961.50 | ₹6,961.50 | ₹6,572.00 | +5.93% | ₹34,80,750 | 13.1% | ₹5,00,250 | +16.78% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹86.13 | ₹86.13 | ₹86.15 | -0.02% | ₹86,130 | 0.3% | ₹1,130 | +1.33% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,979.20 | ₹1,979.20 | ₹1,935.40 | +2.26% | ₹19,79,200 | 7.4% | ₹3,02,000 | +18.01% |
+| Bank of India | 1,000 | ₹131.33 | ₹159.01 | ₹159.01 | ₹164.70 | -3.45% | ₹1,59,010 | 0.6% | ₹27,680 | +21.08% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,369.10 | ₹1,369.10 | ₹1,387.20 | -1.30% | ₹13,69,100 | 5.1% | -₹70,100 | -4.87% |
 
 **Best since buy:** Maruti Suzuki (+21.94%)  ·  **Worst since buy:** Jio Platforms (-4.87%)  ·  **Biggest mover today:** Linde India (+5.93%)
 
@@ -59,7 +57,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 23 Nov 2026, 07:34 PM IST)
+## Performance (as on 23 Nov 2026, 09:05 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -230,7 +228,7 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Linde India Trader Analysis | StockIQ](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnZnZkRNUnVWbnJwenZza3FXWmJFQmFFdHktRlJLcUdWckVsYm9ZTWtpTDMyb0xNNFNaY0x1SU5KdU1DbUlyb2N4cnIySWlJcWR1bG5jYzBDcFR2b0FNOHd2MFdWRTA1alRFVEN1SG9ZcDZKV0lrdzVaX0pYSXU2cTYtUmV3NEo3?oc=5) - _The Economic Times, 21 Nov 2026, 06:11 AM IST_
+- No fresh headlines from trusted sources in the last few days.
 
 </details>
 
@@ -288,7 +286,6 @@ _Research report coming soon._
 
 - [Rupee retreats with stocks as rally takes a breather, positive bias lingers](https://economictimes.indiatimes.com/markets/forex/rupee-retreats-with-stocks-as-rally-takes-a-breather-positive-bias-lingers/articleshow/136098391.cms) - _Economic Times, 23 Nov 2026, 03:58 PM IST_
 - [Bulls take a breather! Sensex dives 1,500 pts intraday; a short-term blip?](https://www.business-standard.com/markets/news/bulls-take-a-breather-sensex-dives-1-000-pts-intraday-a-short-term-blip-126112300436_1.html) - _Business Standard, 23 Nov 2026, 12:56 PM IST_
-- [InvIT IPO rush gathers pace, 4-5 trusts likely to go public by Mar 2027](https://www.business-standard.com/markets/ipo/invit-ipo-rush-gathers-pace-4-5-trusts-likely-to-go-public-by-mar-2027-126112200225_1.html) - _Business Standard, 22 Nov 2026, 12:26 PM IST_
 
 </details>
 

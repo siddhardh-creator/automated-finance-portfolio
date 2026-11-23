@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "23 Nov 2026, 07:34 PM IST",
+  "generated_at_ist": "23 Nov 2026, 09:05 PM IST",
   "as_of": "2026-11-23",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
@@ -229,14 +229,7 @@
         "pnl_inr": 500250.0,
         "pnl_pct": 16.78
       },
-      "news": [
-        {
-          "title": "Linde India Trader Analysis | StockIQ",
-          "source": "The Economic Times",
-          "published": "21 Nov 2026, 06:11 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnZnZkRNUnVWbnJwenZza3FXWmJFQmFFdHktRlJLcUdWckVsYm9ZTWtpTDMyb0xNNFNaY0x1SU5KdU1DbUlyb2N4cnIySWlJcWR1bG5jYzBDcFR2b0FNOHd2MFdWRTA1alRFVEN1SG9ZcDZKV0lrdzVaX0pYSXU2cTYtUmV3NEo3?oc=5"
-        }
-      ],
+      "news": [],
       "announcements": [],
       "weight_pct": 13.08
     },
@@ -314,12 +307,6 @@
           "source": "Business Standard",
           "published": "23 Nov 2026, 12:56 PM IST",
           "link": "https://www.business-standard.com/markets/news/bulls-take-a-breather-sensex-dives-1-000-pts-intraday-a-short-term-blip-126112300436_1.html"
-        },
-        {
-          "title": "InvIT IPO rush gathers pace, 4-5 trusts likely to go public by Mar 2027",
-          "source": "Business Standard",
-          "published": "22 Nov 2026, 12:26 PM IST",
-          "link": "https://www.business-standard.com/markets/ipo/invit-ipo-rush-gathers-pace-4-5-trusts-likely-to-go-public-by-mar-2027-126112200225_1.html"
         }
       ],
       "announcements": [],
