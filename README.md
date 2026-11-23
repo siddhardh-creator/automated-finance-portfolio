@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 23 Nov 2026, 11:32 AM IST  |  **Market data as of:** 2026-11-23  |  **Start date:** 2026-10-16
+**Last updated:** 23 Nov 2026, 12:32 PM IST  |  **Market data as of:** 2026-11-23  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,14 +14,14 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,65,78,882** |
-| Total P&L | **₹19,80,152 (+8.05%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | ₹23,77,640 |
+| Current value | **₹2,66,81,652** |
+| Total P&L | **₹20,82,922 (+8.47%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | ₹24,80,410 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
 | &nbsp;&nbsp;Dividends received (already inside Total P&L) | ₹1,000 |
-| Today's change | ₹2,37,410 (+0.90%) |
-| Nifty 50 since start (same money invested) | +11.28% |
-| Outperformance vs Nifty 50 | -3.23% |
+| Today's change | ₹3,40,180 (+1.29%) |
+| Nifty 50 since start (same money invested) | +10.86% |
+| Outperformance vs Nifty 50 | -2.39% |
 | Cash (uninvested) | ₹71,42,482 |
 | Virtual money put in | ₹2,45,98,730 |
 
@@ -33,16 +33,16 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,290.00 | - | ₹14,011.00 | +1.99% | ₹41,44,100 | 15.6% | ₹8,12,290 | +24.38% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹160.63 | - | ₹163.35 | -1.67% | ₹1,60,630 | 0.6% | ₹12,910 | +8.74% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,228.50 | - | ₹8,113.00 | +1.42% | ₹82,28,500 | 31.0% | ₹9,62,500 | +13.25% |
-| Linde India | 500 | ₹5,961.00 | ₹6,637.50 | - | ₹6,572.00 | +1.00% | ₹33,18,750 | 12.5% | ₹3,38,250 | +11.35% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹85.78 | - | ₹86.15 | -0.43% | ₹85,780 | 0.3% | ₹780 | +0.92% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,967.00 | - | ₹1,935.40 | +1.63% | ₹19,67,000 | 7.4% | ₹2,89,800 | +17.28% |
-| Bank of India | 1,000 | ₹131.33 | ₹161.24 | - | ₹164.70 | -2.10% | ₹1,61,240 | 0.6% | ₹29,910 | +22.77% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,370.40 | - | ₹1,387.20 | -1.21% | ₹13,70,400 | 5.2% | -₹68,800 | -4.78% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,252.00 | - | ₹14,011.00 | +1.72% | ₹41,33,080 | 15.5% | ₹8,01,270 | +24.05% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹160.42 | - | ₹163.35 | -1.79% | ₹1,60,420 | 0.6% | ₹12,700 | +8.60% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,193.00 | - | ₹8,113.00 | +0.99% | ₹81,93,000 | 30.7% | ₹9,27,000 | +12.76% |
+| Linde India | 500 | ₹5,961.00 | ₹6,942.00 | - | ₹6,572.00 | +5.63% | ₹34,71,000 | 13.0% | ₹4,90,500 | +16.46% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹86.79 | - | ₹86.15 | +0.74% | ₹86,790 | 0.3% | ₹1,790 | +2.11% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,964.90 | - | ₹1,935.40 | +1.52% | ₹19,64,900 | 7.4% | ₹2,87,700 | +17.15% |
+| Bank of India | 1,000 | ₹131.33 | ₹160.58 | - | ₹164.70 | -2.50% | ₹1,60,580 | 0.6% | ₹29,250 | +22.27% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,369.40 | - | ₹1,387.20 | -1.28% | ₹13,69,400 | 5.1% | -₹69,800 | -4.85% |
 
-**Best since buy:** Maruti Suzuki (+24.38%)  ·  **Worst since buy:** Jio Platforms (-4.78%)  ·  **Biggest mover today:** Bank of India (-2.10%)
+**Best since buy:** Maruti Suzuki (+24.05%)  ·  **Worst since buy:** Jio Platforms (-4.85%)  ·  **Biggest mover today:** Linde India (+5.63%)
 
 ## Allocation
 
@@ -50,16 +50,16 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,45,00,230 | 54.6% |
-| Cash | ₹71,42,482 | 26.9% |
-| Industrial Gases | ₹33,18,750 | 12.5% |
-| Telecom & Digital Services | ₹13,70,400 | 5.2% |
-| Financials | ₹1,61,240 | 0.6% |
-| Stationery & Writing Instruments | ₹85,780 | 0.3% |
+| Automobiles | ₹1,44,51,400 | 54.2% |
+| Cash | ₹71,42,482 | 26.8% |
+| Industrial Gases | ₹34,71,000 | 13.0% |
+| Telecom & Digital Services | ₹13,69,400 | 5.1% |
+| Financials | ₹1,60,580 | 0.6% |
+| Stationery & Writing Instruments | ₹86,790 | 0.3% |
 
 <a name="performance"></a>
 
-## Performance (as on 23 Nov 2026, 11:32 AM IST)
+## Performance (as on 23 Nov 2026, 12:32 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -120,7 +120,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹14,290.00 | +1.99% | ₹13,989.00 - ₹14,333.00 | 759,789 | 685,270 | 1.11x | 36.82% | ₹11,170.00 - ₹17,292.00 |
+| ₹14,252.00 | +1.72% | ₹13,989.00 - ₹14,333.00 | 933,790 | 685,270 | 1.36x | 36.76% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -137,7 +137,7 @@ _▲ buy · ▼ sell_
 
 - [Maruti Suzuki gains 2% on price hike; stock up 14% in one week](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFNUZ1dFekdmN3N1ZDJkbkdQaHQ2S1BQZ3lQUjhZdkZaT0gxNDN2R3Q2dVA3ZG1tY2pWTEkzTFY5Ynd3dnFYTXpmMURVQXhCU1JXQTdCYW1ueU9BamowSF95bU5tcHdKdFIxNGpCZFZuMU9RMVBvSmdqcmhmb01EMmgwcExBUEhvcWJNS0pwODRTZDVVbjhYelgxMWZMcG1Ed21VTENMenJRc2w2azY5Zkt0Rk1BVzNBRkl6aS1PZ1FsajVJ0gHKAUFVX3lxTFBwZ1lMSmlYYURvbGIxbHNlR0hqdmRiWnhndDVpMmwyX1FTdEx6NXplUzV1RDdBcjNVdTE4eHgzeW5PSmhHZTNKYm41RG1oZ3JJRkZBTnN4WC04OVEtZVBrTmtWMjdzUHYzdDd1SlJjRmpEdDR3dUFqT3dwbnJoQS1vMmEzb0Rpb2F1Y3pZR2NRVkNtaEFHZWdBVFM3QngwU0w1Q1Z3RUljT2FTNl9lNjRzMTh1LUtPOXFsSHUwQjNOOGt5QlNxa2Zncnc?oc=5) - _Business Standard, 23 Nov 2026, 11:01 AM IST_
 - [Stocks to watch: Tata Steel, Waaree, Adani Energy, Maruti, IndusInd Bank](https://www.business-standard.com/markets/news/stocks-to-watch-tata-steel-waaree-adani-energy-maruti-indusind-bank-126112300090_1.html) - _Business Standard, 23 Nov 2026, 08:02 AM IST_
-- [Top stocks to watch today: Tata Steel, APL Apollo Tubes, Maruti Suzuki, RVNL, Waaree Energies &amp; 17 others in focus](https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-apl-apollo-tubes-maruti-suzuki-rvnl-waaree-energies-17-others-in-focus-11795399384907.html) - _Mint, 23 Nov 2026, 07:57 AM IST_
+- [Top stocks to watch today: Tata Steel, APL Apollo Tubes, Maruti Suzuki, RVNL, Waaree Energies & 17 others in focus](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjl2UFpxdnlUaVk1SkV1anJqQUtnRWFHU0k5b2V6dXlpTUNmN3hlcTBtM3Bjdk85OWVYbmdnbHoxTUpPZlplcGk4WlR0Q1VXSFpRRTUzTGxnTVdGRk9EdmdRakpjdGt3ak1nY0hJLTN2UjlIWDd3N0s2SEk5Y195ckhwcWl2NnVudW5neXNwTnI3UHlQcTRpME5nZ3Y0SzNlaE5hczhibGM4M1lTU0hyai1mREpJaFNWTUtWZUhMeWktUHRhZFV0YUhpVU02cDZWRHhQaWhQTEtMbDN5Z2dseC1zR1A2ci11R0xJQk5US3ZPME1zcG9Ya1puMDVuM2hPOXJUREdrU1HSAY4CQVVfeXFMT29ZeGRCS3MtajZndFZkeVhIQk9MUDlycnZJTU9LeXF0NUJtbE8zY20zUW9DLVJ1ZkRJU015UDFCc0VDeXFFbmJwSkJtcnVSWUhlcGRaVWtTcVUwYURSM0lZazZFa3J6ckdENk03T1ljcHJWZzhqY3pmS2F2TW1jeHNpV1pEYzZ4YmFmdHZVbnpHb2tZWnNieldrdEhHQktxTXZQd2paNkg3eEFrNmhiTXpFSjdZbjk4Zm9scGl6RnRLb2pLcTYxMjF1dktLS3JTQ3gxNnpxXzY3MTd5Sk1Pb2tRaEtaVWxmcks4OUZ4Z3pFNjFGSXpzXzkwT1JFM0V3TTdLb1RYTi1QYkJNSERB?oc=5) - _Livemint, 23 Nov 2026, 07:57 AM IST_
 - [Stocks to watch, Nov 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies, Premier Explosives, Maruti Suzuki, Texmaco Rail, RVNL, Ashoka Buildcon](https://www.thehindubusinessline.com/markets/stock-markets/stocks-to-watch-nov-23-tata-steel-apl-apollo-tubes-indusind-bank-nse-adani-energy-waaree-energies-premier-explosives-maruti-suzuki-texmaco-rail-rvnl-ashoka-buildcon/article71733190.ece) - _BusinessLine, 23 Nov 2026, 06:59 AM IST_
 - [Stocks in news: Adani Energy, Maruti Suzuki, RailTel, Waaree Energies and Indian Bank](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbG1LNVlQci11WVg5WW9wYTRRcVpRRFk3ZmM4dFlXeWc4TkZ2cno1WDNjdmRyWHBJSDhvT1FWUmNlcDFhVDhZTGZ3OXVIQ1JNQmFTaDUzQlJ3Q3JlcXlJR281MzRZSWlrT0ZFVUZjU3BLVjJLZXN4OGJlS2NtbjMyS0Q3YjJJWUtpX2pOczgyQzhxYnVtZXByUW9CMTlxLWE0U3NRdkJUbkMwQnpjVlc2YUxpbk1CZlpBZUVRWWd1a3REc2JRNGtMZTNveGx3WF9UNU43VFdRNGVxUFpxZlE3YkUtRHo0T1doeTFN0gHwAUFVX3lxTE41SUVpVWZtRmItZXhYR01qLS1yRW5ycnhiZ080aUhiYUtqQURzZi14VlppU1dkOGE4NGVYMkp1WnoybUFTQklHSjktN0dVTXhhUklnZERvZWRoeGJjWF81cGNZRzlrQ1gyTDUyUFZ6ajI2QTVHMEdEOU5rY3BILWd5WkVnZkMxWWxuekxXSkZyLU9vSUh4V2MzSl80RjFvLW5UcU5NOE55RjgxblFTd3ZaMGt1S2RDaXJaX2VnSlVTeG9Sd1BqWFRUeDlVSm8taFYwSmZLOUMyVTVTblVHV3I2LU5LNW9iSjRSX0xRWVpNdg?oc=5) - _The Economic Times, 23 Nov 2026, 06:00 AM IST_
 
@@ -153,7 +153,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹160.63 | -1.67% | ₹160.22 - ₹165.00 | 7,035,388 | 24,298,146 | 0.29x | 47.54% | ₹138.58 - ₹211.92 |
+| ₹160.42 | -1.79% | ₹160.20 - ₹165.00 | 8,420,527 | 24,298,146 | 0.35x | 47.62% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -172,6 +172,7 @@ _▲ buy · ▼ sell_
 - [Ashok Leyland expands EV push with order of 200 trucks for cement transport, eyes wider LCV market](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMDJOY3E0T25CWWZqLXZaN0xXUEduZGxNQzl5ZmlWM1NuWmpPR0NwRHl0czJib09fYjRXbDFULU5ZWWNDbDI1NHVZeFBxd1RiVU9EV2F4VmVxbFNQUURmMkh1NVo0cW9qVnhqWjF0OUdKN1BnTHVzNVRTc242TnE2VHhjRG9tXzRaYnEzMnhuV2x6SDVUMzRXMXhac0U3akFrYlloQURDYWtDLUU5UktHV01lY20yN3JQZ0xCWmZ4VnlHdmZnQS1VQ1UzLUZxNEZmbXBCZWlFOXhJenR0ZlpNeWRzQzZ5RmtfcnVqbXhMUFRKTEVTdG1V0gH-AUFVX3lxTE5jXzdLQi0teV9qLWVpbWo3WWVMb0o4aWNLQldsNUR3VHp6V2pPa1RHaE1GdXRxeHBTX1BSNTJjRXR3LVEwc2dKYWFJakllcU5qSGlzMG9QTnRWblhsQXB4NUhWa0ZWM1N3dTl4VExLNlJNTEh0d3dwaFh1ZGZ0Q3VnNFZ3R0VVMUo4RU5KNlhqdTMzazJoS3lJdFNQUjJjLXlibElBWkZjZ3lLM0FBVFdNbDV1N3MxelN4SHBsbzdwYXc1YmFuZWJDcFpDRW1vT25iR0xhajVPUjUyc3p1LTVPcko0UW94ekV2TXp2X0ktVEppTkVVNVVtSkh3U3JR?oc=5) - _BusinessLine, 22 Nov 2026, 10:59 AM IST_
 - [Ashok Leyland truck plant to be set up in Singur, work to begin soon: Sukanta Majumdar](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNWJlT1haZzBtUk5xOWpFR2xRV2cySXlJVEhpeVFKMmprUVdqS00yU1ZXXzRYQ3ZFbFBDQi1lY1BYTXd3Q3oycmZ4U0V1XzRnUF9Od3BBc0QtaVJ1RjFuMmxxbDByNjc1WktJd2t4R2xXQTRCd3RvZXZxSV9EM0RrZjV3c0JtcklSRV9oOEtmYzNXMzlLX2ZxWXhrZXFrQ3I3TDN1Nkh5cGljdkE1a055VGFNRm4wQU5WWFdJZGo0ZjFZVTJZV1E0cWFpc0x0Z2pvbkNtNDhMc2F1eFh2Tm1Xa3hzVDlSUdIB7AFBVV95cUxNTXpITXVKWFgwX3ZBZHd5YUpjbUwtdlN2YnRwRVZsR2h1eWJZQ012WXllYWdSb0dOWFNVZUdWaVl6SFJfdWxzX0VaMXhpVTJQUUFEd0k1T2FWd1VXcVdyRjZ3TDhCRnk2WmVXZm1jZ1ZfdXhSVjYzTUJzZS1mQUExbjBSaXA0NWxMNDdRZTNxYlh6blpnTUtRQ05kVUY1SDRfeVlOWnZvQjJ2WDZnRFhlcm5sZG5LNWVxclFVMEpPNlRvNVpKTDM5ZFR3WjRVVWk2cWo3OVJoYjZidGZ4NFl6WUM2WFliZ3FaQmtxNw?oc=5) - _BusinessLine, 21 Nov 2026, 07:28 PM IST_
 - [Stock Market Update: Stocks Radar Ashok Leyland, ONGC, Rain Industries](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGFGa28tSUpjSjljampOUk9fYVF6eFgtUXBRS0tMYUZfeGQ5SEFNSHhndWFmNTh6NG41ODJnVC1uVmRWQmlsMHJNcUY1RFR3b2ZQNjh0cERUR0Vzd0V3Wkt3ZXdxemdjM0tUQjJZV3dSZDc3S3VaT2M4YmNfOERmdDNVNFpTUHlfWmhUcDFYOUJteU15TFE?oc=5) - _NDTV Profit, 21 Nov 2026, 06:11 PM IST_
+- [Ashok Leyland Celebrates Milestone Delivery of 1,000+ Vehicles to Thriveni Transport and Logistics](https://www.ashokleyland.com/in/pressrelease/ashok-leyland-celebrates-milestone-delivery-of-1000-vehicles-to-thriveni-transport-and-logistics) - _Ashok Leyland (official newsroom), 17 Nov 2026_
 
 </details>
 
@@ -185,7 +186,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹8,228.50 | +1.42% | ₹8,126.00 - ₹8,275.00 | 336,659 | 574,796 | 0.59x | 27.77% | ₹6,586.00 - ₹8,228.50 |
+| ₹8,193.00 | +0.99% | ₹8,126.00 - ₹8,275.00 | 443,775 | 574,796 | 0.77x | 27.68% | ₹6,586.00 - ₹8,193.00 |
 
 **Research reports**
 
@@ -200,9 +201,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Eicher Motors hits all-time high; here's why stock rallied 17% in one month](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWtZZGFDNzFOby1Nam5uY0w3RjZndnZFYjl2aFlncXhFNVNwVGdUNUJOQVY5dnFrRVVTVXIwRlRFbk9rM0t6X1lWZ09FUVB3NVl6R2pEWWR4NXlhR0Y2OHVWQTAyYks5TXV3ZGpwV29zak5Jc3RNRkh6Q25WWm1PV0t5Sl91WmRHLVd2Wk5laUJodnBnVHkxSnV3Uy1rVHlwcXpwREhYR0ctMy0tRkt5Rm5wQjNid0g3TnBQTV92ejFVb2dBaEp2Tmp3N3lVVHk4TnlQWVJ0d9IB3AFBVV95cUxQNnBEd1psRXcwZ1R3S056bm8yNk5vREFiMHpUVEJmUEZCdnMyQVpfb2VWN0VIVFhPdV9ia1QwdFRlOVdQTTlnOWdjRklvUlRoY2VvdEI4QV9NNVZDdVJlWjNYMFd1cGZhR2lxenU3TEw3N2FEcUNhb0dtOUpxOEFYRVZCcWJKNmZiQUFDZ2piUzZGSjc1VDFXWTgxemJ6N09zU2FEd2dyWFZRcU0wYklXQ1Fic01uUXY4R21VYk1sOGQ1M0U5SEpVYUdIcTd4eGRaWHdTQXJnTDJDVmxR?oc=5) - _Business Standard, 23 Nov 2026, 10:12 AM IST_
-- [Royal Enfield 250cc hybrid bikes in the works, 40–45 kmpl mileage expected: Price, launch details and more](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSE9JNWdpSnRRVXZYdXJ0OXk1ekNQdXNKWGE3Qkp3VDRHZm1BT1U4NlNZMHZvT25sZmUya29NZHdkTFA5ZmxXRktUNGNWZV9rUXVDMGk2NHhSUHZwNEpMSEk4c3d1NnhIekJWVUtVU1RqZzBlaUZYdVNLX1NfYmN2cTZQbUhscEdFdHF2a2NseFQ2WUtlTTJBS1VEWkRfMVMteVdDcVJlekhxeU1oX0RQZEJwcUtnZWU1QjNJdjZWZGlwWHRPLUdrQmxsMEYzVWtkZ1pvQkR2U1QxeGt4R2k2aGpoeVFZd0ZKQkQ3T3VGMNIB9AFBVV95cUxOSF9rZ3Z3V0FRd2tVM1JmZzBJMFk2VS00V1pJZVlPbFlPQVRLVFpOU01DY2hkUDJNVUljUHZKUjV3LW1zNERBdnd1V3Y3NFFlQmdNSzBMNlBxa01raEpnd0ktWk90Vjh4R1Bwa04xRkc4bEFMZzFQT0RPUzVOWFkwanpkOHp0bXJfVHJGYVhxQS1zZUFvZkcyWTdTbEVGSHVRWWFLOURva2lXWnFRUDM1Nm5mWS13eW5TWVZQV1U2VlA5b25ETnUwRUVCbmVyQ3RYUGEyRldfN0VPaDBFMXNTU3c5eEgtZ2QwQXJESU9NOUFRN1N1?oc=5) - _Livemint, 20 Nov 2026, 03:24 PM IST_
-- [Eicher Motors Share Price Live Updates: Eicher Motors Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-20-nov-2026/liveblog/136016875.cms) - _Economic Times, 20 Nov 2026, 12:17 PM IST_
+- [Eicher Motors hits all-time high; here's why stock rallied 17% in one month](https://www.business-standard.com/markets/news/eicher-motors-hits-all-time-high-here-s-why-stock-rallied-17-in-one-month-126112300208_1.html) - _Business Standard, 23 Nov 2026, 10:12 AM IST_
 
 </details>
 
@@ -216,7 +215,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,637.50 | +1.00% | ₹6,567.00 - ₹6,647.50 | 6,799 | 46,834 | 0.15x | 48.44% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,942.00 | +5.63% | ₹6,567.00 - ₹7,099.00 | 139,435 | 46,834 | 2.98x | 51.41% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -231,7 +230,6 @@ _Research report coming soon._
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Linde India Investor Analysis | StockIQ](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE9OU3JlUkpUMGRUZ2NRSEdMWUtRTzhzZWNDYmFxRHQ1TjM5RnhVU3M4b3RZUWdNQl94N0cwUkliamRheG8tWWhrWVNORWNCS3BGZEZ0emVXTi1FNkVJUGZ5elFsR2dYRC11OFlUREJ6NXN4NGdoMmdGYzBjbUZtbVl6QXBOU2NXMFFZ?oc=5) - _The Economic Times, 20 Nov 2026, 01:30 PM IST_
-- [Linde India to gain 133 tpd ASU through $13m Airtech acquisition](https://www.gasworld.com/story/linde-india-to-gain-133-tpd-asu-through-13m-airtech-acquisition/2264317.article/) - _gasworld, 17 Nov 2026, 05:56 PM IST_
 
 </details>
 
@@ -245,7 +243,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹85.78 | -0.43% | ₹85.00 - ₹86.53 | 2,176 | 46,357 | 0.05x | 70.56% | ₹76.41 - ₹123.36 |
+| ₹86.79 | +0.74% | ₹85.00 - ₹86.79 | 3,649 | 46,357 | 0.08x | 70.61% | ₹76.41 - ₹123.36 |
 
 **Research reports**
 
@@ -273,7 +271,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,967.00 | +1.63% | ₹1,936.00 - ₹1,972.00 | 629,860 | 3,715,231 | 0.17x | 57.86% | ₹601.35 - ₹1,967.00 |
+| ₹1,964.90 | +1.52% | ₹1,936.00 - ₹1,973.00 | 739,610 | 3,715,231 | 0.2x | 57.87% | ₹601.35 - ₹1,964.90 |
 
 **Research reports**
 
@@ -304,7 +302,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹161.24 | -2.10% | ₹158.25 - ₹166.85 | 9,600,679 | 11,787,747 | 0.81x | 37.87% | ₹126.32 - ₹177.20 |
+| ₹160.58 | -2.50% | ₹158.25 - ₹166.85 | 11,763,817 | 11,787,747 | 1.0x | 38.34% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -332,7 +330,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,370.40 | -1.21% | ₹1,368.60 - ₹1,394.00 | 974,582 | 20,910,590 | 0.05x | 10.80% | ₹1,370.40 - ₹1,437.40 |
+| ₹1,369.40 | -1.28% | ₹1,365.00 - ₹1,394.00 | 1,702,659 | 20,910,590 | 0.08x | 10.91% | ₹1,369.40 - ₹1,437.40 |
 
 **Research reports**
 
