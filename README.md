@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 24 Nov 2026, 03:32 PM IST  |  **Market data as of:** 2026-11-23  |  **Start date:** 2026-10-16
+**Last updated:** 24 Nov 2026, 05:26 PM IST  |  **Market data as of:** 2026-11-23  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -57,7 +57,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 24 Nov 2026, 03:32 PM IST)
+## Performance (as on 24 Nov 2026, 05:26 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -133,7 +133,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Maruti Suzuki, Hyundai and Audi announce hikes: Check company-wise changes](https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWZWUUpwNFNkdkRTVlVEUF9TbUpnS1dQSGg0Nlh1cy1PdFdjSU1kZXlqY25BczhfaUZCdld6dVRWTDZ3MlpnbXVMU0xReUViWGFTa0tvclpPbkFib3p6Z2pYMVlTWk5TeDE5RXhHUm5QSmhqVkx3SmtfNVJudDBmbGR5TjloOG1LNDhxY3hOUUh5YjFYeXRCZFZuV2pIZ3VHbkxHM2lKSE5PdUpjNXNIRW55MkhKaUJwUVNhRWt6azV3VUNMeHZiYU9WZ2EzdDTSAdQBQVVfeXFMUHk2ZFNmMlZaRGpDT1FzS2x3NkVmejVxeWFVejhHaC1hcEVJYU1lbEpJR1FFX19WNml3NDY5LUdDSVR6UkZZOW0zS3hRaTJXU2p4eEdGYTlnNGc2ODAya0F2NjB0S1g1cGJ5MUt0anprakNTSVdhQk5UaHNDOVkxV2d6TEdoRFlpZ1NRU3lpUVdfNTdsclN2VG1GeWFGZkNPWGRPRjk5NHdiRnBfQkJ0TWN4cnFNaTcxc3NnNUl0eHRSSEQwOHBfU0MxcHJjWl9oamNzSDg?oc=5) - _Moneycontrol.com, 24 Nov 2026, 02:57 PM IST_
+- [Tata Motors, Maruti Suzuki, Hyundai and Audi announce hikes: Check company-wise changes](https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWZWUUpwNFNkdkRTVlVEUF9TbUpnS1dQSGg0Nlh1cy1PdFdjSU1kZXlqY25BczhfaUZCdld6dVRWTDZ3MlpnbXVMU0xReUViWGFTa0tvclpPbkFib3p6Z2pYMVlTWk5TeDE5RXhHUm5QSmhqVkx3SmtfNVJudDBmbGR5TjloOG1LNDhxY3hOUUh5YjFYeXRCZFZuV2pIZ3VHbkxHM2lKSE5PdUpjNXNIRW55MkhKaUJwUVNhRWt6azV3VUNMeHZiYU9WZ2EzdDTSAdQBQVVfeXFMUHk2ZFNmMlZaRGpDT1FzS2x3NkVmejVxeWFVejhHaC1hcEVJYU1lbEpJR1FFX19WNml3NDY5LUdDSVR6UkZZOW0zS3hRaTJXU2p4eEdGYTlnNGc2ODAya0F2NjB0S1g1cGJ5MUt0anprakNTSVdhQk5UaHNDOVkxV2d6TEdoRFlpZ1NRU3lpUVdfNTdsclN2VG1GeWFGZkNPWGRPRjk5NHdiRnBfQkJ0TWN4cnFNaTcxc3NnNUl0eHRSSEQwOHBfU0MxcHJjWl9oamNzSDg?oc=5) - _Moneycontrol.com, 24 Nov 2026, 02:57 PM IST_
 - [Maruti Suzuki gains 2% on price hike; stock up 14% in one week](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFNUZ1dFekdmN3N1ZDJkbkdQaHQ2S1BQZ3lQUjhZdkZaT0gxNDN2R3Q2dVA3ZG1tY2pWTEkzTFY5Ynd3dnFYTXpmMURVQXhCU1JXQTdCYW1ueU9BamowSF95bU5tcHdKdFIxNGpCZFZuMU9RMVBvSmdqcmhmb01EMmgwcExBUEhvcWJNS0pwODRTZDVVbjhYelgxMWZMcG1Ed21VTENMenJRc2w2azY5Zkt0Rk1BVzNBRkl6aS1PZ1FsajVJ0gHKAUFVX3lxTFBwZ1lMSmlYYURvbGIxbHNlR0hqdmRiWnhndDVpMmwyX1FTdEx6NXplUzV1RDdBcjNVdTE4eHgzeW5PSmhHZTNKYm41RG1oZ3JJRkZBTnN4WC04OVEtZVBrTmtWMjdzUHYzdDd1SlJjRmpEdDR3dUFqT3dwbnJoQS1vMmEzb0Rpb2F1Y3pZR2NRVkNtaEFHZWdBVFM3QngwU0w1Q1Z3RUljT2FTNl9lNjRzMTh1LUtPOXFsSHUwQjNOOGt5QlNxa2Zncnc?oc=5) - _Business Standard, 23 Nov 2026, 11:01 AM IST_
 - [Stocks to watch: Tata Steel, Waaree, Adani Energy, Maruti, IndusInd Bank](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUlqakNqMDkzdjRWR1liX2pGRGF0U1BqVENQWUNiLVpSMGZUVDhuazhVSFBVbXRmRTFVREJqOXY1R1k4SDQ2S19SU2w4MmxzM0hIZS1JZXhnZXVWeTJTSWdaSFhSZnl1eHZja01BM2ViSm8yVzUydWVyWEZHVjVieDBhc1JQZG9Fc05Mc0JxRTVyTXhRSG1wVC0yWjBjMEt3ZGNRS0NVRmVwRjItcGJXRWk2SjBpZ2hCWm1nSlZSMUg4c1J1cEIzRjZiYjZFbFHSAdQBQVVfeXFMTzFZRGZMZmNuSjY3SXpFT1AyX1hqaENLV0xMREF3R2RwcUhydEI2bzBOVHBsYmxQLWd4RHRUUGVVNXdiTGV1M0NMUTRoRVF3VE43N2lXem5sbE05Q0ZQUWhXd0FNUWNVOXNubWxjblhfeE9oVWxIYUlXRWJtQ3ozWjJ0YXdlTnZsSWtSQU1VZVJLa2RfbmNKVkVEbFRRRzA0TFlOUEotTUl0NnZjRW95cHBnb084dmJyZHZMWTViX0V0NTFXS0VBdmJyelF2UHFkcUFndU8?oc=5) - _Business Standard, 23 Nov 2026, 08:02 AM IST_
 - [Stocks to watch, Nov 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies, Premier Explosives, Maruti Suzuki, Texmaco Rail, RVNL, Ashoka Buildcon](https://www.thehindubusinessline.com/markets/stock-markets/stocks-to-watch-nov-23-tata-steel-apl-apollo-tubes-indusind-bank-nse-adani-energy-waaree-energies-premier-explosives-maruti-suzuki-texmaco-rail-rvnl-ashoka-buildcon/article71733190.ece) - _BusinessLine, 23 Nov 2026, 06:59 AM IST_
@@ -315,8 +315,10 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [State Bank of India - HDFC Bank, Reliance Industries among 10 stocks with highest DII holding in Q2. See full list](https://news.google.com/rss/articles/CBMijwJBVV95cUxNcWhzSDB3ci16dTQzclRLd3Y4N0ZNVmNnaGJWVFZkSXVsVUprU2VudkVnWDcxc3QyZUlsM25SanVwUnFBSHFrdHFCNHNBMG16VVFwazVEZlRKcUJMcnN3MlJMbV9hQzVCOHJHaDVqaW1EM2RKdHZVWjVyeFZkSFRUR0YwTGpUV3luajhTbWkzYjgtQUt6VjRTMk1sT1FTVDJZYVZ5SWhYaVo1TDF5Ny0wZjRIeWpHZGg3OHpEeGQ0QnIxcHlueVlRb29hZnkwdFEtYlc4ZXZWQ3hYbUxQSE9pbFBGUjBqXy1oTlUzQ1BJY1NCdDQ4V20yZF8yU1ZoV3RKZkprM1BldDJDM21FbjhV?oc=5) - _The Economic Times, 24 Nov 2026, 03:24 PM IST_
 - [Bank of India offers up to 7.65 percent interest on 500-day Akshay Fixed Deposit](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmppN09mbkNDaFYzMWRDektCeldkVU03bXJrdS1fUHg0ZUZDanRQcTlfZHRqdFd0WVFUbEd6ekotLUxwOGpHR3Nja0daYWgtRFVva2R1WGZjUkp0LU52ZzBha05YWUZnRFBvRXhKbVkwNk5DbHBKVUQzUVN2aFNNdjJCUUVSWmdWWGxzRm81SDBkMFdiSjZWNWZrZ2ljSkxKU2hGdk9ZYW4zQXJ4Q2JjeUJDQ0xFSGhPYnBmSE14NXRObkJ3ZWhVNkRXb05mckNuVkpxdmh0Yk1pZ3VTalJwaGF6aEJabm51N3fSAe8BQVVfeXFMTWp0UjlhMmlZS1d4ZjhVX044YVVNdnZ5emRhY0VwWFh0S3BfRHVkQm01bHJtcFlQV1hPLVJEMXhycG9JZWJsTGozcHpROW9CM1hDWkIyNDV2enE1Wjh0ZlBZQ2Y4b0VtMFNkaXlOLWs2VkJwZDlTeWlPbURTa01zMzdqTWRaTFlmSmxmeVNpVC1PNGJLQlpJZ2kyUzhvRFVKSlVfcm9nY19sUkp1RjBmWHRYYjZFdmZBLXE3SW0wRUZRY0Z1ekNCcFRzOXV0VXFOUVFuUXVDUUtBYVlEVUZTUEpjYzJUaHRNWWh4MGNLLUU?oc=5) - _Moneycontrol.com, 24 Nov 2026, 11:57 AM IST_
 - [AI risks, Reserve Bank of India nudge spur a cybersecurity talent rush](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQXNub25wTmtvUEp6b0VOaDB5bEJ2LUY3ckhwVUxSRGc4R1YwX2twRk9jb3A5MUZDdFo0MmM3WTJQRFM1WmdVMl9jTEZqR3ByOVpXWmN2QTh2Qm5TSVVfenZrV1Jjb25RYUl4N0lDaUJaa19lX1F5bTVsWHZDcDdydVBxaVo4VmFobnZOSnpvNDVjZFgxSThPcm9mSFByOERsZTlud1ItVjV0bXpDQk1vc3NKdzF2MnAwSXowZHdySEF0b1dHU1RZUmFac0d0VUhiTFh2VXRFRdIB3AFBVV95cUxQVlZiQ2g3MkVKNkxkampZTEpHbkR2Vm11VFI0WWJ1cW9nbHpJMzJSdWRFVmtMZV84eWNfOXNXcWdyNVhPSDZRS29MQUV4OFdWQ2VKSlkwR0k1M2tHLVZTb2dWS2U3ZlFiTnZoUHROdVgzYThhUGRiSXZKdjgyZFpQVlpPbGpHbl8xS3h4NHRqdnlkdU8zYzRTWktSWU1zZ1BXbFlQN2RDMzVZd2dOZkswLXNXQVpJazJXd3NtbzZwaGkwd3B4eF93ZUtHNnFVX2p2VmFCNTdWNmJ1bV8z?oc=5) - _Business Standard, 23 Nov 2026, 11:54 PM IST_
+- [Motilal Oswal Small Cap and Bank of India Small deliver over 9% return - Smallcap funds deliver best returns during market corrections, but smaller schemes lead the pack. Check 5 top performers](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNX013SlQzYjFvQWhXNkd4MGNRbEZib3poYWcxX1VEcjFFNk1Cbk8ydnRLN1ZqaHE2b2hMcVhQQS1Nemt1ZTVaNWZCNFg2ZXFmM1h4SUhLY0R2cVl5M2NfTGVlUGJ0ZkQxcUM2MzFVQndVeENMdUh2ekE5OUluN0NEOHpsZkFLdFdYcV9WZWdXZnF0OE9CRG5BMFlmYVBlV05GRWZYVXl2bUpISm5ILURpQzRLWlFZVmZuNHBKUUxGRHIzX1lRSnp3WUM5Wkowc2RXOWV5c1p2aUhZYXdnWVZxZU5JWU1hZlZfX2IzUkUwUnZoV3JIRDhtRHBlb0xmYVdSZlJmek1wR1lESVlrazBWcllGZG9NR1VsSXJiRTI0eldReGRPdGR0RE1oSlpsTUt5aFlUby1NWUtHMjhvRmdVRkhhOXFrOG5ER1YyY1BjVUptVDhkakFqZ0JpSWVLM3FFQXRHNG5Bdk1VZ19q?oc=5) - _The Economic Times, 23 Nov 2026, 07:51 PM IST_
 
 </details>
 
@@ -345,6 +347,7 @@ _Research report coming soon._
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Jio Financial Services Share Price Live Updates: Jio Financial Services Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-23-nov-2026/liveblog/136092528.cms) - _Economic Times, 23 Nov 2026, 12:18 PM IST_
+- [Jio Platforms, ITC and BSE among 15 stocks added by MFs in October 2026](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGFraVdhVlJ0ai1QTWxJTm0tRzgwdlBVX3B3SG4zTFJfWlljaWFSQjB5ZDg0VnFxZGdpLTM3TjV0aGJyUXFNeFZudV9INlRsNG9DLXplaEF1N1NyLVJkdHpCNU1DT0F3M0VIZ3Fqd0NPczQ4QVoyc2dPTlk5V1hDTkYzSmtjd2h2MWhCNnNHRDAtYTNLSThwVWJOMXQxVF9Ld09ub2U3dEtkbTZadUtJVmpBY05uSnFlNk5RY2lnTkFWUnd2Z0REN3Z5dE5wTnRZV0gwbVdBUjR4dVk?oc=5) - _The Economic Times, 22 Nov 2026, 10:35 AM IST_
 
 </details>
 
