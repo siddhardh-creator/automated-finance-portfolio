@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "24 Nov 2026, 10:32 AM IST",
+  "generated_at_ist": "24 Nov 2026, 11:32 AM IST",
   "as_of": "2026-11-23",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -121,6 +121,12 @@
       },
       "news": [
         {
+          "title": "Ashok Leyland Trader Analysis | StockIQ",
+          "source": "The Economic Times",
+          "published": "23 Nov 2026, 04:29 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXpCcWYyZnN0aFQxZHBnZW00Z0tsMlJqbjJZZFZwNkNNU1NLR2RYOVZaVDl1S0lWd2E2bWQtc1FRbGJodE1GSUVxOTNaUmxUd0NBMXdJbE9GSWhNcHF1QWVEYmFSa2FBc3laZEJWamdBZF9BWE1rb1Q3Q09BNzFyNkZaSFFTUGpyQXI0?oc=5"
+        },
+        {
           "title": "Two decades after Tata Nano exit, can Ashok Leyland bring industry back to Singur? What we know so far",
           "source": "Livemint",
           "published": "23 Nov 2026, 10:37 AM IST",
@@ -143,12 +149,6 @@
           "source": "NDTV Profit",
           "published": "21 Nov 2026, 06:11 PM IST",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGFGa28tSUpjSjljampOUk9fYVF6eFgtUXBRS0tMYUZfeGQ5SEFNSHhndWFmNTh6NG41ODJnVC1uVmRWQmlsMHJNcUY1RFR3b2ZQNjh0cERUR0Vzd0V3Wkt3ZXdxemdjM0tUQjJZV3dSZDc3S3VaT2M4YmNfOERmdDNVNFpTUHlfWmhUcDFYOUJteU15TFE?oc=5"
-        },
-        {
-          "title": "Ashok Leyland Celebrates Milestone Delivery of 1,000+ Vehicles to Thriveni Transport and Logistics",
-          "source": "Ashok Leyland (official newsroom)",
-          "published": "17 Nov 2026",
-          "link": "https://www.ashokleyland.com/in/pressrelease/ashok-leyland-celebrates-milestone-delivery-of-1000-vehicles-to-thriveni-transport-and-logistics"
         }
       ],
       "announcements": [],
@@ -229,7 +229,14 @@
         "pnl_inr": 500250.0,
         "pnl_pct": 16.78
       },
-      "news": [],
+      "news": [
+        {
+          "title": "Linde India to gain 133 tpd ASU through $13m Airtech acquisition",
+          "source": "gasworld",
+          "published": "17 Nov 2026, 05:56 PM IST",
+          "link": "https://www.gasworld.com/story/linde-india-to-gain-133-tpd-asu-through-13m-airtech-acquisition/2264317.article/"
+        }
+      ],
       "announcements": [],
       "weight_pct": 13.08
     },
@@ -365,12 +372,6 @@
           "source": "Business Standard",
           "published": "23 Nov 2026, 11:54 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQXNub25wTmtvUEp6b0VOaDB5bEJ2LUY3ckhwVUxSRGc4R1YwX2twRk9jb3A5MUZDdFo0MmM3WTJQRFM1WmdVMl9jTEZqR3ByOVpXWmN2QTh2Qm5TSVVfenZrV1Jjb25RYUl4N0lDaUJaa19lX1F5bTVsWHZDcDdydVBxaVo4VmFobnZOSnpvNDVjZFgxSThPcm9mSFByOERsZTlud1ItVjV0bXpDQk1vc3NKdzF2MnAwSXowZHdySEF0b1dHU1RZUmFac0d0VUhiTFh2VXRFRdIB3AFBVV95cUxQVlZiQ2g3MkVKNkxkampZTEpHbkR2Vm11VFI0WWJ1cW9nbHpJMzJSdWRFVmtMZV84eWNfOXNXcWdyNVhPSDZRS29MQUV4OFdWQ2VKSlkwR0k1M2tHLVZTb2dWS2U3ZlFiTnZoUHROdVgzYThhUGRiSXZKdjgyZFpQVlpPbGpHbl8xS3h4NHRqdnlkdU8zYzRTWktSWU1zZ1BXbFlQN2RDMzVZd2dOZkswLXNXQVpJazJXd3NtbzZwaGkwd3B4eF93ZUtHNnFVX2p2VmFCNTdWNmJ1bV8z?oc=5"
-        },
-        {
-          "title": "Motilal Oswal Small Cap and Bank of India Small deliver over 9% return - Smallcap funds deliver best returns during market corrections, but smaller schemes lead the pack. Check 5 top performers",
-          "source": "The Economic Times",
-          "published": "23 Nov 2026, 07:51 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNX013SlQzYjFvQWhXNkd4MGNRbEZib3poYWcxX1VEcjFFNk1Cbk8ydnRLN1ZqaHE2b2hMcVhQQS1Nemt1ZTVaNWZCNFg2ZXFmM1h4SUhLY0R2cVl5M2NfTGVlUGJ0ZkQxcUM2MzFVQndVeENMdUh2ekE5OUluN0NEOHpsZkFLdFdYcV9WZWdXZnF0OE9CRG5BMFlmYVBlV05GRWZYVXl2bUpISm5ILURpQzRLWlFZVmZuNHBKUUxGRHIzX1lRSnp3WUM5Wkowc2RXOWV5c1p2aUhZYXdnWVZxZU5JWU1hZlZfX2IzUkUwUnZoV3JIRDhtRHBlb0xmYVdSZlJmek1wR1lESVlrazBWcllGZG9NR1VsSXJiRTI0eldReGRPdGR0RE1oSlpsTUt5aFlUby1NWUtHMjhvRmdVRkhhOXFrOG5ER1YyY1BjVUptVDhkakFqZ0JpSWVLM3FFQXRHNG5Bdk1VZ19q?oc=5"
         }
       ],
       "announcements": [],
