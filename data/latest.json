@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "23 Nov 2026, 10:16 PM IST",
+  "generated_at_ist": "24 Nov 2026, 09:32 AM IST",
   "as_of": "2026-11-23",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -7,15 +7,15 @@
     "capital": 24598730.0,
     "initial_capital": 10000000,
     "invested": 17058760.0,
-    "holdings_value": 19468289.92,
+    "holdings_value": 19468309.92,
     "cash": 7142481.89,
-    "value": 26610771.8,
-    "pnl_inr": 2012041.8,
+    "value": 26610791.81,
+    "pnl_inr": 2012061.81,
     "pnl_pct": 8.18,
-    "unrealised_pnl_inr": 2409529.92,
+    "unrealised_pnl_inr": 2409549.92,
     "realised_pnl_inr": -398488.11,
     "dividends_received_inr": 1000.0,
-    "day_pnl_inr": 269299.94,
+    "day_pnl_inr": 269319.94,
     "day_pnl_pct": 1.02,
     "open_positions": 8
   },
@@ -43,7 +43,7 @@
         "high": 14333.0,
         "low": 13989.0,
         "intraday_range_pct": 2.46,
-        "volume": 1251864,
+        "volume": 1251978,
         "avg_volume_20d": 685270,
         "volume_vs_avg": 1.83,
         "volatility_20d_annualised_pct": 36.96,
@@ -57,12 +57,6 @@
       },
       "news": [
         {
-          "title": "Crash proof stocks: Sensex, Nifty bleed but these shares come out in flying green colour - HCL, TCS, Infy, Maruti - List",
-          "source": "Mint",
-          "published": "23 Nov 2026, 01:40 PM IST",
-          "link": "https://www.livemint.com/market/stock-market-news/crash-proof-stocks-sensex-nifty-bleed-but-these-shares-come-out-in-flying-green-colour-hcl-tcs-infy-maruti-list-11795417938149.html"
-        },
-        {
           "title": "Maruti Suzuki gains 2% on price hike; stock up 14% in one week",
           "source": "Business Standard",
           "published": "23 Nov 2026, 11:01 AM IST",
@@ -75,16 +69,22 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUlqakNqMDkzdjRWR1liX2pGRGF0U1BqVENQWUNiLVpSMGZUVDhuazhVSFBVbXRmRTFVREJqOXY1R1k4SDQ2S19SU2w4MmxzM0hIZS1JZXhnZXVWeTJTSWdaSFhSZnl1eHZja01BM2ViSm8yVzUydWVyWEZHVjVieDBhc1JQZG9Fc05Mc0JxRTVyTXhRSG1wVC0yWjBjMEt3ZGNRS0NVRmVwRjItcGJXRWk2SjBpZ2hCWm1nSlZSMUg4c1J1cEIzRjZiYjZFbFHSAdQBQVVfeXFMTzFZRGZMZmNuSjY3SXpFT1AyX1hqaENLV0xMREF3R2RwcUhydEI2bzBOVHBsYmxQLWd4RHRUUGVVNXdiTGV1M0NMUTRoRVF3VE43N2lXem5sbE05Q0ZQUWhXd0FNUWNVOXNubWxjblhfeE9oVWxIYUlXRWJtQ3ozWjJ0YXdlTnZsSWtSQU1VZVJLa2RfbmNKVkVEbFRRRzA0TFlOUEotTUl0NnZjRW95cHBnb084dmJyZHZMWTViX0V0NTFXS0VBdmJyelF2UHFkcUFndU8?oc=5"
         },
         {
-          "title": "Top stocks to watch today: Tata Steel, APL Apollo Tubes, Maruti Suzuki, RVNL, Waaree Energies & 17 others in focus",
-          "source": "Livemint",
-          "published": "23 Nov 2026, 07:57 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjl2UFpxdnlUaVk1SkV1anJqQUtnRWFHU0k5b2V6dXlpTUNmN3hlcTBtM3Bjdk85OWVYbmdnbHoxTUpPZlplcGk4WlR0Q1VXSFpRRTUzTGxnTVdGRk9EdmdRakpjdGt3ak1nY0hJLTN2UjlIWDd3N0s2SEk5Y195ckhwcWl2NnVudW5neXNwTnI3UHlQcTRpME5nZ3Y0SzNlaE5hczhibGM4M1lTU0hyai1mREpJaFNWTUtWZUhMeWktUHRhZFV0YUhpVU02cDZWRHhQaWhQTEtMbDN5Z2dseC1zR1A2ci11R0xJQk5US3ZPME1zcG9Ya1puMDVuM2hPOXJUREdrU1HSAY4CQVVfeXFMT29ZeGRCS3MtajZndFZkeVhIQk9MUDlycnZJTU9LeXF0NUJtbE8zY20zUW9DLVJ1ZkRJU015UDFCc0VDeXFFbmJwSkJtcnVSWUhlcGRaVWtTcVUwYURSM0lZazZFa3J6ckdENk03T1ljcHJWZzhqY3pmS2F2TW1jeHNpV1pEYzZ4YmFmdHZVbnpHb2tZWnNieldrdEhHQktxTXZQd2paNkg3eEFrNmhiTXpFSjdZbjk4Zm9scGl6RnRLb2pLcTYxMjF1dktLS3JTQ3gxNnpxXzY3MTd5Sk1Pb2tRaEtaVWxmcks4OUZ4Z3pFNjFGSXpzXzkwT1JFM0V3TTdLb1RYTi1QYkJNSERB?oc=5"
-        },
-        {
           "title": "Stocks to watch, Nov 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies, Premier Explosives, Maruti Suzuki, Texmaco Rail, RVNL, Ashoka Buildcon",
           "source": "BusinessLine",
           "published": "23 Nov 2026, 06:59 AM IST",
           "link": "https://www.thehindubusinessline.com/markets/stock-markets/stocks-to-watch-nov-23-tata-steel-apl-apollo-tubes-indusind-bank-nse-adani-energy-waaree-energies-premier-explosives-maruti-suzuki-texmaco-rail-rvnl-ashoka-buildcon/article71733190.ece"
+        },
+        {
+          "title": "Maruti Suzuki hikes prices of select models from November 22, cites cost pressures",
+          "source": "Moneycontrol.com",
+          "published": "22 Nov 2026, 01:05 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjNETGYzWmk0YVh6dVIwLXQ5SEM3dWpHRmgyTWxxYWoyOHFGcFgwUlI4STd3aTB3V2dXTHVzdTQydmJlbVdmX0lKbGZvQVRFQ0dtSklrMEhnbTRncGM1ZmtRSlNuam5PVkptUDZHN2dSUGpIanVHandMOXlIbVg2dU1PYzR5dng2ZU9yLUNtdzJyU2JxRGJMaDRYOXhMcmN3a1pmb0VCeXRjajZRRkxLMkJrTHpPQllYZ3c4emo1dVo0MTjSAcMBQVVfeXFMTm4zRExmM1ppNGFYenVSMC10OUhDN3VqR0ZoMk1scWFqMjhxRnBYMFJSOEk3d2kwd1dnV0x1c3U0MnZiZW1XZl9JSmxmb0FURUNHbUpJazBIZ200Z3BjNWZrUUpTbmpuT1ZKbVA2RzdnUlBqSGp1R2p3TDl5SG1YNnVNT2M0eXZ4NmVPci1DbXcyclNicURiTGg0WDl4THJjd2taZm9FQnl0Y2o2UUZMSzJCa0x6T0JZWGd3OHpqNXVaNDE4?oc=5"
+        },
+        {
+          "title": "Maruti Suzuki hikes select model prices amid cost pressures",
+          "source": "The Hindu",
+          "published": "22 Nov 2026, 12:50 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFRXanJqZWJDQWx3ejZEZmRtRHNzWlkxMURRRmVreWhRNXBRQmNUZlRGTng2bmJJTjFGd2dJOWlPVUY2OEg1SkNDeWMtOWtPdjJzc2lscXZZeVhncGdYTWRDem1XTWlWSTF0SXhBTHZQbkE1a05GZTFpYVlHVmxnV2c1bmpzd0VTZlREa1diRjNBUWJfNlRNSkxmTEZwZUt3NUVvcFIyQXBqSmpOeUZFQW1KSDc3VmZtbk1DX0NZNNIBxgFBVV95cUxNZU1GRmNXamRmTXNjMWtvR0p1SlN0ZWZxTXZmWmZiU2hWbkJSeFF6Y0pSN3VMRHpvNHRNUF90RUs2cWd3ZWFGVkxLaV9wOGpNWEdjeGphVUpVVHpMeU5SSUZ6UHlSOG5EUGhhSGFKdk01blpmVE1KSEdqaDNZMm9HSzVnRHJtOFprYTl4QUlXZVBETzI4OE11d3BPVHZIbDNsUS1oOHYxdVNkOTZkal9EektFRHRaNXhVRm5UMnBkVjRFX3FGZ1E?oc=5"
         }
       ],
       "announcements": [],
@@ -107,7 +107,7 @@
         "high": 165.0,
         "low": 158.7,
         "intraday_range_pct": 3.86,
-        "volume": 19733136,
+        "volume": 19748864,
         "avg_volume_20d": 24298146,
         "volume_vs_avg": 0.81,
         "volatility_20d_annualised_pct": 48.45,
@@ -171,7 +171,7 @@
         "high": 8275.0,
         "low": 8126.0,
         "intraday_range_pct": 1.84,
-        "volume": 760967,
+        "volume": 760976,
         "avg_volume_20d": 574796,
         "volume_vs_avg": 1.32,
         "volatility_20d_annualised_pct": 27.67,
@@ -217,9 +217,9 @@
         "high": 7099.0,
         "low": 6567.0,
         "intraday_range_pct": 8.09,
-        "volume": 212370,
+        "volume": 212402,
         "avg_volume_20d": 46834,
-        "volume_vs_avg": 4.53,
+        "volume_vs_avg": 4.54,
         "volatility_20d_annualised_pct": 51.77,
         "high_52w": 7847.5,
         "low_52w": 5632.5,
@@ -229,14 +229,7 @@
         "pnl_inr": 500250.0,
         "pnl_pct": 16.78
       },
-      "news": [
-        {
-          "title": "Linde India to gain 133 tpd ASU through $13m Airtech acquisition",
-          "source": "gasworld",
-          "published": "17 Nov 2026, 05:56 PM IST",
-          "link": "https://www.gasworld.com/story/linde-india-to-gain-133-tpd-asu-through-13m-airtech-acquisition/2264317.article/"
-        }
-      ],
+      "news": [],
       "announcements": [],
       "weight_pct": 13.08
     },
@@ -250,24 +243,24 @@
       "first_buy": "2026-10-22",
       "dividends_received_inr": 0.0,
       "metrics": {
-        "close": 86.13,
-        "prev_close": 86.15,
-        "day_change_pct": -0.02,
-        "open": 85.0,
-        "high": 86.79,
-        "low": 85.0,
-        "intraday_range_pct": 2.08,
-        "volume": 6125,
+        "close": 86.15,
+        "prev_close": 86.41,
+        "day_change_pct": -0.3,
+        "open": 86.8,
+        "high": 86.8,
+        "low": 85.75,
+        "intraday_range_pct": 1.22,
+        "volume": 5849,
         "avg_volume_20d": 46357,
         "volume_vs_avg": 0.13,
-        "volatility_20d_annualised_pct": 70.55,
+        "volatility_20d_annualised_pct": 93.93,
         "high_52w": 123.36,
         "low_52w": 76.41,
         "shares": 1000,
         "base_price": 85.0,
-        "market_value": 86130.0,
-        "pnl_inr": 1130.0,
-        "pnl_pct": 1.33
+        "market_value": 86150.0,
+        "pnl_inr": 1150.0,
+        "pnl_pct": 1.35
       },
       "news": [],
       "announcements": [],
@@ -290,7 +283,7 @@
         "high": 1983.8,
         "low": 1936.0,
         "intraday_range_pct": 2.47,
-        "volume": 1415699,
+        "volume": 1417537,
         "avg_volume_20d": 3715231,
         "volume_vs_avg": 0.38,
         "volatility_20d_annualised_pct": 57.87,
@@ -303,6 +296,18 @@
         "pnl_pct": 18.01
       },
       "news": [
+        {
+          "title": "Persistent Systems, Ather Energy shares: Top 2 stocks to buy on 25 Nov; check expected returns, stop loss, target price",
+          "source": "Mint",
+          "published": "24 Nov 2026, 08:45 AM IST",
+          "link": "https://www.livemint.com/market/stock-market-news/persistent-systems-ather-energy-shares-top-2-stocks-to-buy-on-25-nov-check-expected-returns-stop-loss-target-price-11795486721247.html"
+        },
+        {
+          "title": "South Korea’s Kospi rockets 8% as AI-linked stocks get breather after Jensen Huang’s return as Nvidia CEO. Worst over?",
+          "source": "Economic Times",
+          "published": "24 Nov 2026, 08:35 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-rebound-as-huangs-nvidia-return-lifts-ai-stocks/articleshow/136118071.cms"
+        },
         {
           "title": "Rupee retreats with stocks as rally takes a breather, positive bias lingers",
           "source": "Economic Times",
@@ -336,7 +341,7 @@
         "high": 166.85,
         "low": 158.25,
         "intraday_range_pct": 5.22,
-        "volume": 16097503,
+        "volume": 16101347,
         "avg_volume_20d": 11787747,
         "volume_vs_avg": 1.37,
         "volatility_20d_annualised_pct": 39.64,
@@ -348,7 +353,14 @@
         "pnl_inr": 27679.99,
         "pnl_pct": 21.08
       },
-      "news": [],
+      "news": [
+        {
+          "title": "AI risks, Reserve Bank of India nudge spur a cybersecurity talent rush",
+          "source": "Business Standard",
+          "published": "23 Nov 2026, 11:54 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQXNub25wTmtvUEp6b0VOaDB5bEJ2LUY3ckhwVUxSRGc4R1YwX2twRk9jb3A5MUZDdFo0MmM3WTJQRFM1WmdVMl9jTEZqR3ByOVpXWmN2QTh2Qm5TSVVfenZrV1Jjb25RYUl4N0lDaUJaa19lX1F5bTVsWHZDcDdydVBxaVo4VmFobnZOSnpvNDVjZFgxSThPcm9mSFByOERsZTlud1ItVjV0bXpDQk1vc3NKdzF2MnAwSXowZHdySEF0b1dHU1RZUmFac0d0VUhiTFh2VXRFRdIB3AFBVV95cUxQVlZiQ2g3MkVKNkxkampZTEpHbkR2Vm11VFI0WWJ1cW9nbHpJMzJSdWRFVmtMZV84eWNfOXNXcWdyNVhPSDZRS29MQUV4OFdWQ2VKSlkwR0k1M2tHLVZTb2dWS2U3ZlFiTnZoUHROdVgzYThhUGRiSXZKdjgyZFpQVlpPbGpHbl8xS3h4NHRqdnlkdU8zYzRTWktSWU1zZ1BXbFlQN2RDMzVZd2dOZkswLXNXQVpJazJXd3NtbzZwaGkwd3B4eF93ZUtHNnFVX2p2VmFCNTdWNmJ1bV8z?oc=5"
+        }
+      ],
       "announcements": [],
       "weight_pct": 0.6
     },
@@ -369,7 +381,7 @@
         "high": 1394.0,
         "low": 1365.0,
         "intraday_range_pct": 2.09,
-        "volume": 2512685,
+        "volume": 2516018,
         "avg_volume_20d": 20910590,
         "volume_vs_avg": 0.12,
         "volatility_20d_annualised_pct": 10.95,
@@ -387,12 +399,6 @@
           "source": "Economic Times",
           "published": "23 Nov 2026, 12:18 PM IST",
           "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-23-nov-2026/liveblog/136092528.cms"
-        },
-        {
-          "title": "Jio Platforms, ITC and BSE among 15 stocks added by MFs in October 2026",
-          "source": "The Economic Times",
-          "published": "22 Nov 2026, 10:35 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGFraVdhVlJ0ai1QTWxJTm0tRzgwdlBVX3B3SG4zTFJfWlljaWFSQjB5ZDg0VnFxZGdpLTM3TjV0aGJyUXFNeFZudV9INlRsNG9DLXplaEF1N1NyLVJkdHpCNU1DT0F3M0VIZ3Fqd0NPczQ4QVoyc2dPTlk5V1hDTkYzSmtjd2h2MWhCNnNHRDAtYTNLSThwVWJOMXQxVF9Ld09ub2U3dEtkbTZadUtJVmpBY05uSnFlNk5RY2lnTkFWUnd2Z0REN3Z5dE5wTnRZV0gwbVdBUjR4dVk?oc=5"
         }
       ],
       "announcements": [],
@@ -427,7 +433,7 @@
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 86130.0,
+      "value": 86150.0,
       "weight_pct": 0.32
     }
   ],
@@ -459,7 +465,7 @@
     },
     {
       "sector": "Stationery & Writing Instruments",
-      "value": 86130.0,
+      "value": 86150.0,
       "weight_pct": 0.32
     }
   ],
