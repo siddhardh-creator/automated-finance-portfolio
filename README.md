@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 24 Nov 2026, 09:32 AM IST  |  **Market data as of:** 2026-11-23  |  **Start date:** 2026-10-16
+**Last updated:** 24 Nov 2026, 10:32 AM IST  |  **Market data as of:** 2026-11-23  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -57,7 +57,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 24 Nov 2026, 09:32 AM IST)
+## Performance (as on 24 Nov 2026, 10:32 AM IST)
 
 ![Returns](charts/returns.png)
 
@@ -135,9 +135,9 @@ _▲ buy · ▼ sell_
 
 - [Maruti Suzuki gains 2% on price hike; stock up 14% in one week](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFNUZ1dFekdmN3N1ZDJkbkdQaHQ2S1BQZ3lQUjhZdkZaT0gxNDN2R3Q2dVA3ZG1tY2pWTEkzTFY5Ynd3dnFYTXpmMURVQXhCU1JXQTdCYW1ueU9BamowSF95bU5tcHdKdFIxNGpCZFZuMU9RMVBvSmdqcmhmb01EMmgwcExBUEhvcWJNS0pwODRTZDVVbjhYelgxMWZMcG1Ed21VTENMenJRc2w2azY5Zkt0Rk1BVzNBRkl6aS1PZ1FsajVJ0gHKAUFVX3lxTFBwZ1lMSmlYYURvbGIxbHNlR0hqdmRiWnhndDVpMmwyX1FTdEx6NXplUzV1RDdBcjNVdTE4eHgzeW5PSmhHZTNKYm41RG1oZ3JJRkZBTnN4WC04OVEtZVBrTmtWMjdzUHYzdDd1SlJjRmpEdDR3dUFqT3dwbnJoQS1vMmEzb0Rpb2F1Y3pZR2NRVkNtaEFHZWdBVFM3QngwU0w1Q1Z3RUljT2FTNl9lNjRzMTh1LUtPOXFsSHUwQjNOOGt5QlNxa2Zncnc?oc=5) - _Business Standard, 23 Nov 2026, 11:01 AM IST_
 - [Stocks to watch: Tata Steel, Waaree, Adani Energy, Maruti, IndusInd Bank](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUlqakNqMDkzdjRWR1liX2pGRGF0U1BqVENQWUNiLVpSMGZUVDhuazhVSFBVbXRmRTFVREJqOXY1R1k4SDQ2S19SU2w4MmxzM0hIZS1JZXhnZXVWeTJTSWdaSFhSZnl1eHZja01BM2ViSm8yVzUydWVyWEZHVjVieDBhc1JQZG9Fc05Mc0JxRTVyTXhRSG1wVC0yWjBjMEt3ZGNRS0NVRmVwRjItcGJXRWk2SjBpZ2hCWm1nSlZSMUg4c1J1cEIzRjZiYjZFbFHSAdQBQVVfeXFMTzFZRGZMZmNuSjY3SXpFT1AyX1hqaENLV0xMREF3R2RwcUhydEI2bzBOVHBsYmxQLWd4RHRUUGVVNXdiTGV1M0NMUTRoRVF3VE43N2lXem5sbE05Q0ZQUWhXd0FNUWNVOXNubWxjblhfeE9oVWxIYUlXRWJtQ3ozWjJ0YXdlTnZsSWtSQU1VZVJLa2RfbmNKVkVEbFRRRzA0TFlOUEotTUl0NnZjRW95cHBnb084dmJyZHZMWTViX0V0NTFXS0VBdmJyelF2UHFkcUFndU8?oc=5) - _Business Standard, 23 Nov 2026, 08:02 AM IST_
+- [Top stocks to watch today: Tata Steel, APL Apollo Tubes, Maruti Suzuki, RVNL, Waaree Energies & 17 others in focus](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjl2UFpxdnlUaVk1SkV1anJqQUtnRWFHU0k5b2V6dXlpTUNmN3hlcTBtM3Bjdk85OWVYbmdnbHoxTUpPZlplcGk4WlR0Q1VXSFpRRTUzTGxnTVdGRk9EdmdRakpjdGt3ak1nY0hJLTN2UjlIWDd3N0s2SEk5Y195ckhwcWl2NnVudW5neXNwTnI3UHlQcTRpME5nZ3Y0SzNlaE5hczhibGM4M1lTU0hyai1mREpJaFNWTUtWZUhMeWktUHRhZFV0YUhpVU02cDZWRHhQaWhQTEtMbDN5Z2dseC1zR1A2ci11R0xJQk5US3ZPME1zcG9Ya1puMDVuM2hPOXJUREdrU1HSAY4CQVVfeXFMT29ZeGRCS3MtajZndFZkeVhIQk9MUDlycnZJTU9LeXF0NUJtbE8zY20zUW9DLVJ1ZkRJU015UDFCc0VDeXFFbmJwSkJtcnVSWUhlcGRaVWtTcVUwYURSM0lZazZFa3J6ckdENk03T1ljcHJWZzhqY3pmS2F2TW1jeHNpV1pEYzZ4YmFmdHZVbnpHb2tZWnNieldrdEhHQktxTXZQd2paNkg3eEFrNmhiTXpFSjdZbjk4Zm9scGl6RnRLb2pLcTYxMjF1dktLS3JTQ3gxNnpxXzY3MTd5Sk1Pb2tRaEtaVWxmcks4OUZ4Z3pFNjFGSXpzXzkwT1JFM0V3TTdLb1RYTi1QYkJNSERB?oc=5) - _Livemint, 23 Nov 2026, 07:57 AM IST_
 - [Stocks to watch, Nov 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies, Premier Explosives, Maruti Suzuki, Texmaco Rail, RVNL, Ashoka Buildcon](https://www.thehindubusinessline.com/markets/stock-markets/stocks-to-watch-nov-23-tata-steel-apl-apollo-tubes-indusind-bank-nse-adani-energy-waaree-energies-premier-explosives-maruti-suzuki-texmaco-rail-rvnl-ashoka-buildcon/article71733190.ece) - _BusinessLine, 23 Nov 2026, 06:59 AM IST_
-- [Maruti Suzuki hikes prices of select models from November 22, cites cost pressures](https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjNETGYzWmk0YVh6dVIwLXQ5SEM3dWpHRmgyTWxxYWoyOHFGcFgwUlI4STd3aTB3V2dXTHVzdTQydmJlbVdmX0lKbGZvQVRFQ0dtSklrMEhnbTRncGM1ZmtRSlNuam5PVkptUDZHN2dSUGpIanVHandMOXlIbVg2dU1PYzR5dng2ZU9yLUNtdzJyU2JxRGJMaDRYOXhMcmN3a1pmb0VCeXRjajZRRkxLMkJrTHpPQllYZ3c4emo1dVo0MTjSAcMBQVVfeXFMTm4zRExmM1ppNGFYenVSMC10OUhDN3VqR0ZoMk1scWFqMjhxRnBYMFJSOEk3d2kwd1dnV0x1c3U0MnZiZW1XZl9JSmxmb0FURUNHbUpJazBIZ200Z3BjNWZrUUpTbmpuT1ZKbVA2RzdnUlBqSGp1R2p3TDl5SG1YNnVNT2M0eXZ4NmVPci1DbXcyclNicURiTGg0WDl4THJjd2taZm9FQnl0Y2o2UUZMSzJCa0x6T0JZWGd3OHpqNXVaNDE4?oc=5) - _Moneycontrol.com, 22 Nov 2026, 01:05 PM IST_
-- [Maruti Suzuki hikes select model prices amid cost pressures](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFRXanJqZWJDQWx3ejZEZmRtRHNzWlkxMURRRmVreWhRNXBRQmNUZlRGTng2bmJJTjFGd2dJOWlPVUY2OEg1SkNDeWMtOWtPdjJzc2lscXZZeVhncGdYTWRDem1XTWlWSTF0SXhBTHZQbkE1a05GZTFpYVlHVmxnV2c1bmpzd0VTZlREa1diRjNBUWJfNlRNSkxmTEZwZUt3NUVvcFIyQXBqSmpOeUZFQW1KSDc3VmZtbk1DX0NZNNIBxgFBVV95cUxNZU1GRmNXamRmTXNjMWtvR0p1SlN0ZWZxTXZmWmZiU2hWbkJSeFF6Y0pSN3VMRHpvNHRNUF90RUs2cWd3ZWFGVkxLaV9wOGpNWEdjeGphVUpVVHpMeU5SSUZ6UHlSOG5EUGhhSGFKdk01blpmVE1KSEdqaDNZMm9HSzVnRHJtOFprYTl4QUlXZVBETzI4OE11d3BPVHZIbDNsUS1oOHYxdVNkOTZkal9EektFRHRaNXhVRm5UMnBkVjRFX3FGZ1E?oc=5) - _The Hindu, 22 Nov 2026, 12:50 PM IST_
+- [Stocks in news: Adani Energy, Maruti Suzuki, RailTel, Waaree Energies and Indian Bank](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbG1LNVlQci11WVg5WW9wYTRRcVpRRFk3ZmM4dFlXeWc4TkZ2cno1WDNjdmRyWHBJSDhvT1FWUmNlcDFhVDhZTGZ3OXVIQ1JNQmFTaDUzQlJ3Q3JlcXlJR281MzRZSWlrT0ZFVUZjU3BLVjJLZXN4OGJlS2NtbjMyS0Q3YjJJWUtpX2pOczgyQzhxYnVtZXByUW9CMTlxLWE0U3NRdkJUbkMwQnpjVlc2YUxpbk1CZlpBZUVRWWd1a3REc2JRNGtMZTNveGx3WF9UNU43VFdRNGVxUFpxZlE3YkUtRHo0T1doeTFN0gHwAUFVX3lxTE41SUVpVWZtRmItZXhYR01qLS1yRW5ycnhiZ080aUhiYUtqQURzZi14VlppU1dkOGE4NGVYMkp1WnoybUFTQklHSjktN0dVTXhhUklnZERvZWRoeGJjWF81cGNZRzlrQ1gyTDUyUFZ6ajI2QTVHMEdEOU5rY3BILWd5WkVnZkMxWWxuekxXSkZyLU9vSUh4V2MzSl80RjFvLW5UcU5NOE55RjgxblFTd3ZaMGt1S2RDaXJaX2VnSlVTeG9Sd1BqWFRUeDlVSm8taFYwSmZLOUMyVTVTblVHV3I2LU5LNW9iSjRSX0xRWVpNdg?oc=5) - _The Economic Times, 23 Nov 2026, 06:00 AM IST_
 
 </details>
 
@@ -284,10 +284,11 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Persistent Systems, Ather Energy shares: Top 2 stocks to buy on 25 Nov; check expected returns, stop loss, target price](https://www.livemint.com/market/stock-market-news/persistent-systems-ather-energy-shares-top-2-stocks-to-buy-on-25-nov-check-expected-returns-stop-loss-target-price-11795486721247.html) - _Mint, 24 Nov 2026, 08:45 AM IST_
+- [Persistent Systems, Ather Energy shares: Top 2 stocks to buy on 25 Nov; check expected returns, stop loss, target price](https://news.google.com/rss/articles/CBMikgJBVV95cUxNbk5Sc0ppYWF5czdQeWZQbzNDMkljYW55d0FQX0V6ck1VYi1DaG5sRFZIMmJYNENseGNHT2FPSU0wZ3dJS0hGSVVuZldDYldnSkVhenZzRnJ4MFQ1TnUzS3pjdlVRTkpyYW5KYjZSak81bWpfNFlxelhydVB2b1UzaGxkS1o1ZlcyNlIwSFNnNk13NlpfaHYtZHRDb25COVZ2QXZQeUZHVjlPamJtendsMk5fMUNPT2ZPZXIxdWUwRklqNU5WcHJFdUhxVHBQNXdOUW8yelkxYlEwOTIwaGJ6XzVhRF9UYml4dnNxVEluVlRjMWFhVmx1WGZ6QjdseGJZQ1E3a1V4eUV1aFpBUDR4a3ln0gGXAkFVX3lxTE85eURFdTZRajdpbkM2dXF0am9odHN3NkM2Q19nZ05KZXVXaUp4LUdlUTVsWDlYVUlZdUUxbUwxWXRabDJhT2JDWmFGZ2djcHNJT05QUjM2dWV1YS1xVU5SMlJUbjhaNERtcjEwTWh3dVI2OUlmdGlvdnVvbE1ObUUtdUxJazRnU0NVT1hjTFhSYmpiMlRnTVdmOS1FWFJtbjFySU9XTlJPMWpIZVY4aWk0WWZDXzFCVEdDak9JN0RnanFMSV9CT2JwRDB4QV8xWXhOaWRQMGsxallFci1Ka3k5Yk1BZDVBR0diaS1xa2tsQ0pSRlNUeDB3TTc1UUFidGVnWGUxcDZoNUZ4bm9kbjZQVWNtZHlHUQ?oc=5) - _Livemint, 24 Nov 2026, 08:45 AM IST_
 - [South Korea’s Kospi rockets 8% as AI-linked stocks get breather after Jensen Huang’s return as Nvidia CEO. Worst over?](https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-rebound-as-huangs-nvidia-return-lifts-ai-stocks/articleshow/136118071.cms) - _Economic Times, 24 Nov 2026, 08:35 AM IST_
 - [Rupee retreats with stocks as rally takes a breather, positive bias lingers](https://economictimes.indiatimes.com/markets/forex/rupee-retreats-with-stocks-as-rally-takes-a-breather-positive-bias-lingers/articleshow/136098391.cms) - _Economic Times, 23 Nov 2026, 03:58 PM IST_
 - [Bulls take a breather! Sensex dives 1,500 pts intraday; a short-term blip?](https://www.business-standard.com/markets/news/bulls-take-a-breather-sensex-dives-1-000-pts-intraday-a-short-term-blip-126112300436_1.html) - _Business Standard, 23 Nov 2026, 12:56 PM IST_
+- [​Ather Energy - Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices](https://news.google.com/rss/articles/CBMiigJBVV95cUxOSC1tZ0pkRFVjdDNUNE42U092cGRKQ013Rlc3LVd4b0pTTlpGV19mdnNrVmdybUhXWjRWRnhWOHdXbXlWUGJKd2ttdHhMVFZQWGlETmVLU3UyRTdBVk9SVENuUDA5UWNYT25SamxVRmIxZHItSXZxSVJ5QVFjWjdMX2RteGxqVW1UbGI5SnJmbV91MjNkN2l4MnhOTGJvNW43SmZobkNzdjNQb2VNNFFmR21oVE5heTVmOUFId241V1RaandiY3NhUTc1RGo5Z2FLUkdNZEl6RUo3N05SUHpabWhaeWRJVHF1bF83WXJjUUU3R1FYY1FCWkkwdThoclRiUUZzY2EtX0ppdw?oc=5) - _The Economic Times, 21 Nov 2026, 01:38 PM IST_
 
 </details>
 
@@ -316,6 +317,7 @@ _Research report coming soon._
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [AI risks, Reserve Bank of India nudge spur a cybersecurity talent rush](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQXNub25wTmtvUEp6b0VOaDB5bEJ2LUY3ckhwVUxSRGc4R1YwX2twRk9jb3A5MUZDdFo0MmM3WTJQRFM1WmdVMl9jTEZqR3ByOVpXWmN2QTh2Qm5TSVVfenZrV1Jjb25RYUl4N0lDaUJaa19lX1F5bTVsWHZDcDdydVBxaVo4VmFobnZOSnpvNDVjZFgxSThPcm9mSFByOERsZTlud1ItVjV0bXpDQk1vc3NKdzF2MnAwSXowZHdySEF0b1dHU1RZUmFac0d0VUhiTFh2VXRFRdIB3AFBVV95cUxQVlZiQ2g3MkVKNkxkampZTEpHbkR2Vm11VFI0WWJ1cW9nbHpJMzJSdWRFVmtMZV84eWNfOXNXcWdyNVhPSDZRS29MQUV4OFdWQ2VKSlkwR0k1M2tHLVZTb2dWS2U3ZlFiTnZoUHROdVgzYThhUGRiSXZKdjgyZFpQVlpPbGpHbl8xS3h4NHRqdnlkdU8zYzRTWktSWU1zZ1BXbFlQN2RDMzVZd2dOZkswLXNXQVpJazJXd3NtbzZwaGkwd3B4eF93ZUtHNnFVX2p2VmFCNTdWNmJ1bV8z?oc=5) - _Business Standard, 23 Nov 2026, 11:54 PM IST_
+- [Motilal Oswal Small Cap and Bank of India Small deliver over 9% return - Smallcap funds deliver best returns during market corrections, but smaller schemes lead the pack. Check 5 top performers](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNX013SlQzYjFvQWhXNkd4MGNRbEZib3poYWcxX1VEcjFFNk1Cbk8ydnRLN1ZqaHE2b2hMcVhQQS1Nemt1ZTVaNWZCNFg2ZXFmM1h4SUhLY0R2cVl5M2NfTGVlUGJ0ZkQxcUM2MzFVQndVeENMdUh2ekE5OUluN0NEOHpsZkFLdFdYcV9WZWdXZnF0OE9CRG5BMFlmYVBlV05GRWZYVXl2bUpISm5ILURpQzRLWlFZVmZuNHBKUUxGRHIzX1lRSnp3WUM5Wkowc2RXOWV5c1p2aUhZYXdnWVZxZU5JWU1hZlZfX2IzUkUwUnZoV3JIRDhtRHBlb0xmYVdSZlJmek1wR1lESVlrazBWcllGZG9NR1VsSXJiRTI0eldReGRPdGR0RE1oSlpsTUt5aFlUby1NWUtHMjhvRmdVRkhhOXFrOG5ER1YyY1BjVUptVDhkakFqZ0JpSWVLM3FFQXRHNG5Bdk1VZ19q?oc=5) - _The Economic Times, 23 Nov 2026, 07:51 PM IST_
 
 </details>
 
@@ -344,6 +346,7 @@ _Research report coming soon._
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Jio Financial Services Share Price Live Updates: Jio Financial Services Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-23-nov-2026/liveblog/136092528.cms) - _Economic Times, 23 Nov 2026, 12:18 PM IST_
+- [Jio Platforms, ITC and BSE among 15 stocks added by MFs in October 2026](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGFraVdhVlJ0ai1QTWxJTm0tRzgwdlBVX3B3SG4zTFJfWlljaWFSQjB5ZDg0VnFxZGdpLTM3TjV0aGJyUXFNeFZudV9INlRsNG9DLXplaEF1N1NyLVJkdHpCNU1DT0F3M0VIZ3Fqd0NPczQ4QVoyc2dPTlk5V1hDTkYzSmtjd2h2MWhCNnNHRDAtYTNLSThwVWJOMXQxVF9Ld09ub2U3dEtkbTZadUtJVmpBY05uSnFlNk5RY2lnTkFWUnd2Z0REN3Z5dE5wTnRZV0gwbVdBUjR4dVk?oc=5) - _The Economic Times, 22 Nov 2026, 10:35 AM IST_
 
 </details>
 
