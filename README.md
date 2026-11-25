@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 25 Nov 2026, 01:32 PM IST  |  **Market data as of:** 2026-11-25  |  **Start date:** 2026-10-16
+**Last updated:** 25 Nov 2026, 02:32 PM IST  |  **Market data as of:** 2026-11-25  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,14 +14,14 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,66,66,302** |
-| Total P&L | **₹20,67,572 (+8.41%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | ₹24,65,060 |
+| Current value | **₹2,66,96,182** |
+| Total P&L | **₹20,97,452 (+8.53%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | ₹24,94,940 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
 | &nbsp;&nbsp;Dividends received (already inside Total P&L) | ₹1,000 |
-| Today's change | ₹55,530 (+0.21%) |
+| Today's change | ₹85,410 (+0.32%) |
 | Nifty 50 since start (same money invested) | +11.87% |
-| Outperformance vs Nifty 50 | -3.46% |
+| Outperformance vs Nifty 50 | -3.34% |
 | Cash (uninvested) | ₹71,42,482 |
 | Virtual money put in | ₹2,45,98,730 |
 
@@ -33,16 +33,16 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,067.00 | - | ₹14,010.00 | +0.41% | ₹40,79,430 | 15.3% | ₹7,47,620 | +22.44% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹158.22 | - | ₹158.70 | -0.30% | ₹1,58,220 | 0.6% | ₹10,500 | +7.11% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,308.00 | - | ₹8,172.50 | +1.66% | ₹83,08,000 | 31.2% | ₹10,42,000 | +14.34% |
-| Linde India | 500 | ₹5,961.00 | ₹6,910.00 | - | ₹6,961.50 | -0.74% | ₹34,55,000 | 13.0% | ₹4,74,500 | +15.92% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹86.00 | - | ₹86.13 | -0.15% | ₹86,000 | 0.3% | ₹1,000 | +1.18% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,891.80 | - | ₹1,979.20 | -4.42% | ₹18,91,800 | 7.1% | ₹2,14,600 | +12.80% |
-| Bank of India | 1,000 | ₹131.33 | ₹159.27 | - | ₹159.01 | +0.16% | ₹1,59,270 | 0.6% | ₹27,940 | +21.27% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,386.10 | - | ₹1,369.10 | +1.24% | ₹13,86,100 | 5.2% | -₹53,100 | -3.69% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,133.00 | - | ₹14,010.00 | +0.88% | ₹40,98,570 | 15.3% | ₹7,66,760 | +23.01% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹157.80 | - | ₹158.70 | -0.57% | ₹1,57,800 | 0.6% | ₹10,080 | +6.82% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,316.50 | - | ₹8,172.50 | +1.76% | ₹83,16,500 | 31.1% | ₹10,50,500 | +14.46% |
+| Linde India | 500 | ₹5,961.00 | ₹6,933.00 | - | ₹6,961.50 | -0.41% | ₹34,66,500 | 13.0% | ₹4,86,000 | +16.31% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹85.99 | - | ₹86.13 | -0.16% | ₹85,990 | 0.3% | ₹990 | +1.16% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,868.40 | - | ₹1,979.20 | -5.60% | ₹18,68,400 | 7.0% | ₹1,91,200 | +11.40% |
+| Bank of India | 1,000 | ₹131.33 | ₹158.94 | - | ₹159.01 | -0.04% | ₹1,58,940 | 0.6% | ₹27,610 | +21.02% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,401.00 | - | ₹1,369.10 | +2.33% | ₹14,01,000 | 5.2% | -₹38,200 | -2.65% |
 
-**Best since buy:** Maruti Suzuki (+22.44%)  ·  **Worst since buy:** Jio Platforms (-3.69%)  ·  **Biggest mover today:** Ather Energy (-4.42%)
+**Best since buy:** Maruti Suzuki (+23.01%)  ·  **Worst since buy:** Jio Platforms (-2.65%)  ·  **Biggest mover today:** Ather Energy (-5.60%)
 
 ## Allocation
 
@@ -50,16 +50,16 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,44,37,450 | 54.1% |
+| Automobiles | ₹1,44,41,270 | 54.1% |
 | Cash | ₹71,42,482 | 26.8% |
-| Industrial Gases | ₹34,55,000 | 13.0% |
-| Telecom & Digital Services | ₹13,86,100 | 5.2% |
-| Financials | ₹1,59,270 | 0.6% |
-| Stationery & Writing Instruments | ₹86,000 | 0.3% |
+| Industrial Gases | ₹34,66,500 | 13.0% |
+| Telecom & Digital Services | ₹14,01,000 | 5.2% |
+| Financials | ₹1,58,940 | 0.6% |
+| Stationery & Writing Instruments | ₹85,990 | 0.3% |
 
 <a name="performance"></a>
 
-## Performance (as on 25 Nov 2026, 01:32 PM IST)
+## Performance (as on 25 Nov 2026, 02:32 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -120,7 +120,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹14,067.00 | +0.41% | ₹14,029.00 - ₹14,246.00 | 488,226 | 731,206 | 0.67x | 36.78% | ₹11,170.00 - ₹17,292.00 |
+| ₹14,133.00 | +0.88% | ₹14,029.00 - ₹14,246.00 | 603,245 | 731,206 | 0.82x | 36.69% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -135,7 +135,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- No fresh headlines from trusted sources in the last few days.
+- [Maruti Fronx facelift spotted with new cabin features, updated engine, safety upgrades: What buyers can expect](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc2dQUW9JcVhyNTUzQm5YTDN4QUgycXBpUWxqQk1reWd0cmo3MHZFcjUzc3BEMUp1dEE5WTFNYlBrTWdaNEhwRFVSYzVaeWhvUkh4T2w4cVFOUFFYNlVLSXFkUDVMNHpORE5TWkt1NXU2TzhqT0ZQX2F4ektCNy1ieXJUcnBIdjVuOGVuRjFfeGhtWUNBd2V0U0hvVEdJQXdmd1g1RlY4b2J4cXltWURYSzhOc3k4NkYxODRSbXVNVHRTTG5KWjU0LTBNUC1OQk1Zc3BJWndEZDByYmZPNkk4VE5OZnFRR3R0R1pxLXBRakxRUWpF0gH6AUFVX3lxTFB6a0dMUXFKR2lzUjdzWE9VbDE1NnVTLTJ6cE94TU52cHRJcURobVNGNklrVmZST042UHJhN2pxX3BITFZMS1JoY3AyMzVkYVVpQ3VCY2ZzWEk5T1VCVFJfXy1EZDNmMjVvWTFJYkx0MmoyU1VMLTlQa3hQQzMwNEM0LTBKUVZKWEJzU3ZFUzdvS09UUEQ5OHpqaUg4M0ZWanl2RkpGMnYwc1VQeklGeldScU5BTW5MRzR2bHFWQ09vaExPbk1UM2RrR2MxUVdLZXFUa0Q4enF4ZVBqMHFfNUoybTQ1TkZaclpOemxlanlxa1ZKNmNlU0NZa3c?oc=5) - _Livemint, 25 Nov 2026, 10:46 AM IST_
+- [Tata Motors, Audi India raise vehicle prices following Maruti Suzuki's move](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMllSME5UU1UxTTFJZFZ3X3U5THcyQnY4UjE1cjJpU2NXTlBGMlNzNUJTSlNSRWRraWh6cXgyWWF4bENLNExXV3ZOZ0ZINWM1Q0lMb0hoUXg1UmZLb2Z3LVBpOXJRbmtUdXZRdHdweEZHdmIxekV6Qy1Oc0o5SHpVeHdWazVLUm1tWW5ZUHRmRDg1WUtzeU5WNGh6M3pLT1cxZ0ExankyeDZfZ3ZxVjBYd0dMbDlDRDZ5V3oweGlud19aRzc3T1M0dWpZS09MZXU0VFg2aGt0LUtFenfSAeABQVVfeXFMTUhXdEtDS1AtVkRFV2RpUUQ1WUVsS3ZTQ1NNdHBDSXQ1eF9QZzBlcE9VVkUtRWJqYVZVQUVmcDdvZlhOVl91TVpBRGQtMzREWld3ckZfM3N6MURvOUx4RFg2ekhNb2oxUDNhbVlWc2VCT0FjRlVSSGVjbXF5Mmh2bHlmaTFDZmhsQ1czY0htU3k1S0ZKMm9OTTZJaGtWMFphZXVGWENKTy1SZ0wycjR3bjVoQVNBUlJ4Y2JlaUhBVng2MWRnZmpHSzRkdkJ3X2NDOFQ1LWFUemhvazZhRWpLR0U?oc=5) - _Business Standard, 24 Nov 2026, 07:57 PM IST_
+- [Rising input costs drive Tata Motors, Hyundai, Audi and Maruti to raise vehicle prices](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUxHR1NRYWFzOXVqbUNYV0xlZS1qYXlQOVNINlBmczRrWnFJS3VHR3d4Qk02MmlBRzBzY080V29NRk9TNUc3WWVNZEdDaVVUZV9kUTFualRmV1hEVFpDTFB2dzd6bEdWSFlNaDRxYlExMVJxVlh6M2w4c0QwVkFmVGc2V3hXUmxyUV9CVTRjQ1l1MHVtM1FWckhoSlRHaWgtTlpyUEhvNkplUm9QTzVlRUVRNncwV24xTFV4MW51V3k0ZUkwRm40VGc4M2RRT1NraGxvWENqdUxxY1ZuNVBUY9IB5wFBVV95cUxPM3Q2X3JBMnFjNDdsdE9GblVWT2VYejBETFJNOG92Si1ueUVsOWRvajF5S25qQlZ2a0tmYXQtcXJyRERoRVdqN2FYLWtxck5IempkUG9aTGh6c0JBY1Q3VGdnR3hSU2xNZnFZYUNCSkVDVF9BV3BBOElaWW9qREhQb0VOaU5wR2ZiMk03MkJFM2RIa04ydUxBdW9LYUlGWDhobUhDRGs3ejQyekx6MHAxVTFWTU1LQ0czU0xrWVdMdkdMZC1Bd0JkaTFMdEd3S0FlMGg5MFBpUjBaU3FsajRnOGVmQmdvMUU?oc=5) - _The Hindu, 24 Nov 2026, 07:32 PM IST_
+- [Hyundai, Tata join Maruti in raising prices ahead of December discount season](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQzFBc21IMGN2VEo0aUg2QnBNVkpFNHBleUdLc3AybmJwU2EwdlQ5ZmVLek9QbThtX1k0dVI5OGRsOG9ZSWRrdlpkcXUxODVZWXg2S1IyZ1B0eFFrQ3E5TXR3dDhxU2J5QU9oS1UtcHVPY3hEa3MwSkhNd3VhMDJoUldIakdNalE4T3J2UzV1Q0prOTRJUnRMaXhieGp3MHpZVzBoNVY3MVNvSnJTVVBqVE1qbTdfWW1ockN1ZXVma1JOUjdTY0hkYzJYbWZ4M0ZUaGYyckZ1RzZFcVHSAeIBQVVfeXFMUE9PVjZ5TTBOZnVJeDFmVVV0SURaZTBrNVkwODNyZHcwV2hNcV9vZFlyUWZpYUMwaEpwMmhjYWNZNjloZTlSS0ZBUjB1VGZIWWNfR3ZLUm9majcyUlpERURNSDdBdE56Y0lJMmNXM3luZDJBTkRTX3paWV94SmJ4MTVvcnp1TlFZZERLdDZoWHlzZzFXMjJNOW9ZcUhCTXpSa0RteThJWlhDUnEtZlNNTEV6dDFKUXdjZmdTRGxZYzhLU2hmbHVNcjFMMlpvbjdWaXhBLXRsdnB6aVhMQk94TDY5UQ?oc=5) - _BusinessLine, 24 Nov 2026, 07:16 PM IST_
+- [Tata Motors, Maruti Suzuki, Hyundai and Audi announce hikes: Check company-wise changes](https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWZWUUpwNFNkdkRTVlVEUF9TbUpnS1dQSGg0Nlh1cy1PdFdjSU1kZXlqY25BczhfaUZCdld6dVRWTDZ3MlpnbXVMU0xReUViWGFTa0tvclpPbkFib3p6Z2pYMVlTWk5TeDE5RXhHUm5QSmhqVkx3SmtfNVJudDBmbGR5TjloOG1LNDhxY3hOUUh5YjFYeXRCZFZuV2pIZ3VHbkxHM2lKSE5PdUpjNXNIRW55MkhKaUJwUVNhRWt6azV3VUNMeHZiYU9WZ2EzdDTSAdQBQVVfeXFMUHk2ZFNmMlZaRGpDT1FzS2x3NkVmejVxeWFVejhHaC1hcEVJYU1lbEpJR1FFX19WNml3NDY5LUdDSVR6UkZZOW0zS3hRaTJXU2p4eEdGYTlnNGc2ODAya0F2NjB0S1g1cGJ5MUt0anprakNTSVdhQk5UaHNDOVkxV2d6TEdoRFlpZ1NRU3lpUVdfNTdsclN2VG1GeWFGZkNPWGRPRjk5NHdiRnBfQkJ0TWN4cnFNaTcxc3NnNUl0eHRSSEQwOHBfU0MxcHJjWl9oamNzSDg?oc=5) - _Moneycontrol.com, 24 Nov 2026, 02:57 PM IST_
 
 </details>
 
@@ -149,7 +153,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹158.22 | -0.30% | ₹157.24 - ₹162.20 | 12,157,008 | 24,423,885 | 0.5x | 47.58% | ₹138.58 - ₹211.92 |
+| ₹157.80 | -0.57% | ₹157.24 - ₹162.20 | 14,676,479 | 24,423,885 | 0.6x | 47.66% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -181,7 +185,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹8,308.00 | +1.66% | ₹8,163.50 - ₹8,360.00 | 701,379 | 594,391 | 1.18x | 27.84% | ₹6,586.00 - ₹8,308.00 |
+| ₹8,316.50 | +1.76% | ₹8,163.50 - ₹8,360.00 | 793,858 | 594,391 | 1.34x | 27.88% | ₹6,586.00 - ₹8,316.50 |
 
 **Research reports**
 
@@ -210,7 +214,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,910.00 | -0.74% | ₹6,864.50 - ₹7,098.00 | 31,356 | 56,031 | 0.56x | 51.29% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,933.00 | -0.41% | ₹6,864.50 - ₹7,098.00 | 34,174 | 56,031 | 0.61x | 51.14% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -238,7 +242,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹86.00 | -0.15% | ₹85.06 - ₹86.80 | 1,790 | 28,773 | 0.06x | 67.34% | ₹76.41 - ₹123.36 |
+| ₹85.99 | -0.16% | ₹85.06 - ₹86.80 | 1,831 | 28,773 | 0.06x | 67.34% | ₹76.41 - ₹123.36 |
 
 **Research reports**
 
@@ -266,7 +270,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,891.80 | -4.42% | ₹1,883.80 - ₹1,993.80 | 2,098,829 | 3,613,600 | 0.58x | 40.69% | ₹601.35 - ₹1,979.20 |
+| ₹1,868.40 | -5.60% | ₹1,867.30 - ₹1,993.80 | 2,388,070 | 3,613,600 | 0.66x | 42.92% | ₹601.35 - ₹1,979.20 |
 
 **Research reports**
 
@@ -298,7 +302,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹159.27 | +0.16% | ₹158.36 - ₹164.50 | 6,787,075 | 12,183,688 | 0.56x | 35.97% | ₹126.32 - ₹177.20 |
+| ₹158.94 | -0.04% | ₹158.36 - ₹164.50 | 7,260,959 | 12,183,688 | 0.6x | 36.05% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -330,7 +334,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,386.10 | +1.24% | ₹1,360.00 - ₹1,387.70 | 3,955,056 | 19,888,670 | 0.2x | 11.91% | ₹1,369.10 - ₹1,437.40 |
+| ₹1,401.00 | +2.33% | ₹1,360.00 - ₹1,414.00 | 6,492,302 | 19,888,670 | 0.33x | 14.23% | ₹1,369.10 - ₹1,437.40 |
 
 **Research reports**
 
