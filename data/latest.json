@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "25 Nov 2026, 07:26 PM IST",
+  "generated_at_ist": "25 Nov 2026, 08:12 PM IST",
   "as_of": "2026-11-25",
-  "snapshot_type": "Live intraday snapshot",
+  "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
@@ -57,6 +57,12 @@
       },
       "news": [
         {
+          "title": "Tata Motors join Maruti Suzuki, Hyundai, Audi in announcing price hikes- How much will you pay from December?",
+          "source": "Livemint",
+          "published": "25 Nov 2026, 05:57 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOGdlcXByeUNkazJHM3V6QUpIbnRWTm10cG9FSkVKNUlOb1pfc3BDeVJKWVdwT1RadWZMMkgwblpDSXduV3V6ZTVNb1piUHh4VDZpbEpPVk5hOWx4UjFvVzN5RFRicHNtZUtlVHlVU0NpVzBucXhfaDNoN2EtNy0tbXFBTWdCTWRnMDB2R21DbTB1WHEtSEpJLWxWbEZSajdPQ2xSd2lERzVRVlpjcWdjNzR0ZWR5NEZjLU8xb0ZPeTRmWThVLXp4WWJUdTVuSkZkMUx4QjZLeURrS3RwMk9KSlJnMDhuMDM1SlNGSHR6VHExd9IB9wFBVV95cUxOS0lhLW9zS01EUHB3ZjdlcHFsd2hfTzdsRWNJUlU4TDRVYUV6a2hUNlhPSTZLM0hGOXVvMEpla0s4NXhFVHJVMTROLTRIa1hQdnRBN0o4ZGRyM213MGxQWUw5WU5NVlVrS280UW1obU9VMzRHX3NqN2NFTjdjRFI1MnRNcV9aVS1Ddy1SSDdiQzVJZ3Q2WW5LVmFVTWJWN09pV3RrNDZkN2FWNkc3bVNWYjEzRWJTS3QzQVBJNUxPNUtFTmpGSWVyeFhfNWhGd3JFcHliYjhfWjlWRkV3c1hoTk5lYVZmbjVhaU95NEFMZlphSnIyZThJ?oc=5"
+        },
+        {
           "title": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History",
           "source": "Economic Times",
           "published": "25 Nov 2026, 10:03 AM IST",
@@ -75,16 +81,10 @@
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUxHR1NRYWFzOXVqbUNYV0xlZS1qYXlQOVNINlBmczRrWnFJS3VHR3d4Qk02MmlBRzBzY080V29NRk9TNUc3WWVNZEdDaVVUZV9kUTFualRmV1hEVFpDTFB2dzd6bEdWSFlNaDRxYlExMVJxVlh6M2w4c0QwVkFmVGc2V3hXUmxyUV9CVTRjQ1l1MHVtM1FWckhoSlRHaWgtTlpyUEhvNkplUm9QTzVlRUVRNncwV24xTFV4MW51V3k0ZUkwRm40VGc4M2RRT1NraGxvWENqdUxxY1ZuNVBUY9IB5wFBVV95cUxPM3Q2X3JBMnFjNDdsdE9GblVWT2VYejBETFJNOG92Si1ueUVsOWRvajF5S25qQlZ2a0tmYXQtcXJyRERoRVdqN2FYLWtxck5IempkUG9aTGh6c0JBY1Q3VGdnR3hSU2xNZnFZYUNCSkVDVF9BV3BBOElaWW9qREhQb0VOaU5wR2ZiMk03MkJFM2RIa04ydUxBdW9LYUlGWDhobUhDRGs3ejQyekx6MHAxVTFWTU1LQ0czU0xrWVdMdkdMZC1Bd0JkaTFMdEd3S0FlMGg5MFBpUjBaU3FsajRnOGVmQmdvMUU?oc=5"
         },
         {
-          "title": "Tata Motors, Maruti Suzuki, Hyundai and Audi announce hikes: Check company-wise changes",
-          "source": "Moneycontrol.com",
-          "published": "24 Nov 2026, 02:57 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWZWUUpwNFNkdkRTVlVEUF9TbUpnS1dQSGg0Nlh1cy1PdFdjSU1kZXlqY25BczhfaUZCdld6dVRWTDZ3MlpnbXVMU0xReUViWGFTa0tvclpPbkFib3p6Z2pYMVlTWk5TeDE5RXhHUm5QSmhqVkx3SmtfNVJudDBmbGR5TjloOG1LNDhxY3hOUUh5YjFYeXRCZFZuV2pIZ3VHbkxHM2lKSE5PdUpjNXNIRW55MkhKaUJwUVNhRWt6azV3VUNMeHZiYU9WZ2EzdDTSAdQBQVVfeXFMUHk2ZFNmMlZaRGpDT1FzS2x3NkVmejVxeWFVejhHaC1hcEVJYU1lbEpJR1FFX19WNml3NDY5LUdDSVR6UkZZOW0zS3hRaTJXU2p4eEdGYTlnNGc2ODAya0F2NjB0S1g1cGJ5MUt0anprakNTSVdhQk5UaHNDOVkxV2d6TEdoRFlpZ1NRU3lpUVdfNTdsclN2VG1GeWFGZkNPWGRPRjk5NHdiRnBfQkJ0TWN4cnFNaTcxc3NnNUl0eHRSSEQwOHBfU0MxcHJjWl9oamNzSDg?oc=5"
-        },
-        {
-          "title": "Maruti Suzuki gains 2% on price hike; stock up 14% in one week",
-          "source": "Business Standard",
-          "published": "23 Nov 2026, 11:01 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFNUZ1dFekdmN3N1ZDJkbkdQaHQ2S1BQZ3lQUjhZdkZaT0gxNDN2R3Q2dVA3ZG1tY2pWTEkzTFY5Ynd3dnFYTXpmMURVQXhCU1JXQTdCYW1ueU9BamowSF95bU5tcHdKdFIxNGpCZFZuMU9RMVBvSmdqcmhmb01EMmgwcExBUEhvcWJNS0pwODRTZDVVbjhYelgxMWZMcG1Ed21VTENMenJRc2w2azY5Zkt0Rk1BVzNBRkl6aS1PZ1FsajVJ0gHKAUFVX3lxTFBwZ1lMSmlYYURvbGIxbHNlR0hqdmRiWnhndDVpMmwyX1FTdEx6NXplUzV1RDdBcjNVdTE4eHgzeW5PSmhHZTNKYm41RG1oZ3JJRkZBTnN4WC04OVEtZVBrTmtWMjdzUHYzdDd1SlJjRmpEdDR3dUFqT3dwbnJoQS1vMmEzb0Rpb2F1Y3pZR2NRVkNtaEFHZWdBVFM3QngwU0w1Q1Z3RUljT2FTNl9lNjRzMTh1LUtPOXFsSHUwQjNOOGt5QlNxa2Zncnc?oc=5"
+          "title": "Hyundai, Tata join Maruti in raising prices ahead of December discount season",
+          "source": "BusinessLine",
+          "published": "24 Nov 2026, 07:16 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQzFBc21IMGN2VEo0aUg2QnBNVkpFNHBleUdLc3AybmJwU2EwdlQ5ZmVLek9QbThtX1k0dVI5OGRsOG9ZSWRrdlpkcXUxODVZWXg2S1IyZ1B0eFFrQ3E5TXR3dDhxU2J5QU9oS1UtcHVPY3hEa3MwSkhNd3VhMDJoUldIakdNalE4T3J2UzV1Q0prOTRJUnRMaXhieGp3MHpZVzBoNVY3MVNvSnJTVVBqVE1qbTdfWW1ockN1ZXVma1JOUjdTY0hkYzJYbWZ4M0ZUaGYyckZ1RzZFcVHSAeIBQVVfeXFMUE9PVjZ5TTBOZnVJeDFmVVV0SURaZTBrNVkwODNyZHcwV2hNcV9vZFlyUWZpYUMwaEpwMmhjYWNZNjloZTlSS0ZBUjB1VGZIWWNfR3ZLUm9majcyUlpERURNSDdBdE56Y0lJMmNXM3luZDJBTkRTX3paWV94SmJ4MTVvcnp1TlFZZERLdDZoWHlzZzFXMjJNOW9ZcUhCTXpSa0RteThJWlhDUnEtZlNNTEV6dDFKUXdjZmdTRGxZYzhLU2hmbHVNcjFMMlpvbjdWaXhBLXRsdnB6aVhMQk94TDY5UQ?oc=5"
         }
       ],
       "announcements": [],
@@ -183,6 +183,12 @@
           "source": "Moneycontrol.com",
           "published": "25 Nov 2026, 05:39 PM IST",
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPNHF1UTY4MXFTX2dLM2JiQ1BtZ3ZmamdieHE4Vk9tUV9wWGhJeXVwa3EtY2xIb0UxejRGaHdkQ3dabEVxVXNUSDdETzg5bk9rdlpuakhCT252TDBQQ205OUUxS2d1eVpVZURRT3NXcXlJX1R2Sk12eG85RnBTU0pOVmJqaXJURlJ5VV9mSU95UDRPc2x5cmk1aDJoaXp1MjFyUVBhNHVHU29yWk9YMVVObjhJaXJ5VDdBT29lLUZJdVdHY2JmcXNEaDktdU1uT2VjRWJtVjBZQ0l1MW8waUcxN1p5TkVHQUFlTU9kOUFHWWsyNUhHMUdGZHV1NU1IMFFOWVBuQkE4WEVKdmNaUHpkSE13?oc=5"
+        },
+        {
+          "title": "Royal Enfield to invest Rs 1,000 crore in Tamil Nadu to expand EV operations",
+          "source": "Moneycontrol.com",
+          "published": "25 Nov 2026, 04:22 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaFRHaUVRLS1JWDhKT0VNTVpGejZNUDktXzlPdjlDWjZHbVVIQ1BndEhGVjFsaG9QTDIwdTU1cnpYWWNLNzM5b0VuWngxVFY4S2IwNWxvVEpDaU5aeVdQZFpKX2NhblBQWDZtUEp1MW96S1Jzd0NhUS1YMTZud0hNNm5ZUFpqS2ZJUUdvTHh0QjdLQ0ZKTnY2RDBXUXJwUUYtX0NYWG9EVEh6S09fSjBpYlJSSjE3aTJjODBqS016Ylp4WnpOWWJnQ09fM0duNjQycDRUc9IB2gFBVV95cUxPQ3ZMTFdzcENselR4dTRiXzRkYktmcmdIWElYVFVHbnhCMThUVy1yTzZKbTMyMmtBZ2VQSC1ndF9JczlMMXN5aE9OVXBXZmNnMFA5NFVpNkI5eDJEQ2lHNGEydnpUQ1h0b1VZeE1WWWNtZ2tEU1ZCRUhnLXNVNzllNjZoRXdUdWR4TXMxdnRXRzhmX1UtMTFXQm9kWGFoLWxJeGNKOVRhMGNPYW04OHd1MzdIUzBuZWttcnJBeE1Ud2dPLWpBZTRQbndrSXhzRVZueldXUF8yME1MUQ?oc=5"
         },
         {
           "title": "Royal Enfield signs Rs 1,000 crore MoU with Tamil Nadu government for EV expansion",
@@ -359,6 +365,12 @@
           "source": "Livemint",
           "published": "24 Nov 2026, 05:27 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUkdrLWhfaEFYZlliR0hTWXJpN2ZET0duUWktOElwR0FLc1FNeXVRcWExemtCTnZtVEJnazcwZ0t3UDVrdHN6MS1tSWtZY1dSYk0tM2VOc08wdnNBdmloVFJzQmpEekZaRmtmbE5qbi11cFNCWDlVTGFFTUJLbGt1dGt1N21NTDhmb0VVS2gtRU1MRVl5YXg4dkpzcjY1UlpJbjJDNzBmRmJDb21fQkEyT0FjcHIzLXV3VkZ5aDFsd09HWmJOVWNMNThTSmZqdHRFTlVtTlNLNDAyTnJEaXdSNENWUTllbmVOb1pWYW53R1lLVS0yWkNDeEhOU2FNMHNrSFHSAYcCQVVfeXFMTnZDWFR0TUxvb09aWVVfUDl1TmpIMGpmTG9ZOElYLXB3VHRhaDctTm9mcFlFNnBjclhMaGhSYXo4Rno0S0xvQnNGeFRvOTFYSTZSbHc0ajZJMEFEQnZwckJmc0R3cXVLNGFXckV4T3l1ZzdMWnBRNTlXTUUtT29kRWNSZHlaaUN3UFZ2YU5ZaHNEMDZYTDVYdF9pVE14Zm5oTW51cFltNjQyNWYyODVya211aGY4ZXh0ZVctVFBTQ08wQ2pfZnVFd3VUYkpCZEVHRUcwaGhacE9sY0syNFM5SUFIVkFLTzZzb01HOTZXTjVyRjdrU09VZHBOUTJFZEJJQnhIZDNBRFU?oc=5"
+        },
+        {
+          "title": "State Bank of India - HDFC Bank, Reliance Industries among 10 stocks with highest DII holding in Q2. See full list",
+          "source": "The Economic Times",
+          "published": "24 Nov 2026, 03:24 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcWhzSDB3ci16dTQzclRLd3Y4N0ZNVmNnaGJWVFZkSXVsVUprU2VudkVnWDcxc3QyZUlsM25SanVwUnFBSHFrdHFCNHNBMG16VVFwazVEZlRKcUJMcnN3MlJMbV9hQzVCOHJHaDVqaW1EM2RKdHZVWjVyeFZkSFRUR0YwTGpUV3luajhTbWkzYjgtQUt6VjRTMk1sT1FTVDJZYVZ5SWhYaVo1TDF5Ny0wZjRIeWpHZGg3OHpEeGQ0QnIxcHlueVlRb29hZnkwdFEtYlc4ZXZWQ3hYbUxQSE9pbFBGUjBqXy1oTlUzQ1BJY1NCdDQ4V20yZF8yU1ZoV3RKZkprM1BldDJDM21FbjhV?oc=5"
         },
         {
           "title": "Bank of India offers up to 7.65 percent interest on 500-day Akshay Fixed Deposit",
