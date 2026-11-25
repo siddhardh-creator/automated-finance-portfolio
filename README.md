@@ -2,11 +2,9 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 25 Nov 2026, 02:32 PM IST  |  **Market data as of:** 2026-11-25  |  **Start date:** 2026-10-16
+**Last updated:** 25 Nov 2026, 03:32 PM IST  |  **Market data as of:** 2026-11-25  |  **Start date:** 2026-10-16
 
-**Snapshot type:** Live intraday snapshot
-
-_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
+**Snapshot type:** End-of-day final snapshot
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -14,14 +12,14 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,66,96,182** |
-| Total P&L | **₹20,97,452 (+8.53%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | ₹24,94,940 |
+| Current value | **₹2,67,44,662** |
+| Total P&L | **₹21,45,932 (+8.72%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | ₹25,43,420 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
 | &nbsp;&nbsp;Dividends received (already inside Total P&L) | ₹1,000 |
-| Today's change | ₹85,410 (+0.32%) |
-| Nifty 50 since start (same money invested) | +11.87% |
-| Outperformance vs Nifty 50 | -3.34% |
+| Today's change | ₹1,33,890 (+0.50%) |
+| Nifty 50 since start (same money invested) | +12.19% |
+| Outperformance vs Nifty 50 | -3.47% |
 | Cash (uninvested) | ₹71,42,482 |
 | Virtual money put in | ₹2,45,98,730 |
 
@@ -33,16 +31,16 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,133.00 | - | ₹14,010.00 | +0.88% | ₹40,98,570 | 15.3% | ₹7,66,760 | +23.01% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹157.80 | - | ₹158.70 | -0.57% | ₹1,57,800 | 0.6% | ₹10,080 | +6.82% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,316.50 | - | ₹8,172.50 | +1.76% | ₹83,16,500 | 31.1% | ₹10,50,500 | +14.46% |
-| Linde India | 500 | ₹5,961.00 | ₹6,933.00 | - | ₹6,961.50 | -0.41% | ₹34,66,500 | 13.0% | ₹4,86,000 | +16.31% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹85.99 | - | ₹86.13 | -0.16% | ₹85,990 | 0.3% | ₹990 | +1.16% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,868.40 | - | ₹1,979.20 | -5.60% | ₹18,68,400 | 7.0% | ₹1,91,200 | +11.40% |
-| Bank of India | 1,000 | ₹131.33 | ₹158.94 | - | ₹159.01 | -0.04% | ₹1,58,940 | 0.6% | ₹27,610 | +21.02% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,401.00 | - | ₹1,369.10 | +2.33% | ₹14,01,000 | 5.2% | -₹38,200 | -2.65% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,200.00 | ₹14,200.00 | ₹14,010.00 | +1.36% | ₹41,18,000 | 15.4% | ₹7,86,190 | +23.60% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹158.00 | ₹158.00 | ₹158.70 | -0.44% | ₹1,58,000 | 0.6% | ₹10,280 | +6.96% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,336.00 | ₹8,336.00 | ₹8,172.50 | +2.00% | ₹83,36,000 | 31.2% | ₹10,70,000 | +14.73% |
+| Linde India | 500 | ₹5,961.00 | ₹6,950.00 | ₹6,950.00 | ₹6,961.50 | -0.17% | ₹34,75,000 | 13.0% | ₹4,94,500 | +16.59% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹85.79 | ₹85.79 | ₹86.13 | -0.39% | ₹85,790 | 0.3% | ₹790 | +0.93% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,871.90 | ₹1,871.90 | ₹1,979.20 | -5.42% | ₹18,71,900 | 7.0% | ₹1,94,700 | +11.61% |
+| Bank of India | 1,000 | ₹131.33 | ₹159.89 | ₹159.89 | ₹159.01 | +0.55% | ₹1,59,890 | 0.6% | ₹28,560 | +21.75% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,397.60 | ₹1,397.60 | ₹1,369.10 | +2.08% | ₹13,97,600 | 5.2% | -₹41,600 | -2.89% |
 
-**Best since buy:** Maruti Suzuki (+23.01%)  ·  **Worst since buy:** Jio Platforms (-2.65%)  ·  **Biggest mover today:** Ather Energy (-5.60%)
+**Best since buy:** Maruti Suzuki (+23.60%)  ·  **Worst since buy:** Jio Platforms (-2.89%)  ·  **Biggest mover today:** Ather Energy (-5.42%)
 
 ## Allocation
 
@@ -50,16 +48,16 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,44,41,270 | 54.1% |
-| Cash | ₹71,42,482 | 26.8% |
-| Industrial Gases | ₹34,66,500 | 13.0% |
-| Telecom & Digital Services | ₹14,01,000 | 5.2% |
-| Financials | ₹1,58,940 | 0.6% |
-| Stationery & Writing Instruments | ₹85,990 | 0.3% |
+| Automobiles | ₹1,44,83,900 | 54.2% |
+| Cash | ₹71,42,482 | 26.7% |
+| Industrial Gases | ₹34,75,000 | 13.0% |
+| Telecom & Digital Services | ₹13,97,600 | 5.2% |
+| Financials | ₹1,59,890 | 0.6% |
+| Stationery & Writing Instruments | ₹85,790 | 0.3% |
 
 <a name="performance"></a>
 
-## Performance (as on 25 Nov 2026, 02:32 PM IST)
+## Performance (as on 25 Nov 2026, 03:32 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -120,7 +118,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹14,133.00 | +0.88% | ₹14,029.00 - ₹14,246.00 | 603,245 | 731,206 | 0.82x | 36.69% | ₹11,170.00 - ₹17,292.00 |
+| ₹14,200.00 | +1.36% | ₹14,029.00 - ₹14,246.00 | 741,578 | 731,206 | 1.01x | 36.68% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -153,7 +151,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹157.80 | -0.57% | ₹157.24 - ₹162.20 | 14,676,479 | 24,423,885 | 0.6x | 47.66% | ₹138.58 - ₹211.92 |
+| ₹158.00 | -0.44% | ₹157.24 - ₹162.20 | 18,338,544 | 24,423,885 | 0.75x | 47.62% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -185,7 +183,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹8,316.50 | +1.76% | ₹8,163.50 - ₹8,360.00 | 793,858 | 594,391 | 1.34x | 27.88% | ₹6,586.00 - ₹8,316.50 |
+| ₹8,336.00 | +2.00% | ₹8,163.50 - ₹8,360.00 | 907,829 | 594,391 | 1.53x | 28.00% | ₹6,586.00 - ₹8,336.00 |
 
 **Research reports**
 
@@ -200,7 +198,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Eicher Motors hits all-time high; here's why stock rallied 17% in one month](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWtZZGFDNzFOby1Nam5uY0w3RjZndnZFYjl2aFlncXhFNVNwVGdUNUJOQVY5dnFrRVVTVXIwRlRFbk9rM0t6X1lWZ09FUVB3NVl6R2pEWWR4NXlhR0Y2OHVWQTAyYks5TXV3ZGpwV29zak5Jc3RNRkh6Q25WWm1PV0t5Sl91WmRHLVd2Wk5laUJodnBnVHkxSnV3Uy1rVHlwcXpwREhYR0ctMy0tRkt5Rm5wQjNid0g3TnBQTV92ejFVb2dBaEp2Tmp3N3lVVHk4TnlQWVJ0d9IB3AFBVV95cUxQNnBEd1psRXcwZ1R3S056bm8yNk5vREFiMHpUVEJmUEZCdnMyQVpfb2VWN0VIVFhPdV9ia1QwdFRlOVdQTTlnOWdjRklvUlRoY2VvdEI4QV9NNVZDdVJlWjNYMFd1cGZhR2lxenU3TEw3N2FEcUNhb0dtOUpxOEFYRVZCcWJKNmZiQUFDZ2piUzZGSjc1VDFXWTgxemJ6N09zU2FEd2dyWFZRcU0wYklXQ1Fic01uUXY4R21VYk1sOGQ1M0U5SEpVYUdIcTd4eGRaWHdTQXJnTDJDVmxR?oc=5) - _Business Standard, 23 Nov 2026, 10:12 AM IST_
+- No fresh headlines from trusted sources in the last few days.
 
 </details>
 
@@ -214,7 +212,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,933.00 | -0.41% | ₹6,864.50 - ₹7,098.00 | 34,174 | 56,031 | 0.61x | 51.14% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,950.00 | -0.17% | ₹6,864.50 - ₹7,098.00 | 45,422 | 56,031 | 0.81x | 51.06% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -242,7 +240,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹85.99 | -0.16% | ₹85.06 - ₹86.80 | 1,831 | 28,773 | 0.06x | 67.34% | ₹76.41 - ₹123.36 |
+| ₹85.79 | -0.39% | ₹85.06 - ₹86.80 | 2,604 | 28,773 | 0.09x | 67.36% | ₹76.41 - ₹123.36 |
 
 **Research reports**
 
@@ -270,7 +268,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,868.40 | -5.60% | ₹1,867.30 - ₹1,993.80 | 2,388,070 | 3,613,600 | 0.66x | 42.92% | ₹601.35 - ₹1,979.20 |
+| ₹1,871.90 | -5.42% | ₹1,861.00 - ₹1,993.80 | 2,898,049 | 3,613,600 | 0.8x | 42.57% | ₹601.35 - ₹1,979.20 |
 
 **Research reports**
 
@@ -302,7 +300,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹158.94 | -0.04% | ₹158.36 - ₹164.50 | 7,260,959 | 12,183,688 | 0.6x | 36.05% | ₹126.32 - ₹177.20 |
+| ₹159.89 | +0.55% | ₹158.36 - ₹164.50 | 9,363,701 | 12,183,688 | 0.77x | 35.85% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -334,7 +332,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,401.00 | +2.33% | ₹1,360.00 - ₹1,414.00 | 6,492,302 | 19,888,670 | 0.33x | 14.23% | ₹1,369.10 - ₹1,437.40 |
+| ₹1,397.60 | +2.08% | ₹1,360.00 - ₹1,414.00 | 7,587,803 | 19,888,670 | 0.38x | 13.63% | ₹1,369.10 - ₹1,437.40 |
 
 **Research reports**
 
