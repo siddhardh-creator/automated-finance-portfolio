@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "25 Nov 2026, 03:32 PM IST",
+  "generated_at_ist": "25 Nov 2026, 05:26 PM IST",
   "as_of": "2026-11-25",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -43,9 +43,9 @@
         "high": 14246.0,
         "low": 14029.0,
         "intraday_range_pct": 1.55,
-        "volume": 741578,
+        "volume": 730109,
         "avg_volume_20d": 731206,
-        "volume_vs_avg": 1.01,
+        "volume_vs_avg": 1.0,
         "volatility_20d_annualised_pct": 36.68,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
@@ -57,10 +57,10 @@
       },
       "news": [
         {
-          "title": "Maruti Fronx facelift spotted with new cabin features, updated engine, safety upgrades: What buyers can expect",
-          "source": "Livemint",
-          "published": "25 Nov 2026, 10:46 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc2dQUW9JcVhyNTUzQm5YTDN4QUgycXBpUWxqQk1reWd0cmo3MHZFcjUzc3BEMUp1dEE5WTFNYlBrTWdaNEhwRFVSYzVaeWhvUkh4T2w4cVFOUFFYNlVLSXFkUDVMNHpORE5TWkt1NXU2TzhqT0ZQX2F4ektCNy1ieXJUcnBIdjVuOGVuRjFfeGhtWUNBd2V0U0hvVEdJQXdmd1g1RlY4b2J4cXltWURYSzhOc3k4NkYxODRSbXVNVHRTTG5KWjU0LTBNUC1OQk1Zc3BJWndEZDByYmZPNkk4VE5OZnFRR3R0R1pxLXBRakxRUWpF0gH6AUFVX3lxTFB6a0dMUXFKR2lzUjdzWE9VbDE1NnVTLTJ6cE94TU52cHRJcURobVNGNklrVmZST042UHJhN2pxX3BITFZMS1JoY3AyMzVkYVVpQ3VCY2ZzWEk5T1VCVFJfXy1EZDNmMjVvWTFJYkx0MmoyU1VMLTlQa3hQQzMwNEM0LTBKUVZKWEJzU3ZFUzdvS09UUEQ5OHpqaUg4M0ZWanl2RkpGMnYwc1VQeklGeldScU5BTW5MRzR2bHFWQ09vaExPbk1UM2RrR2MxUVdLZXFUa0Q4enF4ZVBqMHFfNUoybTQ1TkZaclpOemxlanlxa1ZKNmNlU0NZa3c?oc=5"
+          "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Bonus Updates",
+          "source": "Economic Times",
+          "published": "25 Nov 2026, 10:03 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-25-nov-2026/liveblog/136148282.cms"
         },
         {
           "title": "Tata Motors, Audi India raise vehicle prices following Maruti Suzuki's move",
@@ -107,9 +107,9 @@
         "high": 162.2,
         "low": 157.24,
         "intraday_range_pct": 3.13,
-        "volume": 18338544,
+        "volume": 17959918,
         "avg_volume_20d": 24423885,
-        "volume_vs_avg": 0.75,
+        "volume_vs_avg": 0.74,
         "volatility_20d_annualised_pct": 47.62,
         "high_52w": 211.92,
         "low_52w": 138.58,
@@ -165,9 +165,9 @@
         "high": 8360.0,
         "low": 8163.5,
         "intraday_range_pct": 2.4,
-        "volume": 907829,
+        "volume": 893916,
         "avg_volume_20d": 594391,
-        "volume_vs_avg": 1.53,
+        "volume_vs_avg": 1.5,
         "volatility_20d_annualised_pct": 28.0,
         "high_52w": 8336.0,
         "low_52w": 6586.0,
@@ -177,7 +177,20 @@
         "pnl_inr": 1070000.0,
         "pnl_pct": 14.73
       },
-      "news": [],
+      "news": [
+        {
+          "title": "Royal Enfield signs Rs 1,000 crore MoU with Tamil Nadu government for EV expansion",
+          "source": "The Economic Times",
+          "published": "25 Nov 2026, 03:57 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZGFzUm1zbU1QbXpBZ1dlX3VFeGZ3bFBUOVdhaTc1SDBWbTJvWGk4anNRdkVUcDBIRXZUdzdweVhyWmYtZUVjZTdvWmE1dFROVFA1MnAyRjdUVGJXaHQxUkg3MUZqajF5dmhBVHZjMmhMZUVQaEFVRHhqTlJJaF9ZNVA3NUU5U3FrTkV0Y25pYTM2RS0tVDB5bTltU2wzLUVISXZ2M21YRlpNWkVKSEFmYThJeUdrSGN1M1JtWTBsYm4wYjZ4THo1TGhqRDJYM0VRQ2RObzQxTUl5R1hwWmlZMkV3YVQwRWlncGFr0gHwAUFVX3lxTE5hbXpRSWcwalJwTVRVNVctNEszQnVfZmVzSVFYcHFRaUlHcVN3UEFzMGpQRENiSVZXVmtDZUJqU1JrajFwcUFzWnBPbnpnem9HQTVLak43MjNJSkxRWjZTZ2NaTUZVQzB1M2FjbTFZSVkyQWUzZnNfUzJsNWwxRVRMeWJpYmZacGxtbnRLeXg2dm4xOVZoXzJSZ18xUmlMcER1U1lhdlZCQmpuWnRsSEppWUZSUzN3dUR0LTRrT1dRQk5aSGRUaU9wSnBTTVptMTRYY0NybkQyNTBnVXA0M0d4ZHRRZWJ1WVZCQkRWY2p3ZA?oc=5"
+        },
+        {
+          "title": "Eicher Motors hits all-time high; here's why stock rallied 17% in one month",
+          "source": "Business Standard",
+          "published": "23 Nov 2026, 10:12 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWtZZGFDNzFOby1Nam5uY0w3RjZndnZFYjl2aFlncXhFNVNwVGdUNUJOQVY5dnFrRVVTVXIwRlRFbk9rM0t6X1lWZ09FUVB3NVl6R2pEWWR4NXlhR0Y2OHVWQTAyYks5TXV3ZGpwV29zak5Jc3RNRkh6Q25WWm1PV0t5Sl91WmRHLVd2Wk5laUJodnBnVHkxSnV3Uy1rVHlwcXpwREhYR0ctMy0tRkt5Rm5wQjNid0g3TnBQTV92ejFVb2dBaEp2Tmp3N3lVVHk4TnlQWVJ0d9IB3AFBVV95cUxQNnBEd1psRXcwZ1R3S056bm8yNk5vREFiMHpUVEJmUEZCdnMyQVpfb2VWN0VIVFhPdV9ia1QwdFRlOVdQTTlnOWdjRklvUlRoY2VvdEI4QV9NNVZDdVJlWjNYMFd1cGZhR2lxenU3TEw3N2FEcUNhb0dtOUpxOEFYRVZCcWJKNmZiQUFDZ2piUzZGSjc1VDFXWTgxemJ6N09zU2FEd2dyWFZRcU0wYklXQ1Fic01uUXY4R21VYk1sOGQ1M0U5SEpVYUdIcTd4eGRaWHdTQXJnTDJDVmxR?oc=5"
+        }
+      ],
       "announcements": [],
       "weight_pct": 31.17
     },
@@ -198,7 +211,7 @@
         "high": 7098.0,
         "low": 6864.5,
         "intraday_range_pct": 3.35,
-        "volume": 45422,
+        "volume": 45421,
         "avg_volume_20d": 56031,
         "volume_vs_avg": 0.81,
         "volatility_20d_annualised_pct": 51.06,
@@ -231,7 +244,7 @@
         "high": 86.8,
         "low": 85.06,
         "intraday_range_pct": 2.02,
-        "volume": 2604,
+        "volume": 2545,
         "avg_volume_20d": 28773,
         "volume_vs_avg": 0.09,
         "volatility_20d_annualised_pct": 67.36,
@@ -264,7 +277,7 @@
         "high": 1993.8,
         "low": 1861.0,
         "intraday_range_pct": 6.71,
-        "volume": 2898049,
+        "volume": 2877642,
         "avg_volume_20d": 3613600,
         "volume_vs_avg": 0.8,
         "volatility_20d_annualised_pct": 42.57,
@@ -328,9 +341,9 @@
         "high": 164.5,
         "low": 158.36,
         "intraday_range_pct": 3.86,
-        "volume": 9363701,
+        "volume": 9279224,
         "avg_volume_20d": 12183688,
-        "volume_vs_avg": 0.77,
+        "volume_vs_avg": 0.76,
         "volatility_20d_annualised_pct": 35.85,
         "high_52w": 177.2,
         "low_52w": 126.32,
@@ -352,12 +365,6 @@
           "source": "Livemint",
           "published": "24 Nov 2026, 05:27 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUkdrLWhfaEFYZlliR0hTWXJpN2ZET0duUWktOElwR0FLc1FNeXVRcWExemtCTnZtVEJnazcwZ0t3UDVrdHN6MS1tSWtZY1dSYk0tM2VOc08wdnNBdmloVFJzQmpEekZaRmtmbE5qbi11cFNCWDlVTGFFTUJLbGt1dGt1N21NTDhmb0VVS2gtRU1MRVl5YXg4dkpzcjY1UlpJbjJDNzBmRmJDb21fQkEyT0FjcHIzLXV3VkZ5aDFsd09HWmJOVWNMNThTSmZqdHRFTlVtTlNLNDAyTnJEaXdSNENWUTllbmVOb1pWYW53R1lLVS0yWkNDeEhOU2FNMHNrSFHSAYcCQVVfeXFMTnZDWFR0TUxvb09aWVVfUDl1TmpIMGpmTG9ZOElYLXB3VHRhaDctTm9mcFlFNnBjclhMaGhSYXo4Rno0S0xvQnNGeFRvOTFYSTZSbHc0ajZJMEFEQnZwckJmc0R3cXVLNGFXckV4T3l1ZzdMWnBRNTlXTUUtT29kRWNSZHlaaUN3UFZ2YU5ZaHNEMDZYTDVYdF9pVE14Zm5oTW51cFltNjQyNWYyODVya211aGY4ZXh0ZVctVFBTQ08wQ2pfZnVFd3VUYkpCZEVHRUcwaGhacE9sY0syNFM5SUFIVkFLTzZzb01HOTZXTjVyRjdrU09VZHBOUTJFZEJJQnhIZDNBRFU?oc=5"
-        },
-        {
-          "title": "State Bank of India - HDFC Bank, Reliance Industries among 10 stocks with highest DII holding in Q2. See full list",
-          "source": "The Economic Times",
-          "published": "24 Nov 2026, 03:24 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcWhzSDB3ci16dTQzclRLd3Y4N0ZNVmNnaGJWVFZkSXVsVUprU2VudkVnWDcxc3QyZUlsM25SanVwUnFBSHFrdHFCNHNBMG16VVFwazVEZlRKcUJMcnN3MlJMbV9hQzVCOHJHaDVqaW1EM2RKdHZVWjVyeFZkSFRUR0YwTGpUV3luajhTbWkzYjgtQUt6VjRTMk1sT1FTVDJZYVZ5SWhYaVo1TDF5Ny0wZjRIeWpHZGg3OHpEeGQ0QnIxcHlueVlRb29hZnkwdFEtYlc4ZXZWQ3hYbUxQSE9pbFBGUjBqXy1oTlUzQ1BJY1NCdDQ4V20yZF8yU1ZoV3RKZkprM1BldDJDM21FbjhV?oc=5"
         },
         {
           "title": "Bank of India offers up to 7.65 percent interest on 500-day Akshay Fixed Deposit",
@@ -392,7 +399,7 @@
         "high": 1414.0,
         "low": 1360.0,
         "intraday_range_pct": 3.94,
-        "volume": 7587803,
+        "volume": 7587798,
         "avg_volume_20d": 19888670,
         "volume_vs_avg": 0.38,
         "volatility_20d_annualised_pct": 13.63,
@@ -410,12 +417,6 @@
           "source": "Livemint",
           "published": "25 Nov 2026, 01:09 PM IST",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMThQczI3WlYyOWpfaXZ2MXZJM2M0Ml9RQUtCM3U3U3F4RFNWQnhnLUJURnJSQmpQZmVHS2xBdFRyN3VBRW5IZnVpUXpzLVJwWXZBLTkwaEVrN0JKWFlDSldvNm5BNXQ0SkJrc01MckZlMDBoWE9xbHNGVEFzOXFlZE9WbE03VVpiTXB3U0hjMndleWtQVHg3c0oteUlxOXA1LVBmZ1IwY0tmZDBad2tnR3RaRzJ0bFlsdGNiVWh1aUl2NGZSSzNNWndLT3Y5Y1ptUWNBQjRpSGhmV3F0NDd5SGdMTFRtVDNjNEg2ZEFBVlBZOFIwTTBOaGRXWmk2aWFaVF9keWtSZmNuSjhWS29icjR4elnSAZoCQVVfeXFMTWVrNWhPU3ZMa01lZEFlZ3J5SjNIaERSbHNrUU56TnN1R2dZT0lhZTg1VGc1OHZOMUxXa2F4NWR1bzMzbFVwQWx1VHQ3STIxRUFXMVI2V19XTUNCY0FwMDB6M3BDbGNwdU9URnhyNEFIVzR2MWtXS0lKZ0VlWmtCNHhrVWN0VjYtN3JyNHplX0JGd2M1NDA1dnFKNXBKUndoT2JIZTVqRkJwRzhJUFlkbE1EX3dyNFZLQS1od1kzd2M5VWtKcXBrZWkxeG11MzJORVdhS25JRDZrWXRCLXVtak5GWjRScndFX01CaE16X3ZMaml4R3pTWlFYMkdhSmdHcmM2a3pXNHJJZG1UNWdUbXRpTlF4Y0syYlln?oc=5"
-        },
-        {
-          "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Stock Price History",
-          "source": "Economic Times",
-          "published": "23 Nov 2026, 12:18 PM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-23-nov-2026/liveblog/136092528.cms"
         }
       ],
       "announcements": [],
