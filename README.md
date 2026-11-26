@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 25 Nov 2026, 08:13 PM IST  |  **Market data as of:** 2026-11-25  |  **Start date:** 2026-10-16
+**Last updated:** 26 Nov 2026, 09:32 AM IST  |  **Market data as of:** 2026-11-26  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -12,14 +14,14 @@
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,67,44,662** |
-| Total P&L | **₹21,45,932 (+8.72%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | ₹25,43,420 |
+| Current value | **₹2,66,86,052** |
+| Total P&L | **₹20,87,322 (+8.49%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | ₹24,84,810 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
 | &nbsp;&nbsp;Dividends received (already inside Total P&L) | ₹1,000 |
-| Today's change | ₹1,33,890 (+0.50%) |
-| Nifty 50 since start (same money invested) | +12.19% |
-| Outperformance vs Nifty 50 | -3.47% |
+| Today's change | -₹9,600 (-0.04%) |
+| Nifty 50 since start (same money invested) | +12.30% |
+| Outperformance vs Nifty 50 | -3.81% |
 | Cash (uninvested) | ₹71,42,482 |
 | Virtual money put in | ₹2,45,98,730 |
 
@@ -31,16 +33,16 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,200.00 | ₹14,200.00 | ₹14,010.00 | +1.36% | ₹41,18,000 | 15.4% | ₹7,86,190 | +23.60% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹158.00 | ₹158.00 | ₹158.70 | -0.44% | ₹1,58,000 | 0.6% | ₹10,280 | +6.96% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,336.00 | ₹8,336.00 | ₹8,172.50 | +2.00% | ₹83,36,000 | 31.2% | ₹10,70,000 | +14.73% |
-| Linde India | 500 | ₹5,961.00 | ₹6,950.00 | ₹6,950.00 | ₹6,961.50 | -0.17% | ₹34,75,000 | 13.0% | ₹4,94,500 | +16.59% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹85.79 | ₹85.79 | ₹86.13 | -0.39% | ₹85,790 | 0.3% | ₹790 | +0.93% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,871.90 | ₹1,871.90 | ₹1,979.20 | -5.42% | ₹18,71,900 | 7.0% | ₹1,94,700 | +11.61% |
-| Bank of India | 1,000 | ₹131.33 | ₹159.89 | ₹159.89 | ₹159.01 | +0.55% | ₹1,59,890 | 0.6% | ₹28,560 | +21.75% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,397.60 | ₹1,397.60 | ₹1,369.10 | +2.08% | ₹13,97,600 | 5.2% | -₹41,600 | -2.89% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,078.00 | - | ₹14,010.00 | +0.49% | ₹40,82,620 | 15.3% | ₹7,50,810 | +22.53% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹158.10 | - | ₹158.00 | +0.06% | ₹1,58,100 | 0.6% | ₹10,380 | +7.03% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,275.00 | - | ₹8,336.00 | -0.73% | ₹82,75,000 | 31.0% | ₹10,09,000 | +13.89% |
+| Linde India | 500 | ₹5,961.00 | ₹6,973.50 | - | ₹6,961.50 | +0.17% | ₹34,86,750 | 13.1% | ₹5,06,250 | +16.99% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹84.15 | - | ₹86.13 | -2.30% | ₹84,150 | 0.3% | -₹850 | -1.00% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,900.00 | - | ₹1,871.90 | +1.50% | ₹19,00,000 | 7.1% | ₹2,22,800 | +13.28% |
+| Bank of India | 1,000 | ₹131.33 | ₹163.75 | - | ₹159.89 | +2.41% | ₹1,63,750 | 0.6% | ₹32,420 | +24.69% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,393.20 | - | ₹1,397.60 | -0.31% | ₹13,93,200 | 5.2% | -₹46,000 | -3.20% |
 
-**Best since buy:** Maruti Suzuki (+23.60%)  ·  **Worst since buy:** Jio Platforms (-2.89%)  ·  **Biggest mover today:** Ather Energy (-5.42%)
+**Best since buy:** Bank of India (+24.69%)  ·  **Worst since buy:** Jio Platforms (-3.20%)  ·  **Biggest mover today:** Bank of India (+2.41%)
 
 ## Allocation
 
@@ -48,16 +50,16 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,44,83,900 | 54.2% |
-| Cash | ₹71,42,482 | 26.7% |
-| Industrial Gases | ₹34,75,000 | 13.0% |
-| Telecom & Digital Services | ₹13,97,600 | 5.2% |
-| Financials | ₹1,59,890 | 0.6% |
-| Stationery & Writing Instruments | ₹85,790 | 0.3% |
+| Automobiles | ₹1,44,15,720 | 54.0% |
+| Cash | ₹71,42,482 | 26.8% |
+| Industrial Gases | ₹34,86,750 | 13.1% |
+| Telecom & Digital Services | ₹13,93,200 | 5.2% |
+| Financials | ₹1,63,750 | 0.6% |
+| Stationery & Writing Instruments | ₹84,150 | 0.3% |
 
 <a name="performance"></a>
 
-## Performance (as on 25 Nov 2026, 08:13 PM IST)
+## Performance (as on 26 Nov 2026, 09:32 AM IST)
 
 ![Returns](charts/returns.png)
 
@@ -118,7 +120,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹14,200.00 | +1.36% | ₹14,029.00 - ₹14,246.00 | 730,109 | 731,206 | 1.0x | 36.68% | ₹11,170.00 - ₹17,292.00 |
+| ₹14,078.00 | +0.49% | ₹14,000.00 - ₹14,165.00 | 65,736 | 731,206 | 0.09x | 36.76% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -133,11 +135,11 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Tata Motors join Maruti Suzuki, Hyundai, Audi in announcing price hikes- How much will you pay from December?](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOGdlcXByeUNkazJHM3V6QUpIbnRWTm10cG9FSkVKNUlOb1pfc3BDeVJKWVdwT1RadWZMMkgwblpDSXduV3V6ZTVNb1piUHh4VDZpbEpPVk5hOWx4UjFvVzN5RFRicHNtZUtlVHlVU0NpVzBucXhfaDNoN2EtNy0tbXFBTWdCTWRnMDB2R21DbTB1WHEtSEpJLWxWbEZSajdPQ2xSd2lERzVRVlpjcWdjNzR0ZWR5NEZjLU8xb0ZPeTRmWThVLXp4WWJUdTVuSkZkMUx4QjZLeURrS3RwMk9KSlJnMDhuMDM1SlNGSHR6VHExd9IB9wFBVV95cUxOS0lhLW9zS01EUHB3ZjdlcHFsd2hfTzdsRWNJUlU4TDRVYUV6a2hUNlhPSTZLM0hGOXVvMEpla0s4NXhFVHJVMTROLTRIa1hQdnRBN0o4ZGRyM213MGxQWUw5WU5NVlVrS280UW1obU9VMzRHX3NqN2NFTjdjRFI1MnRNcV9aVS1Ddy1SSDdiQzVJZ3Q2WW5LVmFVTWJWN09pV3RrNDZkN2FWNkc3bVNWYjEzRWJTS3QzQVBJNUxPNUtFTmpGSWVyeFhfNWhGd3JFcHliYjhfWjlWRkV3c1hoTk5lYVZmbjVhaU95NEFMZlphSnIyZThJ?oc=5) - _Livemint, 25 Nov 2026, 05:57 PM IST_
 - [Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-25-nov-2026/liveblog/136148282.cms) - _Economic Times, 25 Nov 2026, 10:03 AM IST_
 - [Tata Motors, Audi India raise vehicle prices following Maruti Suzuki's move](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMllSME5UU1UxTTFJZFZ3X3U5THcyQnY4UjE1cjJpU2NXTlBGMlNzNUJTSlNSRWRraWh6cXgyWWF4bENLNExXV3ZOZ0ZINWM1Q0lMb0hoUXg1UmZLb2Z3LVBpOXJRbmtUdXZRdHdweEZHdmIxekV6Qy1Oc0o5SHpVeHdWazVLUm1tWW5ZUHRmRDg1WUtzeU5WNGh6M3pLT1cxZ0ExankyeDZfZ3ZxVjBYd0dMbDlDRDZ5V3oweGlud19aRzc3T1M0dWpZS09MZXU0VFg2aGt0LUtFenfSAeABQVVfeXFMTUhXdEtDS1AtVkRFV2RpUUQ1WUVsS3ZTQ1NNdHBDSXQ1eF9QZzBlcE9VVkUtRWJqYVZVQUVmcDdvZlhOVl91TVpBRGQtMzREWld3ckZfM3N6MURvOUx4RFg2ekhNb2oxUDNhbVlWc2VCT0FjRlVSSGVjbXF5Mmh2bHlmaTFDZmhsQ1czY0htU3k1S0ZKMm9OTTZJaGtWMFphZXVGWENKTy1SZ0wycjR3bjVoQVNBUlJ4Y2JlaUhBVng2MWRnZmpHSzRkdkJ3X2NDOFQ1LWFUemhvazZhRWpLR0U?oc=5) - _Business Standard, 24 Nov 2026, 07:57 PM IST_
 - [Rising input costs drive Tata Motors, Hyundai, Audi and Maruti to raise vehicle prices](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUxHR1NRYWFzOXVqbUNYV0xlZS1qYXlQOVNINlBmczRrWnFJS3VHR3d4Qk02MmlBRzBzY080V29NRk9TNUc3WWVNZEdDaVVUZV9kUTFualRmV1hEVFpDTFB2dzd6bEdWSFlNaDRxYlExMVJxVlh6M2w4c0QwVkFmVGc2V3hXUmxyUV9CVTRjQ1l1MHVtM1FWckhoSlRHaWgtTlpyUEhvNkplUm9QTzVlRUVRNncwV24xTFV4MW51V3k0ZUkwRm40VGc4M2RRT1NraGxvWENqdUxxY1ZuNVBUY9IB5wFBVV95cUxPM3Q2X3JBMnFjNDdsdE9GblVWT2VYejBETFJNOG92Si1ueUVsOWRvajF5S25qQlZ2a0tmYXQtcXJyRERoRVdqN2FYLWtxck5IempkUG9aTGh6c0JBY1Q3VGdnR3hSU2xNZnFZYUNCSkVDVF9BV3BBOElaWW9qREhQb0VOaU5wR2ZiMk03MkJFM2RIa04ydUxBdW9LYUlGWDhobUhDRGs3ejQyekx6MHAxVTFWTU1LQ0czU0xrWVdMdkdMZC1Bd0JkaTFMdEd3S0FlMGg5MFBpUjBaU3FsajRnOGVmQmdvMUU?oc=5) - _The Hindu, 24 Nov 2026, 07:32 PM IST_
-- [Hyundai, Tata join Maruti in raising prices ahead of December discount season](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQzFBc21IMGN2VEo0aUg2QnBNVkpFNHBleUdLc3AybmJwU2EwdlQ5ZmVLek9QbThtX1k0dVI5OGRsOG9ZSWRrdlpkcXUxODVZWXg2S1IyZ1B0eFFrQ3E5TXR3dDhxU2J5QU9oS1UtcHVPY3hEa3MwSkhNd3VhMDJoUldIakdNalE4T3J2UzV1Q0prOTRJUnRMaXhieGp3MHpZVzBoNVY3MVNvSnJTVVBqVE1qbTdfWW1ockN1ZXVma1JOUjdTY0hkYzJYbWZ4M0ZUaGYyckZ1RzZFcVHSAeIBQVVfeXFMUE9PVjZ5TTBOZnVJeDFmVVV0SURaZTBrNVkwODNyZHcwV2hNcV9vZFlyUWZpYUMwaEpwMmhjYWNZNjloZTlSS0ZBUjB1VGZIWWNfR3ZLUm9majcyUlpERURNSDdBdE56Y0lJMmNXM3luZDJBTkRTX3paWV94SmJ4MTVvcnp1TlFZZERLdDZoWHlzZzFXMjJNOW9ZcUhCTXpSa0RteThJWlhDUnEtZlNNTEV6dDFKUXdjZmdTRGxZYzhLU2hmbHVNcjFMMlpvbjdWaXhBLXRsdnB6aVhMQk94TDY5UQ?oc=5) - _BusinessLine, 24 Nov 2026, 07:16 PM IST_
+- [Tata Motors, Maruti Suzuki, Hyundai and Audi announce hikes: Check company-wise changes](https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWZWUUpwNFNkdkRTVlVEUF9TbUpnS1dQSGg0Nlh1cy1PdFdjSU1kZXlqY25BczhfaUZCdld6dVRWTDZ3MlpnbXVMU0xReUViWGFTa0tvclpPbkFib3p6Z2pYMVlTWk5TeDE5RXhHUm5QSmhqVkx3SmtfNVJudDBmbGR5TjloOG1LNDhxY3hOUUh5YjFYeXRCZFZuV2pIZ3VHbkxHM2lKSE5PdUpjNXNIRW55MkhKaUJwUVNhRWt6azV3VUNMeHZiYU9WZ2EzdDTSAdQBQVVfeXFMUHk2ZFNmMlZaRGpDT1FzS2x3NkVmejVxeWFVejhHaC1hcEVJYU1lbEpJR1FFX19WNml3NDY5LUdDSVR6UkZZOW0zS3hRaTJXU2p4eEdGYTlnNGc2ODAya0F2NjB0S1g1cGJ5MUt0anprakNTSVdhQk5UaHNDOVkxV2d6TEdoRFlpZ1NRU3lpUVdfNTdsclN2VG1GeWFGZkNPWGRPRjk5NHdiRnBfQkJ0TWN4cnFNaTcxc3NnNUl0eHRSSEQwOHBfU0MxcHJjWl9oamNzSDg?oc=5) - _Moneycontrol.com, 24 Nov 2026, 02:57 PM IST_
+- [Maruti Suzuki gains 2% on price hike; stock up 14% in one week](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFNUZ1dFekdmN3N1ZDJkbkdQaHQ2S1BQZ3lQUjhZdkZaT0gxNDN2R3Q2dVA3ZG1tY2pWTEkzTFY5Ynd3dnFYTXpmMURVQXhCU1JXQTdCYW1ueU9BamowSF95bU5tcHdKdFIxNGpCZFZuMU9RMVBvSmdqcmhmb01EMmgwcExBUEhvcWJNS0pwODRTZDVVbjhYelgxMWZMcG1Ed21VTENMenJRc2w2azY5Zkt0Rk1BVzNBRkl6aS1PZ1FsajVJ0gHKAUFVX3lxTFBwZ1lMSmlYYURvbGIxbHNlR0hqdmRiWnhndDVpMmwyX1FTdEx6NXplUzV1RDdBcjNVdTE4eHgzeW5PSmhHZTNKYm41RG1oZ3JJRkZBTnN4WC04OVEtZVBrTmtWMjdzUHYzdDd1SlJjRmpEdDR3dUFqT3dwbnJoQS1vMmEzb0Rpb2F1Y3pZR2NRVkNtaEFHZWdBVFM3QngwU0w1Q1Z3RUljT2FTNl9lNjRzMTh1LUtPOXFsSHUwQjNOOGt5QlNxa2Zncnc?oc=5) - _Business Standard, 23 Nov 2026, 11:01 AM IST_
 
 </details>
 
@@ -151,7 +153,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹158.00 | -0.44% | ₹157.24 - ₹162.20 | 17,959,918 | 24,423,885 | 0.74x | 47.62% | ₹138.58 - ₹211.92 |
+| ₹158.10 | +0.06% | ₹156.97 - ₹158.90 | 1,001,293 | 24,350,080 | 0.04x | 47.62% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -183,7 +185,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹8,336.00 | +2.00% | ₹8,163.50 - ₹8,360.00 | 893,916 | 594,391 | 1.5x | 28.00% | ₹6,586.00 - ₹8,336.00 |
+| ₹8,275.00 | -0.73% | ₹8,226.50 - ₹8,325.00 | 47,903 | 622,508 | 0.08x | 28.53% | ₹6,586.00 - ₹8,336.00 |
 
 **Research reports**
 
@@ -198,10 +200,8 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Eicher Motors shares hit 52-week high on Royal Enfield’s Rs 1,000-cr investment plan; Emkay says ‘Buy’, raises target price](https://news.google.com/rss/articles/CBMikgJBVV95cUxPNHF1UTY4MXFTX2dLM2JiQ1BtZ3ZmamdieHE4Vk9tUV9wWGhJeXVwa3EtY2xIb0UxejRGaHdkQ3dabEVxVXNUSDdETzg5bk9rdlpuakhCT252TDBQQ205OUUxS2d1eVpVZURRT3NXcXlJX1R2Sk12eG85RnBTU0pOVmJqaXJURlJ5VV9mSU95UDRPc2x5cmk1aDJoaXp1MjFyUVBhNHVHU29yWk9YMVVObjhJaXJ5VDdBT29lLUZJdVdHY2JmcXNEaDktdU1uT2VjRWJtVjBZQ0l1MW8waUcxN1p5TkVHQUFlTU9kOUFHWWsyNUhHMUdGZHV1NU1IMFFOWVBuQkE4WEVKdmNaUHpkSE13?oc=5) - _Moneycontrol.com, 25 Nov 2026, 05:39 PM IST_
-- [Royal Enfield to invest Rs 1,000 crore in Tamil Nadu to expand EV operations](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaFRHaUVRLS1JWDhKT0VNTVpGejZNUDktXzlPdjlDWjZHbVVIQ1BndEhGVjFsaG9QTDIwdTU1cnpYWWNLNzM5b0VuWngxVFY4S2IwNWxvVEpDaU5aeVdQZFpKX2NhblBQWDZtUEp1MW96S1Jzd0NhUS1YMTZud0hNNm5ZUFpqS2ZJUUdvTHh0QjdLQ0ZKTnY2RDBXUXJwUUYtX0NYWG9EVEh6S09fSjBpYlJSSjE3aTJjODBqS016Ylp4WnpOWWJnQ09fM0duNjQycDRUc9IB2gFBVV95cUxPQ3ZMTFdzcENselR4dTRiXzRkYktmcmdIWElYVFVHbnhCMThUVy1yTzZKbTMyMmtBZ2VQSC1ndF9JczlMMXN5aE9OVXBXZmNnMFA5NFVpNkI5eDJEQ2lHNGEydnpUQ1h0b1VZeE1WWWNtZ2tEU1ZCRUhnLXNVNzllNjZoRXdUdWR4TXMxdnRXRzhmX1UtMTFXQm9kWGFoLWxJeGNKOVRhMGNPYW04OHd1MzdIUzBuZWttcnJBeE1Ud2dPLWpBZTRQbndrSXhzRVZueldXUF8yME1MUQ?oc=5) - _Moneycontrol.com, 25 Nov 2026, 04:22 PM IST_
+- [Eicher Motors shares hit 52-week high on Royal Enfield’s Rs 1,000-cr investment plan; Emkay says...](https://news.google.com/rss/articles/CBMikgJBVV95cUxPNHF1UTY4MXFTX2dLM2JiQ1BtZ3ZmamdieHE4Vk9tUV9wWGhJeXVwa3EtY2xIb0UxejRGaHdkQ3dabEVxVXNUSDdETzg5bk9rdlpuakhCT252TDBQQ205OUUxS2d1eVpVZURRT3NXcXlJX1R2Sk12eG85RnBTU0pOVmJqaXJURlJ5VV9mSU95UDRPc2x5cmk1aDJoaXp1MjFyUVBhNHVHU29yWk9YMVVObjhJaXJ5VDdBT29lLUZJdVdHY2JmcXNEaDktdU1uT2VjRWJtVjBZQ0l1MW8waUcxN1p5TkVHQUFlTU9kOUFHWWsyNUhHMUdGZHV1NU1IMFFOWVBuQkE4WEVKdmNaUHpkSE130gGXAkFVX3lxTE1CbjI4MVgwV2FFNkVLQTIwM3VWcXBXUjNKM1UwbUlEUGU3bTlWRWZISU4zRUJDSWszaUhCWTl3SlF6bjduMG5sX3FVVHM0QU1Xc2JzWk1GOVJnbWdaS21qMWt6Vnl3cTVBcDNrSFlxWE9KRWhhWVhjTzZGNjAyOV85YUItNHRBQVJtRlF1Q2w5aHBjSC1kaHEzcFlobXRVVndwekpMcm5ZSTRlb0diLXU0eXR5YW94U0V2OWMwLTd1d1Q2T3VOLS1UQndWaEZfYjNwbEMxb3hkb0ZabWhWSm0xTTlXekE4V2F3Um42RVZPNE1fRGVYc2JvcGdwUkxWOUpxY1dIZ1FMM0JvOVI3ejhQQVFIX29taw?oc=5) - _Moneycontrol.com, 25 Nov 2026, 05:39 PM IST_
 - [Royal Enfield signs Rs 1,000 crore MoU with Tamil Nadu government for EV expansion](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZGFzUm1zbU1QbXpBZ1dlX3VFeGZ3bFBUOVdhaTc1SDBWbTJvWGk4anNRdkVUcDBIRXZUdzdweVhyWmYtZUVjZTdvWmE1dFROVFA1MnAyRjdUVGJXaHQxUkg3MUZqajF5dmhBVHZjMmhMZUVQaEFVRHhqTlJJaF9ZNVA3NUU5U3FrTkV0Y25pYTM2RS0tVDB5bTltU2wzLUVISXZ2M21YRlpNWkVKSEFmYThJeUdrSGN1M1JtWTBsYm4wYjZ4THo1TGhqRDJYM0VRQ2RObzQxTUl5R1hwWmlZMkV3YVQwRWlncGFr0gHwAUFVX3lxTE5hbXpRSWcwalJwTVRVNVctNEszQnVfZmVzSVFYcHFRaUlHcVN3UEFzMGpQRENiSVZXVmtDZUJqU1JrajFwcUFzWnBPbnpnem9HQTVLak43MjNJSkxRWjZTZ2NaTUZVQzB1M2FjbTFZSVkyQWUzZnNfUzJsNWwxRVRMeWJpYmZacGxtbnRLeXg2dm4xOVZoXzJSZ18xUmlMcER1U1lhdlZCQmpuWnRsSEppWUZSUzN3dUR0LTRrT1dRQk5aSGRUaU9wSnBTTVptMTRYY0NybkQyNTBnVXA0M0d4ZHRRZWJ1WVZCQkRWY2p3ZA?oc=5) - _The Economic Times, 25 Nov 2026, 03:57 PM IST_
-- [Eicher Motors Share Price Highlights: Eicher Motors Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-25-nov-2026/liveblog/136148203.cms) - _Economic Times, 25 Nov 2026, 10:01 AM IST_
 - [Eicher Motors hits all-time high; here's why stock rallied 17% in one month](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWtZZGFDNzFOby1Nam5uY0w3RjZndnZFYjl2aFlncXhFNVNwVGdUNUJOQVY5dnFrRVVTVXIwRlRFbk9rM0t6X1lWZ09FUVB3NVl6R2pEWWR4NXlhR0Y2OHVWQTAyYks5TXV3ZGpwV29zak5Jc3RNRkh6Q25WWm1PV0t5Sl91WmRHLVd2Wk5laUJodnBnVHkxSnV3Uy1rVHlwcXpwREhYR0ctMy0tRkt5Rm5wQjNid0g3TnBQTV92ejFVb2dBaEp2Tmp3N3lVVHk4TnlQWVJ0d9IB3AFBVV95cUxQNnBEd1psRXcwZ1R3S056bm8yNk5vREFiMHpUVEJmUEZCdnMyQVpfb2VWN0VIVFhPdV9ia1QwdFRlOVdQTTlnOWdjRklvUlRoY2VvdEI4QV9NNVZDdVJlWjNYMFd1cGZhR2lxenU3TEw3N2FEcUNhb0dtOUpxOEFYRVZCcWJKNmZiQUFDZ2piUzZGSjc1VDFXWTgxemJ6N09zU2FEd2dyWFZRcU0wYklXQ1Fic01uUXY4R21VYk1sOGQ1M0U5SEpVYUdIcTd4eGRaWHdTQXJnTDJDVmxR?oc=5) - _Business Standard, 23 Nov 2026, 10:12 AM IST_
 
 </details>
@@ -216,7 +216,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,950.00 | -0.17% | ₹6,864.50 - ₹7,098.00 | 45,421 | 56,031 | 0.81x | 51.06% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,973.50 | +0.17% | ₹6,920.00 - ₹6,999.00 | 2,249 | 56,031 | 0.04x | 50.96% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -244,7 +244,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹85.79 | -0.39% | ₹85.06 - ₹86.80 | 2,545 | 28,773 | 0.09x | 67.36% | ₹76.41 - ₹123.36 |
+| ₹84.15 | -2.30% | ₹83.80 - ₹85.79 | 501 | 28,773 | 0.02x | 67.90% | ₹76.41 - ₹123.36 |
 
 **Research reports**
 
@@ -272,7 +272,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,871.90 | -5.42% | ₹1,861.00 - ₹1,993.80 | 2,877,642 | 3,613,600 | 0.8x | 42.57% | ₹601.35 - ₹1,979.20 |
+| ₹1,900.00 | +1.50% | ₹1,868.20 - ₹1,909.90 | 208,256 | 3,301,044 | 0.06x | 37.64% | ₹601.35 - ₹1,979.20 |
 
 **Research reports**
 
@@ -301,7 +301,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹159.89 | +0.55% | ₹158.36 - ₹164.50 | 9,279,224 | 12,183,688 | 0.76x | 35.85% | ₹126.32 - ₹177.20 |
+| ₹163.75 | +2.41% | ₹159.95 - ₹163.75 | 2,422,091 | 11,714,339 | 0.21x | 34.01% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -315,11 +315,11 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Stock Radar: Union Bank of India stock hit a fresh record high in November 2026; time to buy or book profi](https://news.google.com/rss/articles/CBMijAJBVV95cUxQX25GcnRLaFJPWUxlVmt1NTloM1Y5ZjY0N3BDWllyaU1UaktZT2FhRDJ1TDRkYUUwVUhVMU5XOWY4QVI2cWFuNzA0OXRESWIxamdlVnJ3eEIyX2xzMnFVOE00MXVyWW5KNFNpUDg5c1ZfR0RrbU1qdkd5NENTQmlxYmxNVDRVY0NWR2JkbWRGTFZ4MlUwMzViS2VSU2lXQWYzbmtiNlE4aGhyYW0zTDJ5VU91UkV3OXl3WFp3Q3NuYTM5M0NJdkhWNlJmanVRM2xaanNCRjMyQldOdklMTWlIUVllRzdnUHE4RjFTVWFab29CWjZkaUZZUkt5UTNGTWc4Y09fZElSX1Jlcm9V0gGSAkFVX3lxTFBDRG9tT0t2UE5qZnRnUk1CTlA2RWdfbktFUGVaZ2t3WE92di1qQnBsa0U4UDJTeXpGeGlXbjlNaTVLTEtQVFp6OUJIM0ZNQVFlU3k1S01hY1hvOVBXVDRBMFpSb2NzdDRCYVlpd2ttUEFseDhrNUMzelJORVl3MUlDZjBidG1QX0VDYzEyODRtZGtUVXY2YlBuMlpaWnBGa2VuREZuSC1LTnF0b3JSbEd5NzBxc0RueG9FT0dPWXBYeUctX2lLODhRSHhCQXhGa2FQTjhKVVFIc01ldUg1NENZWFdTR051SGNhYTBQSnJzeWEzLTcyYzZjUzdMTGtXU1NZSlNaXzBVMFFici0wb2pwY3c?oc=5) - _The Economic Times, 26 Nov 2026, 05:00 AM IST_
 - [Trade Spotlight: How should you trade Coforge, Torrent Pharma, Siemens Energy, Union Bank of India,...](https://news.google.com/rss/articles/CBMipgJBVV95cUxNdXJzTXB1TUxVaTZSVVBxOC1ZOEFRWlB4bHZDdnZqWUE2eG9NN0RSMXk1QkpvVG1UZm1Vam5IeVFMU1hiZzJaMllCVTdabHA4Y0M4MnIwSkFDbFRsdDd1bHV2SmEwQ0ItUjZmaXN3WHZrOV9TNVp3VjlCaDE5NkpwTDBpNzZOalFzR3hDbGFGNlhwOENlUXFiLVpFN0ZxVVcwbU5aN0I4MHQ3NFNLVVBIbEZmdUczZG5JLUdRX3VPTGFXVXFmTE40NFFrXzlyb01nTjFzTGgyejBoZXV0YU5oVDJ6d0NiN25SdjcwOGVqbjJXREREaEE1U1pLTy1mWVBBdGVfZGpiQmMtbC10VGVzTXdtNGo1d1VOTXJjZjJzMU9wazVTeWfSAasCQVVfeXFMUFpTM3NCb3RWbkJTWllZdjcxc29idnV2eU1kVF9qcm9Rbm9FLTNVY3BDeWQwaFd2YVBnY2kyMWJsX0hSYVhZQ0JVcHphQmNpYW9wSjlnQ1hIazR3MTFfOFVUR2tsYTBUNmhHNnlySFM0c2hibUR4MThNRUUzRnlUU2d0a1J3bXZnUFdfYkRHTENHR1VpV3g3c2xHQ3BCcEpYUDlSb28zOXBhVDVRMmcwVXdtTVJjOWJya2xjRUpKNm9tb1hZVUx6bENrMWxHUFcxdWI3VTZmSTBEVDF0UFZDLVYtdVR5UkM5d1V6NWlROVVMOG5oT1ppaFgwQW1LbEhGTlY5b01fV08tMDc2YXZqYXk1YUdkMGhxenNUaF9wOUVObnNCRW5GSnRtWDA?oc=5) - _Moneycontrol.com, 25 Nov 2026, 08:22 AM IST_
 - [Bank of India 500-day FD offers up to 7.65% interest: Check rates for senior citizens and other depositors](https://news.google.com/rss/articles/CBMiggJBVV95cUxOUkdrLWhfaEFYZlliR0hTWXJpN2ZET0duUWktOElwR0FLc1FNeXVRcWExemtCTnZtVEJnazcwZ0t3UDVrdHN6MS1tSWtZY1dSYk0tM2VOc08wdnNBdmloVFJzQmpEekZaRmtmbE5qbi11cFNCWDlVTGFFTUJLbGt1dGt1N21NTDhmb0VVS2gtRU1MRVl5YXg4dkpzcjY1UlpJbjJDNzBmRmJDb21fQkEyT0FjcHIzLXV3VkZ5aDFsd09HWmJOVWNMNThTSmZqdHRFTlVtTlNLNDAyTnJEaXdSNENWUTllbmVOb1pWYW53R1lLVS0yWkNDeEhOU2FNMHNrSFHSAYcCQVVfeXFMTnZDWFR0TUxvb09aWVVfUDl1TmpIMGpmTG9ZOElYLXB3VHRhaDctTm9mcFlFNnBjclhMaGhSYXo4Rno0S0xvQnNGeFRvOTFYSTZSbHc0ajZJMEFEQnZwckJmc0R3cXVLNGFXckV4T3l1ZzdMWnBRNTlXTUUtT29kRWNSZHlaaUN3UFZ2YU5ZaHNEMDZYTDVYdF9pVE14Zm5oTW51cFltNjQyNWYyODVya211aGY4ZXh0ZVctVFBTQ08wQ2pfZnVFd3VUYkpCZEVHRUcwaGhacE9sY0syNFM5SUFIVkFLTzZzb01HOTZXTjVyRjdrU09VZHBOUTJFZEJJQnhIZDNBRFU?oc=5) - _Livemint, 24 Nov 2026, 05:27 PM IST_
 - [State Bank of India - HDFC Bank, Reliance Industries among 10 stocks with highest DII holding in Q2. See full list](https://news.google.com/rss/articles/CBMijwJBVV95cUxNcWhzSDB3ci16dTQzclRLd3Y4N0ZNVmNnaGJWVFZkSXVsVUprU2VudkVnWDcxc3QyZUlsM25SanVwUnFBSHFrdHFCNHNBMG16VVFwazVEZlRKcUJMcnN3MlJMbV9hQzVCOHJHaDVqaW1EM2RKdHZVWjVyeFZkSFRUR0YwTGpUV3luajhTbWkzYjgtQUt6VjRTMk1sT1FTVDJZYVZ5SWhYaVo1TDF5Ny0wZjRIeWpHZGg3OHpEeGQ0QnIxcHlueVlRb29hZnkwdFEtYlc4ZXZWQ3hYbUxQSE9pbFBGUjBqXy1oTlUzQ1BJY1NCdDQ4V20yZF8yU1ZoV3RKZkprM1BldDJDM21FbjhV?oc=5) - _The Economic Times, 24 Nov 2026, 03:24 PM IST_
 - [Bank of India offers up to 7.65 percent interest on 500-day Akshay Fixed Deposit](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmppN09mbkNDaFYzMWRDektCeldkVU03bXJrdS1fUHg0ZUZDanRQcTlfZHRqdFd0WVFUbEd6ekotLUxwOGpHR3Nja0daYWgtRFVva2R1WGZjUkp0LU52ZzBha05YWUZnRFBvRXhKbVkwNk5DbHBKVUQzUVN2aFNNdjJCUUVSWmdWWGxzRm81SDBkMFdiSjZWNWZrZ2ljSkxKU2hGdk9ZYW4zQXJ4Q2JjeUJDQ0xFSGhPYnBmSE14NXRObkJ3ZWhVNkRXb05mckNuVkpxdmh0Yk1pZ3VTalJwaGF6aEJabm51N3fSAe8BQVVfeXFMTWp0UjlhMmlZS1d4ZjhVX044YVVNdnZ5emRhY0VwWFh0S3BfRHVkQm01bHJtcFlQV1hPLVJEMXhycG9JZWJsTGozcHpROW9CM1hDWkIyNDV2enE1Wjh0ZlBZQ2Y4b0VtMFNkaXlOLWs2VkJwZDlTeWlPbURTa01zMzdqTWRaTFlmSmxmeVNpVC1PNGJLQlpJZ2kyUzhvRFVKSlVfcm9nY19sUkp1RjBmWHRYYjZFdmZBLXE3SW0wRUZRY0Z1ekNCcFRzOXV0VXFOUVFuUXVDUUtBYVlEVUZTUEpjYzJUaHRNWWh4MGNLLUU?oc=5) - _Moneycontrol.com, 24 Nov 2026, 11:57 AM IST_
-- [AI risks, Reserve Bank of India nudge spur a cybersecurity talent rush](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQXNub25wTmtvUEp6b0VOaDB5bEJ2LUY3ckhwVUxSRGc4R1YwX2twRk9jb3A5MUZDdFo0MmM3WTJQRFM1WmdVMl9jTEZqR3ByOVpXWmN2QTh2Qm5TSVVfenZrV1Jjb25RYUl4N0lDaUJaa19lX1F5bTVsWHZDcDdydVBxaVo4VmFobnZOSnpvNDVjZFgxSThPcm9mSFByOERsZTlud1ItVjV0bXpDQk1vc3NKdzF2MnAwSXowZHdySEF0b1dHU1RZUmFac0d0VUhiTFh2VXRFRdIB3AFBVV95cUxQVlZiQ2g3MkVKNkxkampZTEpHbkR2Vm11VFI0WWJ1cW9nbHpJMzJSdWRFVmtMZV84eWNfOXNXcWdyNVhPSDZRS29MQUV4OFdWQ2VKSlkwR0k1M2tHLVZTb2dWS2U3ZlFiTnZoUHROdVgzYThhUGRiSXZKdjgyZFpQVlpPbGpHbl8xS3h4NHRqdnlkdU8zYzRTWktSWU1zZ1BXbFlQN2RDMzVZd2dOZkswLXNXQVpJazJXd3NtbzZwaGkwd3B4eF93ZUtHNnFVX2p2VmFCNTdWNmJ1bV8z?oc=5) - _Business Standard, 23 Nov 2026, 11:54 PM IST_
 
 </details>
 
@@ -333,7 +333,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,397.60 | +2.08% | ₹1,360.00 - ₹1,414.00 | 7,587,798 | 19,888,670 | 0.38x | 13.63% | ₹1,369.10 - ₹1,437.40 |
+| ₹1,393.20 | -0.31% | ₹1,391.00 - ₹1,404.10 | 280,458 | 19,241,328 | 0.01x | 13.27% | ₹1,369.10 - ₹1,437.40 |
 
 **Research reports**
 
