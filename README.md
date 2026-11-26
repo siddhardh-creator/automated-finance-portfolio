@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 26 Nov 2026, 01:32 PM IST  |  **Market data as of:** 2026-11-26  |  **Start date:** 2026-10-16
+**Last updated:** 26 Nov 2026, 02:32 PM IST  |  **Market data as of:** 2026-11-26  |  **Start date:** 2026-10-16
 
 **Snapshot type:** Live intraday snapshot
 
@@ -14,14 +14,14 @@ _Live snapshot: today's session is still in progress, so volume is partial and "
 
 | Metric | Value |
 |---|---|
-| Current value | **₹2,66,23,412** |
-| Total P&L | **₹20,24,682 (+8.23%)** |
-| &nbsp;&nbsp;Unrealised (open positions) | ₹24,22,170 |
+| Current value | **₹2,66,09,942** |
+| Total P&L | **₹20,11,212 (+8.18%)** |
+| &nbsp;&nbsp;Unrealised (open positions) | ₹24,08,700 |
 | &nbsp;&nbsp;Realised (shares already sold) | -₹3,98,488 |
 | &nbsp;&nbsp;Dividends received (already inside Total P&L) | ₹1,000 |
-| Today's change | -₹72,240 (-0.27%) |
-| Nifty 50 since start (same money invested) | +12.29% |
-| Outperformance vs Nifty 50 | -4.06% |
+| Today's change | -₹1,34,720 (-0.50%) |
+| Nifty 50 since start (same money invested) | +12.33% |
+| Outperformance vs Nifty 50 | -4.15% |
 | Cash (uninvested) | ₹71,42,482 |
 | Virtual money put in | ₹2,45,98,730 |
 
@@ -33,16 +33,16 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,016.00 | - | ₹14,010.00 | +0.04% | ₹40,64,640 | 15.3% | ₹7,32,830 | +21.99% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹156.72 | - | ₹158.00 | -0.81% | ₹1,56,720 | 0.6% | ₹9,000 | +6.09% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,215.50 | - | ₹8,336.00 | -1.45% | ₹82,15,500 | 30.9% | ₹9,49,500 | +13.07% |
-| Linde India | 500 | ₹5,961.00 | ₹7,009.00 | - | ₹6,961.50 | +0.68% | ₹35,04,500 | 13.2% | ₹5,24,000 | +17.58% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹85.68 | - | ₹86.13 | -0.52% | ₹85,680 | 0.3% | ₹680 | +0.80% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,897.40 | - | ₹1,871.90 | +1.36% | ₹18,97,400 | 7.1% | ₹2,20,200 | +13.13% |
-| Bank of India | 1,000 | ₹131.33 | ₹161.49 | - | ₹159.89 | +1.00% | ₹1,61,490 | 0.6% | ₹30,160 | +22.97% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,395.00 | - | ₹1,397.60 | -0.19% | ₹13,95,000 | 5.2% | -₹44,200 | -3.07% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹14,009.00 | - | ₹14,200.00 | -1.35% | ₹40,62,610 | 15.3% | ₹7,30,800 | +21.93% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹156.65 | - | ₹158.00 | -0.85% | ₹1,56,650 | 0.6% | ₹8,930 | +6.05% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,210.00 | - | ₹8,336.00 | -1.51% | ₹82,10,000 | 30.9% | ₹9,44,000 | +12.99% |
+| Linde India | 500 | ₹5,961.00 | ₹6,995.50 | - | ₹6,950.00 | +0.65% | ₹34,97,750 | 13.1% | ₹5,17,250 | +17.35% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹85.00 | - | ₹85.79 | -0.92% | ₹85,000 | 0.3% | ₹0 | +0.00% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,905.10 | - | ₹1,871.90 | +1.77% | ₹19,05,100 | 7.2% | ₹2,27,900 | +13.59% |
+| Bank of India | 1,000 | ₹131.33 | ₹161.15 | - | ₹159.89 | +0.79% | ₹1,61,150 | 0.6% | ₹29,820 | +22.71% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,389.20 | - | ₹1,397.60 | -0.60% | ₹13,89,200 | 5.2% | -₹50,000 | -3.47% |
 
-**Best since buy:** Bank of India (+22.97%)  ·  **Worst since buy:** Jio Platforms (-3.07%)  ·  **Biggest mover today:** Eicher Motors (-1.45%)
+**Best since buy:** Bank of India (+22.71%)  ·  **Worst since buy:** Jio Platforms (-3.47%)  ·  **Biggest mover today:** Ather Energy (+1.77%)
 
 ## Allocation
 
@@ -50,16 +50,16 @@ _▲ buy · ▼ sell_
 
 | Sector | Value | Share |
 |---|---:|---:|
-| Automobiles | ₹1,43,34,260 | 53.8% |
+| Automobiles | ₹1,43,34,360 | 53.9% |
 | Cash | ₹71,42,482 | 26.8% |
-| Industrial Gases | ₹35,04,500 | 13.2% |
-| Telecom & Digital Services | ₹13,95,000 | 5.2% |
-| Financials | ₹1,61,490 | 0.6% |
-| Stationery & Writing Instruments | ₹85,680 | 0.3% |
+| Industrial Gases | ₹34,97,750 | 13.1% |
+| Telecom & Digital Services | ₹13,89,200 | 5.2% |
+| Financials | ₹1,61,150 | 0.6% |
+| Stationery & Writing Instruments | ₹85,000 | 0.3% |
 
 <a name="performance"></a>
 
-## Performance (as on 26 Nov 2026, 01:32 PM IST)
+## Performance (as on 26 Nov 2026, 02:32 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -120,7 +120,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹14,016.00 | +0.04% | ₹13,912.00 - ₹14,165.00 | 323,371 | 731,206 | 0.44x | 36.91% | ₹11,170.00 - ₹17,292.00 |
+| ₹14,009.00 | -1.35% | ₹13,912.00 - ₹14,165.00 | 382,592 | 743,259 | 0.51x | 37.62% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -136,6 +136,9 @@ _▲ buy · ▼ sell_
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-25-nov-2026/liveblog/136148282.cms) - _Economic Times, 25 Nov 2026, 10:03 AM IST_
+- [Tata Motors, Audi India raise vehicle prices following Maruti Suzuki's move](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMllSME5UU1UxTTFJZFZ3X3U5THcyQnY4UjE1cjJpU2NXTlBGMlNzNUJTSlNSRWRraWh6cXgyWWF4bENLNExXV3ZOZ0ZINWM1Q0lMb0hoUXg1UmZLb2Z3LVBpOXJRbmtUdXZRdHdweEZHdmIxekV6Qy1Oc0o5SHpVeHdWazVLUm1tWW5ZUHRmRDg1WUtzeU5WNGh6M3pLT1cxZ0ExankyeDZfZ3ZxVjBYd0dMbDlDRDZ5V3oweGlud19aRzc3T1M0dWpZS09MZXU0VFg2aGt0LUtFenfSAeABQVVfeXFMTUhXdEtDS1AtVkRFV2RpUUQ1WUVsS3ZTQ1NNdHBDSXQ1eF9QZzBlcE9VVkUtRWJqYVZVQUVmcDdvZlhOVl91TVpBRGQtMzREWld3ckZfM3N6MURvOUx4RFg2ekhNb2oxUDNhbVlWc2VCT0FjRlVSSGVjbXF5Mmh2bHlmaTFDZmhsQ1czY0htU3k1S0ZKMm9OTTZJaGtWMFphZXVGWENKTy1SZ0wycjR3bjVoQVNBUlJ4Y2JlaUhBVng2MWRnZmpHSzRkdkJ3X2NDOFQ1LWFUemhvazZhRWpLR0U?oc=5) - _Business Standard, 24 Nov 2026, 07:57 PM IST_
+- [Rising input costs drive Tata Motors, Hyundai, Audi and Maruti to raise vehicle prices](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUxHR1NRYWFzOXVqbUNYV0xlZS1qYXlQOVNINlBmczRrWnFJS3VHR3d4Qk02MmlBRzBzY080V29NRk9TNUc3WWVNZEdDaVVUZV9kUTFualRmV1hEVFpDTFB2dzd6bEdWSFlNaDRxYlExMVJxVlh6M2w4c0QwVkFmVGc2V3hXUmxyUV9CVTRjQ1l1MHVtM1FWckhoSlRHaWgtTlpyUEhvNkplUm9QTzVlRUVRNncwV24xTFV4MW51V3k0ZUkwRm40VGc4M2RRT1NraGxvWENqdUxxY1ZuNVBUY9IB5wFBVV95cUxPM3Q2X3JBMnFjNDdsdE9GblVWT2VYejBETFJNOG92Si1ueUVsOWRvajF5S25qQlZ2a0tmYXQtcXJyRERoRVdqN2FYLWtxck5IempkUG9aTGh6c0JBY1Q3VGdnR3hSU2xNZnFZYUNCSkVDVF9BV3BBOElaWW9qREhQb0VOaU5wR2ZiMk03MkJFM2RIa04ydUxBdW9LYUlGWDhobUhDRGs3ejQyekx6MHAxVTFWTU1LQ0czU0xrWVdMdkdMZC1Bd0JkaTFMdEd3S0FlMGg5MFBpUjBaU3FsajRnOGVmQmdvMUU?oc=5) - _The Hindu, 24 Nov 2026, 07:32 PM IST_
+- [Tata Motors, Maruti Suzuki, Hyundai and Audi announce hikes: Check company-wise changes](https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWZWUUpwNFNkdkRTVlVEUF9TbUpnS1dQSGg0Nlh1cy1PdFdjSU1kZXlqY25BczhfaUZCdld6dVRWTDZ3MlpnbXVMU0xReUViWGFTa0tvclpPbkFib3p6Z2pYMVlTWk5TeDE5RXhHUm5QSmhqVkx3SmtfNVJudDBmbGR5TjloOG1LNDhxY3hOUUh5YjFYeXRCZFZuV2pIZ3VHbkxHM2lKSE5PdUpjNXNIRW55MkhKaUJwUVNhRWt6azV3VUNMeHZiYU9WZ2EzdDTSAdQBQVVfeXFMUHk2ZFNmMlZaRGpDT1FzS2x3NkVmejVxeWFVejhHaC1hcEVJYU1lbEpJR1FFX19WNml3NDY5LUdDSVR6UkZZOW0zS3hRaTJXU2p4eEdGYTlnNGc2ODAya0F2NjB0S1g1cGJ5MUt0anprakNTSVdhQk5UaHNDOVkxV2d6TEdoRFlpZ1NRU3lpUVdfNTdsclN2VG1GeWFGZkNPWGRPRjk5NHdiRnBfQkJ0TWN4cnFNaTcxc3NnNUl0eHRSSEQwOHBfU0MxcHJjWl9oamNzSDg?oc=5) - _Moneycontrol.com, 24 Nov 2026, 02:57 PM IST_
 
 </details>
 
@@ -149,7 +152,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹156.72 | -0.81% | ₹156.15 - ₹158.90 | 8,251,307 | 24,350,080 | 0.34x | 47.85% | ₹138.58 - ₹211.92 |
+| ₹156.65 | -0.85% | ₹156.10 - ₹158.90 | 10,797,769 | 24,350,080 | 0.44x | 47.86% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -179,7 +182,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹8,215.50 | -1.45% | ₹8,195.50 - ₹8,325.00 | 255,802 | 622,508 | 0.41x | 29.13% | ₹6,586.00 - ₹8,336.00 |
+| ₹8,210.00 | -1.51% | ₹8,195.50 - ₹8,325.00 | 292,036 | 622,508 | 0.47x | 29.19% | ₹6,586.00 - ₹8,336.00 |
 
 **Research reports**
 
@@ -209,7 +212,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹7,009.00 | +0.68% | ₹6,920.00 - ₹7,093.00 | 23,812 | 56,031 | 0.42x | 50.87% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,995.50 | +0.65% | ₹6,920.00 - ₹7,093.00 | 27,479 | 57,047 | 0.48x | 50.95% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -237,7 +240,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹85.68 | -0.52% | ₹83.80 - ₹85.79 | 4,408 | 28,773 | 0.15x | 67.37% | ₹76.41 - ₹123.36 |
+| ₹85.00 | -0.92% | ₹83.80 - ₹85.79 | 4,920 | 23,343 | 0.21x | 44.11% | ₹76.41 - ₹123.36 |
 
 **Research reports**
 
@@ -265,7 +268,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,897.40 | +1.36% | ₹1,868.20 - ₹1,909.90 | 1,023,745 | 3,301,044 | 0.31x | 37.60% | ₹601.35 - ₹1,979.20 |
+| ₹1,905.10 | +1.77% | ₹1,868.20 - ₹1,909.90 | 1,195,204 | 3,301,044 | 0.36x | 37.73% | ₹601.35 - ₹1,979.20 |
 
 **Research reports**
 
@@ -295,7 +298,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹161.49 | +1.00% | ₹159.95 - ₹164.45 | 8,450,968 | 11,714,339 | 0.72x | 33.65% | ₹126.32 - ₹177.20 |
+| ₹161.15 | +0.79% | ₹159.95 - ₹164.45 | 9,517,133 | 11,714,339 | 0.81x | 33.67% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -309,11 +312,11 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Student ‘loses’ MSc year over delayed loan, Bank of India told to pay Rs 70,000](https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmFpMWVCYlI2a0xkMkx6YV9OVS1hX0Q3MXVGNTQ5eTlMYlkySWJEV0NhZTFVbmV1MFN2UmFjcmR6OE9tZzk4S1FyTlNYVjhmUUswSmQyZW5faU9OUkNZaWtraFpRbEZOdXB1d0RyckpjZHp2bUpEV0JxZWUzQUEwTnVsckhYUVlFVkswN0Y0ZWI3WlF0azl5clhnbFZ4VWpqQ01Xckd0Y3ZfRE15R2c5M0s2enBxMzMweHhJeGpxS1RDSWJuaWZUMHJB?oc=5) - _The Indian Express, 26 Nov 2026, 01:14 PM IST_
+- [Student ‘loses’ MSc year over delayed loan, Bank of India told to pay Rs 70,000](https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmFpMWVCYlI2a0xkMkx6YV9OVS1hX0Q3MXVGNTQ5eTlMYlkySWJEV0NhZTFVbmV1MFN2UmFjcmR6OE9tZzk4S1FyTlNYVjhmUUswSmQyZW5faU9OUkNZaWtraFpRbEZOdXB1d0RyckpjZHp2bUpEV0JxZWUzQUEwTnVsckhYUVlFVkswN0Y0ZWI3WlF0azl5clhnbFZ4VWpqQ01Xckd0Y3ZfRE15R2c5M0s2enBxMzMweHhJeGpxS1RDSWJuaWZUMHJB0gHQAUFVX3lxTE1hczFNcFJqekZ2Z21lOTY3di1VNTUySFdoRW9uVGM1THUxRXhMOVBTNk5iWHM1UUVxbjJCZUhFa0RsZUo1UmRKUnB0Rm1KbFR4SWVieEJSQy1DaDRVeFhqa3JtM1pOc1I5UHFHMzBWZjdNUFp2empHeUt4Z3g3STlrMkVQQTB6RGlLLWhoaVJGRzZGOEdwUlFjYkxqZWJsend0X0xIam5fZFp0WWlxSW5EV0pBU19Xbk96UktPYUJHUHFOTEtPU2VBNmE1MzJ4b0Y?oc=5) - _The Indian Express, 26 Nov 2026, 01:14 PM IST_
+- [Stock Radar: Union Bank of India stock hit a fresh record high in November 2026; time to buy or book profi](https://news.google.com/rss/articles/CBMijAJBVV95cUxQX25GcnRLaFJPWUxlVmt1NTloM1Y5ZjY0N3BDWllyaU1UaktZT2FhRDJ1TDRkYUUwVUhVMU5XOWY4QVI2cWFuNzA0OXRESWIxamdlVnJ3eEIyX2xzMnFVOE00MXVyWW5KNFNpUDg5c1ZfR0RrbU1qdkd5NENTQmlxYmxNVDRVY0NWR2JkbWRGTFZ4MlUwMzViS2VSU2lXQWYzbmtiNlE4aGhyYW0zTDJ5VU91UkV3OXl3WFp3Q3NuYTM5M0NJdkhWNlJmanVRM2xaanNCRjMyQldOdklMTWlIUVllRzdnUHE4RjFTVWFab29CWjZkaUZZUkt5UTNGTWc4Y09fZElSX1Jlcm9V0gGSAkFVX3lxTFBDRG9tT0t2UE5qZnRnUk1CTlA2RWdfbktFUGVaZ2t3WE92di1qQnBsa0U4UDJTeXpGeGlXbjlNaTVLTEtQVFp6OUJIM0ZNQVFlU3k1S01hY1hvOVBXVDRBMFpSb2NzdDRCYVlpd2ttUEFseDhrNUMzelJORVl3MUlDZjBidG1QX0VDYzEyODRtZGtUVXY2YlBuMlpaWnBGa2VuREZuSC1LTnF0b3JSbEd5NzBxc0RueG9FT0dPWXBYeUctX2lLODhRSHhCQXhGa2FQTjhKVVFIc01ldUg1NENZWFdTR051SGNhYTBQSnJzeWEzLTcyYzZjUzdMTGtXU1NZSlNaXzBVMFFici0wb2pwY3c?oc=5) - _The Economic Times, 26 Nov 2026, 05:00 AM IST_
 - [Trade Spotlight: How should you trade Coforge, Torrent Pharma, Siemens Energy, Union Bank of India,...](https://news.google.com/rss/articles/CBMipgJBVV95cUxNdXJzTXB1TUxVaTZSVVBxOC1ZOEFRWlB4bHZDdnZqWUE2eG9NN0RSMXk1QkpvVG1UZm1Vam5IeVFMU1hiZzJaMllCVTdabHA4Y0M4MnIwSkFDbFRsdDd1bHV2SmEwQ0ItUjZmaXN3WHZrOV9TNVp3VjlCaDE5NkpwTDBpNzZOalFzR3hDbGFGNlhwOENlUXFiLVpFN0ZxVVcwbU5aN0I4MHQ3NFNLVVBIbEZmdUczZG5JLUdRX3VPTGFXVXFmTE40NFFrXzlyb01nTjFzTGgyejBoZXV0YU5oVDJ6d0NiN25SdjcwOGVqbjJXREREaEE1U1pLTy1mWVBBdGVfZGpiQmMtbC10VGVzTXdtNGo1d1VOTXJjZjJzMU9wazVTeWfSAasCQVVfeXFMUFpTM3NCb3RWbkJTWllZdjcxc29idnV2eU1kVF9qcm9Rbm9FLTNVY3BDeWQwaFd2YVBnY2kyMWJsX0hSYVhZQ0JVcHphQmNpYW9wSjlnQ1hIazR3MTFfOFVUR2tsYTBUNmhHNnlySFM0c2hibUR4MThNRUUzRnlUU2d0a1J3bXZnUFdfYkRHTENHR1VpV3g3c2xHQ3BCcEpYUDlSb28zOXBhVDVRMmcwVXdtTVJjOWJya2xjRUpKNm9tb1hZVUx6bENrMWxHUFcxdWI3VTZmSTBEVDF0UFZDLVYtdVR5UkM5d1V6NWlROVVMOG5oT1ppaFgwQW1LbEhGTlY5b01fV08tMDc2YXZqYXk1YUdkMGhxenNUaF9wOUVObnNCRW5GSnRtWDA?oc=5) - _Moneycontrol.com, 25 Nov 2026, 08:22 AM IST_
 - [Bank of India 500-day FD offers up to 7.65% interest: Check rates for senior citizens and other depositors](https://news.google.com/rss/articles/CBMiggJBVV95cUxOUkdrLWhfaEFYZlliR0hTWXJpN2ZET0duUWktOElwR0FLc1FNeXVRcWExemtCTnZtVEJnazcwZ0t3UDVrdHN6MS1tSWtZY1dSYk0tM2VOc08wdnNBdmloVFJzQmpEekZaRmtmbE5qbi11cFNCWDlVTGFFTUJLbGt1dGt1N21NTDhmb0VVS2gtRU1MRVl5YXg4dkpzcjY1UlpJbjJDNzBmRmJDb21fQkEyT0FjcHIzLXV3VkZ5aDFsd09HWmJOVWNMNThTSmZqdHRFTlVtTlNLNDAyTnJEaXdSNENWUTllbmVOb1pWYW53R1lLVS0yWkNDeEhOU2FNMHNrSFHSAYcCQVVfeXFMTnZDWFR0TUxvb09aWVVfUDl1TmpIMGpmTG9ZOElYLXB3VHRhaDctTm9mcFlFNnBjclhMaGhSYXo4Rno0S0xvQnNGeFRvOTFYSTZSbHc0ajZJMEFEQnZwckJmc0R3cXVLNGFXckV4T3l1ZzdMWnBRNTlXTUUtT29kRWNSZHlaaUN3UFZ2YU5ZaHNEMDZYTDVYdF9pVE14Zm5oTW51cFltNjQyNWYyODVya211aGY4ZXh0ZVctVFBTQ08wQ2pfZnVFd3VUYkpCZEVHRUcwaGhacE9sY0syNFM5SUFIVkFLTzZzb01HOTZXTjVyRjdrU09VZHBOUTJFZEJJQnhIZDNBRFU?oc=5) - _Livemint, 24 Nov 2026, 05:27 PM IST_
 - [Bank of India offers up to 7.65 percent interest on 500-day Akshay Fixed Deposit](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmppN09mbkNDaFYzMWRDektCeldkVU03bXJrdS1fUHg0ZUZDanRQcTlfZHRqdFd0WVFUbEd6ekotLUxwOGpHR3Nja0daYWgtRFVva2R1WGZjUkp0LU52ZzBha05YWUZnRFBvRXhKbVkwNk5DbHBKVUQzUVN2aFNNdjJCUUVSWmdWWGxzRm81SDBkMFdiSjZWNWZrZ2ljSkxKU2hGdk9ZYW4zQXJ4Q2JjeUJDQ0xFSGhPYnBmSE14NXRObkJ3ZWhVNkRXb05mckNuVkpxdmh0Yk1pZ3VTalJwaGF6aEJabm51N3fSAe8BQVVfeXFMTWp0UjlhMmlZS1d4ZjhVX044YVVNdnZ5emRhY0VwWFh0S3BfRHVkQm01bHJtcFlQV1hPLVJEMXhycG9JZWJsTGozcHpROW9CM1hDWkIyNDV2enE1Wjh0ZlBZQ2Y4b0VtMFNkaXlOLWs2VkJwZDlTeWlPbURTa01zMzdqTWRaTFlmSmxmeVNpVC1PNGJLQlpJZ2kyUzhvRFVKSlVfcm9nY19sUkp1RjBmWHRYYjZFdmZBLXE3SW0wRUZRY0Z1ekNCcFRzOXV0VXFOUVFuUXVDUUtBYVlEVUZTUEpjYzJUaHRNWWh4MGNLLUU?oc=5) - _Moneycontrol.com, 24 Nov 2026, 11:57 AM IST_
-- [AI risks, Reserve Bank of India nudge spur a cybersecurity talent rush](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQXNub25wTmtvUEp6b0VOaDB5bEJ2LUY3ckhwVUxSRGc4R1YwX2twRk9jb3A5MUZDdFo0MmM3WTJQRFM1WmdVMl9jTEZqR3ByOVpXWmN2QTh2Qm5TSVVfenZrV1Jjb25RYUl4N0lDaUJaa19lX1F5bTVsWHZDcDdydVBxaVo4VmFobnZOSnpvNDVjZFgxSThPcm9mSFByOERsZTlud1ItVjV0bXpDQk1vc3NKdzF2MnAwSXowZHdySEF0b1dHU1RZUmFac0d0VUhiTFh2VXRFRdIB3AFBVV95cUxQVlZiQ2g3MkVKNkxkampZTEpHbkR2Vm11VFI0WWJ1cW9nbHpJMzJSdWRFVmtMZV84eWNfOXNXcWdyNVhPSDZRS29MQUV4OFdWQ2VKSlkwR0k1M2tHLVZTb2dWS2U3ZlFiTnZoUHROdVgzYThhUGRiSXZKdjgyZFpQVlpPbGpHbl8xS3h4NHRqdnlkdU8zYzRTWktSWU1zZ1BXbFlQN2RDMzVZd2dOZkswLXNXQVpJazJXd3NtbzZwaGkwd3B4eF93ZUtHNnFVX2p2VmFCNTdWNmJ1bV8z?oc=5) - _Business Standard, 23 Nov 2026, 11:54 PM IST_
 
 </details>
 
@@ -327,7 +330,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,395.00 | -0.19% | ₹1,390.00 - ₹1,410.00 | 2,910,608 | 19,241,328 | 0.15x | 13.25% | ₹1,369.10 - ₹1,437.40 |
+| ₹1,389.20 | -0.60% | ₹1,386.50 - ₹1,410.00 | 3,324,835 | 19,241,328 | 0.17x | 13.38% | ₹1,369.10 - ₹1,437.40 |
 
 **Research reports**
 
