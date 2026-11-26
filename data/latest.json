@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "26 Nov 2026, 03:32 PM IST",
+  "generated_at_ist": "26 Nov 2026, 05:26 PM IST",
   "as_of": "2026-11-26",
   "snapshot_type": "End-of-day final snapshot",
   "base_date": "2026-10-16",
@@ -43,9 +43,9 @@
         "high": 14165.0,
         "low": 13912.0,
         "intraday_range_pct": 1.78,
-        "volume": 460810,
+        "volume": 455857,
         "avg_volume_20d": 743259,
-        "volume_vs_avg": 0.62,
+        "volume_vs_avg": 0.61,
         "volatility_20d_annualised_pct": 37.58,
         "high_52w": 17292.0,
         "low_52w": 11170.0,
@@ -56,6 +56,18 @@
         "pnl_pct": 21.99
       },
       "news": [
+        {
+          "title": "Tata Motors join Maruti Suzuki, Hyundai, Audi in announcing price hikes- How much will you pay from December?",
+          "source": "Livemint",
+          "published": "25 Nov 2026, 05:57 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOGdlcXByeUNkazJHM3V6QUpIbnRWTm10cG9FSkVKNUlOb1pfc3BDeVJKWVdwT1RadWZMMkgwblpDSXduV3V6ZTVNb1piUHh4VDZpbEpPVk5hOWx4UjFvVzN5RFRicHNtZUtlVHlVU0NpVzBucXhfaDNoN2EtNy0tbXFBTWdCTWRnMDB2R21DbTB1WHEtSEpJLWxWbEZSajdPQ2xSd2lERzVRVlpjcWdjNzR0ZWR5NEZjLU8xb0ZPeTRmWThVLXp4WWJUdTVuSkZkMUx4QjZLeURrS3RwMk9KSlJnMDhuMDM1SlNGSHR6VHExd9IB9wFBVV95cUxOS0lhLW9zS01EUHB3ZjdlcHFsd2hfTzdsRWNJUlU4TDRVYUV6a2hUNlhPSTZLM0hGOXVvMEpla0s4NXhFVHJVMTROLTRIa1hQdnRBN0o4ZGRyM213MGxQWUw5WU5NVlVrS280UW1obU9VMzRHX3NqN2NFTjdjRFI1MnRNcV9aVS1Ddy1SSDdiQzVJZ3Q2WW5LVmFVTWJWN09pV3RrNDZkN2FWNkc3bVNWYjEzRWJTS3QzQVBJNUxPNUtFTmpGSWVyeFhfNWhGd3JFcHliYjhfWjlWRkV3c1hoTk5lYVZmbjVhaU95NEFMZlphSnIyZThJ?oc=5"
+        },
+        {
+          "title": "Maruti Fronx facelift spotted with new cabin features, updated engine, safety upgrades: What buyers can expect",
+          "source": "Livemint",
+          "published": "25 Nov 2026, 10:46 AM IST",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc2dQUW9JcVhyNTUzQm5YTDN4QUgycXBpUWxqQk1reWd0cmo3MHZFcjUzc3BEMUp1dEE5WTFNYlBrTWdaNEhwRFVSYzVaeWhvUkh4T2w4cVFOUFFYNlVLSXFkUDVMNHpORE5TWkt1NXU2TzhqT0ZQX2F4ektCNy1ieXJUcnBIdjVuOGVuRjFfeGhtWUNBd2V0U0hvVEdJQXdmd1g1RlY4b2J4cXltWURYSzhOc3k4NkYxODRSbXVNVHRTTG5KWjU0LTBNUC1OQk1Zc3BJWndEZDByYmZPNkk4VE5OZnFRR3R0R1pxLXBRakxRUWpF0gH6AUFVX3lxTFB6a0dMUXFKR2lzUjdzWE9VbDE1NnVTLTJ6cE94TU52cHRJcURobVNGNklrVmZST042UHJhN2pxX3BITFZMS1JoY3AyMzVkYVVpQ3VCY2ZzWEk5T1VCVFJfXy1EZDNmMjVvWTFJYkx0MmoyU1VMLTlQa3hQQzMwNEM0LTBKUVZKWEJzU3ZFUzdvS09UUEQ5OHpqaUg4M0ZWanl2RkpGMnYwc1VQeklGeldScU5BTW5MRzR2bHFWQ09vaExPbk1UM2RrR2MxUVdLZXFUa0Q4enF4ZVBqMHFfNUoybTQ1TkZaclpOemxlanlxa1ZKNmNlU0NZa3c?oc=5"
+        },
         {
           "title": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History",
           "source": "Economic Times",
@@ -73,12 +85,6 @@
           "source": "The Hindu",
           "published": "24 Nov 2026, 07:32 PM IST",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUxHR1NRYWFzOXVqbUNYV0xlZS1qYXlQOVNINlBmczRrWnFJS3VHR3d4Qk02MmlBRzBzY080V29NRk9TNUc3WWVNZEdDaVVUZV9kUTFualRmV1hEVFpDTFB2dzd6bEdWSFlNaDRxYlExMVJxVlh6M2w4c0QwVkFmVGc2V3hXUmxyUV9CVTRjQ1l1MHVtM1FWckhoSlRHaWgtTlpyUEhvNkplUm9QTzVlRUVRNncwV24xTFV4MW51V3k0ZUkwRm40VGc4M2RRT1NraGxvWENqdUxxY1ZuNVBUY9IB5wFBVV95cUxPM3Q2X3JBMnFjNDdsdE9GblVWT2VYejBETFJNOG92Si1ueUVsOWRvajF5S25qQlZ2a0tmYXQtcXJyRERoRVdqN2FYLWtxck5IempkUG9aTGh6c0JBY1Q3VGdnR3hSU2xNZnFZYUNCSkVDVF9BV3BBOElaWW9qREhQb0VOaU5wR2ZiMk03MkJFM2RIa04ydUxBdW9LYUlGWDhobUhDRGs3ejQyekx6MHAxVTFWTU1LQ0czU0xrWVdMdkdMZC1Bd0JkaTFMdEd3S0FlMGg5MFBpUjBaU3FsajRnOGVmQmdvMUU?oc=5"
-        },
-        {
-          "title": "Tata Motors, Maruti Suzuki, Hyundai and Audi announce hikes: Check company-wise changes",
-          "source": "Moneycontrol.com",
-          "published": "24 Nov 2026, 02:57 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWZWUUpwNFNkdkRTVlVEUF9TbUpnS1dQSGg0Nlh1cy1PdFdjSU1kZXlqY25BczhfaUZCdld6dVRWTDZ3MlpnbXVMU0xReUViWGFTa0tvclpPbkFib3p6Z2pYMVlTWk5TeDE5RXhHUm5QSmhqVkx3SmtfNVJudDBmbGR5TjloOG1LNDhxY3hOUUh5YjFYeXRCZFZuV2pIZ3VHbkxHM2lKSE5PdUpjNXNIRW55MkhKaUJwUVNhRWt6azV3VUNMeHZiYU9WZ2EzdDTSAdQBQVVfeXFMUHk2ZFNmMlZaRGpDT1FzS2x3NkVmejVxeWFVejhHaC1hcEVJYU1lbEpJR1FFX19WNml3NDY5LUdDSVR6UkZZOW0zS3hRaTJXU2p4eEdGYTlnNGc2ODAya0F2NjB0S1g1cGJ5MUt0anprakNTSVdhQk5UaHNDOVkxV2d6TEdoRFlpZ1NRU3lpUVdfNTdsclN2VG1GeWFGZkNPWGRPRjk5NHdiRnBfQkJ0TWN4cnFNaTcxc3NnNUl0eHRSSEQwOHBfU0MxcHJjWl9oamNzSDg?oc=5"
         }
       ],
       "announcements": [],
@@ -101,7 +107,7 @@
         "high": 158.9,
         "low": 156.0,
         "intraday_range_pct": 1.84,
-        "volume": 13462918,
+        "volume": 13394133,
         "avg_volume_20d": 24350080,
         "volume_vs_avg": 0.55,
         "volatility_20d_annualised_pct": 48.0,
@@ -147,9 +153,9 @@
         "high": 8325.0,
         "low": 8180.0,
         "intraday_range_pct": 1.74,
-        "volume": 406166,
+        "volume": 392854,
         "avg_volume_20d": 622508,
-        "volume_vs_avg": 0.65,
+        "volume_vs_avg": 0.63,
         "volatility_20d_annualised_pct": 29.58,
         "high_52w": 8336.0,
         "low_52w": 6586.0,
@@ -161,10 +167,28 @@
       },
       "news": [
         {
+          "title": "Royal Enfield to invest ₹1,000 crore in Tamil Nadu: 7-year pact to boost EV business, create 500 jobs | Check details",
+          "source": "Livemint",
+          "published": "26 Nov 2026, 04:19 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWlZ2M1JIbUxUTlNVTzBlc0lXOFo5ZTl1eVNBMGtBMHI3X1dWMmltak9nZlRWa2IxV3B2RHBKSUUxakpRRE1WM05hUUgtTTk1UlRic1hvMGZZLUl2ZHdyQmlLOGRMcHNoeUZnWWNUMC1hMFhldDE4Si1PRDJJRTVrYVpMeHNwLWhSTmdlYjYxRmVaeW9aa1VFSnppQ0FLM19VOG11MmFHb2M0ZDN4R2xYR25vaEtibldOM3BfY2VzdXZmOWMzVjBJOGt5MWNGNWNjd2dqZ3BwUXFZb3FFcklEQjFWVnZ6YVkyVkFsX1lRaG1Zbzg0V2xneVBkMF8wVDDSAYQCQVVfeXFMTlNKWUpwSkZIZ3lZNDRjVThBOHBrV0Y2dkROLTdrR2tiV0FpQkgxWnM4LTdaazFSckdkQXo2V3dlRE12c1VlNXMwb3RsZkN0TVRZWFpxM2g4N29QTFpRRmFreVBhVmpwRU1LSlZWd3NxMzJqVUFnYThYWjQyZkZBN3FGUXJZWTcxR3U0N0J3ZDlaSzZHT1dLbFdJdHg0cTB2QkpfTk9qMEZpNG11MXBUeWJrNHY1Xzh3TkVTc2dtOTU5azNSczA1WWxLOGUyNWh4T1dWODJjLWFYekxpVEYzMXVtZ1FJTFVNU1J6RnFFZjBqdnR3V1RtZy11c1NnNVl5Si03aXU?oc=5"
+        },
+        {
+          "title": "Eicher Motors Share Price Live Updates: Eicher Motors Bonus Updates",
+          "source": "Economic Times",
+          "published": "26 Nov 2026, 10:05 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-today-live-26-nov-2026/liveblog/136178686.cms"
+        },
+        {
           "title": "Eicher Motors shares hit 52-week high on Royal Enfield’s Rs 1,000-cr investment plan; Emkay says...",
           "source": "Moneycontrol.com",
           "published": "25 Nov 2026, 05:39 PM IST",
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPNHF1UTY4MXFTX2dLM2JiQ1BtZ3ZmamdieHE4Vk9tUV9wWGhJeXVwa3EtY2xIb0UxejRGaHdkQ3dabEVxVXNUSDdETzg5bk9rdlpuakhCT252TDBQQ205OUUxS2d1eVpVZURRT3NXcXlJX1R2Sk12eG85RnBTU0pOVmJqaXJURlJ5VV9mSU95UDRPc2x5cmk1aDJoaXp1MjFyUVBhNHVHU29yWk9YMVVObjhJaXJ5VDdBT29lLUZJdVdHY2JmcXNEaDktdU1uT2VjRWJtVjBZQ0l1MW8waUcxN1p5TkVHQUFlTU9kOUFHWWsyNUhHMUdGZHV1NU1IMFFOWVBuQkE4WEVKdmNaUHpkSE130gGXAkFVX3lxTE1CbjI4MVgwV2FFNkVLQTIwM3VWcXBXUjNKM1UwbUlEUGU3bTlWRWZISU4zRUJDSWszaUhCWTl3SlF6bjduMG5sX3FVVHM0QU1Xc2JzWk1GOVJnbWdaS21qMWt6Vnl3cTVBcDNrSFlxWE9KRWhhWVhjTzZGNjAyOV85YUItNHRBQVJtRlF1Q2w5aHBjSC1kaHEzcFlobXRVVndwekpMcm5ZSTRlb0diLXU0eXR5YW94U0V2OWMwLTd1d1Q2T3VOLS1UQndWaEZfYjNwbEMxb3hkb0ZabWhWSm0xTTlXekE4V2F3Um42RVZPNE1fRGVYc2JvcGdwUkxWOUpxY1dIZ1FMM0JvOVI3ejhQQVFIX29taw?oc=5"
+        },
+        {
+          "title": "Royal Enfield to invest Rs 1,000 crore in Tamil Nadu to expand EV operations",
+          "source": "Moneycontrol.com",
+          "published": "25 Nov 2026, 04:22 PM IST",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaFRHaUVRLS1JWDhKT0VNTVpGejZNUDktXzlPdjlDWjZHbVVIQ1BndEhGVjFsaG9QTDIwdTU1cnpYWWNLNzM5b0VuWngxVFY4S2IwNWxvVEpDaU5aeVdQZFpKX2NhblBQWDZtUEp1MW96S1Jzd0NhUS1YMTZud0hNNm5ZUFpqS2ZJUUdvTHh0QjdLQ0ZKTnY2RDBXUXJwUUYtX0NYWG9EVEh6S09fSjBpYlJSSjE3aTJjODBqS016Ylp4WnpOWWJnQ09fM0duNjQycDRUc9IB2gFBVV95cUxPQ3ZMTFdzcENselR4dTRiXzRkYktmcmdIWElYVFVHbnhCMThUVy1yTzZKbTMyMmtBZ2VQSC1ndF9JczlMMXN5aE9OVXBXZmNnMFA5NFVpNkI5eDJEQ2lHNGEydnpUQ1h0b1VZeE1WWWNtZ2tEU1ZCRUhnLXNVNzllNjZoRXdUdWR4TXMxdnRXRzhmX1UtMTFXQm9kWGFoLWxJeGNKOVRhMGNPYW04OHd1MzdIUzBuZWttcnJBeE1Ud2dPLWpBZTRQbndrSXhzRVZueldXUF8yME1MUQ?oc=5"
         },
         {
           "title": "Royal Enfield signs Rs 1,000 crore MoU with Tamil Nadu government for EV expansion",
@@ -193,7 +217,7 @@
         "high": 7093.0,
         "low": 6920.0,
         "intraday_range_pct": 2.49,
-        "volume": 44688,
+        "volume": 44687,
         "avg_volume_20d": 57047,
         "volume_vs_avg": 0.78,
         "volatility_20d_annualised_pct": 50.95,
@@ -226,7 +250,7 @@
         "high": 85.82,
         "low": 83.8,
         "intraday_range_pct": 2.35,
-        "volume": 5997,
+        "volume": 5996,
         "avg_volume_20d": 23343,
         "volume_vs_avg": 0.26,
         "volatility_20d_annualised_pct": 44.25,
@@ -259,9 +283,9 @@
         "high": 1910.0,
         "low": 1868.2,
         "intraday_range_pct": 2.23,
-        "volume": 1507916,
+        "volume": 1495015,
         "avg_volume_20d": 3301044,
-        "volume_vs_avg": 0.46,
+        "volume_vs_avg": 0.45,
         "volatility_20d_annualised_pct": 37.75,
         "high_52w": 1979.2,
         "low_52w": 601.35,
@@ -311,9 +335,9 @@
         "high": 164.45,
         "low": 159.95,
         "intraday_range_pct": 2.81,
-        "volume": 10601717,
+        "volume": 10547085,
         "avg_volume_20d": 11714339,
-        "volume_vs_avg": 0.91,
+        "volume_vs_avg": 0.9,
         "volatility_20d_annualised_pct": 33.77,
         "high_52w": 177.2,
         "low_52w": 126.32,
@@ -329,12 +353,6 @@
           "source": "The Indian Express",
           "published": "26 Nov 2026, 01:14 PM IST",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmFpMWVCYlI2a0xkMkx6YV9OVS1hX0Q3MXVGNTQ5eTlMYlkySWJEV0NhZTFVbmV1MFN2UmFjcmR6OE9tZzk4S1FyTlNYVjhmUUswSmQyZW5faU9OUkNZaWtraFpRbEZOdXB1d0RyckpjZHp2bUpEV0JxZWUzQUEwTnVsckhYUVlFVkswN0Y0ZWI3WlF0azl5clhnbFZ4VWpqQ01Xckd0Y3ZfRE15R2c5M0s2enBxMzMweHhJeGpxS1RDSWJuaWZUMHJB0gHQAUFVX3lxTE1hczFNcFJqekZ2Z21lOTY3di1VNTUySFdoRW9uVGM1THUxRXhMOVBTNk5iWHM1UUVxbjJCZUhFa0RsZUo1UmRKUnB0Rm1KbFR4SWVieEJSQy1DaDRVeFhqa3JtM1pOc1I5UHFHMzBWZjdNUFp2empHeUt4Z3g3STlrMkVQQTB6RGlLLWhoaVJGRzZGOEdwUlFjYkxqZWJsend0X0xIam5fZFp0WWlxSW5EV0pBU19Xbk96UktPYUJHUHFOTEtPU2VBNmE1MzJ4b0Y?oc=5"
-        },
-        {
-          "title": "Trade Spotlight: How should you trade Coforge, Torrent Pharma, Siemens Energy, Union Bank of India,...",
-          "source": "Moneycontrol.com",
-          "published": "25 Nov 2026, 08:22 AM IST",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNdXJzTXB1TUxVaTZSVVBxOC1ZOEFRWlB4bHZDdnZqWUE2eG9NN0RSMXk1QkpvVG1UZm1Vam5IeVFMU1hiZzJaMllCVTdabHA4Y0M4MnIwSkFDbFRsdDd1bHV2SmEwQ0ItUjZmaXN3WHZrOV9TNVp3VjlCaDE5NkpwTDBpNzZOalFzR3hDbGFGNlhwOENlUXFiLVpFN0ZxVVcwbU5aN0I4MHQ3NFNLVVBIbEZmdUczZG5JLUdRX3VPTGFXVXFmTE40NFFrXzlyb01nTjFzTGgyejBoZXV0YU5oVDJ6d0NiN25SdjcwOGVqbjJXREREaEE1U1pLTy1mWVBBdGVfZGpiQmMtbC10VGVzTXdtNGo1d1VOTXJjZjJzMU9wazVTeWfSAasCQVVfeXFMUFpTM3NCb3RWbkJTWllZdjcxc29idnV2eU1kVF9qcm9Rbm9FLTNVY3BDeWQwaFd2YVBnY2kyMWJsX0hSYVhZQ0JVcHphQmNpYW9wSjlnQ1hIazR3MTFfOFVUR2tsYTBUNmhHNnlySFM0c2hibUR4MThNRUUzRnlUU2d0a1J3bXZnUFdfYkRHTENHR1VpV3g3c2xHQ3BCcEpYUDlSb28zOXBhVDVRMmcwVXdtTVJjOWJya2xjRUpKNm9tb1hZVUx6bENrMWxHUFcxdWI3VTZmSTBEVDF0UFZDLVYtdVR5UkM5d1V6NWlROVVMOG5oT1ppaFgwQW1LbEhGTlY5b01fV08tMDc2YXZqYXk1YUdkMGhxenNUaF9wOUVObnNCRW5GSnRtWDA?oc=5"
         },
         {
           "title": "Bank of India 500-day FD offers up to 7.65% interest: Check rates for senior citizens and other depositors",
@@ -375,7 +393,7 @@
         "high": 1410.0,
         "low": 1383.0,
         "intraday_range_pct": 1.93,
-        "volume": 4015699,
+        "volume": 4015698,
         "avg_volume_20d": 19241328,
         "volume_vs_avg": 0.21,
         "volatility_20d_annualised_pct": 13.57,
