@@ -2,7 +2,7 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 27 Nov 2026, 03:32 PM IST  |  **Market data as of:** 2026-11-27  |  **Start date:** 2026-10-16
+**Last updated:** 27 Nov 2026, 05:26 PM IST  |  **Market data as of:** 2026-11-27  |  **Start date:** 2026-10-16
 
 **Snapshot type:** End-of-day final snapshot
 
@@ -57,7 +57,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 27 Nov 2026, 03:32 PM IST)
+## Performance (as on 27 Nov 2026, 05:26 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -118,7 +118,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹13,765.00 | -1.78% | ₹13,700.00 - ₹14,060.00 | 400,583 | 744,709 | 0.54x | 38.89% | ₹11,170.00 - ₹17,292.00 |
+| ₹13,765.00 | -1.78% | ₹13,700.00 - ₹14,060.00 | 392,631 | 744,709 | 0.53x | 38.89% | ₹11,170.00 - ₹17,292.00 |
 
 **Research reports**
 
@@ -134,10 +134,7 @@ _▲ buy · ▼ sell_
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-livestock-price-today-live-updates-26-nov-2026/liveblog/136178767.cms) - _Economic Times, 26 Nov 2026, 10:06 AM IST_
-- [Tata Motors join Maruti Suzuki, Hyundai, Audi in announcing price hikes- How much will you pay from December?](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOGdlcXByeUNkazJHM3V6QUpIbnRWTm10cG9FSkVKNUlOb1pfc3BDeVJKWVdwT1RadWZMMkgwblpDSXduV3V6ZTVNb1piUHh4VDZpbEpPVk5hOWx4UjFvVzN5RFRicHNtZUtlVHlVU0NpVzBucXhfaDNoN2EtNy0tbXFBTWdCTWRnMDB2R21DbTB1WHEtSEpJLWxWbEZSajdPQ2xSd2lERzVRVlpjcWdjNzR0ZWR5NEZjLU8xb0ZPeTRmWThVLXp4WWJUdTVuSkZkMUx4QjZLeURrS3RwMk9KSlJnMDhuMDM1SlNGSHR6VHExd9IB9wFBVV95cUxOS0lhLW9zS01EUHB3ZjdlcHFsd2hfTzdsRWNJUlU4TDRVYUV6a2hUNlhPSTZLM0hGOXVvMEpla0s4NXhFVHJVMTROLTRIa1hQdnRBN0o4ZGRyM213MGxQWUw5WU5NVlVrS280UW1obU9VMzRHX3NqN2NFTjdjRFI1MnRNcV9aVS1Ddy1SSDdiQzVJZ3Q2WW5LVmFVTWJWN09pV3RrNDZkN2FWNkc3bVNWYjEzRWJTS3QzQVBJNUxPNUtFTmpGSWVyeFhfNWhGd3JFcHliYjhfWjlWRkV3c1hoTk5lYVZmbjVhaU95NEFMZlphSnIyZThJ?oc=5) - _Livemint, 25 Nov 2026, 05:57 PM IST_
-- [Maruti Fronx facelift spotted with new cabin features, updated engine, safety upgrades: What buyers can expect](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc2dQUW9JcVhyNTUzQm5YTDN4QUgycXBpUWxqQk1reWd0cmo3MHZFcjUzc3BEMUp1dEE5WTFNYlBrTWdaNEhwRFVSYzVaeWhvUkh4T2w4cVFOUFFYNlVLSXFkUDVMNHpORE5TWkt1NXU2TzhqT0ZQX2F4ektCNy1ieXJUcnBIdjVuOGVuRjFfeGhtWUNBd2V0U0hvVEdJQXdmd1g1RlY4b2J4cXltWURYSzhOc3k4NkYxODRSbXVNVHRTTG5KWjU0LTBNUC1OQk1Zc3BJWndEZDByYmZPNkk4VE5OZnFRR3R0R1pxLXBRakxRUWpF0gH6AUFVX3lxTFB6a0dMUXFKR2lzUjdzWE9VbDE1NnVTLTJ6cE94TU52cHRJcURobVNGNklrVmZST042UHJhN2pxX3BITFZMS1JoY3AyMzVkYVVpQ3VCY2ZzWEk5T1VCVFJfXy1EZDNmMjVvWTFJYkx0MmoyU1VMLTlQa3hQQzMwNEM0LTBKUVZKWEJzU3ZFUzdvS09UUEQ5OHpqaUg4M0ZWanl2RkpGMnYwc1VQeklGeldScU5BTW5MRzR2bHFWQ09vaExPbk1UM2RrR2MxUVdLZXFUa0Q4enF4ZVBqMHFfNUoybTQ1TkZaclpOemxlanlxa1ZKNmNlU0NZa3c?oc=5) - _Livemint, 25 Nov 2026, 10:46 AM IST_
 - [Tata Motors, Audi India raise vehicle prices following Maruti Suzuki's move](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMllSME5UU1UxTTFJZFZ3X3U5THcyQnY4UjE1cjJpU2NXTlBGMlNzNUJTSlNSRWRraWh6cXgyWWF4bENLNExXV3ZOZ0ZINWM1Q0lMb0hoUXg1UmZLb2Z3LVBpOXJRbmtUdXZRdHdweEZHdmIxekV6Qy1Oc0o5SHpVeHdWazVLUm1tWW5ZUHRmRDg1WUtzeU5WNGh6M3pLT1cxZ0ExankyeDZfZ3ZxVjBYd0dMbDlDRDZ5V3oweGlud19aRzc3T1M0dWpZS09MZXU0VFg2aGt0LUtFenfSAeABQVVfeXFMTUhXdEtDS1AtVkRFV2RpUUQ1WUVsS3ZTQ1NNdHBDSXQ1eF9QZzBlcE9VVkUtRWJqYVZVQUVmcDdvZlhOVl91TVpBRGQtMzREWld3ckZfM3N6MURvOUx4RFg2ekhNb2oxUDNhbVlWc2VCT0FjRlVSSGVjbXF5Mmh2bHlmaTFDZmhsQ1czY0htU3k1S0ZKMm9OTTZJaGtWMFphZXVGWENKTy1SZ0wycjR3bjVoQVNBUlJ4Y2JlaUhBVng2MWRnZmpHSzRkdkJ3X2NDOFQ1LWFUemhvazZhRWpLR0U?oc=5) - _Business Standard, 24 Nov 2026, 07:57 PM IST_
-- [Rising input costs drive Tata Motors, Hyundai, Audi and Maruti to raise vehicle prices](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUxHR1NRYWFzOXVqbUNYV0xlZS1qYXlQOVNINlBmczRrWnFJS3VHR3d4Qk02MmlBRzBzY080V29NRk9TNUc3WWVNZEdDaVVUZV9kUTFualRmV1hEVFpDTFB2dzd6bEdWSFlNaDRxYlExMVJxVlh6M2w4c0QwVkFmVGc2V3hXUmxyUV9CVTRjQ1l1MHVtM1FWckhoSlRHaWgtTlpyUEhvNkplUm9QTzVlRUVRNncwV24xTFV4MW51V3k0ZUkwRm40VGc4M2RRT1NraGxvWENqdUxxY1ZuNVBUY9IB5wFBVV95cUxPM3Q2X3JBMnFjNDdsdE9GblVWT2VYejBETFJNOG92Si1ueUVsOWRvajF5S25qQlZ2a0tmYXQtcXJyRERoRVdqN2FYLWtxck5IempkUG9aTGh6c0JBY1Q3VGdnR3hSU2xNZnFZYUNCSkVDVF9BV3BBOElaWW9qREhQb0VOaU5wR2ZiMk03MkJFM2RIa04ydUxBdW9LYUlGWDhobUhDRGs3ejQyekx6MHAxVTFWTU1LQ0czU0xrWVdMdkdMZC1Bd0JkaTFMdEd3S0FlMGg5MFBpUjBaU3FsajRnOGVmQmdvMUU?oc=5) - _The Hindu, 24 Nov 2026, 07:32 PM IST_
 
 </details>
 
@@ -151,7 +148,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹151.42 | -3.03% | ₹149.21 - ₹156.50 | 36,864,007 | 24,004,701 | 1.54x | 49.24% | ₹138.58 - ₹211.92 |
+| ₹151.42 | -3.03% | ₹149.21 - ₹156.50 | 36,590,742 | 24,004,701 | 1.52x | 49.24% | ₹138.58 - ₹211.92 |
 
 **Research reports**
 
@@ -181,7 +178,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹8,003.50 | -2.16% | ₹8,003.50 - ₹8,180.50 | 449,669 | 625,488 | 0.72x | 30.85% | ₹6,586.00 - ₹8,336.00 |
+| ₹8,003.50 | -2.16% | ₹8,003.50 - ₹8,180.50 | 441,434 | 625,488 | 0.71x | 30.85% | ₹6,586.00 - ₹8,336.00 |
 
 **Research reports**
 
@@ -214,7 +211,7 @@ _▲ buy · ▼ sell_
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹6,983.00 | -0.22% | ₹6,932.00 - ₹7,077.00 | 21,578 | 58,377 | 0.37x | 51.14% | ₹5,632.50 - ₹7,847.50 |
+| ₹6,983.00 | -0.22% | ₹6,932.00 - ₹7,077.00 | 21,573 | 58,377 | 0.37x | 51.14% | ₹5,632.50 - ₹7,847.50 |
 
 **Research reports**
 
@@ -242,7 +239,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹84.92 | +0.63% | ₹84.00 - ₹85.80 | 4,282 | 17,620 | 0.24x | 43.73% | ₹76.41 - ₹123.36 |
+| ₹84.92 | +0.63% | ₹84.00 - ₹85.80 | 4,281 | 17,620 | 0.24x | 43.73% | ₹76.41 - ₹123.36 |
 
 **Research reports**
 
@@ -270,7 +267,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,888.40 | -0.92% | ₹1,881.00 - ₹1,914.90 | 1,104,742 | 2,724,729 | 0.41x | 37.42% | ₹601.35 - ₹1,979.20 |
+| ₹1,888.40 | -0.92% | ₹1,881.00 - ₹1,914.90 | 1,093,252 | 2,724,729 | 0.4x | 37.42% | ₹601.35 - ₹1,979.20 |
 
 **Research reports**
 
@@ -299,7 +296,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹162.50 | +1.38% | ₹160.00 - ₹168.98 | 25,828,104 | 11,491,415 | 2.25x | 33.77% | ₹126.32 - ₹177.20 |
+| ₹162.50 | +1.38% | ₹160.00 - ₹168.98 | 25,775,987 | 11,491,415 | 2.24x | 33.77% | ₹126.32 - ₹177.20 |
 
 **Research reports**
 
@@ -313,7 +310,9 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Student ‘loses’ MSc year over delayed loan, Bank of India told to pay Rs 70,000](https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmFpMWVCYlI2a0xkMkx6YV9OVS1hX0Q3MXVGNTQ5eTlMYlkySWJEV0NhZTFVbmV1MFN2UmFjcmR6OE9tZzk4S1FyTlNYVjhmUUswSmQyZW5faU9OUkNZaWtraFpRbEZOdXB1d0RyckpjZHp2bUpEV0JxZWUzQUEwTnVsckhYUVlFVkswN0Y0ZWI3WlF0azl5clhnbFZ4VWpqQ01Xckd0Y3ZfRE15R2c5M0s2enBxMzMweHhJeGpxS1RDSWJuaWZUMHJB0gHQAUFVX3lxTE1hczFNcFJqekZ2Z21lOTY3di1VNTUySFdoRW9uVGM1THUxRXhMOVBTNk5iWHM1UUVxbjJCZUhFa0RsZUo1UmRKUnB0Rm1KbFR4SWVieEJSQy1DaDRVeFhqa3JtM1pOc1I5UHFHMzBWZjdNUFp2empHeUt4Z3g3STlrMkVQQTB6RGlLLWhoaVJGRzZGOEdwUlFjYkxqZWJsend0X0xIam5fZFp0WWlxSW5EV0pBU19Xbk96UktPYUJHUHFOTEtPU2VBNmE1MzJ4b0Y?oc=5) - _The Indian Express, 26 Nov 2026, 01:14 PM IST_
+- [The Reserve Bank of India has luck on its side—here's why](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEVsSHBSVWxDM21kYk1nU1luMWdYRl85VHhYRjBHYlFuZzBSQXlvTTZXck9vV3dZMDdwb1dyZzdIeVVDUnBYbDFLcTlZeV9qOVpiOUZwS0tXaGNCaWdOeUt5b0ZSdkdFNHVCR0ZxOWdaMy1UbDRTRUhzMFE5VVA5YUxyMWU1UkNqbjVkUjl5TFRBWTM2OS1nV1c5akxHQnFoYmg2NWZmOVp2S2hCdjR1aFBzUEVVQjNyMUJiQUpfONIBxAFBVV95cUxOQWp6aFF5WGFmMktFSmVhQlRUbC03Q2JEZ09nbEZ4Y3ktNHlqeFpjbi1INzEzc0dLc3BSUmJVR3NOZEV2aHpuZVdBV1FIdHdqbk5fWUlsM3ZUdzhPS0VOdzlzeFByZmlLSFpXWTNlZFBCckhVd0NIRjNKTmRHdEFmZU5YYW84NVZ1SFJPUE03bW9TSzNLYVBnaWw5QUUxV1JlR1BPTEtMN1VmNWsza21lRkJSUDVZalE1ck5oQm9FZUY1bEQ1?oc=5) - _Livemint, 26 Nov 2026, 04:00 PM IST_
+- [State Bank of India hires 1,540 Junior Associates to fill backlog vacancies and improve customer service](https://news.google.com/rss/articles/CBMiigJBVV95cUxObmlaUlFnZXFMSWRUV0FWTkI1NENiVGZTSGV5VzlDZlNEVlhTX2w0VkFydW90eWpMYk9pd0wyeTM4UGhTZjlQanVVcGVLTWR3VkJtOUhCazdSU1ZmOUxMdjBTbzM5aWxSdlNoNW94RHc4eEJhWUVoOHYxUF81SHhVUmtYVzZyeGVHLXFZZ3RHXzl3VmdmdTdObFJsRC05bkgyeGd2RFEtRnV2YnVodkZ5Wk83OFZQZjBwbzhkbHBNQkJBcDZnTXVsNk1URmtXam9sdGhWdU5EelUybFNpNVFxRkxxZFlCeUxzRVdJNXFqQ1M4OHFlT3hhWnBXdWk3NTAwdldCbUZ0bGFGQdIBjwJBVV95cUxQV080ZjVidjJEWDZ3c2xZeWhPdzJWWlJhTnZnZmkxTGhRaU9Cc0I4SEV2WEZ5OU1TbDlfamVLTFhrNm42RDRua3FGX3BzRHg1TDkybm50WmdPS00zdjNmVUNjckJWZi05VE9IV2p2WldsUl9WRTNuSE1MaHlEa3c1eUhnRVFUclJ3YjdTbGF0S2l4c1RFWk1aSjFCTzVJS2pDOFlYcHJrSWpYOWY3RWhxQWpqX2YweWZlRXFpWWZyVTVITDRSZ3RnX0J0VmxfMGNWVmdrWW94djJHSTQwd2VST2NKQWVLYTZVUzJudzNpV2w3cU1yVUJjTW5fejZIbFFwb25FRnRZVlNubDdMOEc0?oc=5) - _The Economic Times, 26 Nov 2026, 03:33 PM IST_
+- [Bank of India 500-day FD offers up to 7.65% interest: Check rates for senior citizens and other depositors](https://news.google.com/rss/articles/CBMiggJBVV95cUxOUkdrLWhfaEFYZlliR0hTWXJpN2ZET0duUWktOElwR0FLc1FNeXVRcWExemtCTnZtVEJnazcwZ0t3UDVrdHN6MS1tSWtZY1dSYk0tM2VOc08wdnNBdmloVFJzQmpEekZaRmtmbE5qbi11cFNCWDlVTGFFTUJLbGt1dGt1N21NTDhmb0VVS2gtRU1MRVl5YXg4dkpzcjY1UlpJbjJDNzBmRmJDb21fQkEyT0FjcHIzLXV3VkZ5aDFsd09HWmJOVWNMNThTSmZqdHRFTlVtTlNLNDAyTnJEaXdSNENWUTllbmVOb1pWYW53R1lLVS0yWkNDeEhOU2FNMHNrSFHSAYcCQVVfeXFMTnZDWFR0TUxvb09aWVVfUDl1TmpIMGpmTG9ZOElYLXB3VHRhaDctTm9mcFlFNnBjclhMaGhSYXo4Rno0S0xvQnNGeFRvOTFYSTZSbHc0ajZJMEFEQnZwckJmc0R3cXVLNGFXckV4T3l1ZzdMWnBRNTlXTUUtT29kRWNSZHlaaUN3UFZ2YU5ZaHNEMDZYTDVYdF9pVE14Zm5oTW51cFltNjQyNWYyODVya211aGY4ZXh0ZVctVFBTQ08wQ2pfZnVFd3VUYkpCZEVHRUcwaGhacE9sY0syNFM5SUFIVkFLTzZzb01HOTZXTjVyRjdrU09VZHBOUTJFZEJJQnhIZDNBRFU?oc=5) - _Livemint, 24 Nov 2026, 05:27 PM IST_
 
 </details>
 
@@ -327,7 +326,7 @@ _Research report coming soon._
 
 | Close | Day change | Day range | Volume | 20d avg volume | Volume vs 20d avg | 20d volatility (ann.) | 52w range |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| ₹1,371.40 | -1.00% | ₹1,366.10 - ₹1,391.50 | 10,534,828 | 18,480,508 | 0.57x | 13.57% | ₹1,369.10 - ₹1,437.40 |
+| ₹1,371.40 | -1.00% | ₹1,366.10 - ₹1,391.50 | 10,534,825 | 18,480,508 | 0.57x | 13.57% | ₹1,369.10 - ₹1,437.40 |
 
 **Research reports**
 
