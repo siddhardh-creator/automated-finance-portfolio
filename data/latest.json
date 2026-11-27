@@ -1,7 +1,7 @@
 {
-  "generated_at_ist": "27 Nov 2026, 05:26 PM IST",
+  "generated_at_ist": "27 Nov 2026, 07:01 PM IST",
   "as_of": "2026-11-27",
-  "snapshot_type": "End-of-day final snapshot",
+  "snapshot_type": "Live intraday snapshot",
   "base_date": "2026-10-16",
   "portfolio": {
     "capital": 24598730.0,
@@ -59,8 +59,8 @@
         {
           "title": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History",
           "source": "Economic Times",
-          "published": "26 Nov 2026, 10:06 AM IST",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-livestock-price-today-live-updates-26-nov-2026/liveblog/136178767.cms"
+          "published": "27 Nov 2026, 10:04 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-27-nov-2026/liveblog/136209156.cms"
         },
         {
           "title": "Tata Motors, Audi India raise vehicle prices following Maruti Suzuki's move",
@@ -102,12 +102,6 @@
         "pnl_pct": 2.5
       },
       "news": [
-        {
-          "title": "Ashok Leyland turns to Bengal for manufacturing expansion: What is the company planning to make in Singur? Details here",
-          "source": "Livemint",
-          "published": "24 Nov 2026, 06:34 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV0lsT3RIMUpGa3FIYkQ2cTdQdFFaVThKa2dTY1pQRHlXZzJkZDdFYk9oRGZiWUFxZGhLV0UtZ2VuZnVYOUxrcE85VFN4c3hEcXl4ck9ncG5IMUVvVFBXUi1MR2ZWSHNDQzkzd0R2dUxkeTFtakNEQU1tU2pHYnI1WHFhMWJWd2NkLWM5R0tvY01CM3ozTGgwcVdFOGtobE94cEFWaDc3M3lyZGNlOFNNTjZvY0tYaGVpZ2pSM1huRVg1dG5IUWZYX0RJSmtBRUZlRVYyLVk1NW1FMzlWSlVNNENHXzA3dGpadmwzRVE3Wk0xdEVhZDVaM1BRX0gwMllXRnM5RmlTVm7SAY4CQVVfeXFMT0J6cmJaV1ZEYmpOTVFZVnhzV3NnNDZPcHpyREdhUFR1VnZZdGx2NmJtVnVJdlltNGdNOGdxM0R4N3hzNmhRTXRWamRJN1AzX3BFbjYxU3kxVkZBOTlVZ050Qk5OWVFuVFhTSGVFOGNvaXJhLVFFSHBoTzZFallSWGxESW5EV1p5dTN3STZQS2xKQ3lzVzVDeGlXMlJlS1E2a0hNTEV3UDJQazBicFVHOVBrVmdIWllXbjdfYnlxbXpfZXZERXR4Q0FlTW5NZkJ4N3J1bDZDbmtyY1lta1UyR1dwMjVQX0xJajRLZ3ItazFtU0dTTjJmNlV6N1hIdkNnNlMtdkphZW1xaGdleUZ3?oc=5"
-        },
         {
           "title": "Ashok Leyland Celebrates Milestone Delivery of 1,000+ Vehicles to Thriveni Transport and Logistics",
           "source": "Ashok Leyland (official newsroom)",
@@ -329,18 +323,6 @@
           "source": "Livemint",
           "published": "26 Nov 2026, 04:00 PM IST",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEVsSHBSVWxDM21kYk1nU1luMWdYRl85VHhYRjBHYlFuZzBSQXlvTTZXck9vV3dZMDdwb1dyZzdIeVVDUnBYbDFLcTlZeV9qOVpiOUZwS0tXaGNCaWdOeUt5b0ZSdkdFNHVCR0ZxOWdaMy1UbDRTRUhzMFE5VVA5YUxyMWU1UkNqbjVkUjl5TFRBWTM2OS1nV1c5akxHQnFoYmg2NWZmOVp2S2hCdjR1aFBzUEVVQjNyMUJiQUpfONIBxAFBVV95cUxOQWp6aFF5WGFmMktFSmVhQlRUbC03Q2JEZ09nbEZ4Y3ktNHlqeFpjbi1INzEzc0dLc3BSUmJVR3NOZEV2aHpuZVdBV1FIdHdqbk5fWUlsM3ZUdzhPS0VOdzlzeFByZmlLSFpXWTNlZFBCckhVd0NIRjNKTmRHdEFmZU5YYW84NVZ1SFJPUE03bW9TSzNLYVBnaWw5QUUxV1JlR1BPTEtMN1VmNWsza21lRkJSUDVZalE1ck5oQm9FZUY1bEQ1?oc=5"
-        },
-        {
-          "title": "State Bank of India hires 1,540 Junior Associates to fill backlog vacancies and improve customer service",
-          "source": "The Economic Times",
-          "published": "26 Nov 2026, 03:33 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObmlaUlFnZXFMSWRUV0FWTkI1NENiVGZTSGV5VzlDZlNEVlhTX2w0VkFydW90eWpMYk9pd0wyeTM4UGhTZjlQanVVcGVLTWR3VkJtOUhCazdSU1ZmOUxMdjBTbzM5aWxSdlNoNW94RHc4eEJhWUVoOHYxUF81SHhVUmtYVzZyeGVHLXFZZ3RHXzl3VmdmdTdObFJsRC05bkgyeGd2RFEtRnV2YnVodkZ5Wk83OFZQZjBwbzhkbHBNQkJBcDZnTXVsNk1URmtXam9sdGhWdU5EelUybFNpNVFxRkxxZFlCeUxzRVdJNXFqQ1M4OHFlT3hhWnBXdWk3NTAwdldCbUZ0bGFGQdIBjwJBVV95cUxQV080ZjVidjJEWDZ3c2xZeWhPdzJWWlJhTnZnZmkxTGhRaU9Cc0I4SEV2WEZ5OU1TbDlfamVLTFhrNm42RDRua3FGX3BzRHg1TDkybm50WmdPS00zdjNmVUNjckJWZi05VE9IV2p2WldsUl9WRTNuSE1MaHlEa3c1eUhnRVFUclJ3YjdTbGF0S2l4c1RFWk1aSjFCTzVJS2pDOFlYcHJrSWpYOWY3RWhxQWpqX2YweWZlRXFpWWZyVTVITDRSZ3RnX0J0VmxfMGNWVmdrWW94djJHSTQwd2VST2NKQWVLYTZVUzJudzNpV2w3cU1yVUJjTW5fejZIbFFwb25FRnRZVlNubDdMOEc0?oc=5"
-        },
-        {
-          "title": "Bank of India 500-day FD offers up to 7.65% interest: Check rates for senior citizens and other depositors",
-          "source": "Livemint",
-          "published": "24 Nov 2026, 05:27 PM IST",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUkdrLWhfaEFYZlliR0hTWXJpN2ZET0duUWktOElwR0FLc1FNeXVRcWExemtCTnZtVEJnazcwZ0t3UDVrdHN6MS1tSWtZY1dSYk0tM2VOc08wdnNBdmloVFJzQmpEekZaRmtmbE5qbi11cFNCWDlVTGFFTUJLbGt1dGt1N21NTDhmb0VVS2gtRU1MRVl5YXg4dkpzcjY1UlpJbjJDNzBmRmJDb21fQkEyT0FjcHIzLXV3VkZ5aDFsd09HWmJOVWNMNThTSmZqdHRFTlVtTlNLNDAyTnJEaXdSNENWUTllbmVOb1pWYW53R1lLVS0yWkNDeEhOU2FNMHNrSFHSAYcCQVVfeXFMTnZDWFR0TUxvb09aWVVfUDl1TmpIMGpmTG9ZOElYLXB3VHRhaDctTm9mcFlFNnBjclhMaGhSYXo4Rno0S0xvQnNGeFRvOTFYSTZSbHc0ajZJMEFEQnZwckJmc0R3cXVLNGFXckV4T3l1ZzdMWnBRNTlXTUUtT29kRWNSZHlaaUN3UFZ2YU5ZaHNEMDZYTDVYdF9pVE14Zm5oTW51cFltNjQyNWYyODVya211aGY4ZXh0ZVctVFBTQ08wQ2pfZnVFd3VUYkpCZEVHRUcwaGhacE9sY0syNFM5SUFIVkFLTzZzb01HOTZXTjVyRjdrU09VZHBOUTJFZEJJQnhIZDNBRFU?oc=5"
         }
       ],
       "announcements": [],
@@ -376,6 +358,12 @@
         "pnl_pct": -4.71
       },
       "news": [
+        {
+          "title": "Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History",
+          "source": "Economic Times",
+          "published": "27 Nov 2026, 10:03 AM IST",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-27-nov-2026/liveblog/136209083.cms"
+        },
         {
           "title": "Reliance enters India's growing digital astrology market with JioAstro",
           "source": "Business Standard",

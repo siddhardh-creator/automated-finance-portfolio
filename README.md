@@ -2,9 +2,11 @@
 
 > This is a **virtual (paper) portfolio built for learning and skill demonstration**. It is **not investment advice** and not a recommendation to buy, sell or hold any security.
 
-**Last updated:** 27 Nov 2026, 05:26 PM IST  |  **Market data as of:** 2026-11-27  |  **Start date:** 2026-10-16
+**Last updated:** 27 Nov 2026, 07:01 PM IST  |  **Market data as of:** 2026-11-27  |  **Start date:** 2026-10-16
 
-**Snapshot type:** End-of-day final snapshot
+**Snapshot type:** Live intraday snapshot
+
+_Live snapshot: today's session is still in progress, so volume is partial and "Volume vs 20d avg" will look low. The final end-of-day snapshot is published at 5:45 PM IST._
 
 **Jump to:** [Summary](#portfolio-summary) · [Holdings](#holdings) · [Allocation](#allocation) · [Performance](#performance) · [Trade book](#trade-book) · [Companies](#company-deep-dives) · [Method](#how-this-works--data-sources)
 
@@ -31,14 +33,14 @@ _▲ buy · ▼ sell_
 
 | Stock | Shares | Buy price | Current price | Today's close | Prev close | Day | Value | Weight | P&L | P&L % |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Maruti Suzuki | 290 | ₹11,489.00 | ₹13,765.00 | ₹13,765.00 | ₹14,015.00 | -1.78% | ₹39,91,850 | 15.2% | ₹6,60,040 | +19.81% |
-| Ashok Leyland | 1,000 | ₹147.72 | ₹151.42 | ₹151.42 | ₹156.15 | -3.03% | ₹1,51,420 | 0.6% | ₹3,700 | +2.50% |
-| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,003.50 | ₹8,003.50 | ₹8,180.00 | -2.16% | ₹80,03,500 | 30.4% | ₹7,37,500 | +10.15% |
-| Linde India | 500 | ₹5,961.00 | ₹6,983.00 | ₹6,983.00 | ₹6,998.50 | -0.22% | ₹34,91,500 | 13.3% | ₹5,11,000 | +17.14% |
-| Linc Ltd | 1,000 | ₹85.00 | ₹84.92 | ₹84.92 | ₹84.39 | +0.63% | ₹84,920 | 0.3% | -₹80 | -0.09% |
-| Ather Energy | 1,000 | ₹1,677.20 | ₹1,888.40 | ₹1,888.40 | ₹1,906.00 | -0.92% | ₹18,88,400 | 7.2% | ₹2,11,200 | +12.59% |
-| Bank of India | 1,000 | ₹131.33 | ₹162.50 | ₹162.50 | ₹160.29 | +1.38% | ₹1,62,500 | 0.6% | ₹31,170 | +23.73% |
-| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,371.40 | ₹1,371.40 | ₹1,385.30 | -1.00% | ₹13,71,400 | 5.2% | -₹67,800 | -4.71% |
+| Maruti Suzuki | 290 | ₹11,489.00 | ₹13,765.00 | - | ₹14,015.00 | -1.78% | ₹39,91,850 | 15.2% | ₹6,60,040 | +19.81% |
+| Ashok Leyland | 1,000 | ₹147.72 | ₹151.42 | - | ₹156.15 | -3.03% | ₹1,51,420 | 0.6% | ₹3,700 | +2.50% |
+| Eicher Motors | 1,000 | ₹7,266.00 | ₹8,003.50 | - | ₹8,180.00 | -2.16% | ₹80,03,500 | 30.4% | ₹7,37,500 | +10.15% |
+| Linde India | 500 | ₹5,961.00 | ₹6,983.00 | - | ₹6,998.50 | -0.22% | ₹34,91,500 | 13.3% | ₹5,11,000 | +17.14% |
+| Linc Ltd | 1,000 | ₹85.00 | ₹84.92 | - | ₹84.39 | +0.63% | ₹84,920 | 0.3% | -₹80 | -0.09% |
+| Ather Energy | 1,000 | ₹1,677.20 | ₹1,888.40 | - | ₹1,906.00 | -0.92% | ₹18,88,400 | 7.2% | ₹2,11,200 | +12.59% |
+| Bank of India | 1,000 | ₹131.33 | ₹162.50 | - | ₹160.29 | +1.38% | ₹1,62,500 | 0.6% | ₹31,170 | +23.73% |
+| Jio Platforms | 1,000 | ₹1,439.20 | ₹1,371.40 | - | ₹1,385.30 | -1.00% | ₹13,71,400 | 5.2% | -₹67,800 | -4.71% |
 
 **Best since buy:** Bank of India (+23.73%)  ·  **Worst since buy:** Jio Platforms (-4.71%)  ·  **Biggest mover today:** Ashok Leyland (-3.03%)
 
@@ -57,7 +59,7 @@ _▲ buy · ▼ sell_
 
 <a name="performance"></a>
 
-## Performance (as on 27 Nov 2026, 05:26 PM IST)
+## Performance (as on 27 Nov 2026, 07:01 PM IST)
 
 ![Returns](charts/returns.png)
 
@@ -133,7 +135,7 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-livestock-price-today-live-updates-26-nov-2026/liveblog/136178767.cms) - _Economic Times, 26 Nov 2026, 10:06 AM IST_
+- [Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-27-nov-2026/liveblog/136209156.cms) - _Economic Times, 27 Nov 2026, 10:04 AM IST_
 - [Tata Motors, Audi India raise vehicle prices following Maruti Suzuki's move](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMllSME5UU1UxTTFJZFZ3X3U5THcyQnY4UjE1cjJpU2NXTlBGMlNzNUJTSlNSRWRraWh6cXgyWWF4bENLNExXV3ZOZ0ZINWM1Q0lMb0hoUXg1UmZLb2Z3LVBpOXJRbmtUdXZRdHdweEZHdmIxekV6Qy1Oc0o5SHpVeHdWazVLUm1tWW5ZUHRmRDg1WUtzeU5WNGh6M3pLT1cxZ0ExankyeDZfZ3ZxVjBYd0dMbDlDRDZ5V3oweGlud19aRzc3T1M0dWpZS09MZXU0VFg2aGt0LUtFenfSAeABQVVfeXFMTUhXdEtDS1AtVkRFV2RpUUQ1WUVsS3ZTQ1NNdHBDSXQ1eF9QZzBlcE9VVkUtRWJqYVZVQUVmcDdvZlhOVl91TVpBRGQtMzREWld3ckZfM3N6MURvOUx4RFg2ekhNb2oxUDNhbVlWc2VCT0FjRlVSSGVjbXF5Mmh2bHlmaTFDZmhsQ1czY0htU3k1S0ZKMm9OTTZJaGtWMFphZXVGWENKTy1SZ0wycjR3bjVoQVNBUlJ4Y2JlaUhBVng2MWRnZmpHSzRkdkJ3X2NDOFQ1LWFUemhvazZhRWpLR0U?oc=5) - _Business Standard, 24 Nov 2026, 07:57 PM IST_
 
 </details>
@@ -163,7 +165,6 @@ _▲ buy · ▼ sell_
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
-- [Ashok Leyland turns to Bengal for manufacturing expansion: What is the company planning to make in Singur? Details here](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV0lsT3RIMUpGa3FIYkQ2cTdQdFFaVThKa2dTY1pQRHlXZzJkZDdFYk9oRGZiWUFxZGhLV0UtZ2VuZnVYOUxrcE85VFN4c3hEcXl4ck9ncG5IMUVvVFBXUi1MR2ZWSHNDQzkzd0R2dUxkeTFtakNEQU1tU2pHYnI1WHFhMWJWd2NkLWM5R0tvY01CM3ozTGgwcVdFOGtobE94cEFWaDc3M3lyZGNlOFNNTjZvY0tYaGVpZ2pSM1huRVg1dG5IUWZYX0RJSmtBRUZlRVYyLVk1NW1FMzlWSlVNNENHXzA3dGpadmwzRVE3Wk0xdEVhZDVaM1BRX0gwMllXRnM5RmlTVm7SAY4CQVVfeXFMT0J6cmJaV1ZEYmpOTVFZVnhzV3NnNDZPcHpyREdhUFR1VnZZdGx2NmJtVnVJdlltNGdNOGdxM0R4N3hzNmhRTXRWamRJN1AzX3BFbjYxU3kxVkZBOTlVZ050Qk5OWVFuVFhTSGVFOGNvaXJhLVFFSHBoTzZFallSWGxESW5EV1p5dTN3STZQS2xKQ3lzVzVDeGlXMlJlS1E2a0hNTEV3UDJQazBicFVHOVBrVmdIWllXbjdfYnlxbXpfZXZERXR4Q0FlTW5NZkJ4N3J1bDZDbmtyY1lta1UyR1dwMjVQX0xJajRLZ3ItazFtU0dTTjJmNlV6N1hIdkNnNlMtdkphZW1xaGdleUZ3?oc=5) - _Livemint, 24 Nov 2026, 06:34 PM IST_
 - [Ashok Leyland Celebrates Milestone Delivery of 1,000+ Vehicles to Thriveni Transport and Logistics](https://www.ashokleyland.com/in/pressrelease/ashok-leyland-celebrates-milestone-delivery-of-1000-vehicles-to-thriveni-transport-and-logistics) - _Ashok Leyland (official newsroom), 17 Nov 2026_
 
 </details>
@@ -311,8 +312,6 @@ _Research report coming soon._
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
 - [The Reserve Bank of India has luck on its side—here's why](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEVsSHBSVWxDM21kYk1nU1luMWdYRl85VHhYRjBHYlFuZzBSQXlvTTZXck9vV3dZMDdwb1dyZzdIeVVDUnBYbDFLcTlZeV9qOVpiOUZwS0tXaGNCaWdOeUt5b0ZSdkdFNHVCR0ZxOWdaMy1UbDRTRUhzMFE5VVA5YUxyMWU1UkNqbjVkUjl5TFRBWTM2OS1nV1c5akxHQnFoYmg2NWZmOVp2S2hCdjR1aFBzUEVVQjNyMUJiQUpfONIBxAFBVV95cUxOQWp6aFF5WGFmMktFSmVhQlRUbC03Q2JEZ09nbEZ4Y3ktNHlqeFpjbi1INzEzc0dLc3BSUmJVR3NOZEV2aHpuZVdBV1FIdHdqbk5fWUlsM3ZUdzhPS0VOdzlzeFByZmlLSFpXWTNlZFBCckhVd0NIRjNKTmRHdEFmZU5YYW84NVZ1SFJPUE03bW9TSzNLYVBnaWw5QUUxV1JlR1BPTEtMN1VmNWsza21lRkJSUDVZalE1ck5oQm9FZUY1bEQ1?oc=5) - _Livemint, 26 Nov 2026, 04:00 PM IST_
-- [State Bank of India hires 1,540 Junior Associates to fill backlog vacancies and improve customer service](https://news.google.com/rss/articles/CBMiigJBVV95cUxObmlaUlFnZXFMSWRUV0FWTkI1NENiVGZTSGV5VzlDZlNEVlhTX2w0VkFydW90eWpMYk9pd0wyeTM4UGhTZjlQanVVcGVLTWR3VkJtOUhCazdSU1ZmOUxMdjBTbzM5aWxSdlNoNW94RHc4eEJhWUVoOHYxUF81SHhVUmtYVzZyeGVHLXFZZ3RHXzl3VmdmdTdObFJsRC05bkgyeGd2RFEtRnV2YnVodkZ5Wk83OFZQZjBwbzhkbHBNQkJBcDZnTXVsNk1URmtXam9sdGhWdU5EelUybFNpNVFxRkxxZFlCeUxzRVdJNXFqQ1M4OHFlT3hhWnBXdWk3NTAwdldCbUZ0bGFGQdIBjwJBVV95cUxQV080ZjVidjJEWDZ3c2xZeWhPdzJWWlJhTnZnZmkxTGhRaU9Cc0I4SEV2WEZ5OU1TbDlfamVLTFhrNm42RDRua3FGX3BzRHg1TDkybm50WmdPS00zdjNmVUNjckJWZi05VE9IV2p2WldsUl9WRTNuSE1MaHlEa3c1eUhnRVFUclJ3YjdTbGF0S2l4c1RFWk1aSjFCTzVJS2pDOFlYcHJrSWpYOWY3RWhxQWpqX2YweWZlRXFpWWZyVTVITDRSZ3RnX0J0VmxfMGNWVmdrWW94djJHSTQwd2VST2NKQWVLYTZVUzJudzNpV2w3cU1yVUJjTW5fejZIbFFwb25FRnRZVlNubDdMOEc0?oc=5) - _The Economic Times, 26 Nov 2026, 03:33 PM IST_
-- [Bank of India 500-day FD offers up to 7.65% interest: Check rates for senior citizens and other depositors](https://news.google.com/rss/articles/CBMiggJBVV95cUxOUkdrLWhfaEFYZlliR0hTWXJpN2ZET0duUWktOElwR0FLc1FNeXVRcWExemtCTnZtVEJnazcwZ0t3UDVrdHN6MS1tSWtZY1dSYk0tM2VOc08wdnNBdmloVFJzQmpEekZaRmtmbE5qbi11cFNCWDlVTGFFTUJLbGt1dGt1N21NTDhmb0VVS2gtRU1MRVl5YXg4dkpzcjY1UlpJbjJDNzBmRmJDb21fQkEyT0FjcHIzLXV3VkZ5aDFsd09HWmJOVWNMNThTSmZqdHRFTlVtTlNLNDAyTnJEaXdSNENWUTllbmVOb1pWYW53R1lLVS0yWkNDeEhOU2FNMHNrSFHSAYcCQVVfeXFMTnZDWFR0TUxvb09aWVVfUDl1TmpIMGpmTG9ZOElYLXB3VHRhaDctTm9mcFlFNnBjclhMaGhSYXo4Rno0S0xvQnNGeFRvOTFYSTZSbHc0ajZJMEFEQnZwckJmc0R3cXVLNGFXckV4T3l1ZzdMWnBRNTlXTUUtT29kRWNSZHlaaUN3UFZ2YU5ZaHNEMDZYTDVYdF9pVE14Zm5oTW51cFltNjQyNWYyODVya211aGY4ZXh0ZVctVFBTQ08wQ2pfZnVFd3VUYkpCZEVHRUcwaGhacE9sY0syNFM5SUFIVkFLTzZzb01HOTZXTjVyRjdrU09VZHBOUTJFZEJJQnhIZDNBRFU?oc=5) - _Livemint, 24 Nov 2026, 05:27 PM IST_
 
 </details>
 
@@ -340,6 +339,7 @@ _Research report coming soon._
 
 <details><summary><b>Latest news (trusted publishers + official company newsroom)</b></summary>
 
+- [Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History](https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-27-nov-2026/liveblog/136209083.cms) - _Economic Times, 27 Nov 2026, 10:03 AM IST_
 - [Reliance enters India's growing digital astrology market with JioAstro](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXBJU3J0OEJKY2dMcnJtZU1hSnNUbmt1Y3I3LUtTbHBkSC1PNkxDbUM3OFFlVU9ieWJzeFg5bHJ6ME5ZbWpWYVZFVEJfUm1Uakh4QW55VjRjWG1nZGczM1pDQXBFRFlucWtYYmNyakFER25EMkJKdHlwQWoySlV4ZkdQQi1qc2x6d0lJOXJKR1czU1dtZGRSVkhYb2Z1TVFPbEtRSlk1clZSR3c3Mmp0czdGVElhcnJLbTYwYTFCN0VzQnhkTV9NYnhoT1ZVLW9oSGk0UXR30gHbAUFVX3lxTE53Mzl6aU95cEZ1X1ZZWmEyRE9IQzlDLVVPYktGcW1iM19HZDZQdzVLajhHbTFJOG1sTzBiX1ZzT3NUUGRxMU9DSFVES2hjSWJuMWtNX2IwM2Z3VUhheGdaM09US3dNMks4NTAyUFdDelNXOEJmNXhLVVVwN21yMmd0dHROc1lWN3RyYmxpQlZGRDZxZDczV1hYUmh3S1Z6SzJ6SllCVXlGOWlzdTl1MEgxVVVqdkFaTVRpbTJnclVRR2FXemlFcFNON0ZxaWtfX0dWOEJEU1FOc2hrbw?oc=5) - _Business Standard, 26 Nov 2026, 11:15 AM IST_
 - [Jio Financial Services vs Reliance vs Jio Platforms shares: Which Mukesh Ambani's stock to buy amid Dalal Street rally?](https://news.google.com/rss/articles/CBMilAJBVV95cUxNMThQczI3WlYyOWpfaXZ2MXZJM2M0Ml9RQUtCM3U3U3F4RFNWQnhnLUJURnJSQmpQZmVHS2xBdFRyN3VBRW5IZnVpUXpzLVJwWXZBLTkwaEVrN0JKWFlDSldvNm5BNXQ0SkJrc01MckZlMDBoWE9xbHNGVEFzOXFlZE9WbE03VVpiTXB3U0hjMndleWtQVHg3c0oteUlxOXA1LVBmZ1IwY0tmZDBad2tnR3RaRzJ0bFlsdGNiVWh1aUl2NGZSSzNNWndLT3Y5Y1ptUWNBQjRpSGhmV3F0NDd5SGdMTFRtVDNjNEg2ZEFBVlBZOFIwTTBOaGRXWmk2aWFaVF9keWtSZmNuSjhWS29icjR4elnSAZoCQVVfeXFMTWVrNWhPU3ZMa01lZEFlZ3J5SjNIaERSbHNrUU56TnN1R2dZT0lhZTg1VGc1OHZOMUxXa2F4NWR1bzMzbFVwQWx1VHQ3STIxRUFXMVI2V19XTUNCY0FwMDB6M3BDbGNwdU9URnhyNEFIVzR2MWtXS0lKZ0VlWmtCNHhrVWN0VjYtN3JyNHplX0JGd2M1NDA1dnFKNXBKUndoT2JIZTVqRkJwRzhJUFlkbE1EX3dyNFZLQS1od1kzd2M5VWtKcXBrZWkxeG11MzJORVdhS25JRDZrWXRCLXVtak5GWjRScndFX01CaE16X3ZMaml4R3pTWlFYMkdhSmdHcmM2a3pXNHJJZG1UNWdUbXRpTlF4Y0syYlln?oc=5) - _Livemint, 25 Nov 2026, 01:09 PM IST_
 
